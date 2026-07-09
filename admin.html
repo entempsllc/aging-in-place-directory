@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Aging Gracefully</title>
+<meta name="robots" content="noindex, nofollow">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  .panel { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; margin-bottom: 22px; }
+  .panel label { display:block; font-weight:700; margin: 12px 0 4px; }
+  .panel input, .panel select { width:100%; padding:12px; font-size:1rem; border:1px solid var(--line); border-radius:8px; font-family:inherit; }
+  textarea#output { width:100%; min-height:340px; font-family: monospace; font-size:.85rem; padding:14px; border:1px solid var(--line); border-radius:8px; margin-top:14px; }
+  #status { margin-top:12px; font-weight:700; color: var(--pine); white-space:pre-line; }
+  #gate { max-width:420px; margin:80px auto; }
+</style>
+</head>
+<body>
+
+<div id="gate" class="panel">
+  <h2 style="margin-bottom:10px;">Admin access</h2>
+  <label for="pw">Password</label>
+  <input id="pw" type="password" onkeydown="if(event.key==='Enter')checkPw()">
+  <p style="margin-top:16px;"><button class="btn" onclick="checkPw()">Enter</button></p>
+</div>
+
+<div id="app" style="display:none;">
+<header class="site-header"><div class="wrap">
+  <a class="logo" href="index.html"><span class="logo-mark">⌂</span> Aging Gracefully — Admin</a>
+</div></header>
+
+<div class="wrap" style="padding:34px 20px;">
+
+  <div class="panel">
+    <h2>1 · Fetch listings from Google Places</h2>
+    <p style="color:#4B5A52; margin-top:6px;">Runs the standard aging-in-place searches for a city against the Places API (New) and builds a paste-ready block for <code>listings-data.js</code>. Your key is used directly from your browser and never stored.</p>
+    <label for="apikey">Google Places API key</label>
+    <input id="apikey" type="password" placeholder="AIza...">
+    <label for="cityselect">City</label>
+    <select id="cityselect">
+      <option value="anna-tx|Anna, TX">Anna, TX</option>
+      <option value="melissa-tx|Melissa, TX">Melissa, TX</option>
+      <option value="fate-tx|Fate, TX">Fate, TX</option>
+      <option value="rockwall-tx|Rockwall, TX">Rockwall, TX</option>
+      <option value="mckinney-tx|McKinney, TX">McKinney, TX</option>
+      <option value="frisco-tx|Frisco, TX">Frisco, TX</option>
+      <option value="fulshear-tx|Fulshear, TX">Fulshear, TX</option>
+      <option value="katy-tx|Katy, TX">Katy, TX</option>
+      <option value="leland-nc|Leland, NC">Leland, NC</option>
+      <option value="wilmington-nc|Wilmington, NC">Wilmington, NC</option>
+      <option value="new-york-ny|New York, NY">New York, NY</option>
+      <option value="los-angeles-ca|Los Angeles, CA">Los Angeles, CA</option>
+      <option value="chicago-il|Chicago, IL">Chicago, IL</option>
+      <option value="houston-tx|Houston, TX">Houston, TX</option>
+      <option value="phoenix-az|Phoenix, AZ">Phoenix, AZ</option>
+      <option value="philadelphia-pa|Philadelphia, PA">Philadelphia, PA</option>
+      <option value="san-antonio-tx|San Antonio, TX">San Antonio, TX</option>
+      <option value="san-diego-ca|San Diego, CA">San Diego, CA</option>
+      <option value="dallas-tx|Dallas, TX">Dallas, TX</option>
+      <option value="jacksonville-fl|Jacksonville, FL">Jacksonville, FL</option>
+      <option value="fort-worth-tx|Fort Worth, TX">Fort Worth, TX</option>
+      <option value="columbus-oh|Columbus, OH">Columbus, OH</option>
+      <option value="charlotte-nc|Charlotte, NC">Charlotte, NC</option>
+      <option value="indianapolis-in|Indianapolis, IN">Indianapolis, IN</option>
+      <option value="san-francisco-ca|San Francisco, CA">San Francisco, CA</option>
+      <option value="austin-tx|Austin, TX">Austin, TX</option>
+      <option value="seattle-wa|Seattle, WA">Seattle, WA</option>
+      <option value="denver-co|Denver, CO">Denver, CO</option>
+      <option value="oklahoma-city-ok|Oklahoma City, OK">Oklahoma City, OK</option>
+      <option value="nashville-tn|Nashville, TN">Nashville, TN</option>
+      <option value="washington-dc|Washington, DC">Washington, DC</option>
+      <option value="el-paso-tx|El Paso, TX">El Paso, TX</option>
+      <option value="las-vegas-nv|Las Vegas, NV">Las Vegas, NV</option>
+      <option value="boston-ma|Boston, MA">Boston, MA</option>
+      <option value="san-jose-ca|San Jose, CA">San Jose, CA</option>
+    </select>
+    <p style="margin-top:18px;"><button class="btn" onclick="fetchCity()">Fetch listings</button></p>
+    <div id="status"></div>
+  </div>
+
+  <div class="panel">
+    <h2>2 · Paste into listings-data.js</h2>
+    <p style="color:#4B5A52; margin-top:6px;">Replace the matching city's empty array (e.g. <code>"anna-tx": []</code>) with the block below, then commit and push.</p>
+    <textarea id="output" placeholder="Fetched listings will appear here..."></textarea>
+    <p style="margin-top:12px;"><button class="btn btn-outline" onclick="copyOut()">Copy to clipboard</button></p>
+  </div>
+
+  <div class="panel">
+    <h2>Notes</h2>
+    <ul style="margin-left:20px; color:#4B5A52;">
+      <li>Uses Places API (New) Text Search — enable "Places API (New)" in Google Cloud Console and allow your domain (and localhost/file origins while testing) in key restrictions.</li>
+      <li>Results are de-duplicated across searches; a business matching several searches gets multiple category tags.</li>
+      <li>Cost guardrail: each city fetch makes 11 requests (5 home-modification + 6 care/transport/social/legal searches). All 35 cities ≈ 385 requests, still comfortably inside the free monthly credit.</li>
+      <li>Review results before committing — drop anything that clearly isn't a real service provider.</li>
+    </ul>
+  </div>
+
+</div>
+</div>
+
+<script>
+/* --- simple gate (matches your other directory admin pattern) ---
+   Default password: aip2026! — change the hash below.
+   To make a new hash, run in browser console:
+   crypto.subtle.digest('SHA-256', new TextEncoder().encode('yourpassword')).then(b=>console.log([...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join(''))) */
+// SHA-256 hash of the admin password. Default password: aip2026!
+// To change it, hash your new password (instructions above) and replace PW_HASH.
+const PW_HASH = "836646a391205aefe9c2d93226e12192899477c982d7488d901d8844db6b7a11";
+async function sha256(str){
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return [...new Uint8Array(buf)].map(x=>x.toString(16).padStart(2,'0')).join('');
+}
+async function checkPw(){
+  const h = await sha256(document.getElementById('pw').value);
+  if(h === PW_HASH){
+    document.getElementById('gate').style.display='none';
+    document.getElementById('app').style.display='block';
+  } else {
+    alert('Incorrect password.');
+  }
+}
+
+/* --- Places API (New) fetch tool --- */
+const SEARCHES = [
+  { q: "grab bar installation",          cats: ["bathroom"] },
+  { q: "walk-in tub installer",          cats: ["tubs"] },
+  { q: "stairlift installation",         cats: ["stairs"] },
+  { q: "wheelchair ramp installation",   cats: ["stairs"] },
+  { q: "aging in place remodeling",      cats: ["remodel"] },
+  { q: "home health care agency",        cats: ["homecare"] },
+  { q: "senior home care services",      cats: ["homecare"] },
+  { q: "senior transportation service",  cats: ["transport"] },
+  { q: "senior center",                  cats: ["social"] },
+  { q: "adult day care center",          cats: ["social"] },
+  { q: "elder law attorney",             cats: ["legal"] }
+];
+
+async function fetchCity(){
+  const key = document.getElementById('apikey').value.trim();
+  const [slug, cityLabel] = document.getElementById('cityselect').value.split('|');
+  const status = document.getElementById('status');
+  if(!key){ status.textContent = "Enter your API key first."; return; }
+
+  status.textContent = "Fetching " + cityLabel + "...";
+  const byId = {};
+
+  for (const s of SEARCHES){
+    status.textContent = "Searching: \"" + s.q + " " + cityLabel + "\"...";
+    try {
+      const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Goog-Api-Key": key,
+          "X-Goog-FieldMask": "places.id,places.displayName,places.formattedAddress,places.nationalPhoneNumber,places.websiteUri,places.rating,places.userRatingCount"
+        },
+        body: JSON.stringify({ textQuery: s.q + " " + cityLabel, maxResultCount: 10 })
+      });
+      const data = await res.json();
+      if (data.error){ status.textContent = "API error: " + data.error.message; return; }
+      (data.places || []).forEach(p => {
+        if (!byId[p.id]) {
+          byId[p.id] = {
+            name: p.displayName?.text || "Unknown",
+            address: p.formattedAddress || "",
+            phone: p.nationalPhoneNumber || "",
+            website: p.websiteUri || "",
+            rating: p.rating || null,
+            reviews: p.userRatingCount || null,
+            cats: []
+          };
+        }
+        s.cats.forEach(c => {
+          if (!byId[p.id].cats.includes(c)) byId[p.id].cats.push(c);
+        });
+      });
+    } catch(e){
+      status.textContent = "Network error: " + e.message + "\nCheck key restrictions / CORS in Google Cloud Console.";
+      return;
+    }
+  }
+
+  const items = Object.values(byId);
+  const block = '"' + slug + '": ' + JSON.stringify(items, null, 2).replace(/^/gm, '  ').trim() + ',';
+  document.getElementById('output').value = block;
+  status.textContent = "Done — " + items.length + " unique businesses found for " + cityLabel + ". Review, then paste into listings-data.js.";
+}
+
+function copyOut(){
+  const t = document.getElementById('output');
+  t.select();
+  document.execCommand('copy');
+}
+</script>
+</body>
+</html>
