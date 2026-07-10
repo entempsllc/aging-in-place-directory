@@ -21143,7 +21143,944 @@ const LISTINGS = {
       ]
     }
   ],
-  "seattle-wa": [],
+  "seattle-wa": [
+    {
+      "name": "Seattle Bathroom Bathroom Remodeling Experts",
+      "address": "11 Vine St, Seattle, WA 98121, USA",
+      "phone": "(206) 801-8059",
+      "website": "",
+      "rating": 5,
+      "reviews": 6,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Handyman Rescue Team",
+      "address": "600 1st Ave, Seattle, WA 98104, USA",
+      "phone": "(206) 736-3060",
+      "website": "https://handymanrescue.team/",
+      "rating": 4.7,
+      "reviews": 43,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Seattle Bathtub Guy",
+      "address": "4742 42nd Ave SW, Seattle, WA 98116, USA",
+      "phone": "(206) 498-6147",
+      "website": "https://seattlebathtubguy.com/",
+      "rating": 4.9,
+      "reviews": 53,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "Second Use Building Materials",
+      "address": "3223 6th Ave S, Seattle, WA 98134, USA",
+      "phone": "(206) 763-6929",
+      "website": "http://www.seconduse.com/",
+      "rating": 4.6,
+      "reviews": 813,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Chown Hardware Seattle",
+      "address": "2920 1st Ave S, Seattle, WA 98134, USA",
+      "phone": "(206) 973-1879",
+      "website": "https://www.chown.com/seattle-showroom/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=4544d8c8-10e6-4099-b8d8-e47a2862ab15",
+      "rating": 4.2,
+      "reviews": 10,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "UP:GRADE LLC",
+      "address": "3315 151st St SW, Lynnwood, WA 98087, USA",
+      "phone": "(253) 365-5141",
+      "website": "https://upgrade-enterprise.com/",
+      "rating": 5,
+      "reviews": 15,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "T-Bar Construction, Inc.",
+      "address": "14590 Interurban Ave S b100, Tukwila, WA 98168, USA",
+      "phone": "(206) 682-1186",
+      "website": "http://www.tbarconstruction.com/",
+      "rating": 4.9,
+      "reviews": 10,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "3 Guys Handyman",
+      "address": "1043 S Jackson St Ste 888, Seattle, WA 98104, USA",
+      "phone": "(206) 717-8484",
+      "website": "https://www.cleanpeacela.com/contact",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Jacuzzi Bath Remodel of Seattle",
+      "address": "8330 S 259th St, Kent, WA 98030, USA",
+      "phone": "(206) 231-6534",
+      "website": "https://seattlebaths.com/",
+      "rating": 4.6,
+      "reviews": 788,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Fox Bath",
+      "address": "2120 1st Ave N B-5, Seattle, WA 98109, USA",
+      "phone": "(206) 462-0989",
+      "website": "https://fox-bath.com/",
+      "rating": 5,
+      "reviews": 17,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Five Star Bath Solutions Northwest",
+      "address": "Door E, 15300 Woodinville Redmond Rd NE Unit I6, Woodinville, WA 98072, USA",
+      "phone": "(253) 528-4496",
+      "website": "https://fivestarbathsolutionsnorthwest.com/",
+      "rating": 4.9,
+      "reviews": 309,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Seattle Baths",
+      "address": "4172 148th Ave NE, Redmond, WA 98052, USA",
+      "phone": "(425) 345-5194",
+      "website": "https://www.seattlebathremodels.com/",
+      "rating": 4.9,
+      "reviews": 35,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Cardinal Baths",
+      "address": "641 Strander Blvd, Tukwila, WA 98188, USA",
+      "phone": "(253) 321-5757",
+      "website": "https://cardinalbaths.com/",
+      "rating": 5,
+      "reviews": 94,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Seattle Walk In Tubs",
+      "address": "8519 12th Ave NW, Seattle, WA 98117, USA",
+      "phone": "(206) 895-7713",
+      "website": "https://seattlewalkintub.com/",
+      "rating": 1,
+      "reviews": 1,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Renuity Bath of Seattle",
+      "address": "7859 S 180th St, Kent, WA 98032, USA",
+      "phone": "(425) 845-5171",
+      "website": "https://renuityhome.com/washington/bathroom-remodeling-in-seattle-wa/?utm_source=gmb&utm_medium=Yext&y_source=1_NjY1MDE5MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 4.7,
+      "reviews": 512,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Re-Bath",
+      "address": "11615 NE 116th St Ste 4, Kirkland, WA 98033, USA",
+      "phone": "(425) 842-1552",
+      "website": "https://www.rebath.com/location/seattle/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.9,
+      "reviews": 156,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Oasis Bath Solutions",
+      "address": "16301 NE 8th St Ste 240, Bellevue, WA 98008, USA",
+      "phone": "(206) 972-1479",
+      "website": "https://www.oasisbathsolutions.com/service-area/bellevue-bathroom-remodeling",
+      "rating": 4.9,
+      "reviews": 76,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Kraus Stair Lifts Group",
+      "address": "2367 Tacoma Ave S Ste 109, Tacoma, WA 98402, USA",
+      "phone": "(253) 400-3348",
+      "website": "https://www.krausstairlifts.com/",
+      "rating": 3.7,
+      "reviews": 6,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "United Access",
+      "address": "12312 134th Ct NE, Redmond, WA 98052, USA",
+      "phone": "(425) 406-8484",
+      "website": "https://www.unitedaccess.com/us/en/locations/redmond-wa.html",
+      "rating": 4.7,
+      "reviews": 43,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "MobilityWorks",
+      "address": "21704 87th Ave SE, Woodinville, WA 98072, USA",
+      "phone": "(425) 880-5063",
+      "website": "https://www.mobilityworks.com/locations/wheelchair-vans-for-sale-in-woodinville-washington/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=woodinville",
+      "rating": 4.4,
+      "reviews": 65,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Wheels For Feet",
+      "address": "1700 Westlake Ave N #200, Seattle, WA 98109, USA",
+      "phone": "(425) 256-3007",
+      "website": "http://www.wheelsforfeet.com/locations/seattle.html",
+      "rating": 4.6,
+      "reviews": 27,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Access Medical Equipment Renton",
+      "address": "4300 Talbot Rd S #106, Renton, WA 98055, USA",
+      "phone": "(425) 517-0973",
+      "website": "http://www.accessmedicalequipment.com/",
+      "rating": 4.5,
+      "reviews": 28,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Numotion",
+      "address": "11620 Airport Rd, Everett, WA 98204, USA",
+      "phone": "(206) 204-3330",
+      "website": "https://www.numotion.com/locations/seattle-wa",
+      "rating": 4.5,
+      "reviews": 540,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Access Medical Equipment",
+      "address": "12730 28th Ave NE, Seattle, WA 98125, USA",
+      "phone": "(206) 208-5850",
+      "website": "http://www.accessmedicalequipment.com/",
+      "rating": 4.5,
+      "reviews": 79,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Aging-In-Place Remodeling",
+      "address": "620 Venture St D, Escondido, CA 92029, USA",
+      "phone": "(858) 776-8700",
+      "website": "http://aipremodeling.com/",
+      "rating": 4.4,
+      "reviews": 18,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Better Place Design & Build",
+      "address": "4655 Cass St, San Diego, CA 92109, USA",
+      "phone": "(858) 355-9766",
+      "website": "https://www.betterplacedesignbuild.com/",
+      "rating": 4.6,
+      "reviews": 33,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Irons Brothers Construction, Inc.",
+      "address": "14926 Aurora Ave N, Shoreline, WA 98133, USA",
+      "phone": "(206) 306-7767",
+      "website": "http://www.ironsbc.com/",
+      "rating": 4.7,
+      "reviews": 25,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Oleg & Sons Bellevue Home Remodeling",
+      "address": "14205 SE 36th St Suite 100, Bellevue, WA 98006, USA",
+      "phone": "(425) 275-7945",
+      "website": "https://www.olegsonsremodeling.com/",
+      "rating": 5,
+      "reviews": 46,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Topaz Remodeling Inc",
+      "address": "1205 N 10th Pl Apt 2314, Renton, WA 98057, USA",
+      "phone": "(206) 476-5993",
+      "website": "https://topaz-remodeling.com/",
+      "rating": 5,
+      "reviews": 103,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Puzzle Remodeling - Bathroom, Living, Kitchen",
+      "address": "228 Dexter Ave N, Seattle, WA 98109, USA",
+      "phone": "(206) 701-6581",
+      "website": "https://puzzleremodeling.com/",
+      "rating": 4.8,
+      "reviews": 39,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Only Kitchens and Baths",
+      "address": "9406 17th Ave NE, Seattle, WA 98115, USA",
+      "phone": "(360) 361-8666",
+      "website": "https://www.onlykitchensandbath.com/",
+      "rating": 5,
+      "reviews": 12,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "IDA Design & Build Contractor",
+      "address": "20140 84th Pl NE, Bothell, WA 98011, USA",
+      "phone": "(425) 598-9820",
+      "website": "https://idabuilds.com/",
+      "rating": 5,
+      "reviews": 34,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Renewal Remodels & Additions - Mercer Island and Bellevue Remodeler",
+      "address": "3010 77th Ave SE Unit 207, Mercer Island, WA 98040, USA",
+      "phone": "(425) 503-2388",
+      "website": "https://remodelingbyrenewal.com/mercer-island/",
+      "rating": 5,
+      "reviews": 13,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Puzzle Construction Group",
+      "address": "1511 3rd Ave, Seattle, WA 98101, USA",
+      "phone": "(206) 888-4880",
+      "website": "https://puzzleconstructiongroup.com/",
+      "rating": 4.9,
+      "reviews": 39,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "A Kind Heart Healthcare Services Seattle",
+      "address": "600 Stewart St Ste 400, Seattle, WA 98101, USA",
+      "phone": "(206) 466-3463",
+      "website": "https://akindheart.info/seattle-wa/",
+      "rating": 5,
+      "reviews": 18,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Instead of Seattle",
+      "address": "3221 Eastlake Ave E Ste 110, Seattle, WA 98102, USA",
+      "phone": "(206) 622-4663",
+      "website": "https://www.homeinstead.com/home-care/usa/wa/seattle/418/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
+      "rating": 4.9,
+      "reviews": 66,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Silver Pacific Home Care & Staffing",
+      "address": "600 Stewart St Ste 400, Seattle, WA 98101, USA",
+      "phone": "(866) 414-3416",
+      "website": "https://www.silverpacifichomecare.com/",
+      "rating": 5,
+      "reviews": 20,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Always Best Care Senior Services - Home Care Services in Seattle",
+      "address": "2915 E Madison St #304, Seattle, WA 98112, USA",
+      "phone": "(206) 922-3795",
+      "website": "https://alwaysbestcare.com/seattle/",
+      "rating": 5,
+      "reviews": 33,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Healthcare Seattle",
+      "address": "4055 Lake Washington Blvd NE #100, Kirkland, WA 98033, USA",
+      "phone": "(206) 312-1886",
+      "website": "https://homehealthcareseattle.com/?utm_campaign=gmb",
+      "rating": 5,
+      "reviews": 8,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Alleva Home Care",
+      "address": "2201 3rd Ave, Seattle, WA 98121, USA",
+      "phone": "(206) 456-2273",
+      "website": "https://www.allevahomecare.com/",
+      "rating": 5,
+      "reviews": 19,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Fedelta Home Care - Seattle",
+      "address": "9725 3rd Ave NE Ste 301, Seattle, WA 98115, USA",
+      "phone": "(206) 681-1464",
+      "website": "https://fedeltahomecare.com/?utm_source=google&utm_medium=organic&utm_campaign=northgate-gbp",
+      "rating": 4.7,
+      "reviews": 72,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "TheKey - Senior Home Care",
+      "address": "150 Nickerson St Ste 106, Seattle, WA 98109, USA",
+      "phone": "(206) 208-8849",
+      "website": "https://thekey.com/puget-sound?utm_source=gmb&utm_medium=Yext",
+      "rating": 4.8,
+      "reviews": 59,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Right at Home",
+      "address": "11222 Roosevelt Way NE, Seattle, WA 98125, USA",
+      "phone": "(206) 774-1100",
+      "website": "https://www.rightathome.net/seattle-eastside/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1070",
+      "rating": 4.5,
+      "reviews": 67,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "A Kind Heart Healthcare Services",
+      "address": "22617 76th Ave W Ste 206, Edmonds, WA 98026, USA",
+      "phone": "(206) 222-6561",
+      "website": "https://akindheart.info/edmonds-wa/",
+      "rating": 4.9,
+      "reviews": 101,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Visiting Angels Senior Home Care",
+      "address": "1455 NW Leary Wy Suite 400, Seattle, WA 98107, USA",
+      "phone": "(206) 258-3680",
+      "website": "https://www.visitingangels.com/seattlewa/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Visiting Angels Senior Home Care Seattle",
+      "address": "1420 5th Ave #2200A, Seattle, WA 98101, USA",
+      "phone": "(206) 439-2458",
+      "website": "https://www.visitingangels.com/seattle/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "rating": 3.7,
+      "reviews": 3,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "HomeWell Senior Care",
+      "address": "14419 Greenwood Ave N, Seattle, WA 98133, USA",
+      "phone": "(425) 541-1085",
+      "website": "https://homewellcares.com/in-home-care-wa-seattle-wa118/",
+      "rating": 5,
+      "reviews": 14,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Instead",
+      "address": "10202 5th Ave NE, Seattle, WA 98125, USA",
+      "phone": "(206) 825-6956",
+      "website": "https://www.homeinstead.com/home-care/usa/wa/seattle/133/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
+      "rating": 5,
+      "reviews": 4,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Volunteer Transportation Service (VTS) - Seattle",
+      "address": "620 S Spokane St, Seattle, WA 98134, USA",
+      "phone": "(206) 448-5740",
+      "website": "https://soundgenerations.org/our-programs/transportation/volunteer-transportation/",
+      "rating": 5,
+      "reviews": 4,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Hyde Shuttles",
+      "address": "620 S Spokane St, Seattle, WA 98134, USA",
+      "phone": "(206) 727-6262",
+      "website": "http://www.soundgenerations.org/our-programs/transportation/hyde-shuttle/",
+      "rating": 3.4,
+      "reviews": 12,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "New Transport Cabulance for Disabled",
+      "address": "16030 WA-527, Mill Creek, WA 98012, USA",
+      "phone": "(425) 741-7474",
+      "website": "https://www.newtransportcab.com/",
+      "rating": 4.9,
+      "reviews": 13,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Beyond Ride",
+      "address": "9030 35th Ave SW Ste 100, Seattle, WA 98126, USA",
+      "phone": "(360) 300-2424",
+      "website": "https://beyondride.com/",
+      "rating": 4.8,
+      "reviews": 17,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Sound Generations",
+      "address": "2208 2nd Ave Ste 100, Seattle, WA 98121, USA",
+      "phone": "(206) 448-3110",
+      "website": "https://www.soundgenerations.org/",
+      "rating": 3.9,
+      "reviews": 40,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Cloud Comfort Ride",
+      "address": "1902 E Yesler Wy Unit 4, Seattle, WA 98122, USA",
+      "phone": "(206) 327-4411",
+      "website": "http://www.cloudmedicaltrans.com/",
+      "rating": 4.9,
+      "reviews": 29,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Care Route Medical Transportation",
+      "address": "4055 Lake Washington Blvd NE #100, Kirkland, WA 98033, USA",
+      "phone": "(425) 250-9898",
+      "website": "https://careroute.net/",
+      "rating": 4.8,
+      "reviews": 40,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Central Area Senior Center",
+      "address": "500 30th Ave S, Seattle, WA 98144, USA",
+      "phone": "(206) 726-4926",
+      "website": "https://casrcenter.org/",
+      "rating": 4.7,
+      "reviews": 79,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Southeast Seattle Senior Center",
+      "address": "4655 S Holly St, Seattle, WA 98118, USA",
+      "phone": "(206) 722-0317",
+      "website": "http://www.sessc.org/",
+      "rating": 4.7,
+      "reviews": 29,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Greenwood Senior Center",
+      "address": "525 N 85th St, Seattle, WA 98103, USA",
+      "phone": "(206) 297-0875",
+      "website": "https://www.phinneycenter.org/gsc/",
+      "rating": 4.5,
+      "reviews": 104,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Pike Market Senior Center",
+      "address": "85 Pike St #200, Seattle, WA 98101, USA",
+      "phone": "(206) 728-2773",
+      "website": "http://www.pmsc-fb.org/",
+      "rating": 4.6,
+      "reviews": 68,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "The Center for Active Living",
+      "address": "4217 SW Oregon St, Seattle, WA 98116, USA",
+      "phone": "(206) 932-4044",
+      "website": "http://wscenter.org/",
+      "rating": 4.8,
+      "reviews": 99,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Ballard NW Senior Center",
+      "address": "5429 32nd Ave NW, Seattle, WA 98107, USA",
+      "phone": "(206) 297-0403",
+      "website": "http://www.ballardseniorcenter.org/",
+      "rating": 4.6,
+      "reviews": 68,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Wallingford Community Senior Center",
+      "address": "4649 Sunnyside Ave N #140, Seattle, WA 98103, USA",
+      "phone": "(206) 461-7825",
+      "website": "http://www.wallingfordseniors.org/",
+      "rating": 4.8,
+      "reviews": 22,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Lake City Seniors",
+      "address": "12509 27th Ave NE, Seattle, WA 98125, USA",
+      "phone": "(206) 268-6740",
+      "website": "https://lakecityseniors.org/",
+      "rating": 4.4,
+      "reviews": 7,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "South Park Senior Center",
+      "address": "8201 10th Ave S #4, Seattle, WA 98108, USA",
+      "phone": "(206) 767-2544",
+      "website": "http://spseniors.org/",
+      "rating": 4.7,
+      "reviews": 27,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Shoreline Lake Forest Park Senior Center",
+      "address": "18560 1st Ave NE Bldg G, Shoreline, WA 98155, USA",
+      "phone": "(206) 365-1536",
+      "website": "http://shorelineseniorcenter.org/",
+      "rating": 4.6,
+      "reviews": 108,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "SeaTac Adult Daycare Home",
+      "address": "14244 29th Ave S, SeaTac, WA 98168, USA",
+      "phone": "(206) 809-2880",
+      "website": "https://www.joyseatac.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "1st faith adult family home",
+      "address": "16626 23rd Ave SE, Bothell, WA 98012, USA",
+      "phone": "(425) 217-9814",
+      "website": "https://1stfaithcare.com/",
+      "rating": 5,
+      "reviews": 5,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Full Life Care North Seattle",
+      "address": "6555 Ravenna Ave NE, Seattle, WA 98115, USA",
+      "phone": "(206) 829-1715",
+      "website": "http://www.fulllifecare.org/",
+      "rating": 4.1,
+      "reviews": 12,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Elderwise",
+      "address": "1021 Columbia St, Seattle, WA 98104, USA",
+      "phone": "(206) 913-1757",
+      "website": "http://www.elderwise.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Day View - Adult family home and Senior Care",
+      "address": "2111 Shattuck Pl S, Renton, WA 98055, USA",
+      "phone": "(425) 736-4683",
+      "website": "http://seniorcare-wa.com/",
+      "rating": 5,
+      "reviews": 7,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Valley Care Adult Family Home",
+      "address": "8213 S 116th St, Seattle, WA 98178, USA",
+      "phone": "(425) 802-6812",
+      "website": "http://valleycareafh.com/",
+      "rating": 5,
+      "reviews": 6,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Elder & Adult Day Services",
+      "address": "9723 Coppertop Loop NE, Bainbridge Island, WA 98110, USA",
+      "phone": "(360) 377-9810",
+      "website": "http://www.eads-cares.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Salem Adult Family home",
+      "address": "14319 20th Ave NE, Seattle, WA 98125, USA",
+      "phone": "(206) 566-6126",
+      "website": "http://salemafh.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Northshore Health & Wellness Center",
+      "address": "10212 E Riverside Dr, Bothell, WA 98011, USA",
+      "phone": "(425) 488-4821",
+      "website": "https://www.northshoreseniorcenter.org/adult-day-health-health-wellness-center-monthly-message/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Adult Care Solutions",
+      "address": "934 6th St South Ste 201, Kirkland, WA 98033, USA",
+      "phone": "(425) 941-5163",
+      "website": "https://adultcaresolutions.net/",
+      "rating": 5,
+      "reviews": 35,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Northwest Elder Law Group PLLC",
+      "address": "2150 N 107th St #501, Seattle, WA 98133, USA",
+      "phone": "(206) 937-6102",
+      "website": "http://www.nwelderlaw.com/",
+      "rating": 4.7,
+      "reviews": 105,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Salish Elder Law",
+      "address": "51 W Dayton St #204, Edmonds, WA 98020, USA",
+      "phone": "(425) 492-7212",
+      "website": "https://salishelderlaw.com/",
+      "rating": 5,
+      "reviews": 46,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Washington Elder Law, PLLC",
+      "address": "114 2nd Ave S #103, Edmonds, WA 98020, USA",
+      "phone": "(206) 448-1011",
+      "website": "https://washingtonelderlaw.net/",
+      "rating": 5,
+      "reviews": 3,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Brothers Henderson Durkin, P.S.",
+      "address": "936 N 34th St #200, Seattle, WA 98103, USA",
+      "phone": "(206) 324-4300",
+      "website": "https://www.bhdlaw.com/",
+      "rating": 4.5,
+      "reviews": 16,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "ELG Estate Planning",
+      "address": "9725 3rd Ave NE, Seattle, WA 98115, USA",
+      "phone": "(206) 222-6550",
+      "website": "https://elgwa.com/",
+      "rating": 5,
+      "reviews": 17,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Peggy L. Sanders, Attorney at Law PLLC, Sanders Elder Law",
+      "address": "51 W Dayton St, Edmonds, WA 98020, USA",
+      "phone": "(425) 640-8686",
+      "website": "http://sanderselderlaw.net/",
+      "rating": 4,
+      "reviews": 9,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Stacey Romberg, Attorney at Law",
+      "address": "10115 Greenwood Ave N PMB #275, Seattle, WA 98133, USA",
+      "phone": "(206) 784-5305",
+      "website": "https://staceyromberg.com/",
+      "rating": 4.8,
+      "reviews": 112,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "de Vrieze | Carney PLLC",
+      "address": "3909 California Ave SW, Seattle, WA 98116, USA",
+      "phone": "(206) 938-5500",
+      "website": "http://www.westseattlelaw.com/",
+      "rating": 4.9,
+      "reviews": 16,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Law Offices of Julianne Kocer",
+      "address": "301 NE 100th St #310, Seattle, WA 98125, USA",
+      "phone": "(206) 259-2092",
+      "website": "http://www.kocerlaw.com/",
+      "rating": 3.7,
+      "reviews": 3,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Elder Law Offices of Lisa Saar, PLLC Bellingham/Seattle, Washington",
+      "address": "5355 Tallman Ave NW Ste 202, Seattle, WA 98107, USA",
+      "phone": "(206) 687-7443",
+      "website": "http://www.lsaarlaw.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "legal"
+      ]
+    }
+  ],
   "denver-co": [],
   "oklahoma-city-ok": [],
   "nashville-tn": [],
