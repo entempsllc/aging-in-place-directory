@@ -26893,7 +26893,1035 @@ const LISTINGS = {
       ]
     }
   ],
-  "las-vegas-nv": [],
+  "las-vegas-nv": [
+    {
+      "name": "ADA Grab Bars LLC",
+      "address": "3685 S Highland Dr Unit 14, Las Vegas, NV 89103, USA",
+      "phone": "(702) 588-9376",
+      "website": "http://adagrabbarslv.com/",
+      "rating": 5,
+      "reviews": 3,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Adan Handyman Services",
+      "address": "5204 Sugar Foot Ave, Las Vegas, NV 89107, USA",
+      "phone": "(702) 324-7635",
+      "website": "https://adanhandymanservices.com/",
+      "rating": 4.9,
+      "reviews": 185,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "GI Construction",
+      "address": "410 S Rampart Blvd Suit 390, Las Vegas, NV 89145, USA",
+      "phone": "(702) 508-1188",
+      "website": "https://www.giclv.com/",
+      "rating": 5,
+      "reviews": 142,
+      "cats": [
+        "bathroom",
+        "remodel"
+      ]
+    },
+    {
+      "name": "Ace Handyman Services Las Vegas West",
+      "address": "1180 N Town Center Dr #100, Las Vegas, NV 89144, USA",
+      "phone": "(702) 213-4011",
+      "website": "https://www.acehandymanservices.com/offices/las-vegas-west?utm_source=google&utm_medium=gmb&utm_campaign=Google%20Business%20Profile%20(GBP)%20-%20Las%20Vegas%20West",
+      "rating": 4.9,
+      "reviews": 324,
+      "cats": [
+        "bathroom",
+        "remodel"
+      ]
+    },
+    {
+      "name": "Big Horn Remodeling",
+      "address": "2620 Regatta Dr Suite #102, Las Vegas, NV 89128, USA",
+      "phone": "(702) 799-9902",
+      "website": "https://bighornremodeling.com/",
+      "rating": 5,
+      "reviews": 216,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "LIA Construction",
+      "address": "4330 W Tompkins Ave, Las Vegas, NV 89103, USA",
+      "phone": "(702) 650-0445",
+      "website": "https://liaconstructionlv.com/",
+      "rating": 4.5,
+      "reviews": 58,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Getz Handyman Las Vegas",
+      "address": "4008 N Roxanne Rd, Las Vegas, NV 89108, USA",
+      "phone": "(702) 497-8423",
+      "website": "https://getzhandyman.com/",
+      "rating": 4.8,
+      "reviews": 166,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Hearth & Home Specialties LLC",
+      "address": "3555 W Quail Ave STE A, Las Vegas, NV 89118, USA",
+      "phone": "(702) 474-4099",
+      "website": "https://www.hnhsi-inc.com/",
+      "rating": 4.4,
+      "reviews": 56,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Grani Installation Inc",
+      "address": "5165 S Valley View Blvd, Las Vegas, NV 89118, USA",
+      "phone": "(702) 739-0370",
+      "website": "http://www.grani.biz/",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Top-Notch Installations",
+      "address": "6285 S Mojave Rd Ste F, Las Vegas, NV 89120, USA",
+      "phone": "(702) 586-5055",
+      "website": "http://tninstallations.com/contact-us/",
+      "rating": 4.3,
+      "reviews": 6,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "EZ Bath & Shower",
+      "address": "3863 S Valley View Blvd Ste 22, Las Vegas, NV 89103, USA",
+      "phone": "(702) 604-5223",
+      "website": "http://ezbathandshower.com/",
+      "rating": 4.8,
+      "reviews": 54,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Thompson Bath Remodel",
+      "address": "6478 Windy Rd, Las Vegas, NV 89119, USA",
+      "phone": "(725) 228-5558",
+      "website": "https://www.thompsonbath.com/?utm_source=googlebusinessprofile&utm_medium=organic&promo=gbpnv&region=0002",
+      "rating": 4.8,
+      "reviews": 157,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Renuity Bath of Las Vegas",
+      "address": "7360 Eastgate Rd #100, Henderson, NV 89011, USA",
+      "phone": "(702) 623-0768",
+      "website": "https://renuityhome.com/nevada/bathroom-remodeling-in-las-vegas-nv/?utm_source=gmb&utm_medium=Yext&y_source=1_NjY1MDE5MTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 4.7,
+      "reviews": 199,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Five Star Bath Solutions of Las Vegas",
+      "address": "500 N Rainbow Blvd Ste 300, Office #355, Las Vegas, NV 89107, USA",
+      "phone": "(725) 444-7661",
+      "website": "https://fivestarbathsolutions.com/las-vegas-nv",
+      "rating": 5,
+      "reviews": 44,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "LV Home Service",
+      "address": "6472 Windy Rd A, Las Vegas, NV 89119, USA",
+      "phone": "(702) 972-1888",
+      "website": "https://www.lvhomeservice.com/",
+      "rating": 4.9,
+      "reviews": 185,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Las Vegas Contractor Eco-Pro Construction, Kitchen and Bathroom Remodeling",
+      "address": "5410 Cameron St Ste 106 suite 106, Las Vegas, NV 89118, USA",
+      "phone": "(702) 537-0069",
+      "website": "https://www.ecoproconstructionlv.com/",
+      "rating": 4.9,
+      "reviews": 126,
+      "cats": [
+        "tubs",
+        "remodel"
+      ]
+    },
+    {
+      "name": "Bath Fitter",
+      "address": "6265 South Valley Blvd Ste D, Las Vegas, NV 89118, USA",
+      "phone": "(702) 996-8960",
+      "website": "https://www.bathfitter.com/us-en/location/lasvegas/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-google-seo",
+      "rating": 4.5,
+      "reviews": 72,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Re-Bath",
+      "address": "3655 E Patrick Ln #200, Las Vegas, NV 89120, USA",
+      "phone": "(702) 623-6612",
+      "website": "https://www.rebath.com/location/lasvegas/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.6,
+      "reviews": 262,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Pro Vegas Home Remodel",
+      "address": "8309 Sea Glen Dr, Las Vegas, NV 89128, USA",
+      "phone": "(702) 850-3393",
+      "website": "https://vegashomeremodel.com/",
+      "rating": 5,
+      "reviews": 64,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "101 Mobility of Las Vegas",
+      "address": "3151 W Tompkins Ave, Las Vegas, NV 89103, USA",
+      "phone": "(702) 357-9942",
+      "website": "https://www.101mobility.com/lasvegas/?utm_source=GBP_LasVegas&utm_medium=organic&y_source=1_MTAzMzU5Njk4OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 4.9,
+      "reviews": 67,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Accessibility Services",
+      "address": "3040 W Post Rd, Las Vegas, NV 89118, USA",
+      "phone": "(702) 469-6090",
+      "website": "https://www.accessibilityservices.net/",
+      "rating": 4.6,
+      "reviews": 8,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Affordable Stairlifts",
+      "address": "639 Lofstrand Ln, Rockville, MD 20850, USA",
+      "phone": "(301) 996-1798",
+      "website": "https://www.affordablestairlifts.com/",
+      "rating": 5,
+      "reviews": 18,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "United Access",
+      "address": "6001 S Decatur Blvd Ste N, Las Vegas, NV 89118, USA",
+      "phone": "(702) 434-3030",
+      "website": "https://www.unitedaccess.com/us/en/locations/las-vegas-nv.html",
+      "rating": 4.7,
+      "reviews": 99,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Leaf Home Stair Lift",
+      "address": "7110 Placid St, Las Vegas, NV 89119, USA",
+      "phone": "",
+      "website": "https://www.leafhome.com/stair-lift?y_source=1_MjA2Nzk5MTA4OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "MobilityWorks",
+      "address": "3575 W Cheyenne Ave #105, North Las Vegas, NV 89032, USA",
+      "phone": "(702) 749-4246",
+      "website": "https://www.mobilityworks.com/locations/wheelchair-vans-for-sale-in-las-vegas-nevada?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=las_vegas",
+      "rating": 4.3,
+      "reviews": 71,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Las Vegas Scooters & Lifts",
+      "address": "3340 Pepper Ln #108, Las Vegas, NV 89120, USA",
+      "phone": "(702) 265-2441",
+      "website": "http://www.lasvegasscootersandlifts.com/",
+      "rating": 4.6,
+      "reviews": 60,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Rider Mobility Inc.",
+      "address": "3985 W Cheyenne Ave Ste 306, North Las Vegas, NV 89032, USA",
+      "phone": "(702) 272-0230",
+      "website": "https://ridermobility.com/",
+      "rating": 4.3,
+      "reviews": 21,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Numotion",
+      "address": "7340 W Smoke Ranch Rd, Las Vegas, NV 89128, USA",
+      "phone": "(702) 431-1610",
+      "website": "https://www.numotion.com/locations/las-vegas-nv",
+      "rating": 4.7,
+      "reviews": 200,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Get Around Mobility",
+      "address": "3170 Polaris Ave ste 25, Las Vegas, NV 89102, USA",
+      "phone": "(702) 637-0008",
+      "website": "https://getaroundmobility.com/",
+      "rating": 4.9,
+      "reviews": 479,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Freedom Medical Supply",
+      "address": "8040 S Eastern Ave, Las Vegas, NV 89123, USA",
+      "phone": "(702) 386-9997",
+      "website": "http://www.freedommedicalsupply.com/",
+      "rating": 3.9,
+      "reviews": 55,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "HOME AND HEALTH STORE",
+      "address": "7450 W Cheyenne Ave Suite 104, Las Vegas, NV 89129, USA",
+      "phone": "",
+      "website": "",
+      "rating": 4.2,
+      "reviews": 9,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "J&J Contracting",
+      "address": "8775 S Lindell Rd #100, Las Vegas, NV 89139, USA",
+      "phone": "(702) 333-4888",
+      "website": "https://www.jjcontractingnv.com/",
+      "rating": 4.4,
+      "reviews": 236,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Vegas Remodels LLC",
+      "address": "1620 Raiders Way Ste 130, Henderson, NV 89052, USA",
+      "phone": "(702) 994-7011",
+      "website": "http://vegasremodelsllc.com/",
+      "rating": 4.8,
+      "reviews": 34,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "A-1 Construction & Remodeling LLC",
+      "address": "3129 W Tompkins Ave, Las Vegas, NV 89103, USA",
+      "phone": "(725) 777-9933",
+      "website": "https://a1constructionlv.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile",
+      "rating": 4.9,
+      "reviews": 62,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Las Vegas Remodel & Construction",
+      "address": "205 N Stephanie St Ste A, Henderson, NV 89074, USA",
+      "phone": "(702) 425-7272",
+      "website": "http://lvremodel.com/",
+      "rating": 4.7,
+      "reviews": 79,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Better Place Construction",
+      "address": "8215 S Eastern Ave Ste 265, Las Vegas, NV 89123, USA",
+      "phone": "(725) 200-3990",
+      "website": "https://www.betterplaceconstruction.com/",
+      "rating": 4.7,
+      "reviews": 12,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Jerezee Construction",
+      "address": "8685 W Sahara Ave Ste 200, Las Vegas, NV 89117, USA",
+      "phone": "(702) 890-0716",
+      "website": "http://www.lasvegashomeremodel.com/",
+      "rating": 4.9,
+      "reviews": 220,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "1 Home Construction LLC",
+      "address": "5875 S Rainbow Blvd #204, Las Vegas, NV 89118, USA",
+      "phone": "(702) 800-0228",
+      "website": "https://www.1homeconstruction.com/",
+      "rating": 4.8,
+      "reviews": 52,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Prism Home Care",
+      "address": "1810 E Sahara Ave #129, Las Vegas, NV 89104, USA",
+      "phone": "(702) 727-4620",
+      "website": "https://prismhomecare.com/",
+      "rating": 5,
+      "reviews": 113,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Burd Home Health - Nevada PCS Agency",
+      "address": "400 S 4th St Ste 500, Las Vegas, NV 89101, USA",
+      "phone": "(702) 703-1270",
+      "website": "https://www.burdhomehealth.com/nevada?utm_source=GMB&utm_medium=Organic&utm_campaign=Lasvegas",
+      "rating": 5,
+      "reviews": 393,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Health Services of Nevada LLC",
+      "address": "3100 W Sahara Ave #116A, Las Vegas, NV 89102, USA",
+      "phone": "(702) 330-0390",
+      "website": "http://homehealthservicesnv.com/",
+      "rating": 5,
+      "reviews": 3,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "BrightStar Care",
+      "address": "4775 S Durango Dr Ste 200, Las Vegas, NV 89147, USA",
+      "phone": "(702) 982-2273",
+      "website": "https://www.brightstarcare.com/locations/las-vegas/",
+      "rating": 4.8,
+      "reviews": 166,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Excellence Home Care - PCS Agency",
+      "address": "3400 W Desert Inn Rd Ste 16, Las Vegas, NV 89102, USA",
+      "phone": "(702) 279-4108",
+      "website": "http://excellencehomecare.org/",
+      "rating": 5,
+      "reviews": 37,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Golden Cross Home Care",
+      "address": "Las Vegas, NV 89117, USA",
+      "phone": "(702) 240-7711",
+      "website": "https://goldencrosshomecar.wixsite.com/goldencrosshomecare",
+      "rating": 4.8,
+      "reviews": 34,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "At Your Services Home Health Care",
+      "address": "1785 E Sahara Ave, Las Vegas, NV 89104, USA",
+      "phone": "(702) 562-2348",
+      "website": "",
+      "rating": 4.8,
+      "reviews": 6,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Prestige Family Home Health Care",
+      "address": "1180 N Town Center Dr #100, Las Vegas, NV 89144, USA",
+      "phone": "(702) 702-8753",
+      "website": "https://prestigefamilycare.com/",
+      "rating": 4.6,
+      "reviews": 11,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "True Harmony Home Health LLC",
+      "address": "3111 S Valley View Blvd Bldg A, Suite 219, Las Vegas, NV 89102, USA",
+      "phone": "(725) 331-5551",
+      "website": "https://trueharmonyhh.com/",
+      "rating": 5,
+      "reviews": 11,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Activate Home Health Care",
+      "address": "2626 S Rainbow Blvd Ste 102, Las Vegas, NV 89146, USA",
+      "phone": "(702) 845-7292",
+      "website": "http://www.activatehomehealthcare.com/",
+      "rating": 5,
+      "reviews": 2,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Senior Helpers",
+      "address": "5560 S Fort Apache Rd #110, Las Vegas, NV 89148, USA",
+      "phone": "(702) 342-0495",
+      "website": "https://www.seniorhelpers.com/nv/las-vegas/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 5,
+      "reviews": 29,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Eldercare Services",
+      "address": "5660 W Flamingo Rd, Las Vegas, NV 89103, USA",
+      "phone": "(702) 480-9006",
+      "website": "https://www.eldercareservices.net/",
+      "rating": 5,
+      "reviews": 40,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "24 Hour In Home Senior Caregivers",
+      "address": "732 S 6th St #402, Las Vegas, NV 89101, USA",
+      "phone": "(702) 899-3873",
+      "website": "https://24hr-cares.com/las-vegas/",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Seniors Helping Seniors Las Vegas North",
+      "address": "5550 Painted Mirage Rd Ste 380, Las Vegas, NV 89149, USA",
+      "phone": "(725) 267-1251",
+      "website": "https://locations.seniorshelpingseniors.com/nv/lasvegas/282.html",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Golden Heart Senior Care",
+      "address": "9320 Sun City Blvd Ste 103, Las Vegas, NV 89134, USA",
+      "phone": "(702) 800-4616",
+      "website": "https://www.goldenheartsummerlin.com/?utm_source=gbp",
+      "rating": 4.9,
+      "reviews": 65,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Instead, Home Care Services of Las Vegas",
+      "address": "1210 S Valley View Blvd Ste 206, Las Vegas, NV 89102, USA",
+      "phone": "(725) 696-4418",
+      "website": "https://www.homeinstead.com/home-care/usa/nv/las-vegas/173/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
+      "rating": 4.5,
+      "reviews": 31,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Essential Care",
+      "address": "10155 W Twain Ave Ste 100, Las Vegas, NV 89147, USA",
+      "phone": "(725) 900-3577",
+      "website": "https://myessential.care/",
+      "rating": 4.8,
+      "reviews": 47,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Always By Your Side Home Care LV",
+      "address": "4455 S Jones Blvd #1, Las Vegas, NV 89103, USA",
+      "phone": "(702) 485-4838",
+      "website": "https://abyshc.com/",
+      "rating": 4.8,
+      "reviews": 20,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Compassion Crest Home Care",
+      "address": "2551 S Fort Apache Rd Ste 102, Las Vegas, NV 89117, USA",
+      "phone": "(702) 385-0920",
+      "website": "https://compassioncrest.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-las-vegas&utm_id=local&utm_content=las-vegas",
+      "rating": 4.8,
+      "reviews": 24,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Total Needs Transportation",
+      "address": "3650 N Rancho Dr #111, Las Vegas, NV 89130, USA",
+      "phone": "(702) 764-2919",
+      "website": "https://totalneedstransportation.com/",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Helping Hand of Vegas Valley",
+      "address": "5450 West Sahara Avenue suite 340, North Las Vegas, NV 89032, USA",
+      "phone": "(702) 633-7264",
+      "website": "https://hhovv.org/",
+      "rating": 4.5,
+      "reviews": 116,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "GMTCare",
+      "address": "3645 W Oquendo Rd #400, Las Vegas, NV 89118, USA",
+      "phone": "(702) 979-9696",
+      "website": "https://gmtcare.com/",
+      "rating": 4.4,
+      "reviews": 170,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Medical Transport Company",
+      "address": "187 N Gibson Rd, Henderson, NV 89014, USA",
+      "phone": "(702) 367-7433",
+      "website": "https://medicaltransportlv.com/",
+      "rating": 3.8,
+      "reviews": 25,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Personal Sedan Services",
+      "address": "221 N Rampart Blvd, Las Vegas, NV 89145, USA",
+      "phone": "(702) 248-7706",
+      "website": "https://psswestcoast.com/",
+      "rating": 5,
+      "reviews": 913,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Full Circle Transportation Group LLC",
+      "address": "3540 W Sahara Ave, Las Vegas, NV 89102, USA",
+      "phone": "(702) 509-5262",
+      "website": "",
+      "rating": 5,
+      "reviews": 2,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "West Flamingo Senior Center",
+      "address": "6255 W Flamingo Rd, Las Vegas, NV 89103, USA",
+      "phone": "(702) 455-7742",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/seniors_centers/west_flamingo_senior_center/index.php",
+      "rating": 4.3,
+      "reviews": 96,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Howard Lieburn Senior Center",
+      "address": "6230 Garwood Ave, Las Vegas, NV 89107, USA",
+      "phone": "(702) 229-1600",
+      "website": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Howard-Lieburn-Senior-Center",
+      "rating": 4.4,
+      "reviews": 56,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Doolittle Senior Center",
+      "address": "1930 N J St, Las Vegas, NV 89106, USA",
+      "phone": "(702) 229-6125",
+      "website": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Doolittle-Community-Center",
+      "rating": 4.8,
+      "reviews": 52,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Cora Coleman Senior Center",
+      "address": "2100 Bonnie Ln, Las Vegas, NV 89156, USA",
+      "phone": "(702) 455-7617",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/seniors_centers/cora_coleman_senior_center/index.php",
+      "rating": 4.6,
+      "reviews": 128,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Martin Luther King Jr. Senior Center",
+      "address": "2420 N M.L.K. Blvd Building B, North Las Vegas, NV 89032, USA",
+      "phone": "(702) 636-0064",
+      "website": "https://eobcapsnv.org/martin-luther-king-jr-senior-center/",
+      "rating": 4.6,
+      "reviews": 104,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Centennial Hills Adult Center",
+      "address": "6601 N Buffalo Dr, Las Vegas, NV 89131, USA",
+      "phone": "(702) 229-1702",
+      "website": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Centennial-Hills-Center",
+      "rating": 4.8,
+      "reviews": 25,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "City of Henderson Heritage Park Senior Facility",
+      "address": "300 S Racetrack Rd, Henderson, NV 89015, USA",
+      "phone": "(702) 267-2950",
+      "website": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/164/783",
+      "rating": 4.8,
+      "reviews": 84,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Parkdale Recreation & Senior Center",
+      "address": "3200 Ferndale St, Las Vegas, NV 89121, USA",
+      "phone": "(702) 455-7517",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/facilities/parkdale.php",
+      "rating": 4.4,
+      "reviews": 251,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "East Las Vegas Community Center",
+      "address": "250 N Eastern Ave, Las Vegas, NV 89101, USA",
+      "phone": "(702) 229-1515",
+      "website": "http://lasvegasnevada.gov/",
+      "rating": 4.5,
+      "reviews": 323,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Whitney Senior Center",
+      "address": "5712 Missouri Ave, Las Vegas, NV 89122, USA",
+      "phone": "(702) 455-7560",
+      "website": "https://www.clarkcountynv.gov/government/departments/parks___recreation/seniors_centers/whitney_recreation____senior_center/",
+      "rating": 4.7,
+      "reviews": 25,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Vegas Adult Day Care",
+      "address": "1401 S Arville St, Las Vegas, NV 89102, USA",
+      "phone": "(702) 527-7796",
+      "website": "https://www.vegasadultdaycare.com/",
+      "rating": 4.3,
+      "reviews": 7,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Nevada Adult Day Healthcare",
+      "address": "2008 S Jones Blvd, Las Vegas, NV 89146, USA",
+      "phone": "(702) 319-4600",
+      "website": "http://www.nevadaadultdaycare.com/",
+      "rating": 4.2,
+      "reviews": 12,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Ray of Sunshine Adult Day Care",
+      "address": "7720 W Sahara Ave Ste 104, Las Vegas, NV 89117, USA",
+      "phone": "(877) 904-9127",
+      "website": "http://therayofsunshine.com/",
+      "rating": 4.9,
+      "reviews": 44,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Silver State Adult Day Care Center Las Vegas, Nevada",
+      "address": "2500 W Washington Ave, Las Vegas, NV 89106, USA",
+      "phone": "(702) 631-8000",
+      "website": "http://silverstateadultdaycare.com/",
+      "rating": 3.8,
+      "reviews": 67,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Almost Home Adult Day Care",
+      "address": "4308 N Decatur Blvd, Las Vegas, NV 89130, USA",
+      "phone": "(702) 655-2101",
+      "website": "https://www.almosthomelv.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15209757252911892273",
+      "rating": 4.5,
+      "reviews": 36,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Adult Day ReCreation by Nevada Senior Services | Las Vegas Location",
+      "address": "901 N Jones Blvd, Las Vegas, NV 89108, USA",
+      "phone": "(702) 648-3425",
+      "website": "https://www.nevadaseniorservices.org/adult-day",
+      "rating": 5,
+      "reviews": 6,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Adult Daycare of Las Vegas LLC",
+      "address": "953 E Sahara Ave, Las Vegas, NV 89104, USA",
+      "phone": "(702) 501-6072",
+      "website": "",
+      "rating": 4.4,
+      "reviews": 7,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "New Life Adult Day Health Care Center",
+      "address": "5540 Spring Mountain Rd, Las Vegas, NV 89146, USA",
+      "phone": "(702) 365-8882",
+      "website": "",
+      "rating": 4.4,
+      "reviews": 17,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "A Next Generation ADHC",
+      "address": "8225 W Sahara Ave h, Las Vegas, NV 89117, USA",
+      "phone": "(702) 476-2899",
+      "website": "https://www.anextgenerationlv.com/",
+      "rating": 5,
+      "reviews": 24,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Nevada Adult Day Healthcare Centers",
+      "address": "8695 S Eastern Ave, Las Vegas, NV 89123, USA",
+      "phone": "(702) 778-1234",
+      "website": "http://www.nevadaadultdaycare.com/",
+      "rating": 3.8,
+      "reviews": 20,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Simplifying Probate Attorneys - Las Vegas",
+      "address": "1785 Village Center Cir Ste 110, Las Vegas, NV 89134, USA",
+      "phone": "(702) 800-8354",
+      "website": "https://simplifyingprobate.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "reviews": 59,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Boyer Law Group",
+      "address": "5235 S Durango Dr Ste 103, Las Vegas, NV 89113, USA",
+      "phone": "(702) 706-0921",
+      "website": "https://www.elderlawnv.com/?npcmp=dir:local:4705581:89113",
+      "rating": 4.7,
+      "reviews": 72,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Law Offices of Brian H. Nelson",
+      "address": "9525 Hillwood Dr Ste 140, Las Vegas, NV 89134, USA",
+      "phone": "(702) 485-4567",
+      "website": "http://www.bhnelson.com/",
+      "rating": 5,
+      "reviews": 65,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Law Office of Jerry Creed",
+      "address": "10501 W Gowan Rd Ste 260, Las Vegas, NV 89129, USA",
+      "phone": "(702) 806-7777",
+      "website": "http://trustjerry.com/",
+      "rating": 5,
+      "reviews": 12,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Drizin Law | Las Vegas Probate, Estate Planning Attorneys",
+      "address": "2460 Professional Ct Ste 110, Las Vegas, NV 89128, USA",
+      "phone": "(702) 798-4955",
+      "website": "https://drizinlaw.com/?utm_source=google&utm_medium=organic&utm_campaign=Las-Vegas",
+      "rating": 4.8,
+      "reviews": 139,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "John Park Law",
+      "address": "8930 W Sunset Rd Unit 200, Las Vegas, NV 89148, USA",
+      "phone": "(702) 857-7879",
+      "website": "https://www.johnparklawfirm.com/nevada/",
+      "rating": 5,
+      "reviews": 163,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Grant Morris Dodds",
+      "address": "10161 W Park Run Dr #230, Las Vegas, NV 89145, USA",
+      "phone": "(702) 751-6647",
+      "website": "https://www.gmdlegal.com/contact/las-vegas-office/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-las-vegas",
+      "rating": 4.9,
+      "reviews": 105,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Fales Law Group - Estate Planning Attorney Las Vegas",
+      "address": "8689 W Sahara Ave Ste 200, Las Vegas, NV 89117, USA",
+      "phone": "(702) 804-0024",
+      "website": "http://faleslawgroup.com/",
+      "rating": 5,
+      "reviews": 439,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "The Law Offices of Robert B. Katz & Associates",
+      "address": "2300 W Sahara Ave Ste 800, Las Vegas, NV 89102, USA",
+      "phone": "(818) 716-6110",
+      "website": "",
+      "rating": 5,
+      "reviews": 5,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Lee Kiefer & Park, LLP",
+      "address": "1140 N Town Center Dr #200, Las Vegas, NV 89144, USA",
+      "phone": "(702) 333-1711",
+      "website": "https://www.lkpfirm.com/",
+      "rating": 4.9,
+      "reviews": 184,
+      "cats": [
+        "legal"
+      ]
+    }
+  ],
   "boston-ma": [],
   "san-jose-ca": []
 };
