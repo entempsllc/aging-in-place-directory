@@ -5215,7 +5215,621 @@ const LISTINGS = {
       ]
     }
   ],
-  "wilmington-nc": [],
+  "wilmington-nc": [
+    {
+      "name": "Bath Fitter",
+      "address": "3822 US-421 Ste 140, Wilmington, NC 28401, USA",
+      "phone": "(910) 210-4086",
+      "website": "https://www.bathfitter.com/us-en/location/wilmington/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-google-seo",
+      "rating": 4.7,
+      "reviews": 102,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "West Shore Home",
+      "address": "3405 Merchant Ct, Wilmington, NC 28405, USA",
+      "phone": "(910) 239-0441",
+      "website": "https://westshorehome.com/locations/wilmington-nc/?utm_source=gbp&utm_medium=organic&utm_branch=wilmington",
+      "rating": 4.8,
+      "reviews": 1169,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "EZPro Express",
+      "address": "2017 Corporate Dr Unit 6, Wilmington, NC 28405, USA",
+      "phone": "(910) 981-2461",
+      "website": "https://ezproexpress.com/?utm_source=gbp_wilmington&utm_medium=organic&utm_campaign=local",
+      "rating": 5,
+      "reviews": 448,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "Next Day Access Wilmington NC",
+      "address": "5555 Trade St, Hope Mills, NC 28348, USA",
+      "phone": "(910) 375-4029",
+      "website": "https://www.nextdayaccess.com/wilmington-nc/?utm_campaign=gmb&utm_medium=yext&utm_source=gmb",
+      "rating": 4.3,
+      "reviews": 19,
+      "cats": [
+        "bathroom",
+        "stairs"
+      ]
+    },
+    {
+      "name": "Re-Bath",
+      "address": "6010 Oleander Dr, Wilmington, NC 28403, USA",
+      "phone": "(910) 945-0620",
+      "website": "https://www.rebath.com/location/wilmington/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.5,
+      "reviews": 98,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "Longley Supply Company",
+      "address": "2018 Oleander Dr, Wilmington, NC 28403, USA",
+      "phone": "(910) 762-7793",
+      "website": "http://www.longleysupplycompany.com/",
+      "rating": 4.6,
+      "reviews": 36,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Craft American Hardware, Inc.",
+      "address": "7002 Wrightsville Ave, Wilmington, NC 28403, USA",
+      "phone": "(910) 256-4782",
+      "website": "https://www.doitbest.com/crafthardware/",
+      "rating": 4.7,
+      "reviews": 135,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "DreamMaker Bath & Kitchen of Wilmington",
+      "address": "7134 Market St Ste 2, Wilmington, NC 28411, USA",
+      "phone": "(910) 597-1756",
+      "website": "https://dreammaker-remodel.com/wilmington/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing&utm_content=wilmington-office",
+      "rating": 4.9,
+      "reviews": 69,
+      "cats": [
+        "tubs",
+        "remodel"
+      ]
+    },
+    {
+      "name": "Kitchen and Bath of Wilmington",
+      "address": "107-3 Village Rd NE, Leland, NC 28451, USA",
+      "phone": "(910) 769-9939",
+      "website": "https://kitchenandbathofwilmington.com/",
+      "rating": 4.9,
+      "reviews": 47,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Five Star Bath Solutions of Wilmington",
+      "address": "6709 Netherlands Dr C, Wilmington, NC 28405, USA",
+      "phone": "(910) 390-1730",
+      "website": "https://fivestarbathsolutions.com/wilmington-nc/",
+      "rating": 5,
+      "reviews": 4,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Newberry Home Improvement",
+      "address": "3012 N Kerr Ave, Wilmington, NC 28405, USA",
+      "phone": "(910) 500-6811",
+      "website": "http://www.newberryhome.com/",
+      "rating": 5,
+      "reviews": 227,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Reico Kitchen & Bath",
+      "address": "3360 Jaeckle Dr Unit 110, Wilmington, NC 28403, USA",
+      "phone": "(910) 310-0510",
+      "website": "https://www.reico.com/locations/north-carolina-showrooms/wilmington-nc/",
+      "rating": 5,
+      "reviews": 23,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "101 Mobility of Wilmington",
+      "address": "5221 Oleander Dr, Wilmington, NC 28403, USA",
+      "phone": "(910) 469-4815",
+      "website": "https://www.101mobility.com/wilmington/?utm_source=GBP_Wilmington&utm_medium=organic&y_source=1_MTAzMzU5Njk0MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 4.6,
+      "reviews": 136,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "101 Mobility of Brunswick County",
+      "address": "3846 George II Hwy SE Ste A, Southport, NC 28461, USA",
+      "phone": "(910) 713-1381",
+      "website": "https://www.101mobility.com/brunswick-county-nc/?utm_source=GBP_BrunswickCounty&utm_medium=organic&y_source=1_MTA5NzIzMDk0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "reviews": 12,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Port City Elevator, Inc.",
+      "address": "5704 Nixon Ln, Castle Hayne, NC 28429, USA",
+      "phone": "(910) 790-9300",
+      "website": "http://www.portcityelevator.com/",
+      "rating": 4.8,
+      "reviews": 60,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Leaf Home Stair Lift",
+      "address": "3818 US-421 Ste 140, Wilmington, NC 28401, USA",
+      "phone": "(910) 319-8280",
+      "website": "https://www.leafhome.com/locations/north-carolina/wilmington/stair-lift?y_source=1_MjAxMTg1ODQ0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Numotion",
+      "address": "3012 Hall Watters Dr Ste 101, Wilmington, NC 28405, USA",
+      "phone": "(910) 452-0999",
+      "website": "https://www.numotion.com/locations/wilmington-nc",
+      "rating": 4.6,
+      "reviews": 203,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Van Products",
+      "address": "394 N Green Meadows Dr, Wilmington, NC 28405, USA",
+      "phone": "(910) 793-5661",
+      "website": "http://www.vanproducts.com/",
+      "rating": 4.7,
+      "reviews": 52,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Complete Renovation Solutions LLC",
+      "address": "2011 Corporate Dr Unit 5, Wilmington, NC 28405, USA",
+      "phone": "(910) 399-5126",
+      "website": "https://completerenovationsnc.com/",
+      "rating": 4.9,
+      "reviews": 27,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Magnolia Grove Design & Cabinetry",
+      "address": "2305 Market St, Wilmington, NC 28403, USA",
+      "phone": "(910) 218-0098",
+      "website": "https://www.magnoliagrovedesign.com/",
+      "rating": 4.6,
+      "reviews": 17,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Age in Place Home Care",
+      "address": "1213 Culbreth Dr, Wilmington, NC 28405, USA",
+      "phone": "(910) 386-4511",
+      "website": "http://www.ageinplacehomecareservices.com/",
+      "rating": 5,
+      "reviews": 66,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "BrightStar Care",
+      "address": "2709 Market St Suite 201, Wilmington, NC 28403, USA",
+      "phone": "(910) 599-9555",
+      "website": "https://www.brightstarcare.com/locations/wilmington-brunswick-county/",
+      "rating": 4.9,
+      "reviews": 45,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Griswold Home Care for Wilmington",
+      "address": "4016 Shipyard Blvd A, Wilmington, NC 28403, USA",
+      "phone": "(910) 515-1378",
+      "website": "https://www.griswoldcare.com/wilmington/",
+      "rating": 4.8,
+      "reviews": 100,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "HomeWerks Home Care LLC",
+      "address": "1213 Culbreth Dr #345, Wilmington, NC 28405, USA",
+      "phone": "(910) 386-4555",
+      "website": "https://www.homewerks-homecare.com/homewerks-wilmington-nc/?utm_source=GMBlisting&utm_medium=organic",
+      "rating": 5,
+      "reviews": 25,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Visiting Angels Senior Home Care Wilmington",
+      "address": "3205 Randall Pkwy #208, Wilmington, NC 28403, USA",
+      "phone": "(910) 777-5926",
+      "website": "https://www.visitingangels.com/wilmingtonnc/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "rating": 4.8,
+      "reviews": 120,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Comfort Keepers of Wilmington, NC",
+      "address": "2203 Delaney Ave, Wilmington, NC 28403, USA",
+      "phone": "(910) 342-9200",
+      "website": "https://www.comfortkeepers.com/offices/north-carolina/wilmington",
+      "rating": 5,
+      "reviews": 42,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Right at Home",
+      "address": "3973-A Market St, Wilmington, NC 28403, USA",
+      "phone": "(910) 765-0755",
+      "website": "https://www.rightathome.net/wilmington/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1552",
+      "rating": 4.8,
+      "reviews": 21,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Instead",
+      "address": "2505 S 17th St Ste 110, Wilmington, NC 28401, USA",
+      "phone": "(910) 900-7839",
+      "website": "https://www.homeinstead.com/home-care/usa/nc/wilmington/386/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
+      "rating": 4.5,
+      "reviews": 37,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "SYNERGY HomeCare",
+      "address": "400 Carl St Ste 201, Wilmington, NC 28403, USA",
+      "phone": "(910) 408-5390",
+      "website": "https://www.synergyhomecare.com/nc-wilmington-28403/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3411",
+      "rating": 5,
+      "reviews": 95,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Always Best Care Senior Services - Home Care Services in Wilmington, NC",
+      "address": "4624 Carolina Beach Rd #120, Wilmington, NC 28412, USA",
+      "phone": "(910) 994-1684",
+      "website": "https://alwaysbestcare.com/leland/",
+      "rating": 4.8,
+      "reviews": 26,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Senior Helpers",
+      "address": "2311 S 17th St, Wilmington, NC 28401, USA",
+      "phone": "(910) 375-5591",
+      "website": "https://www.seniorhelpers.com/nc/wilmington?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.9,
+      "reviews": 54,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Eldercare At Home",
+      "address": "3408 Wilshire Blvd #100-B, Wilmington, NC 28403, USA",
+      "phone": "(800) 343-5003",
+      "website": "http://www.eldercarenc.net/",
+      "rating": 4.7,
+      "reviews": 15,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Sila Senior Care",
+      "address": "313 Walnut St #103, Wilmington, NC 28401, USA",
+      "phone": "(910) 936-3189",
+      "website": "https://silaseniorcare.com/",
+      "rating": 5,
+      "reviews": 20,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Caring Senior Service",
+      "address": "5041 New Centre Dr #209, Wilmington, NC 28403, USA",
+      "phone": "(910) 208-4079",
+      "website": "https://bit.ly/3pBo2qY",
+      "rating": 4.9,
+      "reviews": 36,
+      "cats": [
+        "homecare",
+        "transport"
+      ]
+    },
+    {
+      "name": "New Hanover County Senior Resource Center",
+      "address": "2222 College Rd, Wilmington, NC 28403, USA",
+      "phone": "(910) 798-6400",
+      "website": "https://www.nhcgov.com/1191/Senior-Resource-Center/",
+      "rating": 4.7,
+      "reviews": 97,
+      "cats": [
+        "transport",
+        "social"
+      ]
+    },
+    {
+      "name": "CXL Transportation Services",
+      "address": "7149 Jennings Rd NE, Leland, NC 28451, USA",
+      "phone": "(910) 427-3276",
+      "website": "http://www.cxltransport.com/",
+      "rating": 4,
+      "reviews": 4,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Out & About Senior Transportation",
+      "address": "9073 Hooper Rd NE #9025, Leland, NC 28451, USA",
+      "phone": "(910) 859-2584",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Elder Up LLC",
+      "address": "311 N Main St, Kernersville, NC 27284, USA",
+      "phone": "(336) 624-0933",
+      "website": "https://elderuptransportationsvc.com/",
+      "rating": 5,
+      "reviews": 17,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Ivory's Accessible Transport",
+      "address": "4557 Technology Dr Ste 5, Wilmington, NC 28405, USA",
+      "phone": "(910) 264-9329",
+      "website": "",
+      "rating": 4.4,
+      "reviews": 7,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "The Transporter",
+      "address": "5008 Hunters Trail, Wilmington, NC 28405, USA",
+      "phone": "(910) 632-7401",
+      "website": "https://www.nctransporter.com/",
+      "rating": 4.9,
+      "reviews": 84,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Elderhaus at the Lake",
+      "address": "1950 Amphitheater Dr, Wilmington, NC 28401, USA",
+      "phone": "(910) 251-0660",
+      "website": "http://elderhaus.com/",
+      "rating": 4.2,
+      "reviews": 12,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Town Square Wilmington",
+      "address": "1929 Oleander Dr F, Wilmington, NC 28403, USA",
+      "phone": "(910) 900-7752",
+      "website": "https://www.townsquare.net/adult-day-care/north-carolina/wilmington/",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Elderhaus PACE",
+      "address": "1380 N College Rd, Wilmington, NC 28405, USA",
+      "phone": "(910) 343-8209",
+      "website": "http://elderhaus.com/",
+      "rating": 4.5,
+      "reviews": 23,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Carefinderz",
+      "address": "313 Walnut St, Wilmington, NC 28401, USA",
+      "phone": "(910) 297-9743",
+      "website": "",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "W.A.V.E.S. Day Program",
+      "address": "1939 Independence Blvd #1939, Wilmington, NC 28403, USA",
+      "phone": "(910) 799-7564",
+      "website": "https://www.wavesilm.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5658350513519437036",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Elder Law & Life Care Planning Center",
+      "address": "2505 College Rd, Wilmington, NC 28412, USA",
+      "phone": "(910) 755-7526",
+      "website": "https://www.apracticewithpurpose.com/",
+      "rating": 5,
+      "reviews": 4,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Four Pillars Law Firm",
+      "address": "2202 Wrightsville Ave Ste 213, Wilmington, NC 28403, USA",
+      "phone": "(910) 762-1577",
+      "website": "http://fourpillarslawfirm.com/",
+      "rating": 5,
+      "reviews": 181,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Salines-Mondello Law Firm, PC",
+      "address": "6781 Parker Farm Dr #210, Wilmington, NC 28405, USA",
+      "phone": "(910) 668-4587",
+      "website": "http://www.lisa-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "rating": 4.8,
+      "reviews": 113,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Craige, Fox & Roden",
+      "address": "701 Market St, Wilmington, NC 28401, USA",
+      "phone": "(910) 815-0085",
+      "website": "http://www.craigeandfox.com/",
+      "rating": 4.2,
+      "reviews": 16,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Robert H Hochuli Jr",
+      "address": "219 Racine Dr, Wilmington, NC 28403, USA",
+      "phone": "(910) 392-2004",
+      "website": "http://www.wilmingtonlegalplanning.com/",
+      "rating": 4.7,
+      "reviews": 39,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "LSM",
+      "address": "6781 Parker Farm Dr #210, Wilmington, NC 28405, USA",
+      "phone": "(910) 254-1481",
+      "website": "",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Legacy Lawyers",
+      "address": "1135 Military Cutoff Rd Ste 202, Wilmington, NC 28403, USA",
+      "phone": "(910) 452-3577",
+      "website": "http://www.legacylawyersnc.com/?utm_source=GMBlisting&utm_medium=organic",
+      "rating": 4.9,
+      "reviews": 8,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Johnson Legal",
+      "address": "123 N Cardinal Extension Dr Ste 100, Wilmington, NC 28405, USA",
+      "phone": "(910) 807-8241",
+      "website": "https://www.johnsonlegal.us/?utm_campaign=gmb",
+      "rating": 5,
+      "reviews": 667,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Cranfill Sumner LLP",
+      "address": "5535 Currituck Dr Ste 210, Wilmington, NC 28403, USA",
+      "phone": "(910) 777-6000",
+      "website": "https://www.cshlaw.com/?utm_source=gmb&utm_medium=organic&utm_campaign=wilmington",
+      "rating": 4.8,
+      "reviews": 16,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "KEN NANCE LAW",
+      "address": "4032 Masonboro Loop Rd Unit 103, Wilmington, NC 28409, USA",
+      "phone": "(910) 473-5377",
+      "website": "http://www.kennancelaw.com/",
+      "rating": 5,
+      "reviews": 67,
+      "cats": [
+        "legal"
+      ]
+    }
+  ],
   "new-york-ny": [],
   "los-angeles-ca": [],
   "chicago-il": [],
