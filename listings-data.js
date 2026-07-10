@@ -16563,7 +16563,916 @@ const LISTINGS = {
       ]
     }
   ],
-  "columbus-oh": [],
+  "columbus-oh": [
+    {
+      "name": "Next Day Access Columbus, OH",
+      "address": "303 Conover Dr, Franklin, OH 45005, USA",
+      "phone": "(937) 519-3150",
+      "website": "https://www.nextdayaccess.com/columbus-oh/",
+      "rating": 5,
+      "reviews": 194,
+      "cats": [
+        "bathroom",
+        "stairs"
+      ]
+    },
+    {
+      "name": "Innovate Building Solutions",
+      "address": "3091 E 14th Ave Ste C, Columbus, OH 43219, USA",
+      "phone": "(614) 252-7294",
+      "website": "http://innovatebuildingsolutions.com/",
+      "rating": 4.8,
+      "reviews": 294,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Miracle Method Surface Refinishing",
+      "address": "1575 Integrity Dr E, Columbus, OH 43209, USA",
+      "phone": "(614) 362-5926",
+      "website": "https://www.miraclemethod.com/columbus?utm_source=Google&utm_medium=GMB&utm_content=MMMS",
+      "rating": 4.9,
+      "reviews": 572,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Lifeway Mobility",
+      "address": "7500 Green Meadows Dr Unit 5103, Lewis Center, OH 43035, USA",
+      "phone": "(614) 254-5829",
+      "website": "https://www.lifewaymobility.com/columbus-ohio/?utm_source=GMB&utm_medium=organic&utm_campaign=Lifeway_Columbus",
+      "rating": 5,
+      "reviews": 171,
+      "cats": [
+        "bathroom",
+        "stairs"
+      ]
+    },
+    {
+      "name": "West Shore Home",
+      "address": "4744 Bridgeway Ave, Columbus, OH 43219, USA",
+      "phone": "(740) 480-3866",
+      "website": "https://westshorehome.com/locations/columbus-oh/?utm_source=gbp&utm_medium=organic&utm_branch=columbus",
+      "rating": 4.9,
+      "reviews": 494,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Columbus Walk In Bath Solutions",
+      "address": "341 S 3rd St Ste 100-323, Columbus, OH 43215, USA",
+      "phone": "(614) 412-4622",
+      "website": "https://columbuswalkinbathsolutions.com/",
+      "rating": 5,
+      "reviews": 3,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "Bath Tune-Up of Columbus North",
+      "address": "705 Lakeview Plaza Blvd Suite J, Columbus, OH 43085, USA",
+      "phone": "(614) 931-0802",
+      "website": "https://www.bathtune-up.com/columbus-north-oh?utm_source=google&utm_medium=organic&utm_campaign=gbplisting",
+      "rating": 4.9,
+      "reviews": 53,
+      "cats": [
+        "bathroom",
+        "tubs"
+      ]
+    },
+    {
+      "name": "Bath Fitter",
+      "address": "7465 Worthington Galena Rd, Worthington, OH 43085, USA",
+      "phone": "(844) 915-1086",
+      "website": "http://www.bathfitter.com/us-en/location/columbus/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-google-seo",
+      "rating": 4.7,
+      "reviews": 354,
+      "cats": [
+        "bathroom"
+      ]
+    },
+    {
+      "name": "Easy Bath",
+      "address": "5756 Westbourne Ave, Columbus, OH 43213, USA",
+      "phone": "(614) 501-2911",
+      "website": "http://easybathohio.com/",
+      "rating": 4.9,
+      "reviews": 99,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Bath Experts",
+      "address": "3341 Centerpoint Dr Ste D, Urbancrest, OH 43123, USA",
+      "phone": "(614) 929-3852",
+      "website": "https://www.bathexperts.com/locations/columbus/",
+      "rating": 4.8,
+      "reviews": 337,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Revive Bathroom Remodel Columbus",
+      "address": "780 King Ave ste 104, Columbus, OH 43212, USA",
+      "phone": "(614) 339-6918",
+      "website": "https://www.revivebathroomremodelcolumbus.com/",
+      "rating": 4.7,
+      "reviews": 11,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Otterly Baths",
+      "address": "7780 Corporate Blvd #8313, Plain City, OH 43064, USA",
+      "phone": "(614) 379-8193",
+      "website": "https://otterlybaths.com/columbus-oh/?utm_source=google&utm_medium=gbp&utm_campaign=plain-city",
+      "rating": 5,
+      "reviews": 47,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Simple Bath and Kitchen",
+      "address": "4235 Leap Rd, Hilliard, OH 43026, USA",
+      "phone": "(614) 888-2284",
+      "website": "https://www.simplebathandkitchen.com/",
+      "rating": 4.7,
+      "reviews": 272,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "New Bath Today",
+      "address": "490 Hill Rd N, Pickerington, OH 43147, USA",
+      "phone": "(614) 524-4230",
+      "website": "https://newbathtoday.com/service-areas/columbus-oh/?utm_source=4301&utm_medium=organic&utm_campaign=pickerington-oh-gbp",
+      "rating": 4.9,
+      "reviews": 47,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Fast Bath Makeover",
+      "address": "2025 Riverside Dr Ste 520, Upper Arlington, OH 43221, USA",
+      "phone": "(614) 265-8803",
+      "website": "http://fastbathmakeover.com/",
+      "rating": 5,
+      "reviews": 84,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "Columbus Bath Design",
+      "address": "8596 Cotter St, Lewis Center, OH 43035, USA",
+      "phone": "(614) 907-4558",
+      "website": "https://www.columbusbathdesign.com/",
+      "rating": 4.7,
+      "reviews": 141,
+      "cats": [
+        "tubs"
+      ]
+    },
+    {
+      "name": "RIGHT NOW MOBILITY STAIRLIFTS",
+      "address": "545 Metro Pl S Suite 100, Dublin, OH 43017, USA",
+      "phone": "(614) 792-0001",
+      "website": "http://www.rightnowmobility.com/",
+      "rating": 5,
+      "reviews": 72,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "101 Mobility of Columbus",
+      "address": "4706 Trabue Rd, Columbus, OH 43228, USA",
+      "phone": "(740) 520-8026",
+      "website": "https://www.101mobility.com/columbus/?utm_source=GBP_Columbus&utm_medium=organic&y_source=1_MTAzMzU5NzAwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 4.7,
+      "reviews": 102,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Arrow Lift",
+      "address": "262 E Campus View Blvd, Columbus, OH 43235, USA",
+      "phone": "(614) 334-6900",
+      "website": "https://arrowlift.com/about/all-locations/columbus-oh/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.6,
+      "reviews": 25,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Med Mart Stairlift + Elevator + Home Modification",
+      "address": "341 S 3rd St Ste E120, Columbus, OH 43215, USA",
+      "phone": "(800) 793-5980",
+      "website": "http://medmarthome.com/",
+      "rating": 4,
+      "reviews": 4,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Leaf Home Stair Lift",
+      "address": "2725 Westbelt Dr, Columbus, OH 43228, USA",
+      "phone": "(614) 655-6505",
+      "website": "https://www.leafhome.com/locations/ohio/columbus/stair-lift?utm_source=41DG&utm_medium=yext&utm_campaign=listings&y_source=1_NDE1Njc4ODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 4.5,
+      "reviews": 19,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "MobilityWorks",
+      "address": "7233 Industrial Pkwy, Plain City, OH 43064, USA",
+      "phone": "(614) 289-8138",
+      "website": "https://www.mobilityworks.com/locations/wheelchair-vans-for-sale-in-plain-city-columbus-ohio/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=columbus",
+      "rating": 4.3,
+      "reviews": 96,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Columbus Mobility Specialists",
+      "address": "6330 Proprietors Rd # C, Worthington, OH 43085, USA",
+      "phone": "(614) 825-8996",
+      "website": "http://www.columbusmobility.com/",
+      "rating": 4.4,
+      "reviews": 54,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Right Now Mobility - Family Owned: Stair Lifts + Elevator Experts",
+      "address": "6504 Corporate Dr, Cincinnati, OH 45242, USA",
+      "phone": "(513) 795-8585",
+      "website": "http://www.rightnowmobility.com/",
+      "rating": 5,
+      "reviews": 341,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "National Seating & Mobility",
+      "address": "306 E 5th Ave, Columbus, OH 43201, USA",
+      "phone": "(614) 294-5585",
+      "website": "https://locations.nsm-seating.com/oh/columbus/306-e-5th-ave",
+      "rating": 4.4,
+      "reviews": 127,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Miller's Rental and Sales, Inc.",
+      "address": "777 Dearborn Park Ln Suite S, Columbus, OH 43085, USA",
+      "phone": "(614) 547-4000",
+      "website": "https://www.millers.com/?utm_source=google&utm_medium=gbp&utm_campaign=columbus",
+      "rating": 4.9,
+      "reviews": 68,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Mobility City",
+      "address": "4506 Cemetery Rd, Hilliard, OH 43026, USA",
+      "phone": "(614) 756-4622",
+      "website": "https://mobilitycity.com/columbus-oh/?utm_campaign=gmb",
+      "rating": 4.8,
+      "reviews": 104,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Numotion",
+      "address": "6171-M Huntley Rd M, Columbus, OH 43229, USA",
+      "phone": "(614) 515-2156",
+      "website": "https://www.numotion.com/locations/columbus-oh",
+      "rating": 4.8,
+      "reviews": 465,
+      "cats": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "Aging-In-Place Remodeling",
+      "address": "620 Venture St D, Escondido, CA 92029, USA",
+      "phone": "(858) 776-8700",
+      "website": "http://aipremodeling.com/",
+      "rating": 4.4,
+      "reviews": 18,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Central Ohio Area Agency on Aging",
+      "address": "3776 S High St, Columbus, OH 43207, USA",
+      "phone": "(800) 589-7277",
+      "website": "http://www.coaaa.org/",
+      "rating": 4.3,
+      "reviews": 72,
+      "cats": [
+        "remodel",
+        "transport",
+        "social"
+      ]
+    },
+    {
+      "name": "Pat Scales Remodeling & Home Renovation",
+      "address": "2339 W Dublin-Granville Rd, Columbus, OH 43235, USA",
+      "phone": "(614) 810-4144",
+      "website": "https://patscalesremodeling.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 4.7,
+      "reviews": 48,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Ohio-At-Home Health Care Agency, LLC",
+      "address": "875 N High St Ste 300, Columbus, OH 43201, USA",
+      "phone": "(614) 800-0672",
+      "website": "http://www.ohioathome.com/",
+      "rating": 5,
+      "reviews": 7,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Ohio Senior Home Health Care, LLC",
+      "address": "6004 Cleveland Ave, Columbus, OH 43231, USA",
+      "phone": "(614) 470-6070",
+      "website": "http://www.oshhc.com/",
+      "rating": 4,
+      "reviews": 8,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Caring Heart Home Health Agency",
+      "address": "4207 E Broad St 2nd floor, Columbus, OH 43213, USA",
+      "phone": "(614) 231-2442",
+      "website": "http://www.caringhearthha.com/",
+      "rating": 4.7,
+      "reviews": 26,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Complete Homecare Inc.",
+      "address": "2021 E Dublin Granville Rd #190, Columbus, OH 43229, USA",
+      "phone": "(614) 704-5500",
+      "website": "http://completehomecareoh.com/",
+      "rating": 5,
+      "reviews": 46,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Assisting Hands Columbus Home Care",
+      "address": "438 E Wilson Bridge Rd Ste 108, Worthington, OH 43085, USA",
+      "phone": "(614) 481-4141",
+      "website": "https://assistinghandscolumbus.com/",
+      "rating": 5,
+      "reviews": 123,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Health Agency - FrankLove Home Health Services",
+      "address": "2323 Lake Club Dr Ste 300, Columbus, OH 43232, USA",
+      "phone": "(614) 559-9918",
+      "website": "https://www.franklovehomehealth.com/contact.html",
+      "rating": 4.4,
+      "reviews": 5,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Helpers Home Care of Columbus",
+      "address": "10 E Weber Rd #202, Columbus, OH 43202, USA",
+      "phone": "(614) 768-6185",
+      "website": "https://www.homehelpershomecare.com/columbus/?utm_source=gbp+listing&utm_medium=organic",
+      "rating": 4.7,
+      "reviews": 44,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Easton Healthcare Agency Inc",
+      "address": "5100 Cleveland Ave, Columbus, OH 43231, USA",
+      "phone": "(614) 880-9402",
+      "website": "https://www.eastonhealthcareagency.com/",
+      "rating": 4.6,
+      "reviews": 11,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Supreme Touch Home Health Services Corp",
+      "address": "2547 W Broad St, Columbus, OH 43204, USA",
+      "phone": "(614) 488-2266",
+      "website": "https://supremetouchcare.com/",
+      "rating": 4.2,
+      "reviews": 17,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "3C Home Health Care LLC",
+      "address": "2720 Airport Dr #140, Columbus, OH 43219, USA",
+      "phone": "(614) 471-4300",
+      "website": "",
+      "rating": 5,
+      "reviews": 3,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Visiting Angels Senior Home Care - Columbus",
+      "address": "41 Croswell Rd 2nd FL, Columbus, OH 43214, USA",
+      "phone": "(614) 538-1234",
+      "website": "https://www.visitingangels.com/columbuswest/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "rating": 4.8,
+      "reviews": 104,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Amada Senior Care Columbus",
+      "address": "579 Executive Campus Dr Ste 230, Westerville, OH 43082, USA",
+      "phone": "(614) 721-0070",
+      "website": "https://www.amadaseniorcare.com/columbus-senior-care/",
+      "rating": 4.9,
+      "reviews": 61,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Home Instead, Home Care Services of Columbus",
+      "address": "3040 Riverside Dr #117, Columbus, OH 43221, USA",
+      "phone": "(614) 869-4607",
+      "website": "https://www.homeinstead.com/home-care/usa/oh/gahanna/132/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
+      "rating": 5,
+      "reviews": 41,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Options Home Services",
+      "address": "786 Northwest Blvd, Columbus, OH 43212, USA",
+      "phone": "(614) 947-8888",
+      "website": "https://www.optionshomeservices.com/",
+      "rating": 4.6,
+      "reviews": 48,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Visiting Angels Senior Home Care - Westerville",
+      "address": "100 Dorchester Square #101, Westerville, OH 43081, USA",
+      "phone": "(614) 392-2820",
+      "website": "https://www.visitingangels.com/columbusnorth/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "rating": 4.8,
+      "reviews": 34,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "TheKey - Senior Home Care",
+      "address": "1880 Mackenzie Drive Ste 201, Columbus, OH 43220, USA",
+      "phone": "(614) 524-5970",
+      "website": "https://www.thekey.com/locations/ohio/columbus?utm_source=gmb&utm_medium=Yext",
+      "rating": 4.7,
+      "reviews": 40,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Senior Helpers",
+      "address": "1675 Gateway Cir, Grove City, OH 43123, USA",
+      "phone": "(380) 286-0604",
+      "website": "http://www.seniorhelpers.com/oh/grove-city?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 5,
+      "reviews": 10,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Senior Transportation Connection",
+      "address": "4735 W 150th St A, Cleveland, OH 44135, USA",
+      "phone": "(216) 265-1489",
+      "website": "http://ridestc.org/",
+      "rating": 4.3,
+      "reviews": 37,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Precise Mobility Solutions, Inc",
+      "address": "6161 Busch Blvd, Columbus, OH 43229, USA",
+      "phone": "(614) 987-6737",
+      "website": "http://www.precisemobility.com/",
+      "rating": 3.1,
+      "reviews": 228,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Caring Senior Service",
+      "address": "4625 Morse Rd Ste 100, Gahanna, OH 43230, USA",
+      "phone": "(614) 963-8342",
+      "website": "https://caringseniorservice.com/columbus/?utm_source=gmb&utm_medium=referral-link&utm_campaign=google-my-business",
+      "rating": 4.6,
+      "reviews": 38,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Tristar Transportation",
+      "address": "682 E Lincoln Ave, Columbus, OH 43229, USA",
+      "phone": "(614) 430-1688",
+      "website": "http://www.tristarcolumbus.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16884529289904817702",
+      "rating": 3.5,
+      "reviews": 55,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Providence Senior Transportation",
+      "address": "4684 Massillon Rd, North Canton, OH 44720, USA",
+      "phone": "(855) 850-5555",
+      "website": "",
+      "rating": 5,
+      "reviews": 2,
+      "cats": [
+        "transport"
+      ]
+    },
+    {
+      "name": "Gillie Senior Community Center",
+      "address": "2100 Morse Rd, Columbus, OH 43229, USA",
+      "phone": "(614) 645-3106",
+      "website": "https://columbusrecparks.com/community-center/gillie/",
+      "rating": 4.6,
+      "reviews": 101,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Westerville Senior Center",
+      "address": "350 N Cleveland Ave, Westerville, OH 43082, USA",
+      "phone": "(614) 901-6560",
+      "website": "https://parks.westerville.org/programs/older-adults",
+      "rating": 4.6,
+      "reviews": 59,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Marion Franklin Senior Center",
+      "address": "2801 Lockbourne Rd, Columbus, OH 43207, USA",
+      "phone": "(614) 645-3612",
+      "website": "",
+      "rating": 5,
+      "reviews": 2,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Reynoldsburg Seniors Citizens Center",
+      "address": "1520 Davidson Dr, Reynoldsburg, OH 43068, USA",
+      "phone": "(614) 866-5890",
+      "website": "https://www.reynoldsburg.gov/210/Reynoldsburg-Senior-Center",
+      "rating": 4.6,
+      "reviews": 54,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Evans Senior Center",
+      "address": "4330 Dudley Ave, Grove City, OH 43123, USA",
+      "phone": "(614) 277-1060",
+      "website": "https://www.grovecityohio.gov/187/55-Programs",
+      "rating": 4.8,
+      "reviews": 46,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Ohio Association Of Senior Centers",
+      "address": "3757 Indianola Ave, Columbus, OH 43214, USA",
+      "phone": "(800) 796-6272",
+      "website": "http://www.ohioasc.org/",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Hilltop Senior Village",
+      "address": "300 Overstreet Way, Columbus, OH 43228, USA",
+      "phone": "(614) 274-3648",
+      "website": "",
+      "rating": 4.2,
+      "reviews": 50,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Gahanna Senior Center",
+      "address": "480 Rocky Fork Blvd, Gahanna, OH 43230, USA",
+      "phone": "(614) 342-4265",
+      "website": "http://www.gahanna.gov/seniorcenter/",
+      "rating": 4.4,
+      "reviews": 22,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Blendon Township Senior Center",
+      "address": "6330 S Hempstead Rd, Westerville, OH 43081, USA",
+      "phone": "(614) 882-1260",
+      "website": "https://www.blendontwp.org/government/departments/senior-services",
+      "rating": 4.8,
+      "reviews": 30,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Washington's Intergenerational Adult Daycare",
+      "address": "4241 Eastland Square Dr Ste A, Columbus, OH 43232, USA",
+      "phone": "(614) 866-0100",
+      "website": "",
+      "rating": 4.4,
+      "reviews": 7,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Buckeye Adult Day Care",
+      "address": "2643 Northland Plaza Dr, Columbus, OH 43231, USA",
+      "phone": "(614) 476-0388",
+      "website": "",
+      "rating": 4.8,
+      "reviews": 5,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Franklin Adult Day Care",
+      "address": "1472 Morse Rd, Columbus, OH 43229, USA",
+      "phone": "(614) 845-5551",
+      "website": "",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Atlas Adult Day Center LLC",
+      "address": "1414 Oakland Park Ave ste b, Columbus, OH 43224, USA",
+      "phone": "(614) 805-0106",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Beloved One Adult Day Center",
+      "address": "4004 Alum Creek Dr, Columbus, OH 43207, USA",
+      "phone": "(614) 483-6514",
+      "website": "",
+      "rating": 5,
+      "reviews": 2,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Complete Adult Daycare",
+      "address": "242 W Johnstown Rd, Columbus, OH 43230, USA",
+      "phone": "(614) 505-8665",
+      "website": "",
+      "rating": 4.3,
+      "reviews": 7,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Second Home Adult Day Care & Transportation Center",
+      "address": "2556 Morse Rd, Columbus, OH 43231, USA",
+      "phone": "(614) 414-0077",
+      "website": "",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Columbus Adult Daycare",
+      "address": "5930 Sharon Woods Blvd, Columbus, OH 43229, USA",
+      "phone": "(614) 392-2017",
+      "website": "http://www.chaturbate.com/",
+      "rating": 2,
+      "reviews": 2,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "The James LJ Center LLC",
+      "address": "5320 E Main St #100, Columbus, OH 43213, USA",
+      "phone": "(614) 515-7570",
+      "website": "",
+      "rating": 5,
+      "reviews": 15,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "WESTGATE DAY HEALTH CENTER",
+      "address": "3636 Soldano Boulevard, Columbus, OH 43228, USA",
+      "phone": "(614) 966-1102",
+      "website": "http://coaaa.org/",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "social"
+      ]
+    },
+    {
+      "name": "Golowin Legal - Wills Trusts Elder Law",
+      "address": "5060 Parkcenter Ave Ste a, Dublin, OH 43017, USA",
+      "phone": "(614) 453-5208",
+      "website": "https://www.columbuselderlawattorney.com/",
+      "rating": 5,
+      "reviews": 100,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "R.F. Meyer & Associates, LLC",
+      "address": "450 W Wilson Bridge Rd Ste 380, Worthington, OH 43085, USA",
+      "phone": "(614) 407-7900",
+      "website": "http://www.elderlaw.us/",
+      "rating": 4.8,
+      "reviews": 19,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Roush Elder Law",
+      "address": "1900 Polaris Pkwy #450, Columbus, OH 43240, USA",
+      "phone": "",
+      "website": "http://roushelderlaw.com/",
+      "rating": 5,
+      "reviews": 3,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Collins & Kruse Law Office",
+      "address": "1421 W 3rd Ave, Columbus, OH 43212, USA",
+      "phone": "(614) 369-8634",
+      "website": "http://www.ckelderlaw.com/",
+      "rating": 4.9,
+      "reviews": 28,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Elder Law Connection",
+      "address": "1421 W 3rd Ave, Columbus, OH 43212, USA",
+      "phone": "(614) 568-1237",
+      "website": "https://elderlawconnection.com/",
+      "rating": 5,
+      "reviews": 1,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "AlerStallings LLC",
+      "address": "535 Metro Pl S #200, Dublin, OH 43017, USA",
+      "phone": "(614) 798-9800",
+      "website": "https://www.alerstallings.com/locations/columbus/",
+      "rating": 4.8,
+      "reviews": 54,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Winkler Legal",
+      "address": "490 City Park Ave, Columbus, OH 43215, USA",
+      "phone": "(614) 461-5708",
+      "website": "https://dirkwinklerlaw.com/",
+      "rating": 4.7,
+      "reviews": 34,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Jarvis Law Office, P.C.",
+      "address": "5100 Bradenton Ave Ste B, Dublin, OH 43017, USA",
+      "phone": "(740) 273-6023",
+      "website": "https://jarvisfirm.com/?utm_source=google&utm_medium=gbp&utm_campaign=dublin",
+      "rating": 4.9,
+      "reviews": 155,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Taps Sutton & Roshon, LLC",
+      "address": "400 S 5th St #103, Columbus, OH 43215, USA",
+      "phone": "(614) 443-8000",
+      "website": "http://www.ohioseniorlaw.com/",
+      "rating": 4.7,
+      "reviews": 18,
+      "cats": [
+        "legal"
+      ]
+    },
+    {
+      "name": "Gasper Legal",
+      "address": "3492 Snouffer Rd Ste 200, Columbus, OH 43235, USA",
+      "phone": "(614) 845-1923",
+      "website": "https://www.gasperlegal.com/",
+      "rating": 4.6,
+      "reviews": 47,
+      "cats": [
+        "legal"
+      ]
+    }
+  ],
   "charlotte-nc": [],
   "indianapolis-in": [],
   "san-francisco-ca": [],
