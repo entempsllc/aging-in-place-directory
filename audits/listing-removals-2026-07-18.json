@@ -1,0 +1,774 @@
+{
+  "generated_at": "2026-07-18T13:07:45.373Z",
+  "scope": "High-confidence irrelevant or out-of-service-area records explicitly authorized by the site owner; ambiguous records retained.",
+  "before_count": 2690,
+  "after_count": 2645,
+  "removed_count": 45,
+  "removals": [
+    {
+      "city_slug": "anna-tx",
+      "original_index": 1,
+      "record": {
+        "name": "Gar Hole",
+        "address": "106 Houston St, Anna, TX 75409, USA",
+        "phone": "(469) 301-6284",
+        "website": "http://garhole.net/",
+        "rating": 4.8,
+        "reviews": 427,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official site describes a live-music and food venue, not a bathroom-safety installer.",
+      "evidence": "https://garhole.net/"
+    },
+    {
+      "city_slug": "anna-tx",
+      "original_index": 2,
+      "record": {
+        "name": "Flying J Travel Center",
+        "address": "1700 N US Hwy 75, Anna, TX 75409, USA",
+        "phone": "(972) 924-2035",
+        "website": "https://locations.pilotflyingj.com/us/tx/anna/1700-n-us-hwy-75",
+        "rating": 3.8,
+        "reviews": 1635,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official location page describes a travel center offering fuel, restrooms, food, and truck parking, not home modification services.",
+      "evidence": "https://locations.pilotflyingj.com/us/tx/anna/1700-n-us-hwy-75"
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "original_index": 29,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "original_index": 31,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "new-york-ny",
+      "original_index": 36,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "los-angeles-ca",
+      "original_index": 28,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "phoenix-az",
+      "original_index": 30,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "fort-worth-tx",
+      "original_index": 35,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "columbus-oh",
+      "original_index": 28,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "indianapolis-in",
+      "original_index": 28,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "original_index": 29,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "austin-tx",
+      "original_index": 21,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "seattle-wa",
+      "original_index": 24,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "denver-co",
+      "original_index": 32,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "nashville-tn",
+      "original_index": 25,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "washington-dc",
+      "original_index": 24,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "boston-ma",
+      "original_index": 29,
+      "record": {
+        "name": "Aging-In-Place Remodeling",
+        "address": "620 Venture St D, Escondido, CA 92029, USA",
+        "phone": "(858) 776-8700",
+        "website": "http://aipremodeling.com/",
+        "rating": 4.4,
+        "reviews": 18,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "The listing address and 858 telephone area identify a San Diego County provider; the San Diego page record is retained.",
+      "evidence": "http://aipremodeling.com/"
+    },
+    {
+      "city_slug": "los-angeles-ca",
+      "original_index": 30,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "phoenix-az",
+      "original_index": 32,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "indianapolis-in",
+      "original_index": 33,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "original_index": 33,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "austin-tx",
+      "original_index": 26,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "seattle-wa",
+      "original_index": 25,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "denver-co",
+      "original_index": 35,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "nashville-tn",
+      "original_index": 33,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "boston-ma",
+      "original_index": 31,
+      "record": {
+        "name": "Better Place Design & Build",
+        "address": "4655 Cass St, San Diego, CA 92109, USA",
+        "phone": "(858) 355-9766",
+        "website": "https://www.betterplacedesignbuild.com/",
+        "rating": 4.6,
+        "reviews": 33,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage title and description identify a San Diego ADU company; these records were attached to non-San-Diego city pages.",
+      "evidence": "https://betterplacedesignbuild.com/"
+    },
+    {
+      "city_slug": "fate-tx",
+      "original_index": 5,
+      "record": {
+        "name": "Independent Home Walk-in Tubs",
+        "address": "59 Hempstead Gardens Dr, West Hempstead, NY 11552, USA",
+        "phone": "(888) 239-1058",
+        "website": "https://independenthome.com/",
+        "rating": 3.9,
+        "reviews": 21,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Official homepage targets New York walk-in tubs and New Jersey designer showers, not Fate, Texas.",
+      "evidence": "https://independenthome.com/"
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "original_index": 20,
+      "record": {
+        "name": "Southern Stairlifts",
+        "address": "13 Farringdon Dr, Greenville, SC 29615, USA",
+        "phone": "(864) 979-4148",
+        "website": "https://southernstairlifts.com/greenville/",
+        "rating": 5,
+        "reviews": 22,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Official location page identifies this as a Greenville, South Carolina installer.",
+      "evidence": "https://southernstairlifts.com/greenville/"
+    },
+    {
+      "city_slug": "phoenix-az",
+      "original_index": 7,
+      "record": {
+        "name": "IE Grab Bars-Grab Bar Installers",
+        "address": "134 Pueblo Rd, Corona, CA 92882, USA",
+        "phone": "(714) 658-9137",
+        "website": "https://iegrabbars.com/",
+        "rating": 5,
+        "reviews": 422,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official homepage states that installations serve California’s Inland Empire; the records were on Phoenix, San Diego, and San Jose pages.",
+      "evidence": "https://iegrabbars.com/"
+    },
+    {
+      "city_slug": "san-diego-ca",
+      "original_index": 0,
+      "record": {
+        "name": "IE Grab Bars-Grab Bar Installers",
+        "address": "134 Pueblo Rd, Corona, CA 92882, USA",
+        "phone": "(714) 658-9137",
+        "website": "https://iegrabbars.com/",
+        "rating": 5,
+        "reviews": 422,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official homepage states that installations serve California’s Inland Empire; the records were on Phoenix, San Diego, and San Jose pages.",
+      "evidence": "https://iegrabbars.com/"
+    },
+    {
+      "city_slug": "san-jose-ca",
+      "original_index": 5,
+      "record": {
+        "name": "IE Grab Bars-Grab Bar Installers",
+        "address": "134 Pueblo Rd, Corona, CA 92882, USA",
+        "phone": "(714) 658-9137",
+        "website": "https://iegrabbars.com/",
+        "rating": 5,
+        "reviews": 422,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official homepage states that installations serve California’s Inland Empire; the records were on Phoenix, San Diego, and San Jose pages.",
+      "evidence": "https://iegrabbars.com/"
+    },
+    {
+      "city_slug": "las-vegas-nv",
+      "original_index": 21,
+      "record": {
+        "name": "Affordable Stairlifts",
+        "address": "639 Lofstrand Ln, Rockville, MD 20850, USA",
+        "phone": "(301) 996-1798",
+        "website": "https://www.affordablestairlifts.com/",
+        "rating": 5,
+        "reviews": 18,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Official homepage identifies a Washington, DC-area stairlift provider, not a Las Vegas provider.",
+      "evidence": "https://www.affordablestairlifts.com/"
+    },
+    {
+      "city_slug": "boston-ma",
+      "original_index": 1,
+      "record": {
+        "name": "Mr. Grab Bar Sarasota",
+        "address": "6151 Lake Osprey Dr rm 300, Sarasota, FL 34240, USA",
+        "phone": "(941) 404-6576",
+        "website": "https://mrgrabbar.com/collections/installation/products/sarasota-grab-bars",
+        "rating": 4.5,
+        "reviews": 15,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official installation page specifically states that this service covers Sarasota-area communities.",
+      "evidence": "https://mrgrabbar.com/collections/installation/products/sarasota-grab-bars"
+    },
+    {
+      "city_slug": "nashville-tn",
+      "original_index": 74,
+      "record": {
+        "name": "Clean Hands Pure Hearts LLC",
+        "address": "1421 Kempsville Rd D, Chesapeake, VA 23320, USA",
+        "phone": "(757) 271-5507",
+        "website": "https://cleanhandspureheartsllc.com/",
+        "rating": 5,
+        "reviews": 14,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Chesapeake, Virginia in-home-care provider was placed in Nashville’s social-program category.",
+      "evidence": "https://cleanhandspureheartsllc.com/"
+    },
+    {
+      "city_slug": "nashville-tn",
+      "original_index": 24,
+      "record": {
+        "name": "Next Day Access Memphis",
+        "address": "2979 Kate Bond Rd, Bartlett, TN 38133, USA",
+        "phone": "(901) 676-7448",
+        "website": "https://www.nextdayaccess.com/memphis-tn/",
+        "rating": 5,
+        "reviews": 170,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Official location page states that this provider serves the Memphis area.",
+      "evidence": "https://www.nextdayaccess.com/memphis-tn/"
+    },
+    {
+      "city_slug": "nashville-tn",
+      "original_index": 26,
+      "record": {
+        "name": "Knoxville Aging In Place",
+        "address": "320 Nancy Lynn Ln #9, Knoxville, TN 37919, USA",
+        "phone": "(865) 637-1735",
+        "website": "https://www.knoxvilleaginginplace.com/",
+        "rating": null,
+        "reviews": null,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official homepage and address identify a Knoxville provider, not a Nashville provider.",
+      "evidence": "https://www.knoxvilleaginginplace.com/"
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "original_index": 17,
+      "record": {
+        "name": "Lone Star Stairlifts - Greater Houston",
+        "address": "16250 State Hwy 3 Ste A3, Webster, TX 77598, USA",
+        "phone": "(281) 538-1215",
+        "website": "https://www.greaterhoustonstairlifts.com/",
+        "rating": 5,
+        "reviews": 67,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Business name, address, and official domain identify Greater Houston service; Houston-area page records are retained.",
+      "evidence": "https://www.greaterhoustonstairlifts.com/"
+    },
+    {
+      "city_slug": "dallas-tx",
+      "original_index": 19,
+      "record": {
+        "name": "Lone Star Stairlifts - Greater Houston",
+        "address": "16250 State Hwy 3 Ste A3, Webster, TX 77598, USA",
+        "phone": "(281) 538-1215",
+        "website": "https://www.greaterhoustonstairlifts.com/",
+        "rating": 5,
+        "reviews": 67,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Business name, address, and official domain identify Greater Houston service; Houston-area page records are retained.",
+      "evidence": "https://www.greaterhoustonstairlifts.com/"
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "original_index": 1,
+      "record": {
+        "name": "DFW Grab Bars",
+        "address": "1812 Amber Ln, Carrollton, TX 75007, USA",
+        "phone": "(214) 585-3326",
+        "website": "https://www.dfwgrabbars.com/",
+        "rating": 5,
+        "reviews": 109,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Business name, Carrollton address, and official domain identify Dallas–Fort Worth service; the McKinney record is retained.",
+      "evidence": "https://www.dfwgrabbars.com/"
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "original_index": 8,
+      "record": {
+        "name": "DFW Grab Bars",
+        "address": "1812 Amber Ln, Carrollton, TX 75007, USA",
+        "phone": "(214) 585-3326",
+        "website": "https://www.dfwgrabbars.com/",
+        "rating": 5,
+        "reviews": 109,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Business name, Carrollton address, and official domain identify Dallas–Fort Worth service; the McKinney record is retained.",
+      "evidence": "https://www.dfwgrabbars.com/"
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "original_index": 9,
+      "record": {
+        "name": "Texas Senior Safety",
+        "address": "21077 Kingsland Blvd, Katy, TX 77450, USA",
+        "phone": "(737) 888-4900",
+        "website": "https://txseniorsafety.com/services/houston/",
+        "rating": 4.8,
+        "reviews": 18,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official service URL and Katy address identify Houston-area service; Fulshear and Katy records are retained.",
+      "evidence": "https://txseniorsafety.com/services/houston/"
+    },
+    {
+      "city_slug": "frisco-tx",
+      "original_index": 46,
+      "record": {
+        "name": "Texas Senior Care Transport",
+        "address": "9550 Spring Green Blvd Ste 408 2, Katy, TX 77494, USA",
+        "phone": "(346) 517-6029",
+        "website": "https://www.texasseniorcaretransport.com/",
+        "rating": 5,
+        "reviews": 13,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "Katy address identifies a Houston-area transportation provider; Fulshear, Katy, and Houston records are retained.",
+      "evidence": "https://www.texasseniorcaretransport.com/"
+    },
+    {
+      "city_slug": "fate-tx",
+      "original_index": 51,
+      "record": {
+        "name": "Bromlow Law, PLLC",
+        "address": "24285 Katy Fwy Ste 300, Katy, TX 77494, USA",
+        "phone": "(281) 665-3807",
+        "website": "https://bromlowlaw.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+        "rating": 5,
+        "reviews": 115,
+        "cats": [
+          "legal"
+        ]
+      },
+      "reason": "Katy address identifies a Houston-area firm; Fulshear and Katy records are retained.",
+      "evidence": "https://bromlowlaw.com/"
+    },
+    {
+      "city_slug": "leland-nc",
+      "original_index": 22,
+      "record": {
+        "name": "101 Mobility of Charlotte",
+        "address": "126-A Statesville Blvd, Salisbury, NC 28144, USA",
+        "phone": "(704) 459-4143",
+        "website": "https://www.101mobility.com/charlotte/?utm_source=GBP_Charlotte&utm_medium=organic&y_source=1_MTAzMzU5NzAxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "rating": 5,
+        "reviews": 120,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Official Charlotte location record was attached to the Leland/Wilmington-area page.",
+      "evidence": "https://www.101mobility.com/charlotte/"
+    },
+    {
+      "city_slug": "leland-nc",
+      "original_index": 24,
+      "record": {
+        "name": "Amramp Accessibility of Charlotte",
+        "address": "4004B Sardis Church Rd, Monroe, NC 28110, USA",
+        "phone": "(980) 998-2756",
+        "website": "https://amramp.com/charlotte/?utm_source=gmb&utm_medium=yext",
+        "rating": 4.9,
+        "reviews": 29,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Official Charlotte location record was attached to the Leland/Wilmington-area page.",
+      "evidence": "https://amramp.com/charlotte/"
+    }
+  ]
+}
