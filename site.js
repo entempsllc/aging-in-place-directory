@@ -11,6 +11,27 @@ const CAT_LABELS = {
   legal: "Elder Law & Financial Help"
 };
 
+function escapeHtml(value) {
+  return String(value == null ? "" : value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+function safeWebsiteUrl(value) {
+  if (!value) return "";
+  try {
+    const parsed = new URL(value, window.location.href);
+    return parsed.protocol === "http:" || parsed.protocol === "https:"
+      ? parsed.href
+      : "";
+  } catch (_) {
+    return "";
+  }
+}
+
 /* Render listings on a city page. Expects:
    - <body data-city="anna-tx" data-cityname="Anna" data-state="TX">
    - a #listings container
@@ -28,32 +49,39 @@ function renderListings(filterCat) {
     items = items.filter(l => (l.cats || []).includes(filterCat));
   }
 
+  injectItemListSchema(items);
+
   if (!items.length) {
     container.innerHTML =
-      '<div class="empty-note"><strong>Verified listings coming soon for ' +
-      body.dataset.cityname +
-      '.</strong><br>Local providers: use the “Add Your Business” button above to be included free while the directory grows.</div>';
+      '<div class="empty-note"><strong>Listings coming soon for ' +
+      escapeHtml(body.dataset.cityname) +
+      '.</strong><br>Local providers: use the “Add Your Business” button above to request a free basic listing.</div>';
     return;
   }
 
   container.innerHTML = items.map(l => {
-    const stars = l.rating ? '<span class="rating">★ ' + l.rating.toFixed(1) +
-      (l.reviews ? ' (' + l.reviews + ' reviews)' : '') + '</span> · ' : '';
-    const site = l.website ? ' · <a href="' + l.website + '" rel="nofollow noopener" target="_blank">Website</a>' : '';
-    const tel = l.phone ? '<a class="call" href="tel:' + l.phone.replace(/[^0-9+]/g, '') + '">' + l.phone + '</a>' : '';
+    const hasRating = l.rating !== null && l.rating !== undefined && String(l.rating).trim() !== "";
+    const rating = hasRating ? Number(l.rating) : NaN;
+    const reviewCount = Number(l.reviews);
+    const stars = Number.isFinite(rating) ? '<span class="rating">★ ' + rating.toFixed(1) +
+      (Number.isFinite(reviewCount) && reviewCount > 0 ? ' (' + reviewCount + ' reviews)' : '') + '</span> · ' : '';
+    const websiteUrl = safeWebsiteUrl(l.website);
+    const site = websiteUrl ? ' · <a href="' + escapeHtml(websiteUrl) + '" rel="nofollow noopener" target="_blank">Website</a>' : '';
+    const phoneText = escapeHtml(l.phone || "");
+    const phoneHref = String(l.phone || "").replace(/[^0-9+]/g, '');
+    const tel = phoneHref ? '<a class="call" href="tel:' + phoneHref + '">' + phoneText + '</a>' : '';
     const cats = (l.cats || []).map(c => CAT_LABELS[c] || c).join(' · ');
     return '<article class="listing">' +
-      '<h3>' + l.name + '</h3>' +
-      '<div class="meta">' + stars + (l.address || '') + '</div>' +
+      '<h3>' + escapeHtml(l.name) + '</h3>' +
+      '<div class="meta">' + stars + escapeHtml(l.address || '') + '</div>' +
       '<div class="meta">' + tel + site + '</div>' +
-      (cats ? '<div class="cats">' + cats + '</div>' : '') +
+      (cats ? '<div class="cats">' + escapeHtml(cats) + '</div>' : '') +
       '</article>';
   }).join('');
-
-  injectItemListSchema(items);
 }
 
-/* JSON-LD ItemList of LocalBusiness — injected from live data */
+/* JSON-LD ItemList of directory organizations. Ratings are intentionally omitted:
+   directory pages are not first-party review pages for the listed organizations. */
 function injectItemListSchema(items) {
   const old = document.getElementById("itemlist-schema");
   if (old) old.remove();
@@ -62,22 +90,20 @@ function injectItemListSchema(items) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "itemListElement": items.map((l, i) => ({
-      "@type": "ListItem",
-      "position": i + 1,
-      "item": {
-        "@type": "HomeAndConstructionBusiness",
-        "name": l.name,
-        "address": l.address || undefined,
-        "telephone": l.phone || undefined,
-        "url": l.website || undefined,
-        "aggregateRating": l.rating ? {
-          "@type": "AggregateRating",
-          "ratingValue": l.rating,
-          "reviewCount": l.reviews || 1
-        } : undefined
-      }
-    }))
+    "itemListElement": items.map((l, i) => {
+      const websiteUrl = safeWebsiteUrl(l.website);
+      return {
+        "@type": "ListItem",
+        "position": i + 1,
+        "item": {
+          "@type": "Organization",
+          "name": String(l.name || ""),
+          "address": l.address ? String(l.address) : undefined,
+          "telephone": l.phone ? String(l.phone) : undefined,
+          "url": websiteUrl || undefined
+        }
+      };
+    })
   };
   const s = document.createElement("script");
   s.type = "application/ld+json";
