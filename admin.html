@@ -16,7 +16,18 @@
   #status { margin-top:12px; font-weight:700; color: var(--pine); white-space:pre-line; }
   #gate { max-width:420px; margin:80px auto; }
 </style>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9251992510412646" crossorigin="anonymous"></script>
+<script>
+/* The data-preparation tool is intentionally disabled on the public GitHub Pages host.
+   Run a local copy from file://, localhost, or 127.0.0.1 with a restricted Places API key. */
+if (location.protocol === "http:" || location.protocol === "https:") {
+  const localHosts = new Set(["localhost", "127.0.0.1", "[::1]"]);
+  if (!localHosts.has(location.hostname)) {
+    window.addEventListener("DOMContentLoaded", () => {
+      document.body.innerHTML = '<main id="public-host-disabled" class="wrap" style="padding:80px 20px;max-width:760px"><div class="panel"><h1>Administrative tool disabled</h1><p>This internal data-preparation tool is not available on the public website. Provider corrections can be submitted through the public corrections page.</p><p><a class="btn" href="corrections.html">Request a correction</a></p></div></main>';
+    });
+  }
+}
+</script>
 </head>
 <body>
 
@@ -93,7 +104,7 @@
     <ul style="margin-left:20px; color:#4B5A52;">
       <li>Uses Places API (New) Text Search — enable "Places API (New)" in Google Cloud Console and allow your domain (and localhost/file origins while testing) in key restrictions.</li>
       <li>Results are de-duplicated across searches; a business matching several searches gets multiple category tags.</li>
-      <li>Cost guardrail: each city fetch makes 11 requests (5 home-modification + 6 care/transport/social/legal searches). All 35 cities ≈ 385 requests, still comfortably inside the free monthly credit.</li>
+      <li>Each city fetch makes 11 requests. Review current Google Maps Platform pricing, quotas, key restrictions, and billing controls before running a batch.</li>
       <li>Review results before committing — drop anything that clearly isn't a real service provider.</li>
     </ul>
   </div>
@@ -102,18 +113,18 @@
 </div>
 
 <script>
-/* --- simple gate (matches your other directory admin pattern) ---
-   Default password: aip2026! — change the hash below.
-   To make a new hash, run in browser console:
-   crypto.subtle.digest('SHA-256', new TextEncoder().encode('yourpassword')).then(b=>console.log([...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join(''))) */
-// SHA-256 hash of the admin password. Default password: aip2026!
-// To change it, hash your new password (instructions above) and replace PW_HASH.
-const PW_HASH = "836646a391205aefe9c2d93226e12192899477c982d7488d901d8844db6b7a11";
+/* Local-only gate. Set a private SHA-256 hash in your uncommitted local copy before using this tool.
+   Do not commit a working password or hash to the public repository. */
+const PW_HASH = "";
 async function sha256(str){
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
   return [...new Uint8Array(buf)].map(x=>x.toString(16).padStart(2,'0')).join('');
 }
 async function checkPw(){
+  if (!PW_HASH) {
+    alert('This local copy has no admin password configured. Set a private PW_HASH locally before use.');
+    return;
+  }
   const h = await sha256(document.getElementById('pw').value);
   if(h === PW_HASH){
     document.getElementById('gate').style.display='none';
