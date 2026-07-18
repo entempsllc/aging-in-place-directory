@@ -2,12 +2,13 @@
    AGING IN PLACE DIRECTORY — CENTRAL LISTINGS DATA
    =========================================================
    HOW TO POPULATE:
-   1. Open admin.html in your browser (password protected).
-   2. Enter your Google Places API key and pick a city.
-   3. Click "Fetch listings" — the tool runs all category
-      searches and outputs a ready-to-paste block.
-   4. Paste that block into the matching city array below.
-   5. Commit + push. Every city page reads from this file.
+   1. Work from a local clone; the public admin tool is disabled.
+   2. Configure a private local password hash and restricted Places API key.
+   3. Fetch a city, then review every result for relevance, service area,
+      duplicates, and current contact details before updating this source.
+   4. Run node scripts/split-listings.js to generate city payloads.
+   5. Run the test suites before committing. Public city pages load the
+      generated data/<city-slug>.js files, not this full source file.
 
    Categories used across the site:
    "bathroom"  = Grab bars & bathroom safety
@@ -25,28 +26,6 @@ const LISTINGS = {
       "website": "https://www.homedepot.com/l/Anna/TX/Anna/75409/597?emt=MSGoogleMaps",
       "rating": 4.5,
       "reviews": 243,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Gar Hole",
-      "address": "106 Houston St, Anna, TX 75409, USA",
-      "phone": "(469) 301-6284",
-      "website": "http://garhole.net/",
-      "rating": 4.8,
-      "reviews": 427,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Flying J Travel Center",
-      "address": "1700 N US Hwy 75, Anna, TX 75409, USA",
-      "phone": "(972) 924-2035",
-      "website": "https://locations.pilotflyingj.com/us/tx/anna/1700-n-us-hwy-75",
-      "rating": 3.8,
-      "reviews": 1635,
       "cats": [
         "bathroom"
       ]
@@ -403,17 +382,6 @@ const LISTINGS = {
       "website": "https://wickerplumbing.com/",
       "rating": 4.8,
       "reviews": 794,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Independent Home Walk-in Tubs",
-      "address": "59 Hempstead Gardens Dr, West Hempstead, NY 11552, USA",
-      "phone": "(888) 239-1058",
-      "website": "https://independenthome.com/",
-      "rating": 3.9,
-      "reviews": 21,
       "cats": [
         "tubs"
       ]
@@ -909,17 +877,6 @@ const LISTINGS = {
       "website": "https://www.rossandshoalmire.com/offices/tyler-texas-elder-law-and-estate-planning-attorneys.cfm",
       "rating": 4.9,
       "reviews": 27,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Bromlow Law, PLLC",
-      "address": "24285 Katy Fwy Ste 300, Katy, TX 77494, USA",
-      "phone": "(281) 665-3807",
-      "website": "https://bromlowlaw.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
-      "rating": 5,
-      "reviews": 115,
       "cats": [
         "legal"
       ]
@@ -1728,17 +1685,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Lone Star Stairlifts - Greater Houston",
-      "address": "16250 State Hwy 3 Ste A3, Webster, TX 77598, USA",
-      "phone": "(281) 538-1215",
-      "website": "https://www.greaterhoustonstairlifts.com/",
-      "rating": 5,
-      "reviews": 67,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
       "name": "Ascend Residential Elevators & Lifts",
       "address": "2910 Belmeade Dr #101, Carrollton, TX 75006, USA",
       "phone": "(214) 763-9060",
@@ -1756,17 +1702,6 @@ const LISTINGS = {
       "website": "https://fjrstairanddoor.com/",
       "rating": 5,
       "reviews": 59,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Southern Stairlifts",
-      "address": "13 Farringdon Dr, Greenville, SC 29615, USA",
-      "phone": "(864) 979-4148",
-      "website": "https://southernstairlifts.com/greenville/",
-      "rating": 5,
-      "reviews": 22,
       "cats": [
         "stairs"
       ]
@@ -1857,17 +1792,6 @@ const LISTINGS = {
       "reviews": 79,
       "cats": [
         "stairs"
-      ]
-    },
-    {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
       ]
     },
     {
@@ -2822,17 +2746,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Texas Senior Care Transport",
-      "address": "9550 Spring Green Blvd Ste 408 2, Katy, TX 77494, USA",
-      "phone": "(346) 517-6029",
-      "website": "https://www.texasseniorcaretransport.com/",
-      "rating": 5,
-      "reviews": 13,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
       "name": "CareTrips",
       "address": "1616 Gateway Blvd, Richardson, TX 75080, USA",
       "phone": "(214) 238-9100",
@@ -3039,17 +2952,6 @@ const LISTINGS = {
       "website": "https://txseniorsafety.com/services/houston/",
       "rating": 4.8,
       "reviews": 18,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "DFW Grab Bars",
-      "address": "1812 Amber Ln, Carrollton, TX 75007, USA",
-      "phone": "(214) 585-3326",
-      "website": "https://www.dfwgrabbars.com/",
-      "rating": 5,
-      "reviews": 109,
       "cats": [
         "bathroom"
       ]
@@ -3373,17 +3275,6 @@ const LISTINGS = {
       "reviews": 34,
       "cats": [
         "stairs"
-      ]
-    },
-    {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
       ]
     },
     {
@@ -4896,34 +4787,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "101 Mobility of Charlotte",
-      "address": "126-A Statesville Blvd, Salisbury, NC 28144, USA",
-      "phone": "(704) 459-4143",
-      "website": "https://www.101mobility.com/charlotte/?utm_source=GBP_Charlotte&utm_medium=organic&y_source=1_MTAzMzU5NzAxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "rating": 5,
-      "reviews": 120,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
       "name": "Go mobility NC, LLC",
       "address": "400 Flagg Rd, Holly Springs, NC 27540, USA",
       "phone": "(919) 244-2025",
       "website": "https://gomobilitync.com/",
       "rating": 4.6,
       "reviews": 12,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Amramp Accessibility of Charlotte",
-      "address": "4004B Sardis Church Rd, Monroe, NC 28110, USA",
-      "phone": "(980) 998-2756",
-      "website": "https://amramp.com/charlotte/?utm_source=gmb&utm_medium=yext",
-      "rating": 4.9,
-      "reviews": 29,
       "cats": [
         "stairs"
       ]
@@ -6228,17 +6097,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Aging At Home, LTD.",
       "address": "142 Mineola Blvd, Mineola, NY 11501, USA",
       "phone": "(516) 746-6451",
@@ -7199,34 +7057,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Active Homes Certified Aging In Place Modifications",
       "address": "3435 Wilshire Blvd #144, Los Angeles, CA 90010, USA",
       "phone": "(855) 924-7663",
       "website": "http://aginginplacemods.com/",
       "rating": 1,
       "reviews": 1,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -9882,17 +9718,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "IE Grab Bars-Grab Bar Installers",
-      "address": "134 Pueblo Rd, Corona, CA 92882, USA",
-      "phone": "(714) 658-9137",
-      "website": "https://iegrabbars.com/",
-      "rating": 5,
-      "reviews": 422,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Aqua Therapy Walk In Tubs & Showers Phoenix",
       "address": "310 W Hatcher Rd, Phoenix, AZ 85021, USA",
       "phone": "(602) 607-0404",
@@ -10135,34 +9960,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Phoenix Home Remodeling",
       "address": "6700 W Chicago St #1, Chandler, AZ 85226, USA",
       "phone": "(623) 243-8583",
       "website": "https://phxhomeremodeling.com/?utm_source=google&utm_medium=organic&utm_content=gmb-map&utm_campaign=gmb-map",
       "rating": 5,
       "reviews": 132,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -11849,28 +11652,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "DFW Grab Bars",
-      "address": "1812 Amber Ln, Carrollton, TX 75007, USA",
-      "phone": "(214) 585-3326",
-      "website": "https://www.dfwgrabbars.com/",
-      "rating": 5,
-      "reviews": 109,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Texas Senior Safety",
-      "address": "21077 Kingsland Blvd, Katy, TX 77450, USA",
-      "phone": "(737) 888-4900",
-      "website": "https://txseniorsafety.com/services/houston/",
-      "rating": 4.8,
-      "reviews": 18,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Avalon Walkin Tubs",
       "address": "6931 Evening Sun St, San Antonio, TX 78238, USA",
       "phone": "(512) 988-0449",
@@ -12789,17 +12570,6 @@ const LISTINGS = {
     }
   ],
   "san-diego-ca": [
-    {
-      "name": "IE Grab Bars-Grab Bar Installers",
-      "address": "134 Pueblo Rd, Corona, CA 92882, USA",
-      "phone": "(714) 658-9137",
-      "website": "https://iegrabbars.com/",
-      "rating": 5,
-      "reviews": 422,
-      "cats": [
-        "bathroom"
-      ]
-    },
     {
       "name": "Bath Fitter",
       "address": "221 N Johnson Ave, El Cajon, CA 92020, USA",
@@ -13861,17 +13631,6 @@ const LISTINGS = {
       "website": "https://metroplexstairlifts.com/",
       "rating": 5,
       "reviews": 27,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Lone Star Stairlifts - Greater Houston",
-      "address": "16250 State Hwy 3 Ste A3, Webster, TX 77598, USA",
-      "phone": "(281) 538-1215",
-      "website": "https://www.greaterhoustonstairlifts.com/",
-      "rating": 5,
-      "reviews": 67,
       "cats": [
         "stairs"
       ]
@@ -15980,17 +15739,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Care Mountain Fort Worth",
       "address": "777 Main St Ste 600, Fort Worth, TX 76102, USA",
       "phone": "(817) 552-3914",
@@ -16874,17 +16622,6 @@ const LISTINGS = {
       "reviews": 465,
       "cats": [
         "stairs"
-      ]
-    },
-    {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
       ]
     },
     {
@@ -18702,17 +18439,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Green Men Restoration Group",
       "address": "16 S Keystone Ave, Indianapolis, IN 46201, USA",
       "phone": "(317) 339-0213",
@@ -18755,17 +18481,6 @@ const LISTINGS = {
       "cats": [
         "remodel",
         "transport"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
-      "cats": [
-        "remodel"
       ]
     },
     {
@@ -19717,17 +19432,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Aging in Place Home Care",
       "address": "3748 Selvante St, Pleasanton, CA 94566, USA",
       "phone": "(925) 699-3880",
@@ -19756,17 +19460,6 @@ const LISTINGS = {
       "website": "https://www.ioaging.org/",
       "rating": 4.3,
       "reviews": 78,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -20559,17 +20252,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "ICS Quality Homes",
       "address": "301 Morningside Cir Shop, Hutto, TX 78634, USA",
       "phone": "(512) 551-9536",
@@ -20610,17 +20292,6 @@ const LISTINGS = {
       "website": "https://aceremodelingtx.com/",
       "rating": 4.9,
       "reviews": 162,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -21407,28 +21078,6 @@ const LISTINGS = {
       "reviews": 79,
       "cats": [
         "stairs"
-      ]
-    },
-    {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
-      "cats": [
-        "remodel"
       ]
     },
     {
@@ -22438,17 +22087,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "A Place At Home",
       "address": "8310 S Valley Hwy Ste 300, Englewood, CO 80112, USA",
       "phone": "(720) 726-3799",
@@ -22466,17 +22104,6 @@ const LISTINGS = {
       "website": "http://www.ageinplacecolorado.net/",
       "rating": null,
       "reviews": null,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -24303,39 +23930,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Next Day Access Memphis",
-      "address": "2979 Kate Bond Rd, Bartlett, TN 38133, USA",
-      "phone": "(901) 676-7448",
-      "website": "https://www.nextdayaccess.com/memphis-tn/",
-      "rating": 5,
-      "reviews": 170,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Knoxville Aging In Place",
-      "address": "320 Nancy Lynn Ln #9, Knoxville, TN 37919, USA",
-      "phone": "(865) 637-1735",
-      "website": "https://www.knoxvilleaginginplace.com/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Improveit Home Remodeling",
       "address": "701 Hill Ave, Nashville, TN 37210, USA",
       "phone": "(629) 262-0467",
@@ -24397,17 +23991,6 @@ const LISTINGS = {
       "website": "https://prsnashville.com/location/smyrna/",
       "rating": 5,
       "reviews": 62,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -24853,17 +24436,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Clean Hands Pure Hearts LLC",
-      "address": "1421 Kempsville Rd D, Chesapeake, VA 23320, USA",
-      "phone": "(757) 271-5507",
-      "website": "https://cleanhandspureheartsllc.com/",
-      "rating": 5,
-      "reviews": 14,
-      "cats": [
-        "social"
-      ]
-    },
-    {
       "name": "Tennessee Association of Adult Day Services",
       "address": "1808 8th Ave S, Nashville, TN 27203, USA",
       "phone": "(615) 383-3399",
@@ -25260,17 +24832,6 @@ const LISTINGS = {
       "reviews": 48,
       "cats": [
         "stairs"
-      ]
-    },
-    {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
       ]
     },
     {
@@ -27130,17 +26691,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Affordable Stairlifts",
-      "address": "639 Lofstrand Ln, Rockville, MD 20850, USA",
-      "phone": "(301) 996-1798",
-      "website": "https://www.affordablestairlifts.com/",
-      "rating": 5,
-      "reviews": 18,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
       "name": "United Access",
       "address": "6001 S Decatur Blvd Ste N, Las Vegas, NV 89118, USA",
       "phone": "(702) 434-3030",
@@ -27936,17 +27486,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Mr. Grab Bar Sarasota",
-      "address": "6151 Lake Osprey Dr rm 300, Sarasota, FL 34240, USA",
-      "phone": "(941) 404-6576",
-      "website": "https://mrgrabbar.com/collections/installation/products/sarasota-grab-bars",
-      "rating": 4.5,
-      "reviews": 15,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Best Handyman Boston",
       "address": "68 St Andrew Rd #3, Boston, MA 02128, USA",
       "phone": "(857) 201-6083",
@@ -28246,34 +27785,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Aging-In-Place Remodeling",
-      "address": "620 Venture St D, Escondido, CA 92029, USA",
-      "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
-      "rating": 4.4,
-      "reviews": 18,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
       "name": "Executive Office of Elder Affairs",
       "address": "1 Ashburton Pl #517, Boston, MA 02108, USA",
       "phone": "(617) 727-7750",
       "website": "https://www.mass.gov/orgs/executive-office-of-elder-affairs",
       "rating": 2.1,
       "reviews": 14,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Better Place Design & Build",
-      "address": "4655 Cass St, San Diego, CA 92109, USA",
-      "phone": "(858) 355-9766",
-      "website": "https://www.betterplacedesignbuild.com/",
-      "rating": 4.6,
-      "reviews": 33,
       "cats": [
         "remodel"
       ]
@@ -28927,17 +28444,6 @@ const LISTINGS = {
       "website": "http://www.pacesupply.com/",
       "rating": 4.4,
       "reviews": 49,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "IE Grab Bars-Grab Bar Installers",
-      "address": "134 Pueblo Rd, Corona, CA 92882, USA",
-      "phone": "(714) 658-9137",
-      "website": "https://iegrabbars.com/",
-      "rating": 5,
-      "reviews": 422,
       "cats": [
         "bathroom"
       ]
@@ -29790,18 +29296,5 @@ const LISTINGS = {
         "legal"
       ]
     }
-  ],
+  ]
 };
-
-/* ---------------------------------------------------------
-   LISTING OBJECT FORMAT (what admin.html outputs):
-   {
-     name: "Business Name",
-     address: "123 Main St, City, TX 75409",
-     phone: "(972) 555-0100",
-     website: "https://example.com",
-     rating: 4.8,          // Google rating, or null
-     reviews: 42,          // review count, or null
-     cats: ["bathroom", "stairs"]   // one or more category keys
-   }
-   --------------------------------------------------------- */
