@@ -1,0 +1,756 @@
+{
+  "audit_date": "2026-07-19",
+  "status": "approved and applied to active listings on 2026-07-19",
+  "scope": "High-confidence category mismatches remaining after the July 18 cleanup",
+  "proposed_removal_count": 39,
+  "proposed_removals": [
+    {
+      "city_slug": "anna-tx",
+      "source_index": 13,
+      "record": {
+        "name": "Joyous Tots Daycare, Anna Texas",
+        "address": "1021 Acacia Dr, Anna, TX 75409, USA",
+        "phone": "(214) 250-2695",
+        "website": "",
+        "rating": 5,
+        "reviews": 4,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare, youth, or school-focused business is not a senior center or adult day program.",
+      "evidence": "Name/category mismatch: 'Joyous Tots Daycare, Anna Texas' is categorized as senior centers/day programs.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "anna-tx",
+      "source_index": 15,
+      "record": {
+        "name": "Christian Care Academy Inc",
+        "address": "3220 N Powell Pkwy, Anna, TX 75409, USA",
+        "phone": "(214) 831-1383",
+        "website": "http://christiancareacademyinc.com/",
+        "rating": 4.9,
+        "reviews": 32,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare, youth, or school-focused business is not a senior center or adult day program.",
+      "evidence": "Name/category mismatch: 'Christian Care Academy Inc' is categorized as senior centers/day programs.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "melissa-tx",
+      "source_index": 0,
+      "record": {
+        "name": "Melissa Ace Hardware",
+        "address": "2801 McKinney St, Melissa, TX 75454, USA",
+        "phone": "(469) 425-5125",
+        "website": "http://www.acehardware.com/store-details/18751?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=18751",
+        "rating": 4.9,
+        "reviews": 68,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Melissa Ace Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "melissa-tx",
+      "source_index": 1,
+      "record": {
+        "name": "Buc-ee's",
+        "address": "1550 Central Expy, Melissa, TX 75454, USA",
+        "phone": "(979) 238-6390",
+        "website": "http://www.buc-ees.com/",
+        "rating": 4.6,
+        "reviews": 5919,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: \"Buc-ee's\" is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "melissa-tx",
+      "source_index": 2,
+      "record": {
+        "name": "Walmart Supercenter",
+        "address": "1950 McKinney St, Melissa, TX 75454, USA",
+        "phone": "(945) 234-6957",
+        "website": "https://www.walmart.com/store/1484-melissa-tx/?veh=seo_loc",
+        "rating": 4.3,
+        "reviews": 155,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Walmart Supercenter' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "melissa-tx",
+      "source_index": 8,
+      "record": {
+        "name": "CheerLand-Melissa",
+        "address": "2111 McKinney St Ste 200, Melissa, TX 75454, USA",
+        "phone": "(972) 535-5588",
+        "website": "https://www.cheerlandusa.com/",
+        "rating": 4.9,
+        "reviews": 522,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare, youth, or school-focused business is not a senior center or adult day program.",
+      "evidence": "Name/category mismatch: 'CheerLand-Melissa' is categorized as senior centers/day programs.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "melissa-tx",
+      "source_index": 9,
+      "record": {
+        "name": "N4 Montessori Academy of Melissa",
+        "address": "2045 McKinney St, Melissa, TX 75454, USA",
+        "phone": "(469) 591-1400",
+        "website": "https://n4montessori.com/melissa/",
+        "rating": 4.7,
+        "reviews": 27,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare, youth, or school-focused business is not a senior center or adult day program.",
+      "evidence": "Name/category mismatch: 'N4 Montessori Academy of Melissa' is categorized as senior centers/day programs.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "fate-tx",
+      "source_index": 31,
+      "record": {
+        "name": "Highview Learning Center",
+        "address": "907 W Holiday, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-8441",
+        "website": "https://highviewlearningcenter.com/daycare-locations/fate/?y_source=1_MTA4MDc3MzM1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "rating": 3.6,
+        "reviews": 33,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare, youth, or school-focused business is not a senior center or adult day program.",
+      "evidence": "Name/category mismatch: 'Highview Learning Center' is categorized as senior centers/day programs.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "source_index": 2,
+      "record": {
+        "name": "Ace Hardware",
+        "address": "1013 S Goliad St, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-2237",
+        "website": "http://www.acehardware.com/store-details/02067?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=02067",
+        "rating": 4.5,
+        "reviews": 480,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Ace Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "source_index": 5,
+      "record": {
+        "name": "Moore Supply Co. & Facets",
+        "address": "424 Metro Park Dr Ste 200, McKinney, TX 75071, USA",
+        "phone": "(972) 562-4996",
+        "website": "http://www.mooresupplymckinney.com/",
+        "rating": 4.4,
+        "reviews": 42,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Moore Supply Co. & Facets' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "source_index": 7,
+      "record": {
+        "name": "Fulshear Ace Hardware",
+        "address": "8411 FM 359 RD S, Bldg, 8411A FM359, Fulshear, TX 77441, USA",
+        "phone": "(281) 533-8571",
+        "website": "",
+        "rating": 4.5,
+        "reviews": 282,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Fulshear Ace Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "leland-nc",
+      "source_index": 4,
+      "record": {
+        "name": "Leland Ace Hardware",
+        "address": "117 B Village Rd NE, Leland, NC 28451, USA",
+        "phone": "(910) 408-1200",
+        "website": "http://www.lelandacehardware.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=15279",
+        "rating": 4.6,
+        "reviews": 545,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Leland Ace Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "wilmington-nc",
+      "source_index": 5,
+      "record": {
+        "name": "Longley Supply Company",
+        "address": "2018 Oleander Dr, Wilmington, NC 28403, USA",
+        "phone": "(910) 762-7793",
+        "website": "http://www.longleysupplycompany.com/",
+        "rating": 4.6,
+        "reviews": 36,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Longley Supply Company' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "wilmington-nc",
+      "source_index": 6,
+      "record": {
+        "name": "Craft American Hardware, Inc.",
+        "address": "7002 Wrightsville Ave, Wilmington, NC 28403, USA",
+        "phone": "(910) 256-4782",
+        "website": "https://www.doitbest.com/crafthardware/",
+        "rating": 4.7,
+        "reviews": 135,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Craft American Hardware, Inc.' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "new-york-ny",
+      "source_index": 5,
+      "record": {
+        "name": "M & D Shapiro True Value Hardware",
+        "address": "7 Great Jones St, New York, NY 10012, USA",
+        "phone": "(212) 256-0050",
+        "website": "http://shapirohardware.com/",
+        "rating": 4,
+        "reviews": 75,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'M & D Shapiro True Value Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "new-york-ny",
+      "source_index": 8,
+      "record": {
+        "name": "The Gordon Supply Co.",
+        "address": "131-15 Merrick Blvd, Jamaica, NY 11434, USA",
+        "phone": "(718) 527-8827",
+        "website": "http://www.gordonsupply.com/",
+        "rating": 5,
+        "reviews": 5,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'The Gordon Supply Co.' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "philadelphia-pa",
+      "source_index": 3,
+      "record": {
+        "name": "Rittenhouse Hardware",
+        "address": "2001 Pine St, Philadelphia, PA 19103, USA",
+        "phone": "(215) 735-6311",
+        "website": "https://rittenhousehw.com/",
+        "rating": 4.9,
+        "reviews": 516,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Rittenhouse Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "philadelphia-pa",
+      "source_index": 7,
+      "record": {
+        "name": "Fairmount Hardware",
+        "address": "2011 Fairmount Ave, Philadelphia, PA 19130, USA",
+        "phone": "(215) 765-5829",
+        "website": "http://www.acehardware.com/store-details/15977?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=15977",
+        "rating": 4.5,
+        "reviews": 668,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Fairmount Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "philadelphia-pa",
+      "source_index": 8,
+      "record": {
+        "name": "3rd St. Hardware Ace",
+        "address": "153 N 3rd St, Philadelphia, PA 19106, USA",
+        "phone": "(267) 541-2110",
+        "website": "http://www.3rdstreethardware.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=17348",
+        "rating": 4.6,
+        "reviews": 173,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: '3rd St. Hardware Ace' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "source_index": 7,
+      "record": {
+        "name": "Moore Supply",
+        "address": "817 N Frio St, San Antonio, TX 78207, USA",
+        "phone": "(210) 342-9612",
+        "website": "http://www.mooresupply.com/",
+        "rating": 4.1,
+        "reviews": 152,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Moore Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "fort-worth-tx",
+      "source_index": 5,
+      "record": {
+        "name": "Apex Supply Company",
+        "address": "2200 Montgomery St, Fort Worth, TX 76107, USA",
+        "phone": "(817) 732-8183",
+        "website": "https://apexsupplyco.com/pages/location/fort-worth-cultural-district",
+        "rating": 4.7,
+        "reviews": 45,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Apex Supply Company' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "fort-worth-tx",
+      "source_index": 8,
+      "record": {
+        "name": "Ready Cable Inc. - Post Tension, Rebar, & Lumber",
+        "address": "4416 Keller Hicks Rd, Fort Worth, TX 76244, USA",
+        "phone": "(817) 379-6553",
+        "website": "http://www.readycable.net/",
+        "rating": 4.3,
+        "reviews": 62,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Ready Cable Inc. - Post Tension, Rebar, & Lumber' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "columbus-oh",
+      "source_index": 68,
+      "record": {
+        "name": "Columbus Adult Daycare",
+        "address": "5930 Sharon Woods Blvd, Columbus, OH 43229, USA",
+        "phone": "(614) 392-2017",
+        "website": "http://www.chaturbate.com/",
+        "rating": 2,
+        "reviews": 2,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Website points to an adult-content domain and is unsafe/inappropriate for this directory.",
+      "evidence": "Unsafe website URL: http://www.chaturbate.com/",
+      "status": "pending owner approval",
+      "action": "quarantined"
+    },
+    {
+      "city_slug": "charlotte-nc",
+      "source_index": 2,
+      "record": {
+        "name": "Little Hardware",
+        "address": "1400 S Mint St, Charlotte, NC 28203, USA",
+        "phone": "(704) 333-3133",
+        "website": "https://www.littlehardware.com/",
+        "rating": 4.7,
+        "reviews": 684,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Little Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "charlotte-nc",
+      "source_index": 3,
+      "record": {
+        "name": "Ferguson Plumbing Supply",
+        "address": "129 W Summit Ave, Charlotte, NC 28203, USA",
+        "phone": "(704) 332-7355",
+        "website": "https://www.ferguson.com/store/nc/charlotte/plumbingpvf-1150?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
+        "rating": 3.7,
+        "reviews": 77,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Ferguson Plumbing Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "source_index": 2,
+      "record": {
+        "name": "Discount Builders Supply & Hardware",
+        "address": "1695 Mission St, San Francisco, CA 94103, USA",
+        "phone": "(415) 621-8511",
+        "website": "https://www.discountbuilderssupplysf.com/",
+        "rating": 4.6,
+        "reviews": 1605,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Discount Builders Supply & Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "source_index": 4,
+      "record": {
+        "name": "PACE Supply",
+        "address": "200 Florida St, San Francisco, CA 94103, USA",
+        "phone": "(415) 644-4900",
+        "website": "http://www.pacesupply.com/",
+        "rating": 4.4,
+        "reviews": 31,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'PACE Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "source_index": 5,
+      "record": {
+        "name": "Handy Handyman Hardware",
+        "address": "2075 Market St, San Francisco, CA 94114, USA",
+        "phone": "(415) 934-9010",
+        "website": "http://menlohardware.com/",
+        "rating": 4.5,
+        "reviews": 343,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Handy Handyman Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "seattle-wa",
+      "source_index": 4,
+      "record": {
+        "name": "Chown Hardware Seattle",
+        "address": "2920 1st Ave S, Seattle, WA 98134, USA",
+        "phone": "(206) 973-1879",
+        "website": "https://www.chown.com/seattle-showroom/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=4544d8c8-10e6-4099-b8d8-e47a2862ab15",
+        "rating": 4.2,
+        "reviews": 10,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Chown Hardware Seattle' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "denver-co",
+      "source_index": 5,
+      "record": {
+        "name": "Grainger Industrial Supply",
+        "address": "95 S Tejon St, Denver, CO 80223, USA",
+        "phone": "(800) 472-4643",
+        "website": "https://www.grainger.com/branch/Denver-Branch-216",
+        "rating": 4,
+        "reviews": 163,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Grainger Industrial Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "denver-co",
+      "source_index": 7,
+      "record": {
+        "name": "The Showroom at Rampart Supply",
+        "address": "1480 W 3rd Ave, Denver, CO 80223, USA",
+        "phone": "(303) 962-4333",
+        "website": "https://showroom.rampartsupply.com/",
+        "rating": 4.6,
+        "reviews": 172,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'The Showroom at Rampart Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "denver-co",
+      "source_index": 8,
+      "record": {
+        "name": "Rampart Supply",
+        "address": "285 Rio Grande Blvd, Denver, CO 80223, USA",
+        "phone": "(303) 629-6122",
+        "website": "https://www.rampartsupply.com/",
+        "rating": 4.6,
+        "reviews": 144,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Rampart Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "source_index": 5,
+      "record": {
+        "name": "So-Lo Hardware",
+        "address": "11130 Rojas Dr, El Paso, TX 79935, USA",
+        "phone": "(915) 351-6868",
+        "website": "https://solohardware.shop/",
+        "rating": 5,
+        "reviews": 32,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'So-Lo Hardware' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "source_index": 6,
+      "record": {
+        "name": "Hardware Specialties & Glass Co., Inc.",
+        "address": "214 N Virginia St, El Paso, TX 79901, USA",
+        "phone": "(915) 533-5555",
+        "website": "http://www.hardwarespecialties.net/",
+        "rating": 4.9,
+        "reviews": 150,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Hardware Specialties & Glass Co., Inc.' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "source_index": 59,
+      "record": {
+        "name": "Independent Trucker Services Inc. dba HOLA Transportation Services",
+        "address": "6930 Market Ave Suite A, El Paso, TX 79915, USA",
+        "phone": "(915) 881-9500",
+        "website": "http://www.holatrans.com/",
+        "rating": 4.1,
+        "reviews": 18,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "Freight/trucking service is not senior or non-emergency passenger transportation.",
+      "evidence": "Name/category mismatch: 'Independent Trucker Services Inc. dba HOLA Transportation Services' is categorized as senior transportation.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "boston-ma",
+      "source_index": 3,
+      "record": {
+        "name": "KOHLER Store by Supply New England",
+        "address": "7 Tide St, Boston, MA 02210, USA",
+        "phone": "(617) 202-0068",
+        "website": "https://www.kohler.com/en/locations/massachusetts/boston/kohler-signature-store-by-supply-new-england",
+        "rating": 4.7,
+        "reviews": 81,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'KOHLER Store by Supply New England' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "boston-ma",
+      "source_index": 4,
+      "record": {
+        "name": "Charles Street Supply",
+        "address": "54 Charles St, Boston, MA 02114, USA",
+        "phone": "(617) 367-9046",
+        "website": "http://www.acehardware.com/mystore/index.jsp?store=12226&cid=localstore12226",
+        "rating": 4.7,
+        "reviews": 239,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Charles Street Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "boston-ma",
+      "source_index": 6,
+      "record": {
+        "name": "Apex Rooftop Bar and Lounge",
+        "address": "150 State St, Boston, MA 02109, USA",
+        "phone": "(617) 356-6431",
+        "website": "http://www.apexrooftopbar.com/",
+        "rating": 4.8,
+        "reviews": 1282,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'Apex Rooftop Bar and Lounge' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    },
+    {
+      "city_slug": "san-jose-ca",
+      "source_index": 4,
+      "record": {
+        "name": "PACE Supply",
+        "address": "630 Quinn Ave, San Jose, CA 95112, USA",
+        "phone": "(800) 619-4723",
+        "website": "http://www.pacesupply.com/",
+        "rating": 4.4,
+        "reviews": 49,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail, supply, hospitality, or materials business is not a bathroom-safety installation or aging-in-place provider.",
+      "evidence": "Name/category mismatch: 'PACE Supply' is categorized as bathroom safety.",
+      "status": "pending owner approval",
+      "action": "removed"
+    }
+  ],
+  "applied_summary": {
+    "active_before": 2645,
+    "active_after": 2606,
+    "removed": 38,
+    "quarantined": 1
+  },
+  "applied_at": "2026-07-20"
+}

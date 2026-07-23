@@ -55,8 +55,9 @@ context.renderListings('all');
 assert(!container.innerHTML.includes('<img'), 'listing names must be escaped');
 assert(!container.innerHTML.includes('<script'), 'listing addresses must be escaped');
 assert(container.innerHTML.includes('&lt;img'), 'escaped listing text should remain visible');
-assert(!container.innerHTML.includes('★ 0.0'), 'a missing rating must not render as a zero-star rating');
-assert.strictEqual((container.innerHTML.match(/class="rating"/g) || []).length, 1, 'only listings with real ratings should show rating badges');
+assert(!container.innerHTML.includes('★'), 'third-party ratings must stay hidden until source and freshness are verified');
+assert(!container.innerHTML.includes('100 reviews'), 'third-party review counts must stay hidden');
+assert.strictEqual((container.innerHTML.match(/class="rating"/g) || []).length, 0, 'rating badges must not render');
 assert(injectedSchema, 'an ItemList schema should be injected');
 const schema = JSON.parse(injectedSchema.textContent);
 assert.strictEqual(schema['@type'], 'ItemList');
@@ -65,6 +66,8 @@ assert(!('aggregateRating' in schema.itemListElement[0].item), 'directory must n
 assert(!container.innerHTML.includes('<img'), 'unknown category text must be escaped');
 assert.strictEqual(context.safeWebsiteUrl('javascript:alert(1)'), '', 'javascript URLs must be blocked');
 assert.strictEqual(context.safeWebsiteUrl('data:text/html,<script>alert(1)</script>'), '', 'data URLs must be blocked');
+assert.strictEqual(context.safeWebsiteUrl('https://chaturbate.com/example'), '', 'known adult-content hosts must be blocked');
+assert.strictEqual(context.safeWebsiteUrl('https://m.chaturbate.com/example'), '', 'subdomains of blocked hosts must be blocked');
 
 context.renderListings('bathroom');
 assert.strictEqual(injectedSchema, null, 'an empty category filter must remove stale ItemList schema');

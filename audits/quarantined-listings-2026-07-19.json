@@ -1,0 +1,26 @@
+{
+  "audit_date": "2026-07-19",
+  "status": "not publicly listed; pending identity and legitimate website verification",
+  "records": [
+    {
+      "city_slug": "columbus-oh",
+      "source_index": 68,
+      "record": {
+        "name": "Columbus Adult Daycare",
+        "address": "5930 Sharon Woods Blvd, Columbus, OH 43229, USA",
+        "phone": "(614) 392-2017",
+        "website": "http://www.chaturbate.com/",
+        "rating": 2,
+        "reviews": 2,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Website points to an adult-content domain and is unsafe/inappropriate for this directory.",
+      "evidence": "Unsafe website URL: http://www.chaturbate.com/",
+      "status": "pending owner approval",
+      "action": "quarantined"
+    }
+  ],
+  "quarantined_at": "2026-07-20"
+}

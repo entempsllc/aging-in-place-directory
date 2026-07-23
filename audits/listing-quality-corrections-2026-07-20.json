@@ -1,0 +1,1408 @@
+{
+  "audit_date": "2026-07-20",
+  "status": "applied",
+  "method": "Three independent city-group reviews of all 2,606 active records; only high-confidence mismatches were acted on. Valid organizations with an incorrect category were reclassified instead of removed.",
+  "active_before": 2606,
+  "active_after": 2528,
+  "removed_count": 78,
+  "reclassified_count": 10,
+  "removals": [
+    {
+      "city_slug": "anna-tx",
+      "record": {
+        "name": "The Home Depot",
+        "address": "200 N Central Expy, Anna, TX 75409, USA",
+        "phone": "(945) 777-8200",
+        "website": "https://www.homedepot.com/l/Anna/TX/Anna/75409/597?emt=MSGoogleMaps",
+        "rating": 4.5,
+        "reviews": 243,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "General home-improvement retailer, not a dedicated grab-bar or bathroom-safety installer."
+    },
+    {
+      "city_slug": "anna-tx",
+      "record": {
+        "name": "Parmore Anna",
+        "address": "651 E Finley Blvd, Anna, TX 75409, USA",
+        "phone": "(469) 654-7915",
+        "website": "https://www.parmoreanna.com/?utm_knock=g",
+        "rating": 4.1,
+        "reviews": 56,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "anna-tx",
+      "record": {
+        "name": "hapily ever after",
+        "address": "304 Portina Dr, Anna, TX 75409, USA",
+        "phone": "(346) 452-1773",
+        "website": "https://hapilyeverafterdaycare.netlify.app/",
+        "rating": 5,
+        "reviews": 13,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Website identifies this business as Happily Ever After Daycare, a childcare provider rather than a senior program."
+    },
+    {
+      "city_slug": "melissa-tx",
+      "record": {
+        "name": "Gala at Melissa",
+        "address": "2730 E Melissa Rd, Melissa, TX 75454, USA",
+        "phone": "(214) 856-3574",
+        "website": "https://www.galaatmelissa.com/",
+        "rating": 4.1,
+        "reviews": 21,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "melissa-tx",
+      "record": {
+        "name": "Provision at Melissa",
+        "address": "2650 E Melissa Rd, Melissa, TX 75454, USA",
+        "phone": "(214) 856-3574",
+        "website": "https://www.provisionatmelissa.com/",
+        "rating": 3.8,
+        "reviews": 38,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "melissa-tx",
+      "record": {
+        "name": "Melissa KinderCare",
+        "address": "3404 Sky Rdg Ln, Melissa, TX 75454, USA",
+        "phone": "(469) 905-3690",
+        "website": "https://www.kindercare.com/our-centers/melissa/tx/302158?utm_campaign=kc-lg&utm_source=yext&utm_medium=pro&utm_keyword=&utm_platform=&utm_matchtype=&utm_adgroupid=&utm_content=gmb&y_source=1_MjAxMDI2Mjk1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "rating": 4.5,
+        "reviews": 38,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare and early-education center, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "melissa-tx",
+      "record": {
+        "name": "Melissa Ridge Education Center",
+        "address": "3233 W Fannin Rd, Melissa, TX 75454, USA",
+        "phone": "(972) 837-2901",
+        "website": "http://www.melissaisd.org/schools/melissa-ridge-education-center/",
+        "rating": 4.7,
+        "reviews": 6,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "School-district education center, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "fate-tx",
+      "record": {
+        "name": "Patriot Pool & Spa",
+        "address": "3942 Ruger Dr, Royse City, TX 75189, USA",
+        "phone": "(469) 949-6151",
+        "website": "https://www.patriotpoolandspa.com/locations/rockwall/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+        "rating": 4.8,
+        "reviews": 379,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Swimming-pool and spa business, not a walk-in tub or accessible-shower provider."
+    },
+    {
+      "city_slug": "fate-tx",
+      "record": {
+        "name": "Gala at Fate",
+        "address": "359 Black Oak Ln, Rockwall, TX 75087, USA",
+        "phone": "(469) 654-1850",
+        "website": "https://galaatfate.com/",
+        "rating": 3.3,
+        "reviews": 30,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "fate-tx",
+      "record": {
+        "name": "Fate City Hall",
+        "address": "1900 CD Boren Pkwy, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-4601",
+        "website": "https://www.fatetx.gov/",
+        "rating": 4.3,
+        "reviews": 48,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Municipal administrative office, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "The Home Depot",
+        "address": "765 E Interstate 30, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-2825",
+        "website": "https://www.homedepot.com/l/Rockwall/TX/Rockwall/75087/531?emt=MSGoogleMaps",
+        "rating": 4.2,
+        "reviews": 1987,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "General home-improvement retailer, not a dedicated grab-bar or bathroom-safety installer."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Special Products & Mfg., Inc.",
+        "address": "2625 Discovery Blvd, Rockwall, TX 75032, USA",
+        "phone": "(972) 771-8851",
+        "website": "http://www.spmfg.com/",
+        "rating": 4,
+        "reviews": 42,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Official site identifies it as a precision sheet-metal fabrication company, unrelated to bathroom safety."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Rockwall ISD Transportation",
+        "address": "707 S Clark St, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-1948",
+        "website": "https://www.rockwallisd.com/departments1/transportation/transportation-information",
+        "rating": 3,
+        "reviews": 46,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "School-district student transportation, not senior or medical transportation."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Evergreen at Rockwall",
+        "address": "1325 S Goliad St, Rockwall, TX 75087, USA",
+        "phone": "(469) 472-5321",
+        "website": "http://www.evergreenrockwall.com/",
+        "rating": 4.2,
+        "reviews": 55,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential senior apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Rockwall Nursing Care Center",
+        "address": "206 Storrs St, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-5000",
+        "website": "https://rockwallnursing.com/",
+        "rating": 3.6,
+        "reviews": 35,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential skilled-nursing facility, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Village Green Memory Care Community Rockwall",
+        "address": "1192 T L Townsend Dr, Rockwall, TX 75087, USA",
+        "phone": "(972) 478-0000",
+        "website": "https://villagegreenalzheimerscare.com/rockwall/",
+        "rating": 4.9,
+        "reviews": 25,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential memory-care facility, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "The Standard - Rockwall",
+        "address": "1325 S Goliad St, Rockwall, TX 75087, USA",
+        "phone": "(214) 924-3388",
+        "website": "https://thestandard-rockwall.com/",
+        "rating": 5,
+        "reviews": 2,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential senior apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Alders Rockwall",
+        "address": "1196 T L Townsend Dr, Rockwall, TX 75087, USA",
+        "phone": "(469) 936-1850",
+        "website": "https://www.aldersrockwall.com/?switch_cls[id]=95345&utm_source=gmb&utm_medium=organic",
+        "rating": 4.7,
+        "reviews": 41,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential senior apartment community, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Lakeview Education",
+        "address": "365 W Rusk St Fl 2nd, Rockwall, TX 75087, USA",
+        "phone": "(214) 210-2616",
+        "website": "https://lakevieweducation.com/",
+        "rating": 4.1,
+        "reviews": 21,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Official site provides DWI and offender education classes, not senior programming."
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "record": {
+        "name": "Bright TV Mounting & Home Services",
+        "address": "6100 Eldorado Pkwy, McKinney, TX 75072, USA",
+        "phone": "(945) 336-6598",
+        "website": "https://brighttvservice.com/",
+        "rating": 5,
+        "reviews": 460,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "TV-mounting and general home-services business, not a grab-bar or bathroom-safety specialist."
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "record": {
+        "name": "FJR Stair & Door",
+        "address": "10689 Rose Garden Ct, McKinney, TX 75072, USA",
+        "phone": "(945) 273-2002",
+        "website": "https://fjrstairanddoor.com/",
+        "rating": 5,
+        "reviews": 59,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Official site describes conventional staircase, railing, and door construction—not stairlifts or accessibility ramps."
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "record": {
+        "name": "LCISD - Fulshear Transportation",
+        "address": "29422 FM 1093, Fulshear, TX 77441, USA",
+        "phone": "(832) 223-0551",
+        "website": "http://www.lcisd.org/departments/transportation",
+        "rating": 3,
+        "reviews": 50,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "School-district student transportation, not senior or medical transportation."
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "record": {
+        "name": "Aspen Cove Assisted Living",
+        "address": "31503 Corsham Cv Ct, Fulshear, TX 77441, USA",
+        "phone": "(713) 480-8378",
+        "website": "https://www.aspencoveassistedliving.com/",
+        "rating": 5,
+        "reviews": 44,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential assisted-living facility, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "record": {
+        "name": "The Domain TLC: Private Assisted Living Residence",
+        "address": "5211 Eddy Dr, Fulshear, TX 77441, USA",
+        "phone": "(281) 346-8474",
+        "website": "http://thedomaintlc.com/",
+        "rating": 5,
+        "reviews": 1,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Private assisted-living residence, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "record": {
+        "name": "Del Webb Fulshear- 55+ Active Adult Community",
+        "address": "7733 Lifestyle Blvd, Fulshear, TX 77441, USA",
+        "phone": "(281) 626-8839",
+        "website": "https://www.delwebb.com/homes/texas/houston/fulshear/del-webb-fulshear-210748",
+        "rating": 4.5,
+        "reviews": 50,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential 55+ housing development, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "record": {
+        "name": "Preferred Urgent Care - Fulshear",
+        "address": "4030 FM 1463 Ste 108, Katy, TX 77494, USA",
+        "phone": "(281) 916-1444",
+        "website": "https://www.preferredurgentcare.com/?utm_source=GMB&utm_medium=organic&utm_campaign=katy",
+        "rating": 4.6,
+        "reviews": 347,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Urgent-care medical clinic, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "fulshear-tx",
+      "record": {
+        "name": "Vivid Life Residential Care",
+        "address": "10302 W Hidden Lake Ln, Richmond, TX 77406, USA",
+        "phone": "(713) 543-8774",
+        "website": "http://vividlifeapex.com/",
+        "rating": 5,
+        "reviews": 31,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential care facility, not a senior center or adult day program."
+    },
+    {
+      "city_slug": "frisco-tx",
+      "record": {
+        "name": "Ferguson Home",
+        "address": "7946 State Hwy 121, Frisco, TX 75034, USA",
+        "phone": "(972) 987-8677",
+        "website": "https://www.fergusonhome.com/showroom/branch/frisco-tx-showroom-0064?utm_source=google&utm_medium=organic&utm_campaign=shw_lis_listingtraffic&utm_content=listing",
+        "rating": 3.6,
+        "reviews": 123,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Plumbing, appliance, and lighting showroom with no listed installation services; not a dedicated bathroom-safety installer."
+    },
+    {
+      "city_slug": "austin-tx",
+      "record": {
+        "name": "Area Agency on Aging of the Capital Area",
+        "address": "6800 Burleson Rd Bldg 310 Ste 165, Austin, TX 78744, USA",
+        "phone": "(512) 916-6062",
+        "website": "http://www.aaacap.org/",
+        "rating": 3.7,
+        "reviews": 6,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Public aging-services and resource agency, not a whole-home remodeling contractor."
+    },
+    {
+      "city_slug": "dallas-tx",
+      "record": {
+        "name": "ABCS Truck Accessories",
+        "address": "11259 Goodnight Ln Suite 1111, Dallas, TX 75229, USA",
+        "phone": "(214) 544-6602",
+        "website": "https://www.abcstruckaccessories.com/",
+        "rating": 4.9,
+        "reviews": 94,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Truck-accessories business, unrelated to grab bars or bathroom safety."
+    },
+    {
+      "city_slug": "dallas-tx",
+      "record": {
+        "name": "James Earl Jones LLC",
+        "address": "600 E Main St, Lancaster, TX 75146, USA",
+        "phone": "(972) 780-6011",
+        "website": "http://www.burglarbarsdfw.com/",
+        "rating": 4.2,
+        "reviews": 10,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Website is for burglar-bar and security-bar services, not bathroom grab bars or bathroom safety."
+    },
+    {
+      "city_slug": "dallas-tx",
+      "record": {
+        "name": "Aging In Wellness LLC",
+        "address": "6750 Hillcrest Plaza Dr Ste 206, Dallas, TX 75230, USA",
+        "phone": "(972) 824-3413",
+        "website": "https://aginginwellness.com/",
+        "rating": 5,
+        "reviews": 21,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "reason": "Official site offers massage therapy and wellness services, not whole-home remodeling."
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "record": {
+        "name": "Sweetwater Hot Tubz",
+        "address": "19422 US-281 #103, San Antonio, TX 78258, USA",
+        "phone": "(210) 494-7070",
+        "website": "https://sweetwaterhottubz.com/",
+        "rating": 4.8,
+        "reviews": 90,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and spa retailer, not a walk-in tub or accessible-shower provider."
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "record": {
+        "name": "Southern Leisure Spas & Wellness - San Antonio",
+        "address": "903 E Bitters Rd #316, San Antonio, TX 78216, USA",
+        "phone": "(210) 910-4772",
+        "website": "https://www.southernleisurespas.com/san-antonio-hot-tubs/",
+        "rating": 5,
+        "reviews": 93,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and spa showroom, not a walk-in tub or accessible-shower provider."
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "record": {
+        "name": "Sweetwater Hot Tubz",
+        "address": "8202 N Loop 1604 E #102, San Antonio, TX 78249, USA",
+        "phone": "(210) 561-8829",
+        "website": "http://www.sweetwaterhottubz.com/",
+        "rating": 4.4,
+        "reviews": 126,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and spa retailer, not a walk-in tub or accessible-shower provider."
+    },
+    {
+      "city_slug": "san-antonio-tx",
+      "record": {
+        "name": "Area Agency on Aging of Bexar County",
+        "address": "2700 NE Interstate 410 Loop Ste 101, San Antonio, TX 78217, USA",
+        "phone": "(210) 477-3275",
+        "website": "https://www.aacog.com/aging-services",
+        "rating": 3.7,
+        "reviews": 10,
+        "cats": [
+          "remodel",
+          "transport"
+        ]
+      },
+      "reason": "Public aging-services agency rather than a whole-home remodeling contractor; the remodel tag is mismatched."
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "record": {
+        "name": "Garcia Iron Works",
+        "address": "8374 Alameda Ave Local C, El Paso, TX 79907, USA",
+        "phone": "(915) 244-5333",
+        "website": "http://garciaironworksep.com/",
+        "rating": 4.8,
+        "reviews": 66,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Wrought-iron contractor advertising gates, fencing, window guards, doors, and commercial ironwork—not bathroom accessibility services."
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "record": {
+        "name": "Stainless American Designs, Inc.",
+        "address": "4673 Osborne Dr Ste h, El Paso, TX 79922, USA",
+        "phone": "",
+        "website": "https://stainlessad.com/",
+        "rating": 5,
+        "reviews": 11,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Commercial stainless restroom-fixture designer/manufacturer focused on urinals and lavatories, not an aging-in-place bathroom installer."
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "record": {
+        "name": "Central Lifts and Equipment",
+        "address": "5000 E Paisano Dr, El Paso, TX 79905, USA",
+        "phone": "(915) 977-8771",
+        "website": "http://centralliftsequip.com/",
+        "rating": 4,
+        "reviews": 4,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Automotive shop-equipment retailer selling vehicle lifts, tire machines, and related equipment—not stairlifts or residential accessibility lifts."
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "record": {
+        "name": "B&M Building Services",
+        "address": "1116 Wyoming Ave, El Paso, TX 79902, USA",
+        "phone": "(915) 333-9480",
+        "website": "https://bmwaterproofing.com/",
+        "rating": 5,
+        "reviews": 4,
+        "cats": [
+          "stairs"
+        ]
+      },
+      "reason": "Commercial waterproofing, sealant, and coatings contractor; unrelated to stair accessibility."
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "record": {
+        "name": "Transportation Office (PPSO)",
+        "address": "bldg 504-A, Pershing Rd, Fort Bliss, TX 79906, USA",
+        "phone": "(915) 568-4339",
+        "website": "",
+        "rating": 3.8,
+        "reviews": 97,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "Military personal-property/household-goods transportation office, not senior or non-emergency passenger transportation."
+    },
+    {
+      "city_slug": "el-paso-tx",
+      "record": {
+        "name": "Central Transportation Systems",
+        "address": "6975 Market Ave, El Paso, TX 79915, USA",
+        "phone": "(915) 285-5582",
+        "website": "http://centralsystems.com/",
+        "rating": 4.9,
+        "reviews": 986,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "Household and commercial moving, packing, delivery, and storage company—not senior passenger transportation."
+    },
+    {
+      "city_slug": "phoenix-az",
+      "record": {
+        "name": "Saftey Rails of Arizona",
+        "address": "1427 E Elwood St, Phoenix, AZ 85040, USA",
+        "phone": "(602) 232-1900",
+        "website": "https://www.oshasafetyrails.com/",
+        "rating": 5,
+        "reviews": 2,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Industrial OSHA fall-protection contractor serving construction sites, not residential bathroom grab-bar installation."
+    },
+    {
+      "city_slug": "phoenix-az",
+      "record": {
+        "name": "Driver Industrial Safety",
+        "address": "2115 W Mountain View Rd, Phoenix, AZ 85021, USA",
+        "phone": "",
+        "website": "https://driverindustrialsafety.com/",
+        "rating": 5,
+        "reviews": 9,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Industrial supplier of wheel chocks, safety whips, cable protectors, and ground mats; unrelated to bathroom accessibility."
+    },
+    {
+      "city_slug": "denver-co",
+      "record": {
+        "name": "Ultra Design Center",
+        "address": "590 Quivas St 3rd floor, Denver, CO 80204, USA",
+        "phone": "(303) 571-5611",
+        "website": "http://www.ultradesigncenter.com/",
+        "rating": 4.8,
+        "reviews": 40,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Kitchen/bath fixture and appliance showroom rather than a bathroom accessibility installer."
+    },
+    {
+      "city_slug": "washington-dc",
+      "record": {
+        "name": "W.T. Weaver & Sons Inc.",
+        "address": "1208 Wisconsin Ave NW, Washington, DC 20007, USA",
+        "phone": "(202) 333-4200",
+        "website": "http://www.weaverhardware.com/",
+        "rating": 4.6,
+        "reviews": 21,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Decorative hardware and plumbing-fixture showroom/supplier, not a bathroom accessibility installer."
+    },
+    {
+      "city_slug": "washington-dc",
+      "record": {
+        "name": "W.S. Jenks & Son",
+        "address": "910 Bladensburg Rd NE, Washington, DC 20002, USA",
+        "phone": "(202) 529-6020",
+        "website": "https://www.doitbest.com/w-s-jenks-and-son/",
+        "rating": 4.8,
+        "reviews": 223,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "General hardware and home-improvement retailer, not a bathroom installation provider."
+    },
+    {
+      "city_slug": "indianapolis-in",
+      "record": {
+        "name": "General Devices Company, Inc.",
+        "address": "1410 S Post Rd, Indianapolis, IN 46239, USA",
+        "phone": "(317) 897-7000",
+        "website": "https://www.generaldevices.com/",
+        "rating": 5,
+        "reviews": 4,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Manufacturer of telescoping slides, equipment racks, cabinets, and custom metal fabrication; unrelated to bathroom accessibility."
+    },
+    {
+      "city_slug": "boston-ma",
+      "record": {
+        "name": "Waterworks - Boston Showroom",
+        "address": "1 Design Center Pl Ste 19-120w, Boston, MA 02210, USA",
+        "phone": "(617) 951-2496",
+        "website": "http://www.waterworks.com/",
+        "rating": 3,
+        "reviews": 2,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Retail/design showroom for bathroom fixtures and furnishings, not an accessibility installation provider."
+    },
+    {
+      "city_slug": "san-diego-ca",
+      "record": {
+        "name": "Action Spa Repair of San Diego",
+        "address": "1455 Frazee Rd Ste 500, San Diego, CA 92108, USA",
+        "phone": "(619) 399-2370",
+        "website": "https://actionsparepair.com/service-areas/san-diego-county-ca/san-diego/",
+        "rating": 5,
+        "reviews": 11,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and spa repair business, not a walk-in bathtub or bathing-accessibility provider."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "CAL-STEAM",
+        "address": "898 Pennsylvania Ave, San Francisco, CA 94107, USA",
+        "phone": "(415) 861-3071",
+        "website": "https://www.ferguson.com/store/ca/san+francisco/plumbingpvf-2514?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
+        "rating": 4.6,
+        "reviews": 23,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Ferguson plumbing/PVF supply location; generic supplier rather than a bathroom-safety installer."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Standard 5 & 10 Ace and Stan's Kitchen",
+        "address": "3545 California St, San Francisco, CA 94118, USA",
+        "phone": "(415) 751-5767",
+        "website": "http://www.standard5n10.com/",
+        "rating": 4.5,
+        "reviews": 285,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "General Ace hardware and housewares retailer, not a bathroom-accessibility installer."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Hot Tub Professional Spa Service And Repair",
+        "address": "81 9th St #607, San Francisco, CA 94103, USA",
+        "phone": "(650) 355-6061",
+        "website": "",
+        "rating": 4.7,
+        "reviews": 12,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub/spa service and repair, unrelated to walk-in bathtubs."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Creative Energy Hot Tub/Fireplace Repair",
+        "address": "3419 Regatta Blvd, Richmond, CA 94804, USA",
+        "phone": "(510) 237-2300",
+        "website": "https://www.creativeenergy.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=gmb_website_r",
+        "rating": 4.9,
+        "reviews": 396,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and fireplace business, not a walk-in bathtub provider."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Creative Energy",
+        "address": "4100 Redwood Hwy, San Rafael, CA 94903, USA",
+        "phone": "(415) 472-7727",
+        "website": "https://www.creativeenergy.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=gmb_website_sr",
+        "rating": 4.8,
+        "reviews": 176,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub, spa, and fireplace retailer/service company, not a walk-in bathtub provider."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Pacific Coast Sauna & Spa",
+        "address": "2176 S El Camino Real, San Mateo, CA 94403, USA",
+        "phone": "(650) 513-6920",
+        "website": "http://pcsaunaandspa.com/",
+        "rating": 4.6,
+        "reviews": 36,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Sells hot tubs, swim spas, and saunas rather than accessible bathtubs."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Sullivan Waterworks",
+        "address": "997 63rd St, Oakland, CA 94608, USA",
+        "phone": "(415) 420-1481",
+        "website": "http://www.sullivanwaterworks.com/",
+        "rating": 4.4,
+        "reviews": 8,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Custom wood hot-tub installation and repair company, not a walk-in bathtub provider."
+    },
+    {
+      "city_slug": "san-jose-ca",
+      "record": {
+        "name": "The Hot Tub WhereHouse",
+        "address": "921 Laurelwood Rd #A, Santa Clara, CA 95054, USA",
+        "phone": "(408) 320-1530",
+        "website": "http://www.hottubwherehouse.com/",
+        "rating": 4.9,
+        "reviews": 47,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub retailer, not a walk-in bathtub or bathroom-accessibility provider."
+    },
+    {
+      "city_slug": "san-jose-ca",
+      "record": {
+        "name": "Paradise Valley Spas San Jose",
+        "address": "3278 Almaden Expy, San Jose, CA 95118, USA",
+        "phone": "(408) 267-8300",
+        "website": "https://www.sfspas.com/locations/san-jose/?utm_source=google&utm_medium=organic-gmb",
+        "rating": 4.2,
+        "reviews": 32,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and spa showroom, not a walk-in bathtub provider."
+    },
+    {
+      "city_slug": "san-jose-ca",
+      "record": {
+        "name": "The Spa and Sauna Co. - San Jose - Home of Hot Spring Spas",
+        "address": "2627 S Bascom Ave, Campbell, CA 95008, USA",
+        "phone": "",
+        "website": "https://spaandsauna.com/locations-san-jose/?utm_source=organic&utm_medium=GMB%20SJ",
+        "rating": 4.6,
+        "reviews": 77,
+        "cats": [
+          "tubs"
+        ]
+      },
+      "reason": "Hot-tub and sauna retailer, unrelated to accessible bathtubs."
+    },
+    {
+      "city_slug": "las-vegas-nv",
+      "record": {
+        "name": "Hearth & Home Specialties LLC",
+        "address": "3555 W Quail Ave STE A, Las Vegas, NV 89118, USA",
+        "phone": "(702) 474-4099",
+        "website": "https://www.hnhsi-inc.com/",
+        "rating": 4.4,
+        "reviews": 56,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Fireplace and building-products showroom, not a bathroom-safety provider."
+    },
+    {
+      "city_slug": "las-vegas-nv",
+      "record": {
+        "name": "Grani Installation Inc",
+        "address": "5165 S Valley View Blvd, Las Vegas, NV 89118, USA",
+        "phone": "(702) 739-0370",
+        "website": "http://www.grani.biz/",
+        "rating": 5,
+        "reviews": 1,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Installs acoustical, metal, and wood ceilings and pipe grids; unrelated to bathroom accessibility."
+    },
+    {
+      "city_slug": "las-vegas-nv",
+      "record": {
+        "name": "Top-Notch Installations",
+        "address": "6285 S Mojave Rd Ste F, Las Vegas, NV 89120, USA",
+        "phone": "(702) 586-5055",
+        "website": "http://tninstallations.com/contact-us/",
+        "rating": 4.3,
+        "reviews": 6,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "White-glove delivery service that brings products into a chosen room, not a bathroom installer."
+    },
+    {
+      "city_slug": "new-york-ny",
+      "record": {
+        "name": "Matthew Grandin Custom Fabrication",
+        "address": "63 Flushing Ave, Brooklyn, NY 11205, USA",
+        "phone": "(203) 246-2741",
+        "website": "http://www.mattgrandin.com/",
+        "rating": 5,
+        "reviews": 11,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Custom design/fabrication studio focused on retail interiors, sets, furniture, and metalwork; no bathroom-accessibility service."
+    },
+    {
+      "city_slug": "new-york-ny",
+      "record": {
+        "name": "1W2R LLC",
+        "address": "122 Pennsylvania Ave, Brooklyn, NY 11207, USA",
+        "phone": "(212) 671-0722",
+        "website": "http://1w2r.com/",
+        "rating": 5,
+        "reviews": 95,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Freestanding room-divider business, unrelated to bathroom safety or installation."
+    },
+    {
+      "city_slug": "new-york-ny",
+      "record": {
+        "name": "The Home Depot",
+        "address": "40 W 23rd St, New York, NY 10010, USA",
+        "phone": "(212) 929-9571",
+        "website": "https://www.homedepot.com/l/Manhattan-West-23rd-St/NY/New-York/10010/6175?emt=MSGoogleMaps",
+        "rating": 4.3,
+        "reviews": 5084,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "General home-improvement retailer rather than a dedicated bathroom-safety installer."
+    },
+    {
+      "city_slug": "oklahoma-city-ok",
+      "record": {
+        "name": "R&R Building Specialties, Inc.",
+        "address": "3512 S High Ave, Oklahoma City, OK 73129, USA",
+        "phone": "(405) 681-6565",
+        "website": "http://www.rrbuildingspecialties.com/",
+        "rating": 3,
+        "reviews": 2,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Commercial Division 10 distributor selling toilet partitions and accessories; it refers customers to outside installers."
+    },
+    {
+      "city_slug": "oklahoma-city-ok",
+      "record": {
+        "name": "Winsupply of Oklahoma City",
+        "address": "520 N Virginia Ave, Oklahoma City, OK 73106, USA",
+        "phone": "(405) 235-5488",
+        "website": "https://www.winsupplyinc.com/Location/Oklahoma-City-OK/73106/Plumbing-Supplies",
+        "rating": 4.5,
+        "reviews": 12,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Generic plumbing-supply distributor, not a bathroom-accessibility installer."
+    },
+    {
+      "city_slug": "philadelphia-pa",
+      "record": {
+        "name": "The Home Depot",
+        "address": "1651 S Christopher Columbus Blvd, Philadelphia, PA 19148, USA",
+        "phone": "(215) 218-0600",
+        "website": "https://www.homedepot.com/l/South-Philadelphia/PA/Philadelphia/19148/4101?emt=MSGoogleMaps",
+        "rating": 4,
+        "reviews": 2620,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "General home-improvement retailer rather than a dedicated bathroom-safety installer."
+    },
+    {
+      "city_slug": "nashville-tn",
+      "record": {
+        "name": "Signature Transportation Services",
+        "address": "1306 Antioch Pike, Nashville, TN 37211, USA",
+        "phone": "(615) 244-5466",
+        "website": "https://nashvillelimo.com/",
+        "rating": 4.7,
+        "reviews": 312,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "Generic limousine and executive-car service with no senior, paratransit, or medical-transport focus."
+    },
+    {
+      "city_slug": "nashville-tn",
+      "record": {
+        "name": "Executive Transportation, LLC",
+        "address": "1831 12th Ave S Ste 332, Nashville, TN 37203, USA",
+        "phone": "(615) 852-6009",
+        "website": "http://www.executivetransportation.limo/",
+        "rating": 4.7,
+        "reviews": 43,
+        "cats": [
+          "transport"
+        ]
+      },
+      "reason": "Generic executive limousine service, not a senior or accessible transportation provider."
+    },
+    {
+      "city_slug": "nashville-tn",
+      "record": {
+        "name": "Fannie Battle Day Home",
+        "address": "108 Chapel Ave, Nashville, TN 37206, USA",
+        "phone": "(615) 228-6745",
+        "website": "https://www.fanniebattle.org/",
+        "rating": 4.7,
+        "reviews": 31,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Childcare and early-education organization, not a senior social or adult-day program."
+    },
+    {
+      "city_slug": "seattle-wa",
+      "record": {
+        "name": "Second Use Building Materials",
+        "address": "3223 6th Ave S, Seattle, WA 98134, USA",
+        "phone": "(206) 763-6929",
+        "website": "http://www.seconduse.com/",
+        "rating": 4.6,
+        "reviews": 813,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Salvaged building-materials retail store, not a bathroom-safety installer."
+    },
+    {
+      "city_slug": "seattle-wa",
+      "record": {
+        "name": "T-Bar Construction, Inc.",
+        "address": "14590 Interurban Ave S b100, Tukwila, WA 98168, USA",
+        "phone": "(206) 682-1186",
+        "website": "http://www.tbarconstruction.com/",
+        "rating": 4.9,
+        "reviews": 10,
+        "cats": [
+          "bathroom"
+        ]
+      },
+      "reason": "Commercial acoustical-ceiling and wall-panel contractor, unrelated to bathroom accessibility."
+    },
+    {
+      "city_slug": "seattle-wa",
+      "record": {
+        "name": "1st faith adult family home",
+        "address": "16626 23rd Ave SE, Bothell, WA 98012, USA",
+        "phone": "(425) 217-9814",
+        "website": "https://1stfaithcare.com/",
+        "rating": 5,
+        "reviews": 5,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential adult-family care home, not a senior center or adult-day social program."
+    },
+    {
+      "city_slug": "seattle-wa",
+      "record": {
+        "name": "Day View - Adult family home and Senior Care",
+        "address": "2111 Shattuck Pl S, Renton, WA 98055, USA",
+        "phone": "(425) 736-4683",
+        "website": "http://seniorcare-wa.com/",
+        "rating": 5,
+        "reviews": 7,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential adult-family home, not a senior center or adult-day social program."
+    },
+    {
+      "city_slug": "seattle-wa",
+      "record": {
+        "name": "Valley Care Adult Family Home",
+        "address": "8213 S 116th St, Seattle, WA 98178, USA",
+        "phone": "(425) 802-6812",
+        "website": "http://valleycareafh.com/",
+        "rating": 5,
+        "reviews": 6,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential adult-family care home, not a senior center or adult-day social program."
+    },
+    {
+      "city_slug": "seattle-wa",
+      "record": {
+        "name": "Salem Adult Family home",
+        "address": "14319 20th Ave NE, Seattle, WA 98125, USA",
+        "phone": "(206) 566-6126",
+        "website": "http://salemafh.com/",
+        "rating": null,
+        "reviews": null,
+        "cats": [
+          "social"
+        ]
+      },
+      "reason": "Residential adult-family care home, not a senior center or adult-day social program."
+    }
+  ],
+  "reclassifications": [
+    {
+      "city_slug": "rockwall-tx",
+      "record": {
+        "name": "Meals on Wheels Senior Services of Rockwall County",
+        "address": "750 E Interstate 30 Ste200, Rockwall, TX 75087, USA",
+        "phone": "(972) 771-9514",
+        "website": "http://www.rockwallmealsonwheels.org/",
+        "rating": 4.8,
+        "reviews": 8,
+        "cats": [
+          "transport",
+          "social"
+        ]
+      },
+      "old_categories": [
+        "transport",
+        "social"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "Meal-delivery organization, not senior or medical passenger transportation; the transport tag is mismatched."
+    },
+    {
+      "city_slug": "mckinney-tx",
+      "record": {
+        "name": "Meals on Wheels Collin County",
+        "address": "600 N Tennessee St, McKinney, TX 75069, USA",
+        "phone": "(972) 562-6996",
+        "website": "https://www.mealsonwheelscc.org/",
+        "rating": 4.7,
+        "reviews": 49,
+        "cats": [
+          "transport"
+        ]
+      },
+      "old_categories": [
+        "transport"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "Meal-delivery organization, not senior or medical passenger transportation."
+    },
+    {
+      "city_slug": "katy-tx",
+      "record": {
+        "name": "A Place At Home - Katy",
+        "address": "20811 Westheimer Pkwy Ste 2B, Katy, TX 77450, USA",
+        "phone": "(281) 676-2555",
+        "website": "http://aplaceathomekaty.com/",
+        "rating": 5,
+        "reviews": 33,
+        "cats": [
+          "remodel",
+          "homecare"
+        ]
+      },
+      "old_categories": [
+        "remodel",
+        "homecare"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "In-home senior-care provider; homecare fits, but it is not a whole-home remodeling contractor."
+    },
+    {
+      "city_slug": "austin-tx",
+      "record": {
+        "name": "A Place At Home - North Austin",
+        "address": "2251 Double Creek Dr Ste 201, Round Rock, TX 78664, USA",
+        "phone": "(512) 521-3010",
+        "website": "https://aplaceathomenorthaustin.com/",
+        "rating": 5,
+        "reviews": 25,
+        "cats": [
+          "remodel",
+          "homecare"
+        ]
+      },
+      "old_categories": [
+        "remodel",
+        "homecare"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "Official site identifies it as an in-home senior-care provider; homecare fits, but remodel does not."
+    },
+    {
+      "city_slug": "denver-co",
+      "record": {
+        "name": "A Place At Home",
+        "address": "8310 S Valley Hwy Ste 300, Englewood, CO 80112, USA",
+        "phone": "(720) 726-3799",
+        "website": "https://aplaceathome.com/south-denver/",
+        "rating": 4.9,
+        "reviews": 32,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "old_categories": [
+        "remodel"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "Senior in-home care and caregiver agency, not a remodeling provider; would fit homecare instead."
+    },
+    {
+      "city_slug": "indianapolis-in",
+      "record": {
+        "name": "Aging & Active Personal Services LLC",
+        "address": "1111 E 54th St Ste 170, Indianapolis, IN 46220, USA",
+        "phone": "(317) 497-0594",
+        "website": "https://www.theagingactive.com/",
+        "rating": 5,
+        "reviews": 3,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "old_categories": [
+        "remodel"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "Licensed non-medical in-home assistance agency for seniors and disabled clients, not a remodeler; belongs under homecare."
+    },
+    {
+      "city_slug": "los-angeles-ca",
+      "record": {
+        "name": "Aging With Grace In-Home Care",
+        "address": "4343 Crenshaw Blvd Ste 206, Los Angeles, CA 90008, USA",
+        "phone": "(213) 434-2673",
+        "website": "",
+        "rating": 5,
+        "reviews": 1,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "old_categories": [
+        "remodel"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "In-home care provider, not a remodeling contractor; likely belongs in homecare."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Aging in Place Home Care",
+        "address": "3748 Selvante St, Pleasanton, CA 94566, USA",
+        "phone": "(925) 699-3880",
+        "website": "http://www.aginginplacehomecare.com/",
+        "rating": 4.7,
+        "reviews": 14,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "old_categories": [
+        "remodel"
+      ],
+      "new_categories": [
+        "homecare"
+      ],
+      "reason": "Home-care service, not a remodeling business; likely belongs in homecare."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Institute on Aging San Francisco",
+        "address": "3575 Geary Blvd, San Francisco, CA 94118, USA",
+        "phone": "(415) 750-4111",
+        "website": "https://www.ioaging.org/",
+        "rating": 4.3,
+        "reviews": 78,
+        "cats": [
+          "remodel"
+        ]
+      },
+      "old_categories": [
+        "remodel"
+      ],
+      "new_categories": [
+        "homecare",
+        "social"
+      ],
+      "reason": "Senior-support and care organization, not a remodeling contractor."
+    },
+    {
+      "city_slug": "san-francisco-ca",
+      "record": {
+        "name": "Institute on Aging - Enrichment Center in the Presidio",
+        "address": "386 Moraga Ave, San Francisco, CA 94129, USA",
+        "phone": "(415) 750-4111",
+        "website": "https://ioadementiacare.com/",
+        "rating": 5,
+        "reviews": 10,
+        "cats": [
+          "remodel",
+          "social"
+        ]
+      },
+      "old_categories": [
+        "remodel",
+        "social"
+      ],
+      "new_categories": [
+        "social"
+      ],
+      "reason": "The social category is appropriate, but remodel is not; this is a dementia-care enrichment center."
+    }
+  ],
+  "source_reports": [
+    "subagent-summary-0-20260720_145334_362051.txt",
+    "subagent-summary-1-20260720_145334_363230.txt",
+    "subagent-summary-2-20260720_145334_363695.txt"
+  ]
+}

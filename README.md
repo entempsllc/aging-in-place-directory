@@ -8,7 +8,7 @@ One national site, city pages. Same engine as your five directory sites, inverte
 
 | File | Purpose |
 |---|---|
-| `index.html` | National homepage — room navigator, city grid, family guide, affiliate section |
+| `index.html` | National homepage — room navigator, city grid, family guide, and official planning resources |
 | `tx/*.html`, `nc/*.html` | 35 city pages: your 10 launch cities plus the 25 largest US metros (NYC, LA, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, Jacksonville, Fort Worth, Columbus, Charlotte, Indianapolis, San Francisco, Austin, Seattle, Denver, OKC, Nashville, DC, El Paso, Las Vegas, Boston, San Jose) |
 | `listings-data.js` | Canonical provider-data source edited by maintainers; `node scripts/split-listings.js` generates the smaller `data/<city-slug>.js` payload loaded by each public city page |
 | `site.js` | Renders listings safely, injects neutral Organization ItemList schema, and handles the submit modal |
@@ -52,22 +52,26 @@ At Namecheap, point the domain with the same A records / CNAME you used for the 
 
 The tool makes approximately 11 Places API requests per city. Review current Google Maps Platform pricing, quotas, and billing controls before running a batch; free usage and prices can change.
 
-City pages show a "listings coming soon + add your business" note until their array is filled, so the site is safe to deploy immediately.
+Empty city payloads render a neutral “no listings yet” message. Do not index or monetize an empty or under-researched city page.
 
 ---
 
-## Launch checklist (same playbook as the five directories)
+## Publisher-quality controls
 
-1. **Google Search Console** — verify the domain, submit `sitemap.xml`.
-2. **Populate all 10 cities** via admin.html (one sitting, ~30 minutes).
-3. **AdSense** — apply once listings are in. Replace the two `.ad-slot` divs per page with your ad unit code.
-4. **Amazon Associates** — the four product cards on the homepage have `href="#"` placeholders. Point them at Amazon search/category links with your tag: grab bars, non-slip bath mats, raised toilet seats, motion-sensor night lights. (Stairlifts and walk-in tubs are lead-gen plays later, not Amazon.)
-5. **Backlinks (the easy ones for this niche):**
-   - Area Agencies on Aging resource pages for Collin, Rockwall, Fort Bend, Brunswick, New Hanover counties
-   - Senior center + council on aging resource lists in each city
-   - Caregiver blogs and church senior-ministry pages (they link to local resource lists readily)
-   - Cross-link from your five city directory sites (add an "Aging in Place Resources" link in their city services widget)
-6. **Outreach flywheel** — email every fetched business: "You've been listed free at [URL] — reply to confirm your details." Confirmed businesses become your future paid/featured tier and often link back.
+- Only Nashville and Wilmington are currently indexable. The other city pages remain available to users but use `noindex,follow` and stay out of `sitemap.xml` until they receive substantive local research and provider verification.
+- AdSense loaders and empty ad placeholders are disabled site-wide until publisher approval and certified-CMP requirements are verified in the authenticated account.
+- Third-party ratings and review counts remain only in the canonical repository dataset, which Jekyll excludes from the deployed site. Generated public payloads omit those fields until their source, retrieval date, attribution, and refresh process can be documented.
+- Never label a provider verified, licensed, insured, certified, or endorsed without recording the specific supporting check.
+- Empty advertisement placeholders are prohibited. Google ad code belongs only on pages with substantial publisher content.
+- Apply record removals and category corrections through a dated audit artifact, regenerate `data/*.js`, and run the Python and Node test suites before deployment.
+
+## Search and AdSense checklist
+
+1. Verify that the reduced `sitemap.xml` contains only indexable, useful pages and submit it in Search Console.
+2. Confirm `ads.txt`, About, Contact, privacy, terms, editorial, and corrections pages are publicly reachable.
+3. Confirm a Google-certified consent-management platform or European regulations message is configured when required.
+4. Check representative pages on mobile and desktop for broken navigation, JavaScript errors, unsafe provider URLs, empty ad areas, and misleading claims.
+5. Allow Google to recrawl substantial improvements before requesting an AdSense review. Compliance work reduces risk but cannot guarantee approval.
 
 ---
 

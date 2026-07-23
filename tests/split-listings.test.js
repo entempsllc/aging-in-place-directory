@@ -14,7 +14,7 @@ function makeFixture(pageHtml) {
   fs.writeFileSync(path.join(root, 'scripts', 'split-listings.js'), generatorSource);
   fs.writeFileSync(
     path.join(root, 'listings-data.js'),
-    'const LISTINGS = {"new-city-tx":[{"name":"New Provider"}],"old-city-tx":[{"name":"Old Provider"}]};\n'
+    'const LISTINGS = {"new-city-tx":[{"name":"New Provider","rating":4.9,"reviews":88}],"old-city-tx":[{"name":"Old Provider"}]};\n'
   );
   fs.writeFileSync(path.join(root, 'tx', 'new-city.html'), pageHtml);
   return root;
@@ -35,6 +35,9 @@ let rewritten = fs.readFileSync(path.join(copiedRoot, 'tx', 'new-city.html'), 'u
 assert(rewritten.includes('src="../data/new-city-tx.js"'), 'copied split page must use the payload derived from data-city');
 assert(!rewritten.includes('old-city-tx.js'), 'copied split page must not retain the prior city payload');
 assert.strictEqual((rewritten.match(/\.\.\/data\/new-city-tx\.js/g) || []).length, 1, 'expected payload must occur exactly once');
+const publicPayload = fs.readFileSync(path.join(copiedRoot, 'data', 'new-city-tx.js'), 'utf8');
+assert(!publicPayload.includes('"rating"'), 'public payload must omit unsupported rating fields');
+assert(!publicPayload.includes('"reviews"'), 'public payload must omit unsupported review-count fields');
 
 result = runGenerator(copiedRoot);
 assert.strictEqual(result.status, 0, result.stderr);

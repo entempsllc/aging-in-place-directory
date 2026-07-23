@@ -4,7 +4,7 @@ const CAT_LABELS = {
   bathroom: "Grab Bars & Bathroom Safety",
   tubs: "Walk-In Tubs & Showers",
   stairs: "Stairlifts & Ramps",
-  remodel: "CAPS & Whole-Home Remodelers",
+  remodel: "Whole-Home Remodelers",
   homecare: "Home Care & Daily Living Help",
   transport: "Senior & Medical Transportation",
   social: "Senior Centers & Day Programs",
@@ -24,7 +24,10 @@ function safeWebsiteUrl(value) {
   if (!value) return "";
   try {
     const parsed = new URL(value, window.location.href);
-    return parsed.protocol === "http:" || parsed.protocol === "https:"
+    const hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    const blockedHosts = ["chaturbate.com"];
+    const isBlockedHost = blockedHosts.some(blocked => hostname === blocked || hostname.endsWith(`.${blocked}`));
+    return (parsed.protocol === "http:" || parsed.protocol === "https:") && !isBlockedHost
       ? parsed.href
       : "";
   } catch (_) {
@@ -60,11 +63,8 @@ function renderListings(filterCat) {
   }
 
   container.innerHTML = items.map(l => {
-    const hasRating = l.rating !== null && l.rating !== undefined && String(l.rating).trim() !== "";
-    const rating = hasRating ? Number(l.rating) : NaN;
-    const reviewCount = Number(l.reviews);
-    const stars = Number.isFinite(rating) ? '<span class="rating">★ ' + rating.toFixed(1) +
-      (Number.isFinite(reviewCount) && reviewCount > 0 ? ' (' + reviewCount + ' reviews)' : '') + '</span> · ' : '';
+    // Public payloads omit third-party ratings until their source, retrieval date,
+    // attribution, and refresh cadence can be verified.
     const websiteUrl = safeWebsiteUrl(l.website);
     const site = websiteUrl ? ' · <a href="' + escapeHtml(websiteUrl) + '" rel="nofollow noopener" target="_blank">Website</a>' : '';
     const phoneText = escapeHtml(l.phone || "");
@@ -73,7 +73,7 @@ function renderListings(filterCat) {
     const cats = (l.cats || []).map(c => CAT_LABELS[c] || c).join(' · ');
     return '<article class="listing">' +
       '<h3>' + escapeHtml(l.name) + '</h3>' +
-      '<div class="meta">' + stars + escapeHtml(l.address || '') + '</div>' +
+      '<div class="meta">' + escapeHtml(l.address || '') + '</div>' +
       '<div class="meta">' + tel + site + '</div>' +
       (cats ? '<div class="cats">' + escapeHtml(cats) + '</div>' : '') +
       '</article>';
@@ -124,7 +124,7 @@ function initFilters() {
   });
 }
 
-/* Submit Your Business modal → mailto info@entempsllc.com */
+/* Submit Your Business modal → mailto entempsllc@gmail.com */
 function openSubmit() {
   document.getElementById("submit-modal").classList.add("open");
 }
@@ -145,7 +145,7 @@ function sendSubmit() {
     "\nServices: " + g("sb-services") +
     "\n\nSubmitted via agingracefully.care"
   );
-  window.location.href = "mailto:info@entempsllc.com?subject=" + subject + "&body=" + bodyTxt;
+  window.location.href = "mailto:entempsllc@gmail.com?subject=" + subject + "&body=" + bodyTxt;
   closeSubmit();
 }
 

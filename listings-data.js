@@ -20,17 +20,6 @@
 const LISTINGS = {
   "anna-tx": [
     {
-      "name": "The Home Depot",
-      "address": "200 N Central Expy, Anna, TX 75409, USA",
-      "phone": "(945) 777-8200",
-      "website": "https://www.homedepot.com/l/Anna/TX/Anna/75409/597?emt=MSGoogleMaps",
-      "rating": 4.5,
-      "reviews": 243,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Alanis Remodeling & Construction, LLC",
       "address": "3015 N Powell Pkwy, Anna, TX 75409, USA",
       "phone": "(469) 412-2006",
@@ -150,86 +139,9 @@ const LISTINGS = {
       "cats": [
         "social"
       ]
-    },
-    {
-      "name": "Parmore Anna",
-      "address": "651 E Finley Blvd, Anna, TX 75409, USA",
-      "phone": "(469) 654-7915",
-      "website": "https://www.parmoreanna.com/?utm_knock=g",
-      "rating": 4.1,
-      "reviews": 56,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Joyous Tots Daycare, Anna Texas",
-      "address": "1021 Acacia Dr, Anna, TX 75409, USA",
-      "phone": "(214) 250-2695",
-      "website": "",
-      "rating": 5,
-      "reviews": 4,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "hapily ever after",
-      "address": "304 Portina Dr, Anna, TX 75409, USA",
-      "phone": "(346) 452-1773",
-      "website": "https://hapilyeverafterdaycare.netlify.app/",
-      "rating": 5,
-      "reviews": 13,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Christian Care Academy Inc",
-      "address": "3220 N Powell Pkwy, Anna, TX 75409, USA",
-      "phone": "(214) 831-1383",
-      "website": "http://christiancareacademyinc.com/",
-      "rating": 4.9,
-      "reviews": 32,
-      "cats": [
-        "social"
-      ]
     }
   ],
   "melissa-tx": [
-    {
-      "name": "Melissa Ace Hardware",
-      "address": "2801 McKinney St, Melissa, TX 75454, USA",
-      "phone": "(469) 425-5125",
-      "website": "http://www.acehardware.com/store-details/18751?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=18751",
-      "rating": 4.9,
-      "reviews": 68,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Buc-ee's",
-      "address": "1550 Central Expy, Melissa, TX 75454, USA",
-      "phone": "(979) 238-6390",
-      "website": "http://www.buc-ees.com/",
-      "rating": 4.6,
-      "reviews": 5919,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Walmart Supercenter",
-      "address": "1950 McKinney St, Melissa, TX 75454, USA",
-      "phone": "(945) 234-6957",
-      "website": "https://www.walmart.com/store/1484-melissa-tx/?veh=seo_loc",
-      "rating": 4.3,
-      "reviews": 155,
-      "cats": [
-        "bathroom"
-      ]
-    },
     {
       "name": "Integra Healthcare Services",
       "address": "Brookfield Dr, Melissa, TX 75454, USA",
@@ -261,72 +173,6 @@ const LISTINGS = {
       "reviews": 3,
       "cats": [
         "homecare"
-      ]
-    },
-    {
-      "name": "Gala at Melissa",
-      "address": "2730 E Melissa Rd, Melissa, TX 75454, USA",
-      "phone": "(214) 856-3574",
-      "website": "https://www.galaatmelissa.com/",
-      "rating": 4.1,
-      "reviews": 21,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Provision at Melissa",
-      "address": "2650 E Melissa Rd, Melissa, TX 75454, USA",
-      "phone": "(214) 856-3574",
-      "website": "https://www.provisionatmelissa.com/",
-      "rating": 3.8,
-      "reviews": 38,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "CheerLand-Melissa",
-      "address": "2111 McKinney St Ste 200, Melissa, TX 75454, USA",
-      "phone": "(972) 535-5588",
-      "website": "https://www.cheerlandusa.com/",
-      "rating": 4.9,
-      "reviews": 522,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "N4 Montessori Academy of Melissa",
-      "address": "2045 McKinney St, Melissa, TX 75454, USA",
-      "phone": "(469) 591-1400",
-      "website": "https://n4montessori.com/melissa/",
-      "rating": 4.7,
-      "reviews": 27,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Melissa KinderCare",
-      "address": "3404 Sky Rdg Ln, Melissa, TX 75454, USA",
-      "phone": "(469) 905-3690",
-      "website": "https://www.kindercare.com/our-centers/melissa/tx/302158?utm_campaign=kc-lg&utm_source=yext&utm_medium=pro&utm_keyword=&utm_platform=&utm_matchtype=&utm_adgroupid=&utm_content=gmb&y_source=1_MjAxMDI2Mjk1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "rating": 4.5,
-      "reviews": 38,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Melissa Ridge Education Center",
-      "address": "3233 W Fannin Rd, Melissa, TX 75454, USA",
-      "phone": "(972) 837-2901",
-      "website": "http://www.melissaisd.org/schools/melissa-ridge-education-center/",
-      "rating": 4.7,
-      "reviews": 6,
-      "cats": [
-        "social"
       ]
     }
   ],
@@ -382,17 +228,6 @@ const LISTINGS = {
       "website": "https://wickerplumbing.com/",
       "rating": 4.8,
       "reviews": 794,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Patriot Pool & Spa",
-      "address": "3942 Ruger Dr, Royse City, TX 75189, USA",
-      "phone": "(469) 949-6151",
-      "website": "https://www.patriotpoolandspa.com/locations/rockwall/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
-      "rating": 4.8,
-      "reviews": 379,
       "cats": [
         "tubs"
       ]
@@ -640,17 +475,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Gala at Fate",
-      "address": "359 Black Oak Ln, Rockwall, TX 75087, USA",
-      "phone": "(469) 654-1850",
-      "website": "https://galaatfate.com/",
-      "rating": 3.3,
-      "reviews": 30,
-      "cats": [
-        "social"
-      ]
-    },
-    {
       "name": "Meals on Wheels Senior Services of Rockwall County",
       "address": "750 E Interstate 30 Ste200, Rockwall, TX 75087, USA",
       "phone": "(972) 771-9514",
@@ -668,28 +492,6 @@ const LISTINGS = {
       "website": "https://www.cityofterrell.org/447/Senior-Resources",
       "rating": 4.5,
       "reviews": 31,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Highview Learning Center",
-      "address": "907 W Holiday, Rockwall, TX 75087, USA",
-      "phone": "(972) 771-8441",
-      "website": "https://highviewlearningcenter.com/daycare-locations/fate/?y_source=1_MTA4MDc3MzM1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "rating": 3.6,
-      "reviews": 33,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Fate City Hall",
-      "address": "1900 CD Boren Pkwy, Rockwall, TX 75087, USA",
-      "phone": "(972) 771-4601",
-      "website": "https://www.fatetx.gov/",
-      "rating": 4.3,
-      "reviews": 48,
       "cats": [
         "social"
       ]
@@ -913,39 +715,6 @@ const LISTINGS = {
       "website": "http://www.trademarkinstall.com/",
       "rating": 5,
       "reviews": 13,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Ace Hardware",
-      "address": "1013 S Goliad St, Rockwall, TX 75087, USA",
-      "phone": "(972) 771-2237",
-      "website": "http://www.acehardware.com/store-details/02067?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=02067",
-      "rating": 4.5,
-      "reviews": 480,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "The Home Depot",
-      "address": "765 E Interstate 30, Rockwall, TX 75087, USA",
-      "phone": "(972) 771-2825",
-      "website": "https://www.homedepot.com/l/Rockwall/TX/Rockwall/75087/531?emt=MSGoogleMaps",
-      "rating": 4.2,
-      "reviews": 1987,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Special Products & Mfg., Inc.",
-      "address": "2625 Discovery Blvd, Rockwall, TX 75032, USA",
-      "phone": "(972) 771-8851",
-      "website": "http://www.spmfg.com/",
-      "rating": 4,
-      "reviews": 42,
       "cats": [
         "bathroom"
       ]
@@ -1180,8 +949,7 @@ const LISTINGS = {
       "rating": 4.8,
       "reviews": 8,
       "cats": [
-        "transport",
-        "social"
+        "homecare"
       ]
     },
     {
@@ -1196,78 +964,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Rockwall ISD Transportation",
-      "address": "707 S Clark St, Rockwall, TX 75087, USA",
-      "phone": "(972) 771-1948",
-      "website": "https://www.rockwallisd.com/departments1/transportation/transportation-information",
-      "rating": 3,
-      "reviews": 46,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
       "name": "The Center At Rockwall City Place",
       "address": "108 E Washington St, Rockwall, TX 75087, USA",
       "phone": "(972) 771-7740",
       "website": "",
       "rating": 4.7,
       "reviews": 73,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Evergreen at Rockwall",
-      "address": "1325 S Goliad St, Rockwall, TX 75087, USA",
-      "phone": "(469) 472-5321",
-      "website": "http://www.evergreenrockwall.com/",
-      "rating": 4.2,
-      "reviews": 55,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Rockwall Nursing Care Center",
-      "address": "206 Storrs St, Rockwall, TX 75087, USA",
-      "phone": "(972) 771-5000",
-      "website": "https://rockwallnursing.com/",
-      "rating": 3.6,
-      "reviews": 35,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Village Green Memory Care Community Rockwall",
-      "address": "1192 T L Townsend Dr, Rockwall, TX 75087, USA",
-      "phone": "(972) 478-0000",
-      "website": "https://villagegreenalzheimerscare.com/rockwall/",
-      "rating": 4.9,
-      "reviews": 25,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "The Standard - Rockwall",
-      "address": "1325 S Goliad St, Rockwall, TX 75087, USA",
-      "phone": "(214) 924-3388",
-      "website": "https://thestandard-rockwall.com/",
-      "rating": 5,
-      "reviews": 2,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Alders Rockwall",
-      "address": "1196 T L Townsend Dr, Rockwall, TX 75087, USA",
-      "phone": "(469) 936-1850",
-      "website": "https://www.aldersrockwall.com/?switch_cls[id]=95345&utm_source=gmb&utm_medium=organic",
-      "rating": 4.7,
-      "reviews": 41,
       "cats": [
         "social"
       ]
@@ -1367,17 +1069,6 @@ const LISTINGS = {
       "website": "http://www.1stchoicetex.com/",
       "rating": 4.5,
       "reviews": 13,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Lakeview Education",
-      "address": "365 W Rusk St Fl 2nd, Rockwall, TX 75087, USA",
-      "phone": "(214) 210-2616",
-      "website": "https://lakevieweducation.com/",
-      "rating": 4.1,
-      "reviews": 21,
       "cats": [
         "social"
       ]
@@ -1552,17 +1243,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Moore Supply Co. & Facets",
-      "address": "424 Metro Park Dr Ste 200, McKinney, TX 75071, USA",
-      "phone": "(972) 562-4996",
-      "website": "http://www.mooresupplymckinney.com/",
-      "rating": 4.4,
-      "reviews": 42,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "THE TUB GUYS",
       "address": "2631 Mountain View Dr, McKinney, TX 75071, USA",
       "phone": "(214) 300-8111",
@@ -1581,17 +1261,6 @@ const LISTINGS = {
       "website": "http://plumbersmckinneytexas.com/",
       "rating": null,
       "reviews": null,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Bright TV Mounting & Home Services",
-      "address": "6100 Eldorado Pkwy, McKinney, TX 75072, USA",
-      "phone": "(945) 336-6598",
-      "website": "https://brighttvservice.com/",
-      "rating": 5,
-      "reviews": 460,
       "cats": [
         "bathroom"
       ]
@@ -1691,17 +1360,6 @@ const LISTINGS = {
       "website": "http://www.ascendadditions.com/",
       "rating": 4.9,
       "reviews": 37,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "FJR Stair & Door",
-      "address": "10689 Rose Garden Ct, McKinney, TX 75072, USA",
-      "phone": "(945) 273-2002",
-      "website": "https://fjrstairanddoor.com/",
-      "rating": 5,
-      "reviews": 59,
       "cats": [
         "stairs"
       ]
@@ -1978,7 +1636,7 @@ const LISTINGS = {
       "rating": 4.7,
       "reviews": 49,
       "cats": [
-        "transport"
+        "homecare"
       ]
     },
     {
@@ -2258,17 +1916,6 @@ const LISTINGS = {
       "cats": [
         "bathroom",
         "remodel"
-      ]
-    },
-    {
-      "name": "Ferguson Home",
-      "address": "7946 State Hwy 121, Frisco, TX 75034, USA",
-      "phone": "(972) 987-8677",
-      "website": "https://www.fergusonhome.com/showroom/branch/frisco-tx-showroom-0064?utm_source=google&utm_medium=organic&utm_campaign=shw_lis_listingtraffic&utm_content=listing",
-      "rating": 3.6,
-      "reviews": 123,
-      "cats": [
-        "bathroom"
       ]
     },
     {
@@ -3024,17 +2671,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Fulshear Ace Hardware",
-      "address": "8411 FM 359 RD S, Bldg, 8411A FM359, Fulshear, TX 77441, USA",
-      "phone": "(281) 533-8571",
-      "website": "",
-      "rating": 4.5,
-      "reviews": 282,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Mr. Handyman of Cinco Ranch, Katy, Western Houston",
       "address": "21815 Katy Fwy Suite C121, Katy, TX 77450, USA",
       "phone": "(281) 502-8908",
@@ -3510,17 +3146,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "LCISD - Fulshear Transportation",
-      "address": "29422 FM 1093, Fulshear, TX 77441, USA",
-      "phone": "(832) 223-0551",
-      "website": "http://www.lcisd.org/departments/transportation",
-      "rating": 3,
-      "reviews": 50,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
       "name": "Caring Senior Service",
       "address": "24285 Katy Fwy Ste 300, Katy, TX 77494, USA",
       "phone": "(346) 273-2078",
@@ -3582,61 +3207,6 @@ const LISTINGS = {
       "website": "http://fillingthegapadultdaycare.com/",
       "rating": 4.5,
       "reviews": 43,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Aspen Cove Assisted Living",
-      "address": "31503 Corsham Cv Ct, Fulshear, TX 77441, USA",
-      "phone": "(713) 480-8378",
-      "website": "https://www.aspencoveassistedliving.com/",
-      "rating": 5,
-      "reviews": 44,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "The Domain TLC: Private Assisted Living Residence",
-      "address": "5211 Eddy Dr, Fulshear, TX 77441, USA",
-      "phone": "(281) 346-8474",
-      "website": "http://thedomaintlc.com/",
-      "rating": 5,
-      "reviews": 1,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Del Webb Fulshear- 55+ Active Adult Community",
-      "address": "7733 Lifestyle Blvd, Fulshear, TX 77441, USA",
-      "phone": "(281) 626-8839",
-      "website": "https://www.delwebb.com/homes/texas/houston/fulshear/del-webb-fulshear-210748",
-      "rating": 4.5,
-      "reviews": 50,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Preferred Urgent Care - Fulshear",
-      "address": "4030 FM 1463 Ste 108, Katy, TX 77494, USA",
-      "phone": "(281) 916-1444",
-      "website": "https://www.preferredurgentcare.com/?utm_source=GMB&utm_medium=organic&utm_campaign=katy",
-      "rating": 4.6,
-      "reviews": 347,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Vivid Life Residential Care",
-      "address": "10302 W Hidden Lake Ln, Richmond, TX 77406, USA",
-      "phone": "(713) 543-8774",
-      "website": "http://vividlifeapex.com/",
-      "rating": 5,
-      "reviews": 31,
       "cats": [
         "social"
       ]
@@ -4127,7 +3697,6 @@ const LISTINGS = {
       "rating": 5,
       "reviews": 33,
       "cats": [
-        "remodel",
         "homecare"
       ]
     },
@@ -4586,17 +4155,6 @@ const LISTINGS = {
       "cats": [
         "bathroom",
         "remodel"
-      ]
-    },
-    {
-      "name": "Leland Ace Hardware",
-      "address": "117 B Village Rd NE, Leland, NC 28451, USA",
-      "phone": "(910) 408-1200",
-      "website": "http://www.lelandacehardware.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=15279",
-      "rating": 4.6,
-      "reviews": 545,
-      "cats": [
-        "bathroom"
       ]
     },
     {
@@ -5146,28 +4704,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Longley Supply Company",
-      "address": "2018 Oleander Dr, Wilmington, NC 28403, USA",
-      "phone": "(910) 762-7793",
-      "website": "http://www.longleysupplycompany.com/",
-      "rating": 4.6,
-      "reviews": 36,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Craft American Hardware, Inc.",
-      "address": "7002 Wrightsville Ave, Wilmington, NC 28403, USA",
-      "phone": "(910) 256-4782",
-      "website": "https://www.doitbest.com/crafthardware/",
-      "rating": 4.7,
-      "reviews": 135,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "DreamMaker Bath & Kitchen of Wilmington",
       "address": "7134 Market St Ste 2, Wilmington, NC 28411, USA",
       "phone": "(910) 597-1756",
@@ -5701,17 +5237,6 @@ const LISTINGS = {
   ],
   "new-york-ny": [
     {
-      "name": "Matthew Grandin Custom Fabrication",
-      "address": "63 Flushing Ave, Brooklyn, NY 11205, USA",
-      "phone": "(203) 246-2741",
-      "website": "http://www.mattgrandin.com/",
-      "rating": 5,
-      "reviews": 11,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Janbar Inc",
       "address": "69 Engert Ave, Brooklyn, NY 11222, USA",
       "phone": "(718) 782-9720",
@@ -5734,39 +5259,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "1W2R LLC",
-      "address": "122 Pennsylvania Ave, Brooklyn, NY 11207, USA",
-      "phone": "(212) 671-0722",
-      "website": "http://1w2r.com/",
-      "rating": 5,
-      "reviews": 95,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "The Home Depot",
-      "address": "40 W 23rd St, New York, NY 10010, USA",
-      "phone": "(212) 929-9571",
-      "website": "https://www.homedepot.com/l/Manhattan-West-23rd-St/NY/New-York/10010/6175?emt=MSGoogleMaps",
-      "rating": 4.3,
-      "reviews": 5084,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "M & D Shapiro True Value Hardware",
-      "address": "7 Great Jones St, New York, NY 10012, USA",
-      "phone": "(212) 256-0050",
-      "website": "http://shapirohardware.com/",
-      "rating": 4,
-      "reviews": 75,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "GRAB IT CORP",
       "address": "1173 39th St, Brooklyn, NY 11218, USA",
       "phone": "(347) 423-0130",
@@ -5784,17 +5276,6 @@ const LISTINGS = {
       "website": "http://www.barconstructioncorp.com/",
       "rating": 4,
       "reviews": 2,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "The Gordon Supply Co.",
-      "address": "131-15 Merrick Blvd, Jamaica, NY 11434, USA",
-      "phone": "(718) 527-8827",
-      "website": "http://www.gordonsupply.com/",
-      "rating": 5,
-      "reviews": 5,
       "cats": [
         "bathroom"
       ]
@@ -7097,7 +6578,7 @@ const LISTINGS = {
       "rating": 5,
       "reviews": 1,
       "cats": [
-        "remodel"
+        "homecare"
       ]
     },
     {
@@ -9685,34 +9166,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Saftey Rails of Arizona",
-      "address": "1427 E Elwood St, Phoenix, AZ 85040, USA",
-      "phone": "(602) 232-1900",
-      "website": "https://www.oshasafetyrails.com/",
-      "rating": 5,
-      "reviews": 2,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "MEASURAbilities Home Safety- Fall Prevention Specialists / MEASURAbilities",
       "address": "8147 E Evans Rd #8, Scottsdale, AZ 85260, USA",
       "phone": "(480) 214-9725",
       "website": "https://measurabilities.com/",
       "rating": 4.9,
       "reviews": 33,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Driver Industrial Safety",
-      "address": "2115 W Mountain View Rd, Phoenix, AZ 85021, USA",
-      "phone": "",
-      "website": "https://driverindustrialsafety.com/",
-      "rating": 5,
-      "reviews": 9,
       "cats": [
         "bathroom"
       ]
@@ -10611,17 +10070,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Rittenhouse Hardware",
-      "address": "2001 Pine St, Philadelphia, PA 19103, USA",
-      "phone": "(215) 735-6311",
-      "website": "https://rittenhousehw.com/",
-      "rating": 4.9,
-      "reviews": 516,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Mr. Handyman of Newtown and Yardley",
       "address": "54 Friends Ln Ste 114, Newtown, PA 18940, USA",
       "phone": "(215) 315-7171",
@@ -10642,39 +10090,6 @@ const LISTINGS = {
       "cats": [
         "bathroom",
         "stairs"
-      ]
-    },
-    {
-      "name": "The Home Depot",
-      "address": "1651 S Christopher Columbus Blvd, Philadelphia, PA 19148, USA",
-      "phone": "(215) 218-0600",
-      "website": "https://www.homedepot.com/l/South-Philadelphia/PA/Philadelphia/19148/4101?emt=MSGoogleMaps",
-      "rating": 4,
-      "reviews": 2620,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Fairmount Hardware",
-      "address": "2011 Fairmount Ave, Philadelphia, PA 19130, USA",
-      "phone": "(215) 765-5829",
-      "website": "http://www.acehardware.com/store-details/15977?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=15977",
-      "rating": 4.5,
-      "reviews": 668,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "3rd St. Hardware Ace",
-      "address": "153 N 3rd St, Philadelphia, PA 19106, USA",
-      "phone": "(267) 541-2110",
-      "website": "http://www.3rdstreethardware.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=17348",
-      "rating": 4.6,
-      "reviews": 173,
-      "cats": [
-        "bathroom"
       ]
     },
     {
@@ -11641,45 +11056,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Moore Supply",
-      "address": "817 N Frio St, San Antonio, TX 78207, USA",
-      "phone": "(210) 342-9612",
-      "website": "http://www.mooresupply.com/",
-      "rating": 4.1,
-      "reviews": 152,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Avalon Walkin Tubs",
       "address": "6931 Evening Sun St, San Antonio, TX 78238, USA",
       "phone": "(512) 988-0449",
       "website": "",
       "rating": 5,
       "reviews": 2,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Sweetwater Hot Tubz",
-      "address": "19422 US-281 #103, San Antonio, TX 78258, USA",
-      "phone": "(210) 494-7070",
-      "website": "https://sweetwaterhottubz.com/",
-      "rating": 4.8,
-      "reviews": 90,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Southern Leisure Spas & Wellness - San Antonio",
-      "address": "903 E Bitters Rd #316, San Antonio, TX 78216, USA",
-      "phone": "(210) 910-4772",
-      "website": "https://www.southernleisurespas.com/san-antonio-hot-tubs/",
-      "rating": 5,
-      "reviews": 93,
       "cats": [
         "tubs"
       ]
@@ -11713,17 +11095,6 @@ const LISTINGS = {
       "website": "https://www.bp-hq.com/",
       "rating": 4.9,
       "reviews": 1866,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Sweetwater Hot Tubz",
-      "address": "8202 N Loop 1604 E #102, San Antonio, TX 78249, USA",
-      "phone": "(210) 561-8829",
-      "website": "http://www.sweetwaterhottubz.com/",
-      "rating": 4.4,
-      "reviews": 126,
       "cats": [
         "tubs"
       ]
@@ -11935,18 +11306,6 @@ const LISTINGS = {
       "reviews": 3,
       "cats": [
         "remodel"
-      ]
-    },
-    {
-      "name": "Area Agency on Aging of Bexar County",
-      "address": "2700 NE Interstate 410 Loop Ste 101, San Antonio, TX 78217, USA",
-      "phone": "(210) 477-3275",
-      "website": "https://www.aacog.com/aging-services",
-      "rating": 3.7,
-      "reviews": 10,
-      "cats": [
-        "remodel",
-        "transport"
       ]
     },
     {
@@ -12655,17 +12014,6 @@ const LISTINGS = {
       "website": "https://www.perfectwalkinbathtubs.com/?utm_source=Google_My_Business&utm_medium=Organic&utm_campaign=SERPs_and_Maps",
       "rating": 5,
       "reviews": 16,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Action Spa Repair of San Diego",
-      "address": "1455 Frazee Rd Ste 500, San Diego, CA 92108, USA",
-      "phone": "(619) 399-2370",
-      "website": "https://actionsparepair.com/service-areas/san-diego-county-ca/san-diego/",
-      "rating": 5,
-      "reviews": 11,
       "cats": [
         "tubs"
       ]
@@ -13480,17 +12828,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "ABCS Truck Accessories",
-      "address": "11259 Goodnight Ln Suite 1111, Dallas, TX 75229, USA",
-      "phone": "(214) 544-6602",
-      "website": "https://www.abcstruckaccessories.com/",
-      "rating": 4.9,
-      "reviews": 94,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Next Day Access North Dallas",
       "address": "1922 Choate Pkwy Ste 101, Celina, TX 75009, USA",
       "phone": "(214) 382-9353",
@@ -13500,17 +12837,6 @@ const LISTINGS = {
       "cats": [
         "bathroom",
         "stairs"
-      ]
-    },
-    {
-      "name": "James Earl Jones LLC",
-      "address": "600 E Main St, Lancaster, TX 75146, USA",
-      "phone": "(972) 780-6011",
-      "website": "http://www.burglarbarsdfw.com/",
-      "rating": 4.2,
-      "reviews": 10,
-      "cats": [
-        "bathroom"
       ]
     },
     {
@@ -13807,17 +13133,6 @@ const LISTINGS = {
       "website": "https://www.dfwimproved.com/?utm_source=organic&utm_medium=listings",
       "rating": 4.8,
       "reviews": 641,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Aging In Wellness LLC",
-      "address": "6750 Hillcrest Plaza Dr Ste 206, Dallas, TX 75230, USA",
-      "phone": "(972) 824-3413",
-      "website": "https://aginginwellness.com/",
-      "rating": 5,
-      "reviews": 21,
       "cats": [
         "remodel"
       ]
@@ -15409,17 +14724,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Apex Supply Company",
-      "address": "2200 Montgomery St, Fort Worth, TX 76107, USA",
-      "phone": "(817) 732-8183",
-      "website": "https://apexsupplyco.com/pages/location/fort-worth-cultural-district",
-      "rating": 4.7,
-      "reviews": 45,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Fort Worth Home Repair",
       "address": "2216 Mistletoe Ave, Fort Worth, TX 76110, USA",
       "phone": "(817) 201-7100",
@@ -15437,17 +14741,6 @@ const LISTINGS = {
       "website": "https://www.mrhandyman.com/arlington/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
       "rating": 4.7,
       "reviews": 482,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Ready Cable Inc. - Post Tension, Rebar, & Lumber",
-      "address": "4416 Keller Hicks Rd, Fort Worth, TX 76244, USA",
-      "phone": "(817) 379-6553",
-      "website": "http://www.readycable.net/",
-      "rating": 4.3,
-      "reviews": 62,
       "cats": [
         "bathroom"
       ]
@@ -17067,17 +16360,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Columbus Adult Daycare",
-      "address": "5930 Sharon Woods Blvd, Columbus, OH 43229, USA",
-      "phone": "(614) 392-2017",
-      "website": "http://www.chaturbate.com/",
-      "rating": 2,
-      "reviews": 2,
-      "cats": [
-        "social"
-      ]
-    },
-    {
       "name": "The James LJ Center LLC",
       "address": "5320 E Main St #100, Columbus, OH 43213, USA",
       "phone": "(614) 515-7570",
@@ -17230,28 +16512,6 @@ const LISTINGS = {
       "website": "https://www.mrhandyman.com/east-west-charlotte-belmont/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
       "rating": 4.6,
       "reviews": 255,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Little Hardware",
-      "address": "1400 S Mint St, Charlotte, NC 28203, USA",
-      "phone": "(704) 333-3133",
-      "website": "https://www.littlehardware.com/",
-      "rating": 4.7,
-      "reviews": 684,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Ferguson Plumbing Supply",
-      "address": "129 W Summit Ave, Charlotte, NC 28203, USA",
-      "phone": "(704) 332-7355",
-      "website": "https://www.ferguson.com/store/nc/charlotte/plumbingpvf-1150?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
-      "rating": 3.7,
-      "reviews": 77,
       "cats": [
         "bathroom"
       ]
@@ -18151,17 +17411,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "General Devices Company, Inc.",
-      "address": "1410 S Post Rd, Indianapolis, IN 46239, USA",
-      "phone": "(317) 897-7000",
-      "website": "https://www.generaldevices.com/",
-      "rating": 5,
-      "reviews": 4,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "KJK Service",
       "address": "8770 Guion Rd Ste G, Indianapolis, IN 46268, USA",
       "phone": "(866) 886-2009",
@@ -18468,7 +17717,7 @@ const LISTINGS = {
       "rating": 5,
       "reviews": 3,
       "cats": [
-        "remodel"
+        "homecare"
       ]
     },
     {
@@ -19124,28 +18373,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "CAL-STEAM",
-      "address": "898 Pennsylvania Ave, San Francisco, CA 94107, USA",
-      "phone": "(415) 861-3071",
-      "website": "https://www.ferguson.com/store/ca/san+francisco/plumbingpvf-2514?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
-      "rating": 4.6,
-      "reviews": 23,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Discount Builders Supply & Hardware",
-      "address": "1695 Mission St, San Francisco, CA 94103, USA",
-      "phone": "(415) 621-8511",
-      "website": "https://www.discountbuilderssupplysf.com/",
-      "rating": 4.6,
-      "reviews": 1605,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "DJ Bath Plus",
       "address": "271 9th St, San Francisco, CA 94103, USA",
       "phone": "(415) 864-0850",
@@ -19157,67 +18384,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "PACE Supply",
-      "address": "200 Florida St, San Francisco, CA 94103, USA",
-      "phone": "(415) 644-4900",
-      "website": "http://www.pacesupply.com/",
-      "rating": 4.4,
-      "reviews": 31,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Handy Handyman Hardware",
-      "address": "2075 Market St, San Francisco, CA 94114, USA",
-      "phone": "(415) 934-9010",
-      "website": "http://menlohardware.com/",
-      "rating": 4.5,
-      "reviews": 343,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Standard 5 & 10 Ace and Stan's Kitchen",
-      "address": "3545 California St, San Francisco, CA 94118, USA",
-      "phone": "(415) 751-5767",
-      "website": "http://www.standard5n10.com/",
-      "rating": 4.5,
-      "reviews": 285,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Hot Tub Professional Spa Service And Repair",
-      "address": "81 9th St #607, San Francisco, CA 94103, USA",
-      "phone": "(650) 355-6061",
-      "website": "",
-      "rating": 4.7,
-      "reviews": 12,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
       "name": "NuFinishPro of San Francisco",
       "address": "50 California St, San Francisco, CA 94111, USA",
       "phone": "(415) 289-5374",
       "website": "https://www.nufinishpro.com/sfbayarea/",
       "rating": 5,
       "reviews": 65,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Creative Energy Hot Tub/Fireplace Repair",
-      "address": "3419 Regatta Blvd, Richmond, CA 94804, USA",
-      "phone": "(510) 237-2300",
-      "website": "https://www.creativeenergy.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=gmb_website_r",
-      "rating": 4.9,
-      "reviews": 396,
       "cats": [
         "tubs"
       ]
@@ -19240,39 +18412,6 @@ const LISTINGS = {
       "website": "https://www.miraclemethod.com/san-francisco",
       "rating": 4.8,
       "reviews": 53,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Creative Energy",
-      "address": "4100 Redwood Hwy, San Rafael, CA 94903, USA",
-      "phone": "(415) 472-7727",
-      "website": "https://www.creativeenergy.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=gmb_website_sr",
-      "rating": 4.8,
-      "reviews": 176,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Pacific Coast Sauna & Spa",
-      "address": "2176 S El Camino Real, San Mateo, CA 94403, USA",
-      "phone": "(650) 513-6920",
-      "website": "http://pcsaunaandspa.com/",
-      "rating": 4.6,
-      "reviews": 36,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Sullivan Waterworks",
-      "address": "997 63rd St, Oakland, CA 94608, USA",
-      "phone": "(415) 420-1481",
-      "website": "http://www.sullivanwaterworks.com/",
-      "rating": 4.4,
-      "reviews": 8,
       "cats": [
         "tubs"
       ]
@@ -19439,7 +18578,7 @@ const LISTINGS = {
       "rating": 4.7,
       "reviews": 14,
       "cats": [
-        "remodel"
+        "homecare"
       ]
     },
     {
@@ -19461,7 +18600,8 @@ const LISTINGS = {
       "rating": 4.3,
       "reviews": 78,
       "cats": [
-        "remodel"
+        "homecare",
+        "social"
       ]
     },
     {
@@ -19494,7 +18634,6 @@ const LISTINGS = {
       "rating": 5,
       "reviews": 10,
       "cats": [
-        "remodel",
         "social"
       ]
     },
@@ -20270,7 +19409,6 @@ const LISTINGS = {
       "rating": 5,
       "reviews": 25,
       "cats": [
-        "remodel",
         "homecare"
       ]
     },
@@ -20314,17 +19452,6 @@ const LISTINGS = {
       "website": "https://www.aplusac.com/",
       "rating": 4.9,
       "reviews": 1298,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Area Agency on Aging of the Capital Area",
-      "address": "6800 Burleson Rd Bldg 310 Ste 165, Austin, TX 78744, USA",
-      "phone": "(512) 916-6062",
-      "website": "http://www.aaacap.org/",
-      "rating": 3.7,
-      "reviews": 6,
       "cats": [
         "remodel"
       ]
@@ -20850,45 +19977,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Second Use Building Materials",
-      "address": "3223 6th Ave S, Seattle, WA 98134, USA",
-      "phone": "(206) 763-6929",
-      "website": "http://www.seconduse.com/",
-      "rating": 4.6,
-      "reviews": 813,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Chown Hardware Seattle",
-      "address": "2920 1st Ave S, Seattle, WA 98134, USA",
-      "phone": "(206) 973-1879",
-      "website": "https://www.chown.com/seattle-showroom/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=4544d8c8-10e6-4099-b8d8-e47a2862ab15",
-      "rating": 4.2,
-      "reviews": 10,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "UP:GRADE LLC",
       "address": "3315 151st St SW, Lynnwood, WA 98087, USA",
       "phone": "(253) 365-5141",
       "website": "https://upgrade-enterprise.com/",
       "rating": 5,
       "reviews": 15,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "T-Bar Construction, Inc.",
-      "address": "14590 Interurban Ave S b100, Tukwila, WA 98168, USA",
-      "phone": "(206) 682-1186",
-      "website": "http://www.tbarconstruction.com/",
-      "rating": 4.9,
-      "reviews": 10,
       "cats": [
         "bathroom"
       ]
@@ -21521,17 +20615,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "1st faith adult family home",
-      "address": "16626 23rd Ave SE, Bothell, WA 98012, USA",
-      "phone": "(425) 217-9814",
-      "website": "https://1stfaithcare.com/",
-      "rating": 5,
-      "reviews": 5,
-      "cats": [
-        "social"
-      ]
-    },
-    {
       "name": "Full Life Care North Seattle",
       "address": "6555 Ravenna Ave NE, Seattle, WA 98115, USA",
       "phone": "(206) 829-1715",
@@ -21554,43 +20637,10 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Day View - Adult family home and Senior Care",
-      "address": "2111 Shattuck Pl S, Renton, WA 98055, USA",
-      "phone": "(425) 736-4683",
-      "website": "http://seniorcare-wa.com/",
-      "rating": 5,
-      "reviews": 7,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Valley Care Adult Family Home",
-      "address": "8213 S 116th St, Seattle, WA 98178, USA",
-      "phone": "(425) 802-6812",
-      "website": "http://valleycareafh.com/",
-      "rating": 5,
-      "reviews": 6,
-      "cats": [
-        "social"
-      ]
-    },
-    {
       "name": "Elder & Adult Day Services",
       "address": "9723 Coppertop Loop NE, Bainbridge Island, WA 98110, USA",
       "phone": "(360) 377-9810",
       "website": "http://www.eads-cares.org/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Salem Adult Family home",
-      "address": "14319 20th Ave NE, Seattle, WA 98125, USA",
-      "phone": "(206) 566-6126",
-      "website": "http://salemafh.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -21784,50 +20834,6 @@ const LISTINGS = {
       "website": "https://innovativerenovationsinc.com/",
       "rating": 5,
       "reviews": 26,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Grainger Industrial Supply",
-      "address": "95 S Tejon St, Denver, CO 80223, USA",
-      "phone": "(800) 472-4643",
-      "website": "https://www.grainger.com/branch/Denver-Branch-216",
-      "rating": 4,
-      "reviews": 163,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Ultra Design Center",
-      "address": "590 Quivas St 3rd floor, Denver, CO 80204, USA",
-      "phone": "(303) 571-5611",
-      "website": "http://www.ultradesigncenter.com/",
-      "rating": 4.8,
-      "reviews": 40,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "The Showroom at Rampart Supply",
-      "address": "1480 W 3rd Ave, Denver, CO 80223, USA",
-      "phone": "(303) 962-4333",
-      "website": "https://showroom.rampartsupply.com/",
-      "rating": 4.6,
-      "reviews": 172,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Rampart Supply",
-      "address": "285 Rio Grande Blvd, Denver, CO 80223, USA",
-      "phone": "(303) 629-6122",
-      "website": "https://www.rampartsupply.com/",
-      "rating": 4.6,
-      "reviews": 144,
       "cats": [
         "bathroom"
       ]
@@ -22094,7 +21100,7 @@ const LISTINGS = {
       "rating": 4.9,
       "reviews": 32,
       "cats": [
-        "remodel"
+        "homecare"
       ]
     },
     {
@@ -22774,28 +21780,6 @@ const LISTINGS = {
       "cats": [
         "bathroom",
         "tubs"
-      ]
-    },
-    {
-      "name": "R&R Building Specialties, Inc.",
-      "address": "3512 S High Ave, Oklahoma City, OK 73129, USA",
-      "phone": "(405) 681-6565",
-      "website": "http://www.rrbuildingspecialties.com/",
-      "rating": 3,
-      "reviews": 2,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Winsupply of Oklahoma City",
-      "address": "520 N Virginia Ave, Oklahoma City, OK 73106, USA",
-      "phone": "(405) 235-5488",
-      "website": "https://www.winsupplyinc.com/Location/Oklahoma-City-OK/73106/Plumbing-Supplies",
-      "rating": 4.5,
-      "reviews": 12,
-      "cats": [
-        "bathroom"
       ]
     },
     {
@@ -24249,28 +23233,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Signature Transportation Services",
-      "address": "1306 Antioch Pike, Nashville, TN 37211, USA",
-      "phone": "(615) 244-5466",
-      "website": "https://nashvillelimo.com/",
-      "rating": 4.7,
-      "reviews": 312,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Executive Transportation, LLC",
-      "address": "1831 12th Ave S Ste 332, Nashville, TN 37203, USA",
-      "phone": "(615) 852-6009",
-      "website": "http://www.executivetransportation.limo/",
-      "rating": 4.7,
-      "reviews": 43,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
       "name": "FiftyForward Donelson Station",
       "address": "108 Donelson Pike, Nashville, TN 37214, USA",
       "phone": "(615) 883-8375",
@@ -24447,17 +23409,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Fannie Battle Day Home",
-      "address": "108 Chapel Ave, Nashville, TN 37206, USA",
-      "phone": "(615) 228-6745",
-      "website": "https://www.fanniebattle.org/",
-      "rating": 4.7,
-      "reviews": 31,
-      "cats": [
-        "social"
-      ]
-    },
-    {
       "name": "Elder Law of Nashville",
       "address": "4235 Hillsboro Pike, Nashville, TN 37215, USA",
       "phone": "(615) 852-5602",
@@ -24593,34 +23544,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "W.T. Weaver & Sons Inc.",
-      "address": "1208 Wisconsin Ave NW, Washington, DC 20007, USA",
-      "phone": "(202) 333-4200",
-      "website": "http://www.weaverhardware.com/",
-      "rating": 4.6,
-      "reviews": 21,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Get a Grip Construction Services",
       "address": "8820 Monard Dr, Silver Spring, MD 20910, USA",
       "phone": "(240) 372-0770",
       "website": "http://www.getagriphelps.com/",
       "rating": 4.9,
       "reviews": 42,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "W.S. Jenks & Son",
-      "address": "910 Bladensburg Rd NE, Washington, DC 20002, USA",
-      "phone": "(202) 529-6020",
-      "website": "https://www.doitbest.com/w-s-jenks-and-son/",
-      "rating": 4.8,
-      "reviews": 223,
       "cats": [
         "bathroom"
       ]
@@ -25469,56 +24398,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Garcia Iron Works",
-      "address": "8374 Alameda Ave Local C, El Paso, TX 79907, USA",
-      "phone": "(915) 244-5333",
-      "website": "http://garciaironworksep.com/",
-      "rating": 4.8,
-      "reviews": 66,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "Sun Country Medical Equipment",
       "address": "2019 E Missouri Ave, El Paso, TX 79903, USA",
       "phone": "(915) 592-4346",
       "website": "http://www.suncountrymedical.com/",
       "rating": 4.6,
       "reviews": 878,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "So-Lo Hardware",
-      "address": "11130 Rojas Dr, El Paso, TX 79935, USA",
-      "phone": "(915) 351-6868",
-      "website": "https://solohardware.shop/",
-      "rating": 5,
-      "reviews": 32,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Hardware Specialties & Glass Co., Inc.",
-      "address": "214 N Virginia St, El Paso, TX 79901, USA",
-      "phone": "(915) 533-5555",
-      "website": "http://www.hardwarespecialties.net/",
-      "rating": 4.9,
-      "reviews": 150,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Stainless American Designs, Inc.",
-      "address": "4673 Osborne Dr Ste h, El Paso, TX 79922, USA",
-      "phone": "",
-      "website": "https://stainlessad.com/",
-      "rating": 5,
-      "reviews": 11,
       "cats": [
         "bathroom"
       ]
@@ -25659,17 +24544,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Central Lifts and Equipment",
-      "address": "5000 E Paisano Dr, El Paso, TX 79905, USA",
-      "phone": "(915) 977-8771",
-      "website": "http://centralliftsequip.com/",
-      "rating": 4,
-      "reviews": 4,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
       "name": "National Seating & Mobility",
       "address": "11436 Rojas Dr Ste B-6, El Paso, TX 79936, USA",
       "phone": "(915) 629-7174",
@@ -25742,17 +24616,6 @@ const LISTINGS = {
       "website": "http://www.resp-med.com/",
       "rating": 2.5,
       "reviews": 29,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "B&M Building Services",
-      "address": "1116 Wyoming Ave, El Paso, TX 79902, USA",
-      "phone": "(915) 333-9480",
-      "website": "https://bmwaterproofing.com/",
-      "rating": 5,
-      "reviews": 4,
       "cats": [
         "stairs"
       ]
@@ -26090,28 +24953,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "Independent Trucker Services Inc. dba HOLA Transportation Services",
-      "address": "6930 Market Ave Suite A, El Paso, TX 79915, USA",
-      "phone": "(915) 881-9500",
-      "website": "http://www.holatrans.com/",
-      "rating": 4.1,
-      "reviews": 18,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Transportation Office (PPSO)",
-      "address": "bldg 504-A, Pershing Rd, Fort Bliss, TX 79906, USA",
-      "phone": "(915) 568-4339",
-      "website": "",
-      "rating": 3.8,
-      "reviews": 97,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
       "name": "Bienvivir All-Inclusive Senior Health",
       "address": "2300 McKinley Ave, El Paso, TX 79930, USA",
       "phone": "(915) 562-3444",
@@ -26121,17 +24962,6 @@ const LISTINGS = {
       "cats": [
         "transport",
         "social"
-      ]
-    },
-    {
-      "name": "Central Transportation Systems",
-      "address": "6975 Market Ave, El Paso, TX 79915, USA",
-      "phone": "(915) 285-5582",
-      "website": "http://centralsystems.com/",
-      "rating": 4.9,
-      "reviews": 986,
-      "cats": [
-        "transport"
       ]
     },
     {
@@ -26531,39 +25361,6 @@ const LISTINGS = {
       "website": "https://getzhandyman.com/",
       "rating": 4.8,
       "reviews": 166,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Hearth & Home Specialties LLC",
-      "address": "3555 W Quail Ave STE A, Las Vegas, NV 89118, USA",
-      "phone": "(702) 474-4099",
-      "website": "https://www.hnhsi-inc.com/",
-      "rating": 4.4,
-      "reviews": 56,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Grani Installation Inc",
-      "address": "5165 S Valley View Blvd, Las Vegas, NV 89118, USA",
-      "phone": "(702) 739-0370",
-      "website": "http://www.grani.biz/",
-      "rating": 5,
-      "reviews": 1,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Top-Notch Installations",
-      "address": "6285 S Mojave Rd Ste F, Las Vegas, NV 89120, USA",
-      "phone": "(702) 586-5055",
-      "website": "http://tninstallations.com/contact-us/",
-      "rating": 4.3,
-      "reviews": 6,
       "cats": [
         "bathroom"
       ]
@@ -27508,50 +26305,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "KOHLER Store by Supply New England",
-      "address": "7 Tide St, Boston, MA 02210, USA",
-      "phone": "(617) 202-0068",
-      "website": "https://www.kohler.com/en/locations/massachusetts/boston/kohler-signature-store-by-supply-new-england",
-      "rating": 4.7,
-      "reviews": 81,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Charles Street Supply",
-      "address": "54 Charles St, Boston, MA 02114, USA",
-      "phone": "(617) 367-9046",
-      "website": "http://www.acehardware.com/mystore/index.jsp?store=12226&cid=localstore12226",
-      "rating": 4.7,
-      "reviews": 239,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Waterworks - Boston Showroom",
-      "address": "1 Design Center Pl Ste 19-120w, Boston, MA 02210, USA",
-      "phone": "(617) 951-2496",
-      "website": "http://www.waterworks.com/",
-      "rating": 3,
-      "reviews": 2,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Apex Rooftop Bar and Lounge",
-      "address": "150 State St, Boston, MA 02109, USA",
-      "phone": "(617) 356-6431",
-      "website": "http://www.apexrooftopbar.com/",
-      "rating": 4.8,
-      "reviews": 1282,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "The Bath Boys",
       "address": "317 Belgrade Ave, Boston, MA 02131, USA",
       "phone": "(617) 226-7100",
@@ -28438,17 +27191,6 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "PACE Supply",
-      "address": "630 Quinn Ave, San Jose, CA 95112, USA",
-      "phone": "(800) 619-4723",
-      "website": "http://www.pacesupply.com/",
-      "rating": 4.4,
-      "reviews": 49,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
       "name": "NuFinishPro of San Jose",
       "address": "99 S Almaden Blvd, San Jose, CA 95113, USA",
       "phone": "(408) 665-7541",
@@ -28504,45 +27246,12 @@ const LISTINGS = {
       ]
     },
     {
-      "name": "The Hot Tub WhereHouse",
-      "address": "921 Laurelwood Rd #A, Santa Clara, CA 95054, USA",
-      "phone": "(408) 320-1530",
-      "website": "http://www.hottubwherehouse.com/",
-      "rating": 4.9,
-      "reviews": 47,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Paradise Valley Spas San Jose",
-      "address": "3278 Almaden Expy, San Jose, CA 95118, USA",
-      "phone": "(408) 267-8300",
-      "website": "https://www.sfspas.com/locations/san-jose/?utm_source=google&utm_medium=organic-gmb",
-      "rating": 4.2,
-      "reviews": 32,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
       "name": "Sierra Refinishing",
       "address": "San Jose, CA 95113, USA",
       "phone": "(408) 977-0508",
       "website": "http://www.sierrarefinishing.com/",
       "rating": 5,
       "reviews": 2,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "The Spa and Sauna Co. - San Jose - Home of Hot Spring Spas",
-      "address": "2627 S Bascom Ave, Campbell, CA 95008, USA",
-      "phone": "",
-      "website": "https://spaandsauna.com/locations-san-jose/?utm_source=organic&utm_medium=GMB%20SJ",
-      "rating": 4.6,
-      "reviews": 77,
       "cats": [
         "tubs"
       ]

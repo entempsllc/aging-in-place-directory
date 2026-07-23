@@ -1,0 +1,7 @@
+exclude:
+  - README.md
+  - admin.html
+  - audits
+  - listings-data.js
+  - scripts
+  - tests

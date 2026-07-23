@@ -158,6 +158,12 @@ a:focus-visible, button:focus-visible {
 .prose p { margin-bottom: 14px; }
 .prose ul { margin: 0 0 14px 22px; }
 .prose li { margin-bottom: 6px; }
+.byline { color: #4B5A52; font-size: .95rem; margin-top: 14px; }
+.review-note { background: #F4F7F5; border-left: 4px solid #3E6B57; border-radius: 6px; margin: 22px 0; padding: 14px 16px; }
+.data-freshness { color: #4B5A52; font-size: .92rem; margin: 10px 0 20px; }
+.sources { border-top: 1px solid #D9E2DD; margin-top: 34px; padding-top: 8px; }
+.sources li { margin-bottom: 9px; }
+.sources a { overflow-wrap: anywhere; }
 
 /* FAQ */
 details.faq {
