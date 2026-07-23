@@ -14,7 +14,8 @@ const listings = context.__LISTINGS__;
 const dataDir = path.join(root, 'data');
 fs.mkdirSync(dataDir, { recursive: true });
 for (const [slug, items] of Object.entries(listings)) {
-  const payload = `/* Generated from listings-data.js. Edit the source file, then rerun scripts/split-listings.js. */\nconst LISTINGS = ${JSON.stringify({ [slug]: items })};\n`;
+  const publicItems = items.map(({ rating, reviews, ...item }) => item);
+  const payload = `/* Generated from listings-data.js. Ratings and review counts are intentionally excluded from public payloads. Edit the source file, then rerun scripts/split-listings.js. */\nconst LISTINGS = ${JSON.stringify({ [slug]: publicItems })};\n`;
   fs.writeFileSync(path.join(dataDir, `${slug}.js`), payload);
 }
 
