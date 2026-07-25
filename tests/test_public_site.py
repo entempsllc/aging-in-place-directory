@@ -115,7 +115,10 @@ class PublicSitePolicyTests(unittest.TestCase):
         nashville = (ROOT / "tn" / "nashville.html").read_text(encoding="utf-8")
         for url in (
             "https://www.tn.gov/commerce/regboards/contractors.html",
-            "https://www.tn.gov/disability-and-aging.html",
+            "https://search.cloud.commerce.tn.gov/",
+            "https://www.tn.gov/disability-and-aging/services.html",
+            "https://www.tn.gov/disability-and-aging/disability-aging-programs/housing-innovation.html",
+            "https://www.tn.gov/disability-and-aging/about-us/contact-information/other-helpful-numbers.html",
             "https://www.nashville.gov/departments/codes/construction-and-permits",
         ):
             self.assertIn(url, nashville)
@@ -169,7 +172,7 @@ class PublicSitePolicyTests(unittest.TestCase):
                 continue
             self.assertIn('class="data-freshness"', text, page)
             self.assertIn("Five checks before hiring", text, page)
-            self.assertIn('"dateModified": "2026-07-20"', text, page)
+            self.assertRegex(text, r'"dateModified": "2026-07-(20|25)"', page)
             self.assertIn("Treat each listing as a research lead", text, page)
             self.assertNotIn("generally track national ranges", text, page)
             self.assertNotIn("yearly home-safety allowance", text, page)
