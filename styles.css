@@ -230,3 +230,20 @@ details.faq p { margin-top: 10px; }
   .nav a { margin-left: 12px; font-size: .92rem; }
   .hero { padding: 52px 0 44px; }
 }
+
+/* ---- Lead capture form (homeowner quote requests) ---- */
+.lead-form-card{background:var(--white);border:1px solid var(--line);border-radius:var(--radius);padding:34px 30px;max-width:720px;margin:0 auto;}
+.lead-kicker{font-size:14px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--marigold-dark);margin-bottom:6px;}
+.lead-form-card h2{margin-bottom:8px;}
+.lead-sub{margin-bottom:22px;}
+.lead-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 18px;}
+@media(max-width:560px){.lead-grid{grid-template-columns:1fr;}}
+.lead-form label{display:block;font-weight:700;margin-bottom:6px;}
+.lead-hint{font-weight:400;color:#5c6a62;font-size:15px;}
+.lead-form input,.lead-form select,.lead-form textarea{width:100%;font:inherit;color:var(--ink);padding:13px 14px;min-height:48px;border:2px solid var(--line);border-radius:10px;background:var(--white);margin-bottom:18px;}
+.lead-form textarea{min-height:90px;resize:vertical;}
+.lead-form input:focus,.lead-form select:focus,.lead-form textarea:focus{outline:3px solid var(--marigold);outline-offset:1px;border-color:var(--pine);}
+.lead-submit{width:100%;font-size:19px;padding:15px;min-height:54px;}
+.lead-privacy{font-size:15px;color:#5c6a62;margin-top:12px;line-height:1.5;}
+.lead-error{color:#A33A2A;font-weight:700;margin-bottom:12px;}
+.lead-success{font-size:19px;padding:20px;background:var(--mist);border:2px solid var(--pine);border-radius:10px;}

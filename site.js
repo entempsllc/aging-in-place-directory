@@ -157,3 +157,35 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.target === backdrop) closeSubmit();
   });
 });
+
+/* ---- Lead capture form (homeowner quote requests) ----
+   To collect leads by web form instead of email, create a free form at
+   https://formspree.io and paste its endpoint below (e.g.
+   "https://formspree.io/f/abcdwxyz"). Until then, submissions open the
+   visitor's email app addressed to you, so no lead is ever lost. */
+var LEAD_ENDPOINT = "";
+document.addEventListener("DOMContentLoaded", function () {
+  var form = document.querySelector(".lead-form");
+  if (!form) return;
+  var card = form.closest(".lead-form-card");
+  var success = card.querySelector(".lead-success");
+  var errorMsg = card.querySelector(".lead-error");
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    errorMsg.hidden = true;
+    var data = new FormData(form);
+    if (!LEAD_ENDPOINT) {
+      var subject = "New lead - agingracefully.care (" + (data.get("city") || "") + ")";
+      var lines = ["New quote request from agingracefully.care", ""];
+      data.forEach(function (v, k) { if (v) lines.push(k + ": " + v); });
+      window.location.href = "mailto:entempsllc@gmail.com?subject=" +
+        encodeURIComponent(subject) + "&body=" + encodeURIComponent(lines.join("\n"));
+      form.hidden = true; success.hidden = false; return;
+    }
+    var btn = form.querySelector(".lead-submit");
+    btn.disabled = true; btn.textContent = "Sending...";
+    fetch(LEAD_ENDPOINT, { method: "POST", body: data, headers: { "Accept": "application/json" } })
+      .then(function (r) { if (!r.ok) throw 0; form.hidden = true; success.hidden = false; })
+      .catch(function () { errorMsg.hidden = false; btn.disabled = false; btn.textContent = "Request my free quotes"; });
+  });
+});
