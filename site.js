@@ -163,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
    https://formspree.io and paste its endpoint below (e.g.
    "https://formspree.io/f/abcdwxyz"). Until then, submissions open the
    visitor's email app addressed to you, so no lead is ever lost. */
-var LEAD_ENDPOINT = "";
+var LEAD_ENDPOINT = "https://formspree.io/f/xykrakar";
 document.addEventListener("DOMContentLoaded", function () {
   var form = document.querySelector(".lead-form");
   if (!form) return;
