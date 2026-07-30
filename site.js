@@ -189,3 +189,19 @@ document.addEventListener("DOMContentLoaded", function () {
       .catch(function () { errorMsg.hidden = false; btn.disabled = false; btn.textContent = "Request my free quotes"; });
   });
 });
+
+/* ---- Lead form: reveal a text box when "Something else" is chosen ---- */
+document.addEventListener("DOMContentLoaded", function () {
+  var proj = document.getElementById("lead-project");
+  var wrap = document.getElementById("lead-other-wrap");
+  var other = document.getElementById("lead-other");
+  if (!proj || !wrap || !other) return;
+  function sync() {
+    var show = proj.value === "Something else";
+    wrap.hidden = !show;
+    other.required = show;
+    if (!show) other.value = "";
+  }
+  proj.addEventListener("change", sync);
+  sync();
+});
