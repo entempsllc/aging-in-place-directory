@@ -130,6 +130,13 @@ class PublicSitePolicyTests(unittest.TestCase):
         ):
             self.assertIn(url, wilmington)
 
+    def test_daily_living_guide_has_real_decision_support_not_fake_shop_links(self):
+        guide = (ROOT / "guides" / "daily-living.html").read_text(encoding="utf-8")
+        self.assertNotIn('href="#" rel="nofollow sponsored"', guide)
+        self.assertIn('id="choosing-help"', guide)
+        self.assertIn("Match the task to the right kind of help", guide)
+        self.assertIn("Questions to ask before hiring daily-living help", guide)
+
     def test_homepage_describes_current_directory_scope_accurately(self):
         home = (ROOT / "index.html").read_text(encoding="utf-8")
         self.assertIn("35 U.S. cities", home)
