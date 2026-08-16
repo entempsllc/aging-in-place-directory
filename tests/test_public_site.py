@@ -130,6 +130,15 @@ class PublicSitePolicyTests(unittest.TestCase):
         ):
             self.assertIn(url, wilmington)
 
+    def test_nashville_search_visitors_can_reach_and_attribute_quote_requests(self):
+        nashville = (ROOT / "tn" / "nashville.html").read_text(encoding="utf-8")
+        self.assertIn('href="#get-quotes">Request local quotes</a>', nashville)
+        self.assertIn('id="get-quotes"', nashville)
+        self.assertIn(
+            'name="source_page" value="https://www.agingracefully.care/tn/nashville.html"',
+            nashville,
+        )
+
     def test_daily_living_guide_has_real_decision_support_not_fake_shop_links(self):
         guide = (ROOT / "guides" / "daily-living.html").read_text(encoding="utf-8")
         self.assertNotIn('href="#" rel="nofollow sponsored"', guide)
