@@ -164,6 +164,23 @@ document.addEventListener("DOMContentLoaded", () => {
    "https://formspree.io/f/abcdwxyz"). Until then, submissions open the
    visitor's email app addressed to you, so no lead is ever lost. */
 var LEAD_ENDPOINT = "https://formspree.io/f/xykrakar";
+
+/* Add an opaque, non-personal reference so a submission and any retry can be
+   reconciled in the form inbox without putting visitor details in analytics. */
+function ensureLeadReference(form) {
+  var input = form.querySelector('input[name="lead_reference"]');
+  if (!input) {
+    input = document.createElement("input");
+    input.type = "hidden";
+    input.name = "lead_reference";
+    form.appendChild(input);
+  }
+  if (!input.value) {
+    input.value = "ag-" + Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 10);
+  }
+  return input.value;
+}
+
 document.addEventListener("DOMContentLoaded", function () {
   var form = document.querySelector(".lead-form");
   if (!form) return;
@@ -173,6 +190,7 @@ document.addEventListener("DOMContentLoaded", function () {
   form.addEventListener("submit", function (e) {
     e.preventDefault();
     errorMsg.hidden = true;
+    ensureLeadReference(form);
     var data = new FormData(form);
     if (!LEAD_ENDPOINT) {
       var subject = "New lead - agingracefully.care (" + (data.get("city") || "") + ")";

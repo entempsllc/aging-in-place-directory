@@ -73,4 +73,17 @@ context.renderListings('bathroom');
 assert.strictEqual(injectedSchema, null, 'an empty category filter must remove stale ItemList schema');
 assert(container.innerHTML.includes('empty-note'), 'an empty category filter should show the empty state');
 
+const leadForm = {
+  reference: null,
+  querySelector(selector) {
+    return selector === 'input[name="lead_reference"]' ? this.reference : null;
+  },
+  appendChild(node) { this.reference = node; },
+};
+const firstReference = context.ensureLeadReference(leadForm);
+assert.match(firstReference, /^ag-[a-z0-9]+-[a-z0-9]+$/, 'lead references should be privacy-minimal opaque IDs');
+assert.strictEqual(leadForm.reference.type, 'hidden');
+assert.strictEqual(leadForm.reference.name, 'lead_reference');
+assert.strictEqual(context.ensureLeadReference(leadForm), firstReference, 'a retry must keep the same lead reference');
+
 console.log('site.js behavior tests passed');
