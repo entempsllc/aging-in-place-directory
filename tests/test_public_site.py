@@ -138,6 +138,9 @@ class PublicSitePolicyTests(unittest.TestCase):
             'name="source_page" value="https://www.agingracefully.care/tn/nashville.html"',
             nashville,
         )
+        self.assertIn("We will review the request", nashville)
+        self.assertNotIn("a local provider will reach out shortly", nashville)
+        self.assertNotIn("usually within one business day", nashville)
 
     def test_daily_living_guide_has_real_decision_support_not_fake_shop_links(self):
         guide = (ROOT / "guides" / "daily-living.html").read_text(encoding="utf-8")
