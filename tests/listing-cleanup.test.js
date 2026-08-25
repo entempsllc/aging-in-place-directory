@@ -87,4 +87,13 @@ assert(listings['san-diego-ca'].some(item => item.name === 'Aging-In-Place Remod
 assert(listings['houston-tx'].some(item => item.name === 'Lone Star Stairlifts - Greater Houston'), 'local Houston record must be retained');
 assert(listings['mckinney-tx'].some(item => item.name === 'DFW Grab Bars'), 'local DFW record must be retained');
 
+const centralOhioAgency = listings['columbus-oh'].find(item =>
+  item.name === 'Central Ohio Area Agency on Aging' &&
+  item.address === '3776 S High St, Columbus, OH 43207, USA'
+);
+assert(centralOhioAgency, 'Central Ohio Area Agency on Aging must remain as a Columbus resource');
+assert(!centralOhioAgency.cats.includes('remodel'), 'a public resource agency must not be presented as a direct remodeler');
+assert(centralOhioAgency.cats.includes('social'), 'the resource agency must retain its defensible community-resource category');
+assert.strictEqual(centralOhioAgency.website, 'https://www.coaaa.org/', 'the resource agency must use its current secure canonical URL');
+
 console.log('listing cleanup audit tests passed');

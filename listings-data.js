@@ -15921,11 +15921,10 @@ const LISTINGS = {
       "name": "Central Ohio Area Agency on Aging",
       "address": "3776 S High St, Columbus, OH 43207, USA",
       "phone": "(800) 589-7277",
-      "website": "http://www.coaaa.org/",
+      "website": "https://www.coaaa.org/",
       "rating": 4.3,
       "reviews": 72,
       "cats": [
-        "remodel",
         "transport",
         "social"
       ]
