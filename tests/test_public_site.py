@@ -182,6 +182,12 @@ class PublicSitePolicyTests(unittest.TestCase):
             self.assertIn(f'href="{href}"', offer, href)
         self.assertIn("all 35 supported locations", offer)
 
+    def test_every_city_page_links_to_the_sponsored_profile_pilot(self):
+        city_pages = [p for p in self.public_html() if "data-city=" in p.read_text(encoding="utf-8")]
+        self.assertEqual(len(city_pages), 35)
+        for page in city_pages:
+            self.assertIn('href="../sponsored-profile.html"', page.read_text(encoding="utf-8"), page)
+
     def test_sponsored_profile_pilot_terms_are_explicit_and_non_misleading(self):
         offer = (ROOT / "sponsored-profile.html").read_text(encoding="utf-8")
         for term in (
