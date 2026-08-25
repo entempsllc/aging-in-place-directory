@@ -124,7 +124,7 @@ class PublicSitePolicyTests(unittest.TestCase):
             self.assertIn(url, nashville)
         wilmington = (ROOT / "nc" / "wilmington.html").read_text(encoding="utf-8")
         for url in (
-            "https://www.nclbgc.org/",
+            "https://portal.nclbgc.org/Public/Search",
             "https://capefearcog.gov/aging/",
             "https://www.nhcgov.com/191/Adult-Enhancement-Services-Division-AES",
         ):
@@ -141,6 +141,22 @@ class PublicSitePolicyTests(unittest.TestCase):
         self.assertIn("We will review the request", nashville)
         self.assertNotIn("a local provider will reach out shortly", nashville)
         self.assertNotIn("usually within one business day", nashville)
+
+    def test_wilmington_grab_bar_searchers_get_service_selection_guidance(self):
+        wilmington = (ROOT / "nc" / "wilmington.html").read_text(encoding="utf-8")
+        self.assertIn('id="choosing-grab-bar-installer"', wilmington)
+        self.assertIn("Who installs grab bars for seniors?", wilmington)
+        self.assertIn("straightforward installation", wilmington)
+        self.assertIn("opening a tiled wall", wilmington)
+        self.assertIn("occupational therapist", wilmington)
+        self.assertIn(
+            "https://www.aarp.org/livable-communities/housing/info-2020/homefit-guide.html",
+            wilmington,
+        )
+        self.assertIn("https://portal.nclbgc.org/Public/Search", wilmington)
+        self.assertIn("We will review the request", wilmington)
+        self.assertNotIn("a local provider will reach out shortly", wilmington)
+        self.assertNotIn("usually within one business day", wilmington)
 
     def test_daily_living_guide_has_real_decision_support_not_fake_shop_links(self):
         guide = (ROOT / "guides" / "daily-living.html").read_text(encoding="utf-8")
