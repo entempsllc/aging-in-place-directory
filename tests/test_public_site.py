@@ -172,6 +172,40 @@ class PublicSitePolicyTests(unittest.TestCase):
         self.assertNotIn("Nearly 9 in 10", home)
         self.assertNotIn("Every city page lists", home)
 
+    def test_sponsored_profile_pilot_is_available_across_all_locations(self):
+        offer = (ROOT / "sponsored-profile.html").read_text(encoding="utf-8")
+        home = (ROOT / "index.html").read_text(encoding="utf-8")
+        city_hrefs = re.findall(r'class="city-link" href="([^"]+\.html)"', home)
+        self.assertEqual(len(city_hrefs), 35)
+        self.assertIn('href="sponsored-profile.html"', home)
+        for href in city_hrefs:
+            self.assertIn(f'href="{href}"', offer, href)
+        self.assertIn("all 35 supported locations", offer)
+
+    def test_sponsored_profile_pilot_terms_are_explicit_and_non_misleading(self):
+        offer = (ROOT / "sponsored-profile.html").read_text(encoding="utf-8")
+        for term in (
+            "$75 one-time pilot price",
+            "30 consecutive days",
+            "first three qualified providers",
+            "No automatic renewal",
+            "does not guarantee impressions, clicks, inquiries, leads, rankings, appointments, or sales",
+            "Payment affects presentation and prominence",
+            "does not imply endorsement, verification, availability, or guaranteed results",
+            "Basic listings and factual corrections remain free",
+        ):
+            self.assertIn(term, offer)
+        self.assertIn("<code>nofollow sponsored</code>", offer)
+        self.assertNotIn("verified provider", offer.lower())
+        self.assertNotIn("guaranteed leads", offer.lower())
+
+    def test_sponsored_profile_inquiry_has_privacy_minimal_source_attribution(self):
+        offer = (ROOT / "sponsored-profile.html").read_text(encoding="utf-8")
+        self.assertIn("Pilot%20source%3A%20all-35-cities", offer)
+        self.assertIn("Sponsored%20Enhanced%20Profile%20Pilot%20Inquiry", offer)
+        self.assertIn("No payment is collected on this page", offer)
+        self.assertNotIn("utm_", offer.lower())
+
     def test_public_pages_have_no_dead_sponsored_product_links(self):
         for page in self.public_html():
             text = page.read_text(encoding="utf-8")

@@ -13,5 +13,6 @@
   <url><loc>https://www.agingracefully.care/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://www.agingracefully.care/terms.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://www.agingracefully.care/editorial-policy.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.agingracefully.care/sponsored-profile.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.agingracefully.care/corrections.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
 </urlset>
