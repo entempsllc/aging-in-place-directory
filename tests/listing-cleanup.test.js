@@ -96,4 +96,13 @@ assert(!centralOhioAgency.cats.includes('remodel'), 'a public resource agency mu
 assert(centralOhioAgency.cats.includes('social'), 'the resource agency must retain its defensible community-resource category');
 assert.strictEqual(centralOhioAgency.website, 'https://www.coaaa.org/', 'the resource agency must use its current secure canonical URL');
 
+const mobilityWilmington = listings['wilmington-nc'].find(item =>
+  item.name === '101 Mobility of Wilmington' &&
+  item.address === '5221 Oleander Dr, Wilmington, NC 28403, USA'
+);
+assert(mobilityWilmington, '101 Mobility of Wilmington must remain as a local stairlift provider');
+assert.deepStrictEqual(JSON.parse(JSON.stringify(mobilityWilmington.cats)), ['stairs'], '101 Mobility of Wilmington must remain only in Stairlifts & ramps');
+assert.strictEqual(mobilityWilmington.phone, '(910) 469-4815', '101 Mobility of Wilmington must retain its first-party public phone');
+assert.strictEqual(mobilityWilmington.website, 'https://www.101mobility.com/wilmington/', '101 Mobility of Wilmington must use its first-party canonical URL without tracking parameters');
+
 console.log('listing cleanup audit tests passed');

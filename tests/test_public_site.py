@@ -247,7 +247,7 @@ class PublicSitePolicyTests(unittest.TestCase):
                 continue
             self.assertIn('class="data-freshness"', text, page)
             self.assertIn("Five checks before hiring", text, page)
-            self.assertRegex(text, r'"dateModified": "2026-07-(20|25)"', page)
+            self.assertRegex(text, r'"dateModified": "2026-(07-(20|25)|08-26)"', page)
             self.assertIn("Treat each listing as a research lead", text, page)
             self.assertNotIn("generally track national ranges", text, page)
             self.assertNotIn("yearly home-safety allowance", text, page)
