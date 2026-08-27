@@ -96,6 +96,15 @@ assert(!centralOhioAgency.cats.includes('remodel'), 'a public resource agency mu
 assert(centralOhioAgency.cats.includes('social'), 'the resource agency must retain its defensible community-resource category');
 assert.strictEqual(centralOhioAgency.website, 'https://www.coaaa.org/', 'the resource agency must use its current secure canonical URL');
 
+const mobilityColumbus = listings['columbus-oh'].find(item =>
+  item.name === '101 Mobility of Columbus' &&
+  item.address === '4706 Trabue Rd, Columbus, OH 43228, USA'
+);
+assert(mobilityColumbus, '101 Mobility of Columbus must remain as a local stairlift provider');
+assert.deepStrictEqual(JSON.parse(JSON.stringify(mobilityColumbus.cats)), ['stairs'], '101 Mobility of Columbus must remain only in Stairlifts & ramps');
+assert.strictEqual(mobilityColumbus.phone, '(740) 520-8026', '101 Mobility of Columbus must retain its first-party public phone');
+assert.strictEqual(mobilityColumbus.website, 'https://www.101mobility.com/columbus/', '101 Mobility of Columbus must use its first-party canonical URL without tracking parameters');
+
 const mobilityWilmington = listings['wilmington-nc'].find(item =>
   item.name === '101 Mobility of Wilmington' &&
   item.address === '5221 Oleander Dr, Wilmington, NC 28403, USA'

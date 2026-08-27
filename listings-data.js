@@ -15800,7 +15800,7 @@ const LISTINGS = {
       "name": "101 Mobility of Columbus",
       "address": "4706 Trabue Rd, Columbus, OH 43228, USA",
       "phone": "(740) 520-8026",
-      "website": "https://www.101mobility.com/columbus/?utm_source=GBP_Columbus&utm_medium=organic&y_source=1_MTAzMzU5NzAwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "website": "https://www.101mobility.com/columbus/",
       "rating": 4.7,
       "reviews": 102,
       "cats": [
