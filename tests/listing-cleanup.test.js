@@ -114,4 +114,13 @@ assert.deepStrictEqual(JSON.parse(JSON.stringify(mobilityWilmington.cats)), ['st
 assert.strictEqual(mobilityWilmington.phone, '(910) 469-4815', '101 Mobility of Wilmington must retain its first-party public phone');
 assert.strictEqual(mobilityWilmington.website, 'https://www.101mobility.com/wilmington/', '101 Mobility of Wilmington must use its first-party canonical URL without tracking parameters');
 
+const mobilityDenver = listings['denver-co'].find(item =>
+  item.name === '101 Mobility of Denver' &&
+  item.address === '7346 S Alton Way #10k, Centennial, CO 80112, USA'
+);
+assert(mobilityDenver, '101 Mobility of Denver must remain as a local stairlift provider');
+assert.deepStrictEqual(JSON.parse(JSON.stringify(mobilityDenver.cats)), ['stairs'], '101 Mobility of Denver must remain only in Stairlifts & ramps');
+assert.strictEqual(mobilityDenver.phone, '(303) 529-7077', '101 Mobility of Denver must retain its first-party public phone');
+assert.strictEqual(mobilityDenver.website, 'https://www.101mobility.com/denver/', '101 Mobility of Denver must use its first-party canonical URL without tracking parameters');
+
 console.log('listing cleanup audit tests passed');
