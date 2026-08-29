@@ -158,6 +158,27 @@ class PublicSitePolicyTests(unittest.TestCase):
         self.assertNotIn("a local provider will reach out shortly", wilmington)
         self.assertNotIn("usually within one business day", wilmington)
 
+    def test_las_vegas_grab_bar_searchers_get_local_selection_guidance(self):
+        las_vegas = (ROOT / "nv" / "las-vegas.html").read_text(encoding="utf-8")
+        self.assertIn("Grab Bar Installers for Seniors in Las Vegas, NV", las_vegas)
+        self.assertIn('id="choosing-las-vegas-grab-bar-installer"', las_vegas)
+        self.assertIn("Who installs grab bars for seniors in Las Vegas?", las_vegas)
+        self.assertIn("same wall material", las_vegas)
+        self.assertIn("occupational therapist", las_vegas)
+        for url in (
+            "https://app.nvcontractorsboard.com/Clients/NVSCB/Public/ContractorLicenseSearch/ContractorLicenseSearch.aspx",
+            "https://www.nvcontractorsboard.com/resources/handyman-exemptions/",
+            "https://adsd.nv.gov/",
+        ):
+            self.assertIn(url, las_vegas)
+        self.assertIn(
+            'name="source_page" value="https://www.agingracefully.care/nv/las-vegas.html"',
+            las_vegas,
+        )
+        self.assertIn("We will review the request", las_vegas)
+        self.assertNotIn("a local provider will reach out shortly", las_vegas)
+        self.assertNotIn("usually within one business day", las_vegas)
+
     def test_daily_living_guide_has_real_decision_support_not_fake_shop_links(self):
         guide = (ROOT / "guides" / "daily-living.html").read_text(encoding="utf-8")
         self.assertNotIn('href="#" rel="nofollow sponsored"', guide)
@@ -247,7 +268,7 @@ class PublicSitePolicyTests(unittest.TestCase):
                 continue
             self.assertIn('class="data-freshness"', text, page)
             self.assertIn("Five checks before hiring", text, page)
-            self.assertRegex(text, r'"dateModified": "2026-(07-(20|25)|08-26)"', page)
+            self.assertRegex(text, r'"dateModified": "2026-(07-(20|25)|08-(26|29))"', page)
             self.assertIn("Treat each listing as a research lead", text, page)
             self.assertNotIn("generally track national ranges", text, page)
             self.assertNotIn("yearly home-safety allowance", text, page)
