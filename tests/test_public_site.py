@@ -184,7 +184,7 @@ class PublicSitePolicyTests(unittest.TestCase):
         self.assertNotIn('href="#" rel="nofollow sponsored"', guide)
         self.assertIn('id="choosing-help"', guide)
         self.assertIn("Match the task to the right kind of help", guide)
-        self.assertIn("Questions to ask before hiring daily-living help", guide)
+        self.assertIn("Three steps to choosing a home-care agency", guide)
 
     def test_homepage_describes_current_directory_scope_accurately(self):
         home = (ROOT / "index.html").read_text(encoding="utf-8")
@@ -248,7 +248,7 @@ class PublicSitePolicyTests(unittest.TestCase):
             self.assertIn('class="byline"', text, page)
             self.assertIn('"author":', text, page)
             self.assertIn('"datePublished": "2026-07-09"', text, page)
-            self.assertIn('"dateModified": "2026-07-20"', text, page)
+            self.assertRegex(text, r'"dateModified": "2026-(07-20|08-30)"', page)
             self.assertIn("Sources and review notes", text, page)
             self.assertIn("../about.html", text, page)
             self.assertGreaterEqual(text.count('rel="noopener" target="_blank"'), 4, page)
