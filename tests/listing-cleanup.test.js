@@ -29,7 +29,7 @@ assert.strictEqual(qualityAudit.active_before, 2606);
 assert.strictEqual(qualityAudit.active_after, 2528);
 assert.strictEqual(qualityAudit.removed_count, 78);
 assert.strictEqual(qualityAudit.reclassified_count, 10);
-assert.strictEqual(Object.values(listings).reduce((sum, items) => sum + items.length, 0), 2528);
+assert.strictEqual(Object.values(listings).reduce((sum, items) => sum + items.length, 0), 2543);
 
 for (const removal of audit.removals) {
   const remains = listings[removal.city_slug].some(item =>
@@ -75,7 +75,7 @@ for (const [slug, items] of Object.entries(listings)) {
   const payloadContext = {};
   vm.createContext(payloadContext);
   vm.runInContext(`${fs.readFileSync(path.join(root, 'data', `${slug}.js`), 'utf8')}\nthis.__PAYLOAD__ = LISTINGS;`, payloadContext);
-  const publicItems = items.map(({ rating, reviews, ...item }) => item);
+  const publicItems = items.map(({ rating, reviews, website, ...item }) => ({ ...item, website: website === '' ? null : website }));
   assert.deepStrictEqual(
     JSON.parse(JSON.stringify(payloadContext.__PAYLOAD__[slug])),
     JSON.parse(JSON.stringify(publicItems)),

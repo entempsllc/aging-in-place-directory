@@ -34,7 +34,7 @@ const LISTINGS = {
       "name": "S.M New Age Remodel Builders",
       "address": "1108 W White St, Anna, TX 75409, USA",
       "phone": "(214) 271-9671",
-      "website": "http://smnewageremodelbuilders.com/",
+      "website": "https://smnewageremodelbuilders.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -67,7 +67,7 @@ const LISTINGS = {
       "name": "RAJ Home Health",
       "address": "3105 Bowen St, Anna, TX 75409, USA",
       "phone": "(469) 473-8973",
-      "website": "http://www.rajhomehealth.com/",
+      "website": "https://www.rajhomehealth.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -168,7 +168,7 @@ const LISTINGS = {
       "name": "A & A Devine Home Health, LLC",
       "address": "3309 Herron Dr, Melissa, TX 75454, USA",
       "phone": "(469) 605-7230",
-      "website": "http://aadivinehomehealth.com/",
+      "website": "https://aadivinehomehealth.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -181,7 +181,7 @@ const LISTINGS = {
       "name": "Best Buy Walk In Tubs",
       "address": "311 Kings Plaza, Granbury, TX 76049, USA",
       "phone": "(682) 205-3532",
-      "website": "http://www.bestbuywalkintubs.com/",
+      "website": "https://www.bestbuywalkintubs.com/",
       "rating": 4.6,
       "reviews": 18,
       "cats": [
@@ -302,7 +302,7 @@ const LISTINGS = {
       "name": "Expedient Home Health Care",
       "address": "4893 Farm to Market Rd 552, Rockwall, TX 75087, USA",
       "phone": "(972) 772-5086",
-      "website": "http://www.expedienthhc.com/",
+      "website": "https://www.expedienthhc.com/",
       "rating": 4,
       "reviews": 6,
       "cats": [
@@ -324,7 +324,7 @@ const LISTINGS = {
       "name": "Sunrise Home Health Care",
       "address": "1221 Arista Dr, Rockwall, TX 75032, USA",
       "phone": "(214) 771-0771",
-      "website": "http://sunrisehomehealth.com/",
+      "website": "https://sunrisehomehealth.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -434,7 +434,7 @@ const LISTINGS = {
       "name": "Healing Touch Homecare & Hospice",
       "address": "2304 Joe Ramsey Blvd E, Greenville, TX 75401, USA",
       "phone": "(903) 455-8191",
-      "website": "http://www.healingtouchhc.net/",
+      "website": "https://www.healingtouchhc.net/",
       "rating": 4.9,
       "reviews": 89,
       "cats": [
@@ -478,7 +478,7 @@ const LISTINGS = {
       "name": "Meals on Wheels Senior Services of Rockwall County",
       "address": "750 E Interstate 30 Ste200, Rockwall, TX 75087, USA",
       "phone": "(972) 771-9514",
-      "website": "http://www.rockwallmealsonwheels.org/",
+      "website": "https://www.rockwallmealsonwheels.org/",
       "rating": 4.8,
       "reviews": 8,
       "cats": [
@@ -522,7 +522,7 @@ const LISTINGS = {
       "name": "Harmony Adult Day and Habilitation Center",
       "address": "705 E Oates Rd, Garland, TX 75043, USA",
       "phone": "(469) 619-7271",
-      "website": "http://www.harmonyadultcare.org/",
+      "website": "https://www.harmonyadultcare.org/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -533,7 +533,7 @@ const LISTINGS = {
       "name": "Agape Day Center for Adults",
       "address": "1025 Gross Rd, Mesquite, TX 75149, USA",
       "phone": "(972) 354-9455",
-      "website": "http://www.agapedaycenter.com/",
+      "website": "https://www.agapedaycenter.com/",
       "rating": 5,
       "reviews": 48,
       "cats": [
@@ -610,7 +610,7 @@ const LISTINGS = {
       "name": "Law Office of Andrew D. Thomas",
       "address": "422 I-30 Suite F, Royse City, TX 75189, USA",
       "phone": "(469) 965-4500",
-      "website": "http://www.law-adt.com/",
+      "website": "https://www.law-adt.com/",
       "rating": 4.5,
       "reviews": 25,
       "cats": [
@@ -632,7 +632,7 @@ const LISTINGS = {
       "name": "Edwards Law, PLLC",
       "address": "105 N Alamo Rd, Rockwall, TX 75087, USA",
       "phone": "(844) 837-8283",
-      "website": "http://www.bethedwardslaw.com/",
+      "website": "https://www.bethedwardslaw.com/",
       "rating": 4.8,
       "reviews": 54,
       "cats": [
@@ -712,7 +712,7 @@ const LISTINGS = {
       "name": "Trademark Install",
       "address": "2026 Midlake Rd, Rockwall, TX 75032, USA",
       "phone": "(469) 288-9135",
-      "website": "http://www.trademarkinstall.com/",
+      "website": "https://www.trademarkinstall.com/",
       "rating": 5,
       "reviews": 13,
       "cats": [
@@ -812,7 +812,7 @@ const LISTINGS = {
       "name": "Expedient Home Health Care",
       "address": "4893 Farm to Market Rd 552, Rockwall, TX 75087, USA",
       "phone": "(972) 772-5086",
-      "website": "http://www.expedienthhc.com/",
+      "website": "https://www.expedienthhc.com/",
       "rating": 4,
       "reviews": 6,
       "cats": [
@@ -846,7 +846,7 @@ const LISTINGS = {
       "name": "Sunrise Home Health Care",
       "address": "1221 Arista Dr, Rockwall, TX 75032, USA",
       "phone": "(214) 771-0771",
-      "website": "http://sunrisehomehealth.com/",
+      "website": "https://sunrisehomehealth.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -945,7 +945,7 @@ const LISTINGS = {
       "name": "Meals on Wheels Senior Services of Rockwall County",
       "address": "750 E Interstate 30 Ste200, Rockwall, TX 75087, USA",
       "phone": "(972) 771-9514",
-      "website": "http://www.rockwallmealsonwheels.org/",
+      "website": "https://www.rockwallmealsonwheels.org/",
       "rating": 4.8,
       "reviews": 8,
       "cats": [
@@ -956,7 +956,7 @@ const LISTINGS = {
       "name": "RH-Transportation",
       "address": "1021 Manchester Dr, Wylie, TX 75098, USA",
       "phone": "(972) 839-0579",
-      "website": "http://rh-transportation.com/",
+      "website": "https://rh-transportation.com/",
       "rating": 5,
       "reviews": 18,
       "cats": [
@@ -989,7 +989,7 @@ const LISTINGS = {
       "name": "Harmony Adult Day and Habilitation Center",
       "address": "705 E Oates Rd, Garland, TX 75043, USA",
       "phone": "(469) 619-7271",
-      "website": "http://www.harmonyadultcare.org/",
+      "website": "https://www.harmonyadultcare.org/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -1000,7 +1000,7 @@ const LISTINGS = {
       "name": "Agape Day Center for Adults",
       "address": "1025 Gross Rd, Mesquite, TX 75149, USA",
       "phone": "(972) 354-9455",
-      "website": "http://www.agapedaycenter.com/",
+      "website": "https://www.agapedaycenter.com/",
       "rating": 5,
       "reviews": 48,
       "cats": [
@@ -1066,7 +1066,7 @@ const LISTINGS = {
       "name": "1st Choice Adult Day Center",
       "address": "326 E 12th St, Dallas, TX 75203, USA",
       "phone": "(972) 699-7702",
-      "website": "http://www.1stchoicetex.com/",
+      "website": "https://www.1stchoicetex.com/",
       "rating": 4.5,
       "reviews": 13,
       "cats": [
@@ -1077,7 +1077,7 @@ const LISTINGS = {
       "name": "Atrium Legal Group, PLLC",
       "address": "1131 W Yellow Jacket Ln, Rockwall, TX 75087, USA",
       "phone": "(469) 402-3030",
-      "website": "http://www.atriumlegalgroup.com/",
+      "website": "https://www.atriumlegalgroup.com/",
       "rating": 4.9,
       "reviews": 145,
       "cats": [
@@ -1099,7 +1099,7 @@ const LISTINGS = {
       "name": "Timpa Law Office",
       "address": "202 N San Jacinto St, Rockwall, TX 75087, USA",
       "phone": "(972) 771-9627",
-      "website": "http://timpalaw.com/",
+      "website": "https://timpalaw.com/",
       "rating": 4.8,
       "reviews": 190,
       "cats": [
@@ -1121,7 +1121,7 @@ const LISTINGS = {
       "name": "Law Office Of Susan Satterwhite PC",
       "address": "1509 Summer Lee Dr, Rockwall, TX 75032, USA",
       "phone": "(972) 771-1162",
-      "website": "http://susansatterwhitepc.com/",
+      "website": "https://susansatterwhitepc.com/",
       "rating": 4.4,
       "reviews": 27,
       "cats": [
@@ -1165,7 +1165,7 @@ const LISTINGS = {
       "name": "The White Law Firm",
       "address": "503 S Goliad St, Rockwall, TX 75087, USA",
       "phone": "(972) 771-8011",
-      "website": "http://www.whitelaw.law/",
+      "website": "https://www.whitelaw.law/",
       "rating": 4.4,
       "reviews": 13,
       "cats": [
@@ -1176,7 +1176,7 @@ const LISTINGS = {
       "name": "Law Office of John B. Henry, III, PLLC",
       "address": "102 S Goliad St Ste 106, Rockwall, TX 75087, USA",
       "phone": "(469) 305-7583",
-      "website": "http://www.johnhenrylaw.com/",
+      "website": "https://www.johnhenrylaw.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -1258,7 +1258,7 @@ const LISTINGS = {
       "name": ".plumbersmckinneytexas.co",
       "address": "500 N Custer Rd, McKinney, TX 75071, USA",
       "phone": "(972) 265-9829",
-      "website": "http://plumbersmckinneytexas.com/",
+      "website": "https://plumbersmckinneytexas.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -1280,7 +1280,7 @@ const LISTINGS = {
       "name": "USA Choice Remodeling And Outdoor Living",
       "address": "5900 S Lake Forest Dr, McKinney, TX 75070, USA",
       "phone": "(972) 639-2794",
-      "website": "http://www.usachoiceremodel.com/",
+      "website": "https://www.usachoiceremodel.com/",
       "rating": 4.8,
       "reviews": 52,
       "cats": [
@@ -1335,7 +1335,7 @@ const LISTINGS = {
       "name": "Stair Solutions",
       "address": "5651 Lawrence Ln, McKinney, TX 75071, USA",
       "phone": "(972) 347-5151",
-      "website": "http://www.stairsolutionsus.com/",
+      "website": "https://www.stairsolutionsus.com/",
       "rating": 4.8,
       "reviews": 26,
       "cats": [
@@ -1346,7 +1346,7 @@ const LISTINGS = {
       "name": "SafeLifts of Texas",
       "address": "130 N Preston Rd Ste 410, Prosper, TX 75078, USA",
       "phone": "(972) 633-5438",
-      "website": "http://www.safelifts.com/",
+      "website": "https://www.safelifts.com/",
       "rating": 4.9,
       "reviews": 462,
       "cats": [
@@ -1357,7 +1357,7 @@ const LISTINGS = {
       "name": "Ascend Residential Elevators & Lifts",
       "address": "2910 Belmeade Dr #101, Carrollton, TX 75006, USA",
       "phone": "(214) 763-9060",
-      "website": "http://www.ascendadditions.com/",
+      "website": "https://www.ascendadditions.com/",
       "rating": 4.9,
       "reviews": 37,
       "cats": [
@@ -1423,7 +1423,7 @@ const LISTINGS = {
       "name": "New Life Medical Equipment",
       "address": "501 Anthony St, McKinney, TX 75069, USA",
       "phone": "(972) 233-5433",
-      "website": "http://www.newlifehme.com/",
+      "website": "https://www.newlifehme.com/",
       "rating": 4.7,
       "reviews": 71,
       "cats": [
@@ -1456,7 +1456,7 @@ const LISTINGS = {
       "name": "Legacy Home Pro",
       "address": "6401 Eldorado Pkwy Ste 222, McKinney, TX 75070, USA",
       "phone": "(214) 273-0306",
-      "website": "http://www.legacyhomecarepro.com/?utm_campaign=gmb",
+      "website": "https://www.legacyhomecarepro.com/?utm_campaign=gmb",
       "rating": 4.7,
       "reviews": 35,
       "cats": [
@@ -1489,7 +1489,7 @@ const LISTINGS = {
       "name": "Aunt Mae's Home Care",
       "address": "2570 Eldorado Pkwy #120, McKinney, TX 75072, USA",
       "phone": "(469) 742-0700",
-      "website": "http://www.auntmae.com/",
+      "website": "https://www.auntmae.com/",
       "rating": 4.8,
       "reviews": 72,
       "cats": [
@@ -1588,7 +1588,7 @@ const LISTINGS = {
       "name": "Touching Hearts at Home",
       "address": "5900 S Lake Forest Dr Ste 300, McKinney, TX 75070, USA",
       "phone": "(469) 342-8750",
-      "website": "http://www.touchinghearts.com/mckinney",
+      "website": "https://www.touchinghearts.com/mckinney",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -1621,7 +1621,7 @@ const LISTINGS = {
       "name": "Senior Center Resources and Public Transit",
       "address": "4912 Lee St, Greenville, TX 75401, USA",
       "phone": "(903) 454-1444",
-      "website": "http://www.scrpt.org/",
+      "website": "https://www.scrpt.org/",
       "rating": 4.5,
       "reviews": 28,
       "cats": [
@@ -1666,7 +1666,7 @@ const LISTINGS = {
       "name": "BC Mobile Resources Non emergency transportation",
       "address": "450 Century Pkwy, Allen, TX 75013, USA",
       "phone": "(469) 702-0593",
-      "website": "http://bcmobileresources.com/",
+      "website": "https://bcmobileresources.com/",
       "rating": 4.4,
       "reviews": 28,
       "cats": [
@@ -1699,7 +1699,7 @@ const LISTINGS = {
       "name": "Golden Grace Assisted Living & Adult Day Activity",
       "address": "1710 N McDonald St, McKinney, TX 75071, USA",
       "phone": "(972) 569-9000",
-      "website": "http://goldengracedahs.com/",
+      "website": "https://goldengracedahs.com/",
       "rating": 4.3,
       "reviews": 29,
       "cats": [
@@ -1710,7 +1710,7 @@ const LISTINGS = {
       "name": "Everyone's Day Hab",
       "address": "1228 E Exchange Pkwy #118, Allen, TX 75002, USA",
       "phone": "(214) 284-0677",
-      "website": "http://www.everyonesdayhab.com/",
+      "website": "https://www.everyonesdayhab.com/",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -1721,7 +1721,7 @@ const LISTINGS = {
       "name": "Harmony Adult Day and Habilitation Center",
       "address": "705 E Oates Rd, Garland, TX 75043, USA",
       "phone": "(469) 619-7271",
-      "website": "http://www.harmonyadultcare.org/",
+      "website": "https://www.harmonyadultcare.org/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -1743,7 +1743,7 @@ const LISTINGS = {
       "name": "Encore Memory Care Day Center",
       "address": "6505 W Park Blvd #116, Plano, TX 75093, USA",
       "phone": "(972) 810-0228",
-      "website": "http://www.encoredaycare.com/",
+      "website": "https://www.encoredaycare.com/",
       "rating": 5,
       "reviews": 31,
       "cats": [
@@ -1765,7 +1765,7 @@ const LISTINGS = {
       "name": "Agape Day Center for Adults",
       "address": "1025 Gross Rd, Mesquite, TX 75149, USA",
       "phone": "(972) 354-9455",
-      "website": "http://www.agapedaycenter.com/",
+      "website": "https://www.agapedaycenter.com/",
       "rating": 5,
       "reviews": 48,
       "cats": [
@@ -1853,7 +1853,7 @@ const LISTINGS = {
       "name": "Estes Law Office, P.L.L.C.",
       "address": "105 N Benge St, McKinney, TX 75069, USA",
       "phone": "(972) 418-2919",
-      "website": "http://www.esteslawoffice.com/",
+      "website": "https://www.esteslawoffice.com/",
       "rating": 5,
       "reviews": 47,
       "cats": [
@@ -1864,7 +1864,7 @@ const LISTINGS = {
       "name": "Philips & Epperson Attorneys LP",
       "address": "2301 Virginia Pkwy, McKinney, TX 75071, USA",
       "phone": "(972) 562-9440",
-      "website": "http://www.philipsandepperson.com/",
+      "website": "https://www.philipsandepperson.com/",
       "rating": 4.7,
       "reviews": 50,
       "cats": [
@@ -1910,7 +1910,7 @@ const LISTINGS = {
       "name": "Handyman Home Pros",
       "address": "5848 Kimber Ln, Frisco, TX 75034, USA",
       "phone": "(214) 308-9441",
-      "website": "http://handymanhomepros.com/",
+      "website": "https://handymanhomepros.com/",
       "rating": 4.9,
       "reviews": 338,
       "cats": [
@@ -1933,7 +1933,7 @@ const LISTINGS = {
       "name": "Zintex Remodeling Group",
       "address": "591 Benjamin's Way, Lewisville, TX 75057, USA",
       "phone": "(972) 934-5696",
-      "website": "http://www.zintex.com/?utm_source=googlemybusiness&utm_medium=dfwlisting&promo=gmbdfw&region=0001",
+      "website": "https://www.zintex.com/?utm_source=googlemybusiness&utm_medium=dfwlisting&promo=gmbdfw&region=0001",
       "rating": 4.7,
       "reviews": 601,
       "cats": [
@@ -1999,7 +1999,7 @@ const LISTINGS = {
       "name": "SafeLifts of Texas",
       "address": "130 N Preston Rd Ste 410, Prosper, TX 75078, USA",
       "phone": "(972) 633-5438",
-      "website": "http://www.safelifts.com/",
+      "website": "https://www.safelifts.com/",
       "rating": 4.9,
       "reviews": 463,
       "cats": [
@@ -2021,7 +2021,7 @@ const LISTINGS = {
       "name": "Ascend Residential Elevators & Lifts",
       "address": "2910 Belmeade Dr #101, Carrollton, TX 75006, USA",
       "phone": "(214) 763-9060",
-      "website": "http://www.ascendadditions.com/",
+      "website": "https://www.ascendadditions.com/",
       "rating": 4.9,
       "reviews": 37,
       "cats": [
@@ -2032,7 +2032,7 @@ const LISTINGS = {
       "name": "Baxter Residential Elevators by RD Baxter",
       "address": "5000 Eldorado Pkwy, Frisco, TX 75033, USA",
       "phone": "(972) 424-3070",
-      "website": "http://www.baxterresidentialelevators.com/",
+      "website": "https://www.baxterresidentialelevators.com/",
       "rating": 4.1,
       "reviews": 9,
       "cats": [
@@ -2098,7 +2098,7 @@ const LISTINGS = {
       "name": "Advanced Medical Supply",
       "address": "6700 Main St Ste 104, The Colony, TX 75056, USA",
       "phone": "(214) 494-6464",
-      "website": "http://advanceddmesupplies.com/",
+      "website": "https://advanceddmesupplies.com/",
       "rating": 4.6,
       "reviews": 74,
       "cats": [
@@ -2219,7 +2219,7 @@ const LISTINGS = {
       "name": "Nexus Home Healthcare",
       "address": "4645 Avon Ln Suite 345, Frisco, TX 75033, USA",
       "phone": "(469) 317-3017",
-      "website": "http://nexushomehealthcare.com/",
+      "website": "https://nexushomehealthcare.com/",
       "rating": 5,
       "reviews": 32,
       "cats": [
@@ -2241,7 +2241,7 @@ const LISTINGS = {
       "name": "Favorite Home Health Care LLC",
       "address": "9555 Lebanon Rd, Frisco, TX 75035, USA",
       "phone": "(972) 335-0410",
-      "website": "http://www.favoritehomehealth.com/",
+      "website": "https://www.favoritehomehealth.com/",
       "rating": 3.7,
       "reviews": 3,
       "cats": [
@@ -2263,7 +2263,7 @@ const LISTINGS = {
       "name": "Crescent Home Health",
       "address": "4085 Ohio Dr #500, Frisco, TX 75035, USA",
       "phone": "(214) 375-0101",
-      "website": "http://www.crescenthomehealthtx.com/",
+      "website": "https://www.crescenthomehealthtx.com/",
       "rating": 5,
       "reviews": 16,
       "cats": [
@@ -2285,7 +2285,7 @@ const LISTINGS = {
       "name": "Integrity Home Care Agency",
       "address": "5700 Tennyson Pkwy, Plano, TX 75024, USA",
       "phone": "(214) 551-6318",
-      "website": "http://integritymedhomecare.com/",
+      "website": "https://integritymedhomecare.com/",
       "rating": 5,
       "reviews": 10,
       "cats": [
@@ -2296,7 +2296,7 @@ const LISTINGS = {
       "name": "ALL SAINTS HOME HEALTH CARE INC",
       "address": "2601 Little Elm Pkwy Ste 602, Little Elm, TX 75068, USA",
       "phone": "(972) 573-4001",
-      "website": "http://www.allsaintshhc.com/",
+      "website": "https://www.allsaintshhc.com/",
       "rating": 3.9,
       "reviews": 7,
       "cats": [
@@ -2396,7 +2396,7 @@ const LISTINGS = {
       "name": "CareTrips",
       "address": "1616 Gateway Blvd, Richardson, TX 75080, USA",
       "phone": "(214) 238-9100",
-      "website": "http://www.caretrips.net/",
+      "website": "https://www.caretrips.net/",
       "rating": 3.5,
       "reviews": 94,
       "cats": [
@@ -2451,7 +2451,7 @@ const LISTINGS = {
       "name": "Encore Memory Care Day Center",
       "address": "6505 W Park Blvd #116, Plano, TX 75093, USA",
       "phone": "(972) 810-0228",
-      "website": "http://www.encoredaycare.com/",
+      "website": "https://www.encoredaycare.com/",
       "rating": 5,
       "reviews": 31,
       "cats": [
@@ -2462,7 +2462,7 @@ const LISTINGS = {
       "name": "Harmony Adult Day and Habilitation Center",
       "address": "705 E Oates Rd, Garland, TX 75043, USA",
       "phone": "(469) 619-7271",
-      "website": "http://www.harmonyadultcare.org/",
+      "website": "https://www.harmonyadultcare.org/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -2550,7 +2550,7 @@ const LISTINGS = {
       "name": "Estes Law Office, P.L.L.C.",
       "address": "6160 Warren Pkwy #100, Frisco, TX 75034, USA",
       "phone": "(972) 418-2919",
-      "website": "http://www.esteslawoffice.com/",
+      "website": "https://www.esteslawoffice.com/",
       "rating": 5,
       "reviews": 17,
       "cats": [
@@ -2561,7 +2561,7 @@ const LISTINGS = {
       "name": "Miller Law Office, PLLC",
       "address": "1400 Preston Rd Ste 118, Plano, TX 75093, USA",
       "phone": "(214) 292-4225",
-      "website": "http://www.aaronmillerlaw.com/",
+      "website": "https://www.aaronmillerlaw.com/",
       "rating": 4.8,
       "reviews": 69,
       "cats": [
@@ -2572,7 +2572,7 @@ const LISTINGS = {
       "name": "Leu, Peirce & Olson, PLLC",
       "address": "2313 Coit Rd A, Plano, TX 75075, USA",
       "phone": "(972) 996-2540",
-      "website": "http://www.leulawfirm.com/",
+      "website": "https://www.leulawfirm.com/",
       "rating": 4.2,
       "reviews": 39,
       "cats": [
@@ -2607,7 +2607,7 @@ const LISTINGS = {
       "name": "ezaccessbathrooms",
       "address": "12019 Gregory Crossing Way, Houston, TX 77067, USA",
       "phone": "(832) 202-8453",
-      "website": "http://ezaccessbathrooms.com/",
+      "website": "https://ezaccessbathrooms.com/",
       "rating": 4.9,
       "reviews": 64,
       "cats": [
@@ -2696,7 +2696,7 @@ const LISTINGS = {
       "name": "Rhyolite Baths and Designs",
       "address": "2665 Hwy 90 Alt, Rosenberg, TX 77471, USA",
       "phone": "(281) 250-5767",
-      "website": "http://www.rhyolitedesigns.com/",
+      "website": "https://www.rhyolitedesigns.com/",
       "rating": 5,
       "reviews": 52,
       "cats": [
@@ -2752,7 +2752,7 @@ const LISTINGS = {
       "name": "GoPro Tub Refinishing",
       "address": "2020 Katy Gap Rd, Katy, TX 77494, USA",
       "phone": "(832) 627-1200",
-      "website": "http://www.goprotubrefinishing.com/",
+      "website": "https://www.goprotubrefinishing.com/",
       "rating": 4.8,
       "reviews": 57,
       "cats": [
@@ -2873,7 +2873,7 @@ const LISTINGS = {
       "name": "Mobility Lift Aids",
       "address": "14655 Northwest Fwy #102, Houston, TX 77040, USA",
       "phone": "(713) 939-9922",
-      "website": "http://www.texaswheelchairvan.com/",
+      "website": "https://www.texaswheelchairvan.com/",
       "rating": 4.5,
       "reviews": 64,
       "cats": [
@@ -2917,7 +2917,7 @@ const LISTINGS = {
       "name": "A Life Saver Home Care LLC",
       "address": "24014 Thornbird Cliff Wy, Katy, TX 77493, USA",
       "phone": "(888) 593-2055",
-      "website": "http://www.alifesaverhomecare.com/",
+      "website": "https://www.alifesaverhomecare.com/",
       "rating": 4.9,
       "reviews": 61,
       "cats": [
@@ -2950,7 +2950,7 @@ const LISTINGS = {
       "name": "Lifetime Health Care DBA Home Care of Texas LLC",
       "address": "21416 Provincial Blvd, Katy, TX 77450, USA",
       "phone": "(281) 602-0800",
-      "website": "http://www.thehomecareoftexas.com/",
+      "website": "https://www.thehomecareoftexas.com/",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -3061,7 +3061,7 @@ const LISTINGS = {
       "name": "A Place At Home - Katy",
       "address": "20811 Westheimer Pkwy Ste 2B, Katy, TX 77450, USA",
       "phone": "(281) 676-2555",
-      "website": "http://aplaceathomekaty.com/",
+      "website": "https://aplaceathomekaty.com/",
       "rating": 5,
       "reviews": 33,
       "cats": [
@@ -3094,7 +3094,7 @@ const LISTINGS = {
       "name": "Americare Home Services",
       "address": "6002 Franz Ct, Katy, TX 77493, USA",
       "phone": "(346) 851-5920",
-      "website": "http://www.americarehomeservices.com/",
+      "website": "https://www.americarehomeservices.com/",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -3127,7 +3127,7 @@ const LISTINGS = {
       "name": "Elder-Ride Carewagon Transport",
       "address": "11111 Katy Fwy, Houston, TX 77079, USA",
       "phone": "(713) 487-8087",
-      "website": "http://www.elder-ridecarewagon.com/",
+      "website": "https://www.elder-ridecarewagon.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -3204,7 +3204,7 @@ const LISTINGS = {
       "name": "Filling the Gap Adult Day Care",
       "address": "6734 Antoine Dr, Houston, TX 77091, USA",
       "phone": "(281) 741-0102",
-      "website": "http://fillingthegapadultdaycare.com/",
+      "website": "https://fillingthegapadultdaycare.com/",
       "rating": 4.5,
       "reviews": 43,
       "cats": [
@@ -3292,7 +3292,7 @@ const LISTINGS = {
       "name": "Howard Law Firm, PLLC",
       "address": "26717 Westheimer Pkwy Ste 703, Katy, TX 77494, USA",
       "phone": "(346) 702-4344",
-      "website": "http://www.nhowardlaw.com/",
+      "website": "https://www.nhowardlaw.com/",
       "rating": 4.8,
       "reviews": 32,
       "cats": [
@@ -3303,7 +3303,7 @@ const LISTINGS = {
       "name": "Humble Law PLLC",
       "address": "5757 Flewellen Oaks Lane Ste 501, Fulshear, TX 77441, USA",
       "phone": "(832) 913-1323",
-      "website": "http://www.humblefirm.com/",
+      "website": "https://www.humblefirm.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -3314,7 +3314,7 @@ const LISTINGS = {
       "name": "Junker Law, PLLC",
       "address": "212 Jackson St, Richmond, TX 77469, USA",
       "phone": "(281) 342-9476",
-      "website": "http://www.junkerlaw.com/",
+      "website": "https://www.junkerlaw.com/",
       "rating": 5,
       "reviews": 149,
       "cats": [
@@ -3349,7 +3349,7 @@ const LISTINGS = {
       "name": "ezaccessbathrooms",
       "address": "12019 Gregory Crossing Way, Houston, TX 77067, USA",
       "phone": "(832) 202-8453",
-      "website": "http://ezaccessbathrooms.com/",
+      "website": "https://ezaccessbathrooms.com/",
       "rating": 4.9,
       "reviews": 64,
       "cats": [
@@ -3371,7 +3371,7 @@ const LISTINGS = {
       "name": "WayMaker Home Improvement",
       "address": "1708 Spring Green Blvd #120, Katy, TX 77494, USA",
       "phone": "(832) 480-1866",
-      "website": "http://waymakertexas.com/",
+      "website": "https://waymakertexas.com/",
       "rating": 5,
       "reviews": 116,
       "cats": [
@@ -3404,7 +3404,7 @@ const LISTINGS = {
       "name": "Enrique Remodeling",
       "address": "24647 Lakecrest Pine Trail, Katy, TX 77493, USA",
       "phone": "(832) 592-7514",
-      "website": "http://www.enrique-remodeling.com/",
+      "website": "https://www.enrique-remodeling.com/",
       "rating": 5,
       "reviews": 24,
       "cats": [
@@ -3506,7 +3506,7 @@ const LISTINGS = {
       "name": "GoPro Tub Refinishing",
       "address": "2020 Katy Gap Rd, Katy, TX 77494, USA",
       "phone": "(832) 627-1200",
-      "website": "http://www.goprotubrefinishing.com/",
+      "website": "https://www.goprotubrefinishing.com/",
       "rating": 4.8,
       "reviews": 57,
       "cats": [
@@ -3583,7 +3583,7 @@ const LISTINGS = {
       "name": "Commodity Home Elevator, LLC",
       "address": "3807 W Briarlilly Park Cir, Katy, TX 77493, USA",
       "phone": "(832) 417-7001",
-      "website": "http://commodityhomeelevator.com/",
+      "website": "https://commodityhomeelevator.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -3616,7 +3616,7 @@ const LISTINGS = {
       "name": "101 Mobility",
       "address": "21811 Katy Fwy, Katy, TX 77450, USA",
       "phone": "(832) 701-0101",
-      "website": "http://houston.101mobility.com/",
+      "website": "https://houston.101mobility.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -3649,7 +3649,7 @@ const LISTINGS = {
       "name": "Mobility Lift Aids",
       "address": "14655 Northwest Fwy #102, Houston, TX 77040, USA",
       "phone": "(713) 939-9922",
-      "website": "http://www.texaswheelchairvan.com/",
+      "website": "https://www.texaswheelchairvan.com/",
       "rating": 4.5,
       "reviews": 64,
       "cats": [
@@ -3693,7 +3693,7 @@ const LISTINGS = {
       "name": "A Place At Home - Katy",
       "address": "20811 Westheimer Pkwy Ste 2B, Katy, TX 77450, USA",
       "phone": "(281) 676-2555",
-      "website": "http://aplaceathomekaty.com/",
+      "website": "https://aplaceathomekaty.com/",
       "rating": 5,
       "reviews": 33,
       "cats": [
@@ -3726,7 +3726,7 @@ const LISTINGS = {
       "name": "A Life Saver Home Care LLC",
       "address": "24014 Thornbird Cliff Wy, Katy, TX 77493, USA",
       "phone": "(888) 593-2055",
-      "website": "http://www.alifesaverhomecare.com/",
+      "website": "https://www.alifesaverhomecare.com/",
       "rating": 4.9,
       "reviews": 61,
       "cats": [
@@ -3792,7 +3792,7 @@ const LISTINGS = {
       "name": "Americare Home Services",
       "address": "6002 Franz Ct, Katy, TX 77493, USA",
       "phone": "(346) 851-5920",
-      "website": "http://www.americarehomeservices.com/",
+      "website": "https://www.americarehomeservices.com/",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -3803,7 +3803,7 @@ const LISTINGS = {
       "name": "Lifetime Health Care DBA Home Care of Texas LLC",
       "address": "21416 Provincial Blvd, Katy, TX 77450, USA",
       "phone": "(281) 602-0800",
-      "website": "http://www.thehomecareoftexas.com/",
+      "website": "https://www.thehomecareoftexas.com/",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -3892,7 +3892,7 @@ const LISTINGS = {
       "name": "Elder-Ride Carewagon Transport",
       "address": "11111 Katy Fwy, Houston, TX 77079, USA",
       "phone": "(713) 487-8087",
-      "website": "http://www.elder-ridecarewagon.com/",
+      "website": "https://www.elder-ridecarewagon.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -3925,7 +3925,7 @@ const LISTINGS = {
       "name": "First City Trans, LLC",
       "address": "25807 Westheimer Pkwy #432, Katy, TX 77494, USA",
       "phone": "(281) 902-2429",
-      "website": "http://www.firstcitytrans.com/",
+      "website": "https://www.firstcitytrans.com/",
       "rating": 5,
       "reviews": 8,
       "cats": [
@@ -3980,7 +3980,7 @@ const LISTINGS = {
       "name": "Everyday Opportunities",
       "address": "5242 E 3rd St, Katy, TX 77493, USA",
       "phone": "(832) 913-6286",
-      "website": "http://www.journeyadventures.org/",
+      "website": "https://www.journeyadventures.org/",
       "rating": 4.5,
       "reviews": 8,
       "cats": [
@@ -4079,7 +4079,7 @@ const LISTINGS = {
       "name": "Behlmann Law Firm, LP",
       "address": "21218 Kingsland Blvd, Katy, TX 77450, USA",
       "phone": "(281) 398-0088",
-      "website": "http://www.behlmannlaw.com/",
+      "website": "https://www.behlmannlaw.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -4101,7 +4101,7 @@ const LISTINGS = {
       "name": "Howard Law Firm, PLLC",
       "address": "26717 Westheimer Pkwy Ste 703, Katy, TX 77494, USA",
       "phone": "(346) 702-4344",
-      "website": "http://www.nhowardlaw.com/",
+      "website": "https://www.nhowardlaw.com/",
       "rating": 4.8,
       "reviews": 32,
       "cats": [
@@ -4114,7 +4114,7 @@ const LISTINGS = {
       "name": "Get a Grip. Avoid a Slip! Bathroom Grab Bars, Expertly Installed",
       "address": "8718 Dog Leg Rd, Sherrills Ford, NC 28673, USA",
       "phone": "(704) 408-2652",
-      "website": "http://getagripavoidaslip.com/",
+      "website": "https://getagripavoidaslip.com/",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -4137,7 +4137,7 @@ const LISTINGS = {
       "name": "Safe Home Pro, Inc.",
       "address": "18635 Starcreek Dr Ste b, Cornelius, NC 28031, USA",
       "phone": "(704) 948-4125",
-      "website": "http://www.safehomepro.com/",
+      "website": "https://www.safehomepro.com/",
       "rating": 5,
       "reviews": 224,
       "cats": [
@@ -4149,7 +4149,7 @@ const LISTINGS = {
       "name": "Next Level Remodels LLC",
       "address": "4261 Allsbrook Ln, Leland, NC 28451, USA",
       "phone": "(910) 756-1553",
-      "website": "http://nextlevelremodels.com/",
+      "website": "https://nextlevelremodels.com/",
       "rating": 5,
       "reviews": 29,
       "cats": [
@@ -4183,7 +4183,7 @@ const LISTINGS = {
       "name": "Newberry Home Improvement",
       "address": "3012 N Kerr Ave, Wilmington, NC 28405, USA",
       "phone": "(910) 500-6811",
-      "website": "http://www.newberryhome.com/",
+      "website": "https://www.newberryhome.com/",
       "rating": 5,
       "reviews": 227,
       "cats": [
@@ -4293,7 +4293,7 @@ const LISTINGS = {
       "name": "Handilift Residential / Precision Stairlifts",
       "address": "3823 Asheville Hwy, Hendersonville, NC 28791, USA",
       "phone": "(828) 696-8005",
-      "website": "http://www.handiliftnc.com/",
+      "website": "https://www.handiliftnc.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -4304,7 +4304,7 @@ const LISTINGS = {
       "name": "Port City Elevator, Inc.",
       "address": "5704 Nixon Ln, Castle Hayne, NC 28429, USA",
       "phone": "(910) 790-9300",
-      "website": "http://www.portcityelevator.com/",
+      "website": "https://www.portcityelevator.com/",
       "rating": 4.8,
       "reviews": 60,
       "cats": [
@@ -4326,7 +4326,7 @@ const LISTINGS = {
       "name": "Van Products",
       "address": "394 N Green Meadows Dr, Wilmington, NC 28405, USA",
       "phone": "(910) 793-5661",
-      "website": "http://www.vanproducts.com/",
+      "website": "https://www.vanproducts.com/",
       "rating": 4.7,
       "reviews": 52,
       "cats": [
@@ -4359,7 +4359,7 @@ const LISTINGS = {
       "name": "Helping Wheels Inc",
       "address": "6 Winners Cir #4, Arden, NC 28704, USA",
       "phone": "(866) 443-3101",
-      "website": "http://www.helpingwheels.com/",
+      "website": "https://www.helpingwheels.com/",
       "rating": 5,
       "reviews": 70,
       "cats": [
@@ -4436,7 +4436,7 @@ const LISTINGS = {
       "name": "Age in Place Home Care",
       "address": "1213 Culbreth Dr, Wilmington, NC 28405, USA",
       "phone": "(910) 386-4511",
-      "website": "http://www.ageinplacehomecareservices.com/",
+      "website": "https://www.ageinplacehomecareservices.com/",
       "rating": 5,
       "reviews": 66,
       "cats": [
@@ -4480,7 +4480,7 @@ const LISTINGS = {
       "name": "Eldercare At Home",
       "address": "3408 Wilshire Blvd #100-B, Wilmington, NC 28403, USA",
       "phone": "(800) 343-5003",
-      "website": "http://www.eldercarenc.net/",
+      "website": "https://www.eldercarenc.net/",
       "rating": 4.7,
       "reviews": 15,
       "cats": [
@@ -4513,7 +4513,7 @@ const LISTINGS = {
       "name": "The Brunswick Center at Leland",
       "address": "121 Town Hall Dr, Leland, NC 28451, USA",
       "phone": "(910) 754-7701",
-      "website": "http://www.bsrinc.org/",
+      "website": "https://www.bsrinc.org/",
       "rating": 4.6,
       "reviews": 71,
       "cats": [
@@ -4524,7 +4524,7 @@ const LISTINGS = {
       "name": "Elderhaus at the Lake",
       "address": "1950 Amphitheater Dr, Wilmington, NC 28401, USA",
       "phone": "(910) 251-0660",
-      "website": "http://elderhaus.com/",
+      "website": "https://elderhaus.com/",
       "rating": 4.2,
       "reviews": 12,
       "cats": [
@@ -4546,7 +4546,7 @@ const LISTINGS = {
       "name": "Four Pillars Law Firm",
       "address": "2202 Wrightsville Ave Ste 213, Wilmington, NC 28403, USA",
       "phone": "(910) 762-1577",
-      "website": "http://fourpillarslawfirm.com/",
+      "website": "https://fourpillarslawfirm.com/",
       "rating": 5,
       "reviews": 181,
       "cats": [
@@ -4557,7 +4557,7 @@ const LISTINGS = {
       "name": "Craige, Fox & Roden",
       "address": "701 Market St, Wilmington, NC 28401, USA",
       "phone": "(910) 815-0085",
-      "website": "http://www.craigeandfox.com/",
+      "website": "https://www.craigeandfox.com/",
       "rating": 4.2,
       "reviews": 16,
       "cats": [
@@ -4568,7 +4568,7 @@ const LISTINGS = {
       "name": "Salines-Mondello Law Firm, PC",
       "address": "6781 Parker Farm Dr #210, Wilmington, NC 28405, USA",
       "phone": "(910) 668-4587",
-      "website": "http://www.lisa-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "website": "https://www.lisa-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
       "rating": 4.8,
       "reviews": 113,
       "cats": [
@@ -4623,7 +4623,7 @@ const LISTINGS = {
       "name": "KEN NANCE LAW",
       "address": "4032 Masonboro Loop Rd Unit 103, Wilmington, NC 28409, USA",
       "phone": "(910) 473-5377",
-      "website": "http://www.kennancelaw.com/",
+      "website": "https://www.kennancelaw.com/",
       "rating": 5,
       "reviews": 67,
       "cats": [
@@ -4634,7 +4634,7 @@ const LISTINGS = {
       "name": "Alley, Register & McEachern Attorneys At Law",
       "address": "701 N 4th St, Wilmington, NC 28401, USA",
       "phone": "(910) 251-0103",
-      "website": "http://www.alleyregistermceachern.com/",
+      "website": "https://www.alleyregistermceachern.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -4741,7 +4741,7 @@ const LISTINGS = {
       "name": "Newberry Home Improvement",
       "address": "3012 N Kerr Ave, Wilmington, NC 28405, USA",
       "phone": "(910) 500-6811",
-      "website": "http://www.newberryhome.com/",
+      "website": "https://www.newberryhome.com/",
       "rating": 5,
       "reviews": 227,
       "cats": [
@@ -4785,7 +4785,7 @@ const LISTINGS = {
       "name": "Port City Elevator, Inc.",
       "address": "5704 Nixon Ln, Castle Hayne, NC 28429, USA",
       "phone": "(910) 790-9300",
-      "website": "http://www.portcityelevator.com/",
+      "website": "https://www.portcityelevator.com/",
       "rating": 4.8,
       "reviews": 60,
       "cats": [
@@ -4818,7 +4818,7 @@ const LISTINGS = {
       "name": "Van Products",
       "address": "394 N Green Meadows Dr, Wilmington, NC 28405, USA",
       "phone": "(910) 793-5661",
-      "website": "http://www.vanproducts.com/",
+      "website": "https://www.vanproducts.com/",
       "rating": 4.7,
       "reviews": 52,
       "cats": [
@@ -4851,7 +4851,7 @@ const LISTINGS = {
       "name": "Age in Place Home Care",
       "address": "1213 Culbreth Dr, Wilmington, NC 28405, USA",
       "phone": "(910) 386-4511",
-      "website": "http://www.ageinplacehomecareservices.com/",
+      "website": "https://www.ageinplacehomecareservices.com/",
       "rating": 5,
       "reviews": 66,
       "cats": [
@@ -4972,7 +4972,7 @@ const LISTINGS = {
       "name": "Eldercare At Home",
       "address": "3408 Wilshire Blvd #100-B, Wilmington, NC 28403, USA",
       "phone": "(800) 343-5003",
-      "website": "http://www.eldercarenc.net/",
+      "website": "https://www.eldercarenc.net/",
       "rating": 4.7,
       "reviews": 15,
       "cats": [
@@ -5018,7 +5018,7 @@ const LISTINGS = {
       "name": "CXL Transportation Services",
       "address": "7149 Jennings Rd NE, Leland, NC 28451, USA",
       "phone": "(910) 427-3276",
-      "website": "http://www.cxltransport.com/",
+      "website": "https://www.cxltransport.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -5073,7 +5073,7 @@ const LISTINGS = {
       "name": "Elderhaus at the Lake",
       "address": "1950 Amphitheater Dr, Wilmington, NC 28401, USA",
       "phone": "(910) 251-0660",
-      "website": "http://elderhaus.com/",
+      "website": "https://elderhaus.com/",
       "rating": 4.2,
       "reviews": 12,
       "cats": [
@@ -5095,7 +5095,7 @@ const LISTINGS = {
       "name": "Elderhaus PACE",
       "address": "1380 N College Rd, Wilmington, NC 28405, USA",
       "phone": "(910) 343-8209",
-      "website": "http://elderhaus.com/",
+      "website": "https://elderhaus.com/",
       "rating": 4.5,
       "reviews": 23,
       "cats": [
@@ -5139,7 +5139,7 @@ const LISTINGS = {
       "name": "Four Pillars Law Firm",
       "address": "2202 Wrightsville Ave Ste 213, Wilmington, NC 28403, USA",
       "phone": "(910) 762-1577",
-      "website": "http://fourpillarslawfirm.com/",
+      "website": "https://fourpillarslawfirm.com/",
       "rating": 5,
       "reviews": 181,
       "cats": [
@@ -5150,7 +5150,7 @@ const LISTINGS = {
       "name": "Salines-Mondello Law Firm, PC",
       "address": "6781 Parker Farm Dr #210, Wilmington, NC 28405, USA",
       "phone": "(910) 668-4587",
-      "website": "http://www.lisa-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "website": "https://www.lisa-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
       "rating": 4.8,
       "reviews": 113,
       "cats": [
@@ -5161,7 +5161,7 @@ const LISTINGS = {
       "name": "Craige, Fox & Roden",
       "address": "701 Market St, Wilmington, NC 28401, USA",
       "phone": "(910) 815-0085",
-      "website": "http://www.craigeandfox.com/",
+      "website": "https://www.craigeandfox.com/",
       "rating": 4.2,
       "reviews": 16,
       "cats": [
@@ -5172,7 +5172,7 @@ const LISTINGS = {
       "name": "Robert H Hochuli Jr",
       "address": "219 Racine Dr, Wilmington, NC 28403, USA",
       "phone": "(910) 392-2004",
-      "website": "http://www.wilmingtonlegalplanning.com/",
+      "website": "https://www.wilmingtonlegalplanning.com/",
       "rating": 4.7,
       "reviews": 39,
       "cats": [
@@ -5194,7 +5194,7 @@ const LISTINGS = {
       "name": "Legacy Lawyers",
       "address": "1135 Military Cutoff Rd Ste 202, Wilmington, NC 28403, USA",
       "phone": "(910) 452-3577",
-      "website": "http://www.legacylawyersnc.com/?utm_source=GMBlisting&utm_medium=organic",
+      "website": "https://www.legacylawyersnc.com/?utm_source=GMBlisting&utm_medium=organic",
       "rating": 4.9,
       "reviews": 8,
       "cats": [
@@ -5227,7 +5227,7 @@ const LISTINGS = {
       "name": "KEN NANCE LAW",
       "address": "4032 Masonboro Loop Rd Unit 103, Wilmington, NC 28409, USA",
       "phone": "(910) 473-5377",
-      "website": "http://www.kennancelaw.com/",
+      "website": "https://www.kennancelaw.com/",
       "rating": 5,
       "reviews": 67,
       "cats": [
@@ -5251,7 +5251,7 @@ const LISTINGS = {
       "name": "Mavi New York Inc",
       "address": "51-02 21st St 6th Floor, Long Island City, NY 11101, USA",
       "phone": "(718) 874-3805",
-      "website": "http://www.mavinewyork.com/",
+      "website": "https://www.mavinewyork.com/",
       "rating": 3.9,
       "reviews": 16,
       "cats": [
@@ -5262,7 +5262,7 @@ const LISTINGS = {
       "name": "GRAB IT CORP",
       "address": "1173 39th St, Brooklyn, NY 11218, USA",
       "phone": "(347) 423-0130",
-      "website": "http://grabitcorp.com/",
+      "website": "https://grabitcorp.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -5273,7 +5273,7 @@ const LISTINGS = {
       "name": "BAR Construction Corp",
       "address": "22-15 43rd Ave Unit 330, Long Island City, NY 11101, USA",
       "phone": "(718) 458-0664",
-      "website": "http://www.barconstructioncorp.com/",
+      "website": "https://www.barconstructioncorp.com/",
       "rating": 4,
       "reviews": 2,
       "cats": [
@@ -5394,7 +5394,7 @@ const LISTINGS = {
       "name": "StairLifts Pro Inc.",
       "address": "2950 Ocean Ave, Brooklyn, NY 11235, USA",
       "phone": "(718) 915-7743",
-      "website": "http://stairliftsproinc.com/",
+      "website": "https://stairliftsproinc.com/",
       "rating": 5,
       "reviews": 110,
       "cats": [
@@ -5427,7 +5427,7 @@ const LISTINGS = {
       "name": "Freedom Stairlifts",
       "address": "45A E 25th St, Huntington, NY 11743, USA",
       "phone": "(516) 494-9794",
-      "website": "http://freedomstairlift.com/",
+      "website": "https://freedomstairlift.com/",
       "rating": 4.9,
       "reviews": 233,
       "cats": [
@@ -5548,7 +5548,7 @@ const LISTINGS = {
       "name": "Affordable Portable Ramps",
       "address": "2100 Arctic Ave, Bohemia, NY 11716, USA",
       "phone": "(631) 567-4203",
-      "website": "http://apramps.com/",
+      "website": "https://apramps.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -5559,7 +5559,7 @@ const LISTINGS = {
       "name": "Next Level Accessibility Inc.",
       "address": "374 Neptune Ave, West Babylon, NY 11704, USA",
       "phone": "(888) 844-4455",
-      "website": "http://www.nextlevelaccessibility.com/",
+      "website": "https://www.nextlevelaccessibility.com/",
       "rating": 5,
       "reviews": 126,
       "cats": [
@@ -5581,7 +5581,7 @@ const LISTINGS = {
       "name": "Aging At Home, LTD.",
       "address": "142 Mineola Blvd, Mineola, NY 11501, USA",
       "phone": "(516) 746-6451",
-      "website": "http://aahny.com/",
+      "website": "https://aahny.com/",
       "rating": 5,
       "reviews": 7,
       "cats": [
@@ -5592,7 +5592,7 @@ const LISTINGS = {
       "name": "AGNY SERVICES LLC",
       "address": "695 Lorimer St Apt L1, Brooklyn, NY 11211, USA",
       "phone": "(347) 772-4582",
-      "website": "http://agny.nyc/",
+      "website": "https://agny.nyc/",
       "rating": 5,
       "reviews": 21,
       "cats": [
@@ -5614,7 +5614,7 @@ const LISTINGS = {
       "name": "NY Home Improvement services",
       "address": "127 42nd St, Brooklyn, NY 11232, USA",
       "phone": "(347) 248-6700",
-      "website": "http://www.newyorkhis.com/",
+      "website": "https://www.newyorkhis.com/",
       "rating": 5,
       "reviews": 63,
       "cats": [
@@ -5669,7 +5669,7 @@ const LISTINGS = {
       "name": "Home Health Care Services of NY",
       "address": "1989 Coney Island Ave, Brooklyn, NY 11223, USA",
       "phone": "(718) 336-7110",
-      "website": "http://hcshomecare.com/",
+      "website": "https://hcshomecare.com/",
       "rating": 4.4,
       "reviews": 277,
       "cats": [
@@ -5735,7 +5735,7 @@ const LISTINGS = {
       "name": "Home Health Care Agency Manhattan",
       "address": "4257 Broadway, New York, NY 10033, USA",
       "phone": "(646) 603-1585",
-      "website": "http://homehealthcareagencyny.com/",
+      "website": "https://homehealthcareagencyny.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -5790,7 +5790,7 @@ const LISTINGS = {
       "name": "Affordable Senior Care of New York",
       "address": "338 E 5th St, Brooklyn, NY 11218, USA",
       "phone": "(718) 851-0325",
-      "website": "http://www.affordableseniorcarenewyork.com/home-health-care-contact-us",
+      "website": "https://www.affordableseniorcarenewyork.com/home-health-care-contact-us",
       "rating": 3.9,
       "reviews": 7,
       "cats": [
@@ -5845,7 +5845,7 @@ const LISTINGS = {
       "name": "Senior Home Service",
       "address": "115 Wooster St #2F, New York, NY 10012, USA",
       "phone": "",
-      "website": "http://www.seniorhomeservice.com/",
+      "website": "https://www.seniorhomeservice.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -5900,7 +5900,7 @@ const LISTINGS = {
       "name": "Stein Senior Center",
       "address": "204 E 23rd St, New York, NY 10010, USA",
       "phone": "(646) 395-8083",
-      "website": "http://steinseniorcenter.org/",
+      "website": "https://steinseniorcenter.org/",
       "rating": 4.5,
       "reviews": 38,
       "cats": [
@@ -5944,7 +5944,7 @@ const LISTINGS = {
       "name": "The Center @ Lenox Hill Neighborhood House",
       "address": "343 E 70th St, New York, NY 10021, USA",
       "phone": "(212) 218-0319",
-      "website": "http://www.lenoxhill.org/center-lenox-hill-neighborhood-house",
+      "website": "https://www.lenoxhill.org/center-lenox-hill-neighborhood-house",
       "rating": 4.3,
       "reviews": 37,
       "cats": [
@@ -5966,7 +5966,7 @@ const LISTINGS = {
       "name": "Carter Burden Network / Leonard Covello Older Adult Center",
       "address": "312 E 109th St #301, New York, NY 10029, USA",
       "phone": "(212) 423-9665",
-      "website": "http://carterburdennetwork.org/",
+      "website": "https://carterburdennetwork.org/",
       "rating": 4.1,
       "reviews": 74,
       "cats": [
@@ -5977,7 +5977,7 @@ const LISTINGS = {
       "name": "Moriah Older Adult Luncheon",
       "address": "90 Bennett Ave #92, New York, NY 10033, USA",
       "phone": "(212) 923-5715",
-      "website": "http://www.moriahseniorcenter.org/contact-us",
+      "website": "https://www.moriahseniorcenter.org/contact-us",
       "rating": 4.6,
       "reviews": 23,
       "cats": [
@@ -5999,7 +5999,7 @@ const LISTINGS = {
       "name": "New York City Housing Authority Fulton Senior Center",
       "address": "119 9th Ave, New York, NY 10011, USA",
       "phone": "(212) 255-5005",
-      "website": "http://www.hudsonguild.org/",
+      "website": "https://www.hudsonguild.org/",
       "rating": 3.2,
       "reviews": 5,
       "cats": [
@@ -6065,7 +6065,7 @@ const LISTINGS = {
       "name": "Divine Living Adult Daycare Center",
       "address": "280 Delancey St, New York, NY 10002, USA",
       "phone": "(212) 477-7755",
-      "website": "http://www.divinelivingadc.com/",
+      "website": "https://www.divinelivingadc.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -6175,7 +6175,7 @@ const LISTINGS = {
       "name": "Fern J. Finkel, Esq., Fern Finkel & Associates, PLLC",
       "address": "26 Court St #2500, Brooklyn, NY 11242, USA",
       "phone": "(347) 296-8200",
-      "website": "http://www.ffelderlaw.com/",
+      "website": "https://www.ffelderlaw.com/",
       "rating": 5,
       "reviews": 26,
       "cats": [
@@ -6197,7 +6197,7 @@ const LISTINGS = {
       "name": "The Estate Planning & Elder Law Group",
       "address": "71-27 Myrtle Ave, Glendale, NY 11385, USA",
       "phone": "(718) 514-2066",
-      "website": "http://www.aljlaw.com/",
+      "website": "https://www.aljlaw.com/",
       "rating": 4.9,
       "reviews": 152,
       "cats": [
@@ -6208,7 +6208,7 @@ const LISTINGS = {
       "name": "Trust and Estate Planning Law Office",
       "address": "310 E 2nd St Ste 9A, New York, NY 10009, USA",
       "phone": "(718) 333-2395",
-      "website": "http://advanced-legal.com/trust-estate-planning-wills",
+      "website": "https://advanced-legal.com/trust-estate-planning-wills",
       "rating": 5,
       "reviews": 28,
       "cats": [
@@ -6219,7 +6219,7 @@ const LISTINGS = {
       "name": "Miller & Miller Law Group PLLC",
       "address": "365 Bridge St #7pro, Brooklyn, NY 11201, USA",
       "phone": "(718) 875-2191",
-      "website": "http://www.nycelderlawyers.com/",
+      "website": "https://www.nycelderlawyers.com/",
       "rating": 4.9,
       "reviews": 86,
       "cats": [
@@ -6376,7 +6376,7 @@ const LISTINGS = {
       "name": "SoCal Stairlift - Echo Delta Inc.",
       "address": "2658 Griffith Park Blvd, Los Angeles, CA 90039, USA",
       "phone": "(323) 665-6665",
-      "website": "http://www.southweststairlift.com/",
+      "website": "https://www.southweststairlift.com/",
       "rating": 5,
       "reviews": 13,
       "cats": [
@@ -6420,7 +6420,7 @@ const LISTINGS = {
       "name": "Los Angeles Chair Stair Lifts",
       "address": "4152 Naomi Ave, Los Angeles, CA 90011, USA",
       "phone": "(818) 288-0282",
-      "website": "http://www.los-angeles-chair-stair-lifts.com/",
+      "website": "https://www.los-angeles-chair-stair-lifts.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -6486,7 +6486,7 @@ const LISTINGS = {
       "name": "Accessible Construction",
       "address": "968 Rancheros Dr O, San Marcos, CA 92069, USA",
       "phone": "(310) 215-3332",
-      "website": "http://www.accessibleconstruction.com/",
+      "website": "https://www.accessibleconstruction.com/",
       "rating": 4.6,
       "reviews": 21,
       "cats": [
@@ -6497,7 +6497,7 @@ const LISTINGS = {
       "name": "Aero Mobility",
       "address": "11601 Wilshire Blvd #500, Los Angeles, CA 90025, USA",
       "phone": "(310) 763-4000",
-      "website": "http://www.aeromobility.com/",
+      "website": "https://www.aeromobility.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -6530,7 +6530,7 @@ const LISTINGS = {
       "name": "Superior Mobility",
       "address": "1950 E 220th St #208, Carson, CA 90810, USA",
       "phone": "(310) 218-2040",
-      "website": "http://www.superiormobility.com/",
+      "website": "https://www.superiormobility.com/",
       "rating": 4.8,
       "reviews": 57,
       "cats": [
@@ -6541,7 +6541,7 @@ const LISTINGS = {
       "name": "Active Homes Certified Aging In Place Modifications",
       "address": "3435 Wilshire Blvd #144, Los Angeles, CA 90010, USA",
       "phone": "(855) 924-7663",
-      "website": "http://aginginplacemods.com/",
+      "website": "https://aginginplacemods.com/",
       "rating": 1,
       "reviews": 1,
       "cats": [
@@ -6563,7 +6563,7 @@ const LISTINGS = {
       "name": "AP Remodeling Inc.",
       "address": "5972 Washington Blvd, Culver City, CA 90232, USA",
       "phone": "(818) 748-8709",
-      "website": "http://apremodelinginc.com/",
+      "website": "https://apremodelinginc.com/",
       "rating": 4.9,
       "reviews": 150,
       "cats": [
@@ -6629,7 +6629,7 @@ const LISTINGS = {
       "name": "Los Angeles Home Health Care Agency, Inc.",
       "address": "2741 S Robertson Blvd, Los Angeles, CA 90034, USA",
       "phone": "(310) 559-2290",
-      "website": "http://www.losangeleshomehealth.net/",
+      "website": "https://www.losangeleshomehealth.net/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -6684,7 +6684,7 @@ const LISTINGS = {
       "name": "Mom's Home Care",
       "address": "8600 W 3rd St #3, Los Angeles, CA 90048, USA",
       "phone": "(323) 244-4789",
-      "website": "http://www.momshomecare.com/",
+      "website": "https://www.momshomecare.com/",
       "rating": 5,
       "reviews": 24,
       "cats": [
@@ -6695,7 +6695,7 @@ const LISTINGS = {
       "name": "LA Care Provider Home Health Agency",
       "address": "11850 Wilshire Blvd #102, Los Angeles, CA 90025, USA",
       "phone": "(310) 478-8400",
-      "website": "http://www.lacareprovider.com/",
+      "website": "https://www.lacareprovider.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -6706,7 +6706,7 @@ const LISTINGS = {
       "name": "Oceanside Home Health Services, Inc",
       "address": "4322 Wilshire Blvd #208, Los Angeles, CA 90010, USA",
       "phone": "(323) 934-5050",
-      "website": "http://www.oshhs.com/",
+      "website": "https://www.oshhs.com/",
       "rating": 4.3,
       "reviews": 4,
       "cats": [
@@ -6871,7 +6871,7 @@ const LISTINGS = {
       "name": "Highland Park Adult Senior Citizen Center",
       "address": "6152 N Figueroa St, Los Angeles, CA 90042, USA",
       "phone": "(323) 256-6867",
-      "website": "http://www.laparks.org/scc/highland-adult",
+      "website": "https://www.laparks.org/scc/highland-adult",
       "rating": 4.3,
       "reviews": 64,
       "cats": [
@@ -6915,7 +6915,7 @@ const LISTINGS = {
       "name": "Watts Senior Citizens Center",
       "address": "1657 E Century Blvd, Los Angeles, CA 90002, USA",
       "phone": "(323) 564-9440",
-      "website": "http://www.laparks.org/scc/watts",
+      "website": "https://www.laparks.org/scc/watts",
       "rating": 4.5,
       "reviews": 29,
       "cats": [
@@ -6992,7 +6992,7 @@ const LISTINGS = {
       "name": "Opica Adult Day Care Center Inc",
       "address": "11759 Missouri Ave, Los Angeles, CA 90025, USA",
       "phone": "(310) 478-0226",
-      "website": "http://www.opica.org/",
+      "website": "https://www.opica.org/",
       "rating": 5,
       "reviews": 21,
       "cats": [
@@ -7113,7 +7113,7 @@ const LISTINGS = {
       "name": "Jerome S. Cohen, Attorney At Law",
       "address": "3731 Wilshire Blvd, Los Angeles, CA 90010, USA",
       "phone": "(213) 388-8188",
-      "website": "http://www.jscbklaw.com/",
+      "website": "https://www.jscbklaw.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -7135,7 +7135,7 @@ const LISTINGS = {
       "name": "Aliav Law",
       "address": "291 S La Cienega Blvd #310, Beverly Hills, CA 90211, USA",
       "phone": "(310) 800-2911",
-      "website": "http://aliavlaw.com/",
+      "website": "https://aliavlaw.com/",
       "rating": 4.9,
       "reviews": 82,
       "cats": [
@@ -7146,7 +7146,7 @@ const LISTINGS = {
       "name": "Perlmutter & Pourshalimi | Elder Abuse Attorneys",
       "address": "424 S Beverly Dr, Beverly Hills, CA 90212, USA",
       "phone": "(310) 295-2236",
-      "website": "http://pandpfirm.com/?utm_campaign=gmb",
+      "website": "https://pandpfirm.com/?utm_campaign=gmb",
       "rating": 5,
       "reviews": 74,
       "cats": [
@@ -7157,7 +7157,7 @@ const LISTINGS = {
       "name": "Evans Law Firm, Inc.",
       "address": "6701 Center Dr W, Los Angeles, CA 90045, USA",
       "phone": "(888) 503-8267",
-      "website": "http://www.evanslaw.com/?utm_source=GMBlisting&utm_medium=organic",
+      "website": "https://www.evanslaw.com/?utm_source=GMBlisting&utm_medium=organic",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -7258,7 +7258,7 @@ const LISTINGS = {
       "name": "REFINISHING PROS - Bathtub And Tile",
       "address": "1529 N Lawndale Ave, Chicago, IL 60651, USA",
       "phone": "(773) 983-5884",
-      "website": "http://chicagotubandtile.com/",
+      "website": "https://chicagotubandtile.com/",
       "rating": 5,
       "reviews": 188,
       "cats": [
@@ -7269,7 +7269,7 @@ const LISTINGS = {
       "name": "Paul Bathroom Remodeling Contractors",
       "address": "980 N Michigan Ave #1440, Chicago, IL 60611, USA",
       "phone": "(773) 945-5407",
-      "website": "http://acaremodelingcontractors.com/",
+      "website": "https://acaremodelingcontractors.com/",
       "rating": 5,
       "reviews": 48,
       "cats": [
@@ -7281,7 +7281,7 @@ const LISTINGS = {
       "name": "Chicago Bathtub Refinishing I Art of Tub Reglazing",
       "address": "351 W Oak St apt. 106, Chicago, IL 60610, USA",
       "phone": "(708) 888-2093",
-      "website": "http://bathtubrefinishing.org/",
+      "website": "https://bathtubrefinishing.org/",
       "rating": 5,
       "reviews": 94,
       "cats": [
@@ -7347,7 +7347,7 @@ const LISTINGS = {
       "name": "RampNOW",
       "address": "2272 Cornell Ave, Montgomery, IL 60538, USA",
       "phone": "(630) 892-7267",
-      "website": "http://www.rampnow.com/",
+      "website": "https://www.rampnow.com/",
       "rating": 4.9,
       "reviews": 397,
       "cats": [
@@ -7446,7 +7446,7 @@ const LISTINGS = {
       "name": "Independent Living Solutions",
       "address": "6327 N Pulaski Rd, Chicago, IL 60646, USA",
       "phone": "(773) 478-8450",
-      "website": "http://www.ilsremodel.com/",
+      "website": "https://www.ilsremodel.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -7512,7 +7512,7 @@ const LISTINGS = {
       "name": "A.L.S Remodeling LLC",
       "address": "6328 w Addison st 1212 Sunup Point Hempshire il 60140, 6328 W Addison St, Chicago, IL 60634, USA",
       "phone": "(224) 616-4640",
-      "website": "http://www.alsremodelingchicago.com/",
+      "website": "https://www.alsremodelingchicago.com/",
       "rating": 4.8,
       "reviews": 38,
       "cats": [
@@ -7545,7 +7545,7 @@ const LISTINGS = {
       "name": "Healthcare Plus Homemakers",
       "address": "3949 N Pulaski Rd, Chicago, IL 60641, USA",
       "phone": "(773) 669-3338",
-      "website": "http://gohcp.com/",
+      "website": "https://gohcp.com/",
       "rating": 4.8,
       "reviews": 170,
       "cats": [
@@ -7578,7 +7578,7 @@ const LISTINGS = {
       "name": "CHICAGO HOME HEALTHCARE S.C.",
       "address": "940 W Adams St, Chicago, IL 60607, USA",
       "phone": "(312) 421-6800",
-      "website": "http://www.chicagohomehealthcare.com/",
+      "website": "https://www.chicagohomehealthcare.com/",
       "rating": 3.2,
       "reviews": 5,
       "cats": [
@@ -7600,7 +7600,7 @@ const LISTINGS = {
       "name": "@Home Healthcare",
       "address": "1715 E 55th St, Chicago, IL 60615, USA",
       "phone": "(773) 386-6607",
-      "website": "http://www.athomehealthchicago.com/",
+      "website": "https://www.athomehealthchicago.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -7633,7 +7633,7 @@ const LISTINGS = {
       "name": "Abcor Home Health Inc - Chicago",
       "address": "868 N Milwaukee Ave, Chicago, IL 60642, USA",
       "phone": "(312) 724-6655",
-      "website": "http://www.abcor.com/",
+      "website": "https://www.abcor.com/",
       "rating": 4.8,
       "reviews": 188,
       "cats": [
@@ -7677,7 +7677,7 @@ const LISTINGS = {
       "name": "Illinois Senior Services, Inc. DBA AASRA HOME CARE",
       "address": "2749 W Devon Ave, Chicago, IL 60659, USA",
       "phone": "(773) 336-7632",
-      "website": "http://www.illinoisseniorsservices.com/",
+      "website": "https://www.illinoisseniorsservices.com/",
       "rating": 4.3,
       "reviews": 19,
       "cats": [
@@ -7699,7 +7699,7 @@ const LISTINGS = {
       "name": "Home For Good Senior Care Inc",
       "address": "5765 N Lincoln Ave #27, Chicago, IL 60659, USA",
       "phone": "(773) 572-4875",
-      "website": "http://www.homeforgoodcare.com/",
+      "website": "https://www.homeforgoodcare.com/",
       "rating": 4.8,
       "reviews": 4,
       "cats": [
@@ -7743,7 +7743,7 @@ const LISTINGS = {
       "name": "Extended Care Medical Transportation",
       "address": "13341 SW Hwy, Orland Park, IL 60462, USA",
       "phone": "(708) 429-2082",
-      "website": "http://www.extendedcaretransport.com/",
+      "website": "https://www.extendedcaretransport.com/",
       "rating": 4.8,
       "reviews": 58,
       "cats": [
@@ -7754,7 +7754,7 @@ const LISTINGS = {
       "name": "Chicago Express Transportation",
       "address": "4325 Frontage Rd Ste 106, Oak Forest, IL 60452, USA",
       "phone": "",
-      "website": "http://www.chicago-express.com/",
+      "website": "https://www.chicago-express.com/",
       "rating": 5,
       "reviews": 55,
       "cats": [
@@ -7787,7 +7787,7 @@ const LISTINGS = {
       "name": "Community Assisted Rides",
       "address": "150 S Ashland Ave, La Grange, IL 60525, USA",
       "phone": "(708) 354-9328",
-      "website": "http://www.communityassistedrides.org/",
+      "website": "https://www.communityassistedrides.org/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -7831,7 +7831,7 @@ const LISTINGS = {
       "name": "Lyons Senior Transportation",
       "address": "6404 Joliet Rd, Countryside, IL 60525, USA",
       "phone": "(708) 354-0292",
-      "website": "http://www.lyonstownshipil.gov/",
+      "website": "https://www.lyonstownshipil.gov/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -7842,7 +7842,7 @@ const LISTINGS = {
       "name": "Golden Circle Of Friends Senior Care LLC",
       "address": "1755 Park St suite#200, Naperville, IL 60563, USA",
       "phone": "(630) 453-1420",
-      "website": "http://www.snlhomecare.com/",
+      "website": "https://www.snlhomecare.com/",
       "rating": 5,
       "reviews": 20,
       "cats": [
@@ -7853,7 +7853,7 @@ const LISTINGS = {
       "name": "Northeast (Levy) Senior Center",
       "address": "2019 W Lawrence Ave, Chicago, IL 60625, USA",
       "phone": "(312) 744-0784",
-      "website": "http://www.cityofchicago.org/city/en/depts/fss/provdrs/senior/svcs/regional_senior_centers.html",
+      "website": "https://www.cityofchicago.org/city/en/depts/fss/provdrs/senior/svcs/regional_senior_centers.html",
       "rating": 4.1,
       "reviews": 169,
       "cats": [
@@ -7908,7 +7908,7 @@ const LISTINGS = {
       "name": "SouthEast Atlas Regional Senior Center",
       "address": "1767 E 79th St, Chicago, IL 60649, USA",
       "phone": "(312) 747-0189",
-      "website": "http://www.79thstreetseniors.org/",
+      "website": "https://www.79thstreetseniors.org/",
       "rating": 4.4,
       "reviews": 149,
       "cats": [
@@ -7941,7 +7941,7 @@ const LISTINGS = {
       "name": "North Center Senior Satellite Center",
       "address": "4040 N Oakley Ave, Chicago, IL 60618, USA",
       "phone": "(312) 744-4015",
-      "website": "http://www.cityofchicago.org/city/en/depts/fss/provdrs/senior/svcs/satellite_seniorcenters.html",
+      "website": "https://www.cityofchicago.org/city/en/depts/fss/provdrs/senior/svcs/satellite_seniorcenters.html",
       "rating": 4.4,
       "reviews": 101,
       "cats": [
@@ -7952,7 +7952,7 @@ const LISTINGS = {
       "name": "Norwood Park Senior Center",
       "address": "5801 N Natoma Ave, Chicago, IL 60631, USA",
       "phone": "(773) 775-6071",
-      "website": "http://www.npseniorcenter.org/",
+      "website": "https://www.npseniorcenter.org/",
       "rating": 4.4,
       "reviews": 60,
       "cats": [
@@ -8051,7 +8051,7 @@ const LISTINGS = {
       "name": "New St Paul Adult Day Services",
       "address": "2113 W Marquette Rd, Chicago, IL 60636, USA",
       "phone": "(773) 544-8312",
-      "website": "http://www.newstpaulcogic.com/contact.html",
+      "website": "https://www.newstpaulcogic.com/contact.html",
       "rating": 4.6,
       "reviews": 20,
       "cats": [
@@ -8062,7 +8062,7 @@ const LISTINGS = {
       "name": "Active Day of Homewood",
       "address": "1818 Ridge Rd #1, Homewood, IL 60430, USA",
       "phone": "(708) 957-4365",
-      "website": "http://www.activeday.com/",
+      "website": "https://www.activeday.com/",
       "rating": 4.8,
       "reviews": 14,
       "cats": [
@@ -8073,7 +8073,7 @@ const LISTINGS = {
       "name": "WhiteheadFink Elder Law, LLC",
       "address": "6232 N Pulaski Rd Ste 404, Chicago, IL 60646, USA",
       "phone": "(773) 906-5752",
-      "website": "http://www.whiteheadfink.com/",
+      "website": "https://www.whiteheadfink.com/",
       "rating": 4.8,
       "reviews": 43,
       "cats": [
@@ -8095,7 +8095,7 @@ const LISTINGS = {
       "name": "Dutton Casey & Mesoloras, PC",
       "address": "17 N State St Suite 890, Chicago, IL 60602, USA",
       "phone": "(312) 899-0950",
-      "website": "http://www.duttonelderlaw.com/",
+      "website": "https://www.duttonelderlaw.com/",
       "rating": 4.9,
       "reviews": 55,
       "cats": [
@@ -8117,7 +8117,7 @@ const LISTINGS = {
       "name": "Joseph W. Pieper, Attorney at Law, LLC",
       "address": "205 W Randolph St #1310, Chicago, IL 60606, USA",
       "phone": "(312) 263-2233",
-      "website": "http://pieperlawoffice.com/",
+      "website": "https://pieperlawoffice.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -8172,7 +8172,7 @@ const LISTINGS = {
       "name": "Center for Disability & Elder Law",
       "address": "205 W Randolph St Suite 1610, Chicago, IL 60606, USA",
       "phone": "(312) 376-1880",
-      "website": "http://www.cdelaw.org/",
+      "website": "https://www.cdelaw.org/",
       "rating": 2.9,
       "reviews": 11,
       "cats": [
@@ -8218,7 +8218,7 @@ const LISTINGS = {
       "name": "Safely In Tubs & Showers",
       "address": "17350 TX-249 #220, Houston, TX 77064, USA",
       "phone": "(281) 730-6396",
-      "website": "http://safelyintubs.com/",
+      "website": "https://safelyintubs.com/",
       "rating": 5,
       "reviews": 64,
       "cats": [
@@ -8295,7 +8295,7 @@ const LISTINGS = {
       "name": "Five Star Bath Solutions of Houston",
       "address": "1401 Greengrass Dr, Houston, TX 77008, USA",
       "phone": "(281) 595-8566",
-      "website": "http://fivestarbathsolutions.com/houston-tx",
+      "website": "https://fivestarbathsolutions.com/houston-tx",
       "rating": 4.9,
       "reviews": 42,
       "cats": [
@@ -8394,7 +8394,7 @@ const LISTINGS = {
       "name": "Marchal Stevenson Elevator Co., Inc.",
       "address": "11050 W Little York Rd Bldg E, Houston, TX 77041, USA",
       "phone": "(713) 961-1940",
-      "website": "http://www.marchalstevenson.com/",
+      "website": "https://www.marchalstevenson.com/",
       "rating": 4.9,
       "reviews": 436,
       "cats": [
@@ -8416,7 +8416,7 @@ const LISTINGS = {
       "name": "Mobility Lift Aids",
       "address": "14655 Northwest Fwy #102, Houston, TX 77040, USA",
       "phone": "(713) 939-9922",
-      "website": "http://www.texaswheelchairvan.com/",
+      "website": "https://www.texaswheelchairvan.com/",
       "rating": 4.5,
       "reviews": 64,
       "cats": [
@@ -8482,7 +8482,7 @@ const LISTINGS = {
       "name": "Great Aging in Place",
       "address": "2929 Allen Pkwy STE. 200, Houston, TX 77019, USA",
       "phone": "(713) 425-3076",
-      "website": "http://greataginginplace.com/",
+      "website": "https://greataginginplace.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -8493,7 +8493,7 @@ const LISTINGS = {
       "name": "All About Home Care",
       "address": "427 W 20th St #601, Houston, TX 77008, USA",
       "phone": "(713) 802-1211",
-      "website": "http://www.aahcare.com/",
+      "website": "https://www.aahcare.com/",
       "rating": 4.8,
       "reviews": 89,
       "cats": [
@@ -8504,7 +8504,7 @@ const LISTINGS = {
       "name": "Primetime Home Health Services Inc",
       "address": "11602 Burdine St A, Houston, TX 77035, USA",
       "phone": "(713) 977-7721",
-      "website": "http://www.pthhs.net/",
+      "website": "https://www.pthhs.net/",
       "rating": 4.8,
       "reviews": 108,
       "cats": [
@@ -8537,7 +8537,7 @@ const LISTINGS = {
       "name": "DediCare Home Health, LLC",
       "address": "5600 NW Central Dr, Houston, TX 77092, USA",
       "phone": "(346) 701-7915",
-      "website": "http://dedicarehomehealth.com/",
+      "website": "https://dedicarehomehealth.com/",
       "rating": 5,
       "reviews": 42,
       "cats": [
@@ -8581,7 +8581,7 @@ const LISTINGS = {
       "name": "Bellaire Home Health Care",
       "address": "International Trade Center, 11110 Bellaire Blvd Ste 110, Houston, TX 77072, USA",
       "phone": "(281) 564-9959",
-      "website": "http://www.bellairehomehealthcare.com/",
+      "website": "https://www.bellairehomehealthcare.com/",
       "rating": 5,
       "reviews": 76,
       "cats": [
@@ -8592,7 +8592,7 @@ const LISTINGS = {
       "name": "Central Home Health Services of Tx",
       "address": "720 N Post Oak Rd #140, Houston, TX 77024, USA",
       "phone": "(713) 461-5696",
-      "website": "http://centraloftexas.com/",
+      "website": "https://centraloftexas.com/",
       "rating": 4.4,
       "reviews": 32,
       "cats": [
@@ -8691,7 +8691,7 @@ const LISTINGS = {
       "name": "At Your Side Home Care",
       "address": "2400 Augusta Dr Ste 260, Houston, TX 77057, USA",
       "phone": "(832) 271-1600",
-      "website": "http://www.houston-homecare.com/?utm_source=gbp",
+      "website": "https://www.houston-homecare.com/?utm_source=gbp",
       "rating": 4.7,
       "reviews": 126,
       "cats": [
@@ -8713,7 +8713,7 @@ const LISTINGS = {
       "name": "Elder-Ride Carewagon Transport",
       "address": "11111 Katy Fwy, Houston, TX 77079, USA",
       "phone": "(713) 487-8087",
-      "website": "http://www.elder-ridecarewagon.com/",
+      "website": "https://www.elder-ridecarewagon.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -8878,7 +8878,7 @@ const LISTINGS = {
       "name": "Heritage Hall Senior Citizens",
       "address": "1025 Oates Rd, Houston, TX 77029, USA",
       "phone": "(713) 675-4487",
-      "website": "http://www.jacintocity-tx.gov/?/departments/index/15",
+      "website": "https://www.jacintocity-tx.gov/?/departments/index/15",
       "rating": 4.5,
       "reviews": 49,
       "cats": [
@@ -8900,7 +8900,7 @@ const LISTINGS = {
       "name": "Filling the Gap Adult Day Care",
       "address": "6734 Antoine Dr, Houston, TX 77091, USA",
       "phone": "(281) 741-0102",
-      "website": "http://fillingthegapadultdaycare.com/",
+      "website": "https://fillingthegapadultdaycare.com/",
       "rating": 4.5,
       "reviews": 43,
       "cats": [
@@ -9010,7 +9010,7 @@ const LISTINGS = {
       "name": "Law Office of Christina Lesher, P.C.",
       "address": "5615 Kirby Dr #412, Houston, TX 77005, USA",
       "phone": "(713) 529-5900",
-      "website": "http://www.lawlesher.com/?utm_source=gmb&utm_medium=local&utm_campaign=local+pack",
+      "website": "https://www.lawlesher.com/?utm_source=gmb&utm_medium=local&utm_campaign=local+pack",
       "rating": 5,
       "reviews": 11,
       "cats": [
@@ -9021,7 +9021,7 @@ const LISTINGS = {
       "name": "Holland Elder Law Firm",
       "address": "2211 Norfolk St #1105, Houston, TX 77098, USA",
       "phone": "(713) 970-1300",
-      "website": "http://houstoneldercareattorneys.com/",
+      "website": "https://houstoneldercareattorneys.com/",
       "rating": 4.9,
       "reviews": 48,
       "cats": [
@@ -9076,7 +9076,7 @@ const LISTINGS = {
       "name": "Geoffrey C. Sansom, P.C.",
       "address": "2905 Sackett St Suite P, Houston, TX 77098, USA",
       "phone": "(713) 238-7767",
-      "website": "http://attysansom.com/",
+      "website": "https://attysansom.com/",
       "rating": 4.6,
       "reviews": 8,
       "cats": [
@@ -9087,7 +9087,7 @@ const LISTINGS = {
       "name": "The Schwartz Law Firm, PLLC",
       "address": "3730 Kirby Dr Suite #1200, Houston, TX 77098, USA",
       "phone": "(713) 385-0269",
-      "website": "http://www.schwartzlawhouston.com/",
+      "website": "https://www.schwartzlawhouston.com/",
       "rating": 4.3,
       "reviews": 6,
       "cats": [
@@ -9098,7 +9098,7 @@ const LISTINGS = {
       "name": "The Mendel Law Firm, L.P.",
       "address": "1155 Dairy Ashford Rd #104, Houston, TX 77079, USA",
       "phone": "(281) 759-3213",
-      "website": "http://www.mendellawfirm.com/",
+      "website": "https://www.mendellawfirm.com/",
       "rating": 4.9,
       "reviews": 89,
       "cats": [
@@ -9246,7 +9246,7 @@ const LISTINGS = {
       "name": "Independent Home",
       "address": "1838 W Parkside Ln Ste 115, Phoenix, AZ 85027, USA",
       "phone": "(888) 239-1058",
-      "website": "http://www.independenthome.com/",
+      "website": "https://www.independenthome.com/",
       "rating": 4.9,
       "reviews": 702,
       "cats": [
@@ -9323,7 +9323,7 @@ const LISTINGS = {
       "name": "Serene Mobility & Lifts",
       "address": "16671 N 84th Ave #150, Peoria, AZ 85382, USA",
       "phone": "(623) 580-8500",
-      "website": "http://serenemobility.com/",
+      "website": "https://serenemobility.com/",
       "rating": 4.4,
       "reviews": 17,
       "cats": [
@@ -9334,7 +9334,7 @@ const LISTINGS = {
       "name": "StairBuddy - Residential Elev. Serv. - Stairlifts | Home Elevators",
       "address": "No Showroom - We come to you, 1615 E Georgia Ave Unit 238, Phoenix, AZ 85016, USA",
       "phone": "(602) 653-1378",
-      "website": "http://www.stairbuddy.com/",
+      "website": "https://www.stairbuddy.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -9433,7 +9433,7 @@ const LISTINGS = {
       "name": "Area Agency on Aging, Region One",
       "address": "1366 E Thomas Rd #108, Phoenix, AZ 85014, USA",
       "phone": "(602) 264-4357",
-      "website": "http://www.aaaphx.org/",
+      "website": "https://www.aaaphx.org/",
       "rating": 3.5,
       "reviews": 52,
       "cats": [
@@ -9444,7 +9444,7 @@ const LISTINGS = {
       "name": "East Valley Remodeling Inc",
       "address": "3617 W Morelos St, Chandler, AZ 85226, USA",
       "phone": "(480) 313-6655",
-      "website": "http://www.remodeleastvalley.com/",
+      "website": "https://www.remodeleastvalley.com/",
       "rating": 5,
       "reviews": 12,
       "cats": [
@@ -9532,7 +9532,7 @@ const LISTINGS = {
       "name": "Sun Valley Home Healthcare",
       "address": "19820 N 7th St #230, Phoenix, AZ 85024, USA",
       "phone": "(602) 584-6150",
-      "website": "http://www.sunvalleyhhc.com/",
+      "website": "https://www.sunvalleyhhc.com/",
       "rating": 5,
       "reviews": 14,
       "cats": [
@@ -9543,7 +9543,7 @@ const LISTINGS = {
       "name": "Firstat Home Health Services",
       "address": "7330 N 16th St #C117, Phoenix, AZ 85020, USA",
       "phone": "(602) 279-0000",
-      "website": "http://www.firstat.com/",
+      "website": "https://www.firstat.com/",
       "rating": 4.8,
       "reviews": 45,
       "cats": [
@@ -9631,7 +9631,7 @@ const LISTINGS = {
       "name": "Caregiving Services",
       "address": "10000 N 31st Ave C312, Phoenix, AZ 85051, USA",
       "phone": "(602) 920-9433",
-      "website": "http://www.bestcgservices.com/",
+      "website": "https://www.bestcgservices.com/",
       "rating": 5,
       "reviews": 26,
       "cats": [
@@ -9664,7 +9664,7 @@ const LISTINGS = {
       "name": "Quality Transport Services of Arizona",
       "address": "2730 W Agua Fria Fwy Ste 102, Phoenix, AZ 85027, USA",
       "phone": "(602) 371-1000",
-      "website": "http://www.qtsaz.com/",
+      "website": "https://www.qtsaz.com/",
       "rating": 3.9,
       "reviews": 67,
       "cats": [
@@ -9686,7 +9686,7 @@ const LISTINGS = {
       "name": "Seniors Only Services",
       "address": "44233 W Wade Dr, Maricopa, AZ 85138, USA",
       "phone": "",
-      "website": "http://seniorsonlyservices.org/",
+      "website": "https://seniorsonlyservices.org/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -9697,7 +9697,7 @@ const LISTINGS = {
       "name": "Wanda.Care",
       "address": "3401 E Elwood St, Phoenix, AZ 85040, USA",
       "phone": "(855) 735-1222",
-      "website": "http://wanda.care/",
+      "website": "https://wanda.care/",
       "rating": 3.5,
       "reviews": 11,
       "cats": [
@@ -9774,7 +9774,7 @@ const LISTINGS = {
       "name": "Helen Drake Senior Center",
       "address": "7600 N 27th Ave, Phoenix, AZ 85051, USA",
       "phone": "(602) 262-4949",
-      "website": "http://helen-center-phoenix.keeq.io/",
+      "website": "https://helen-center-phoenix.keeq.io/",
       "rating": 4.5,
       "reviews": 105,
       "cats": [
@@ -9796,7 +9796,7 @@ const LISTINGS = {
       "name": "Phoenix Paradise Valley Senior",
       "address": "17402 N 40th St, Phoenix, AZ 85032, USA",
       "phone": "(602) 495-3785",
-      "website": "http://phoenix.gov/",
+      "website": "https://phoenix.gov/",
       "rating": 4.6,
       "reviews": 42,
       "cats": [
@@ -9807,7 +9807,7 @@ const LISTINGS = {
       "name": "South Mountain Senior Center",
       "address": "212 E Alta Vista Rd, Phoenix, AZ 85042, USA",
       "phone": "(602) 262-4093",
-      "website": "http://www.phoenix.gov/humanservicessite/Documents/smnwsltr.pdf",
+      "website": "https://www.phoenix.gov/humanservicessite/Documents/smnwsltr.pdf",
       "rating": 3.8,
       "reviews": 6,
       "cats": [
@@ -9829,7 +9829,7 @@ const LISTINGS = {
       "name": "HonorHealth Desert Mission",
       "address": "303 E Eva St, Phoenix, AZ 85020, USA",
       "phone": "(602) 870-6374",
-      "website": "http://www.desertmission.com/programs/adult-day-health-care",
+      "website": "https://www.desertmission.com/programs/adult-day-health-care",
       "rating": 4.3,
       "reviews": 6,
       "cats": [
@@ -9873,7 +9873,7 @@ const LISTINGS = {
       "name": "Foundation For Senior Living",
       "address": "3620 N 4th Ave, Phoenix, AZ 85013, USA",
       "phone": "(602) 297-1840",
-      "website": "http://www.fsl.org/",
+      "website": "https://www.fsl.org/",
       "rating": 4.3,
       "reviews": 10,
       "cats": [
@@ -9917,7 +9917,7 @@ const LISTINGS = {
       "name": "Mary's Place Memory Care",
       "address": "14601 N Del Webb Blvd, Sun City, AZ 85351, USA",
       "phone": "(623) 815-1031",
-      "website": "http://www.benevilla.org/marys-place/",
+      "website": "https://www.benevilla.org/marys-place/",
       "rating": 4.4,
       "reviews": 17,
       "cats": [
@@ -9928,7 +9928,7 @@ const LISTINGS = {
       "name": "Elder Law of Arizona - Charlotte C. Johnson",
       "address": "2020 S McClintock Dr #107, Tempe, AZ 85282, USA",
       "phone": "(602) 358-8606",
-      "website": "http://www.elderlawofaz.com/",
+      "website": "https://www.elderlawofaz.com/",
       "rating": 5,
       "reviews": 23,
       "cats": [
@@ -9950,7 +9950,7 @@ const LISTINGS = {
       "name": "Bivens & Associates, PLLC",
       "address": "8283 Hayden Rd #195, Scottsdale, AZ 85258, USA",
       "phone": "(480) 922-1010",
-      "website": "http://www.bivenslaw.com/",
+      "website": "https://www.bivenslaw.com/",
       "rating": 4.8,
       "reviews": 64,
       "cats": [
@@ -9983,7 +9983,7 @@ const LISTINGS = {
       "name": "Berk Law Group, PC",
       "address": "14220 N Northsight Blvd #135, Scottsdale, AZ 85260, USA",
       "phone": "(480) 907-0078",
-      "website": "http://berklawgroup.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "website": "https://berklawgroup.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
       "rating": 4.9,
       "reviews": 88,
       "cats": [
@@ -10005,7 +10005,7 @@ const LISTINGS = {
       "name": "Lincoln & Lauer, PLLC",
       "address": "3514 E Indian School Rd, Phoenix, AZ 85018, USA",
       "phone": "(602) 955-9555",
-      "website": "http://www.lincolnandlauer.com/",
+      "website": "https://www.lincolnandlauer.com/",
       "rating": 4.9,
       "reviews": 10,
       "cats": [
@@ -10040,7 +10040,7 @@ const LISTINGS = {
       "name": "YR Kitchen & Bath",
       "address": "1551 Washington Ave #2B, Philadelphia, PA 19146, USA",
       "phone": "(215) 545-9188",
-      "website": "http://www.yrkitchenbath.com/",
+      "website": "https://www.yrkitchenbath.com/",
       "rating": 4.7,
       "reviews": 47,
       "cats": [
@@ -10062,7 +10062,7 @@ const LISTINGS = {
       "name": "Bath4All",
       "address": "712 S 12th St #312, Philadelphia, PA 19147, USA",
       "phone": "(201) 688-0271",
-      "website": "http://www.bath4all.com/",
+      "website": "https://www.bath4all.com/",
       "rating": 5,
       "reviews": 66,
       "cats": [
@@ -10152,7 +10152,7 @@ const LISTINGS = {
       "name": "DAB HANDS TUB & TILE REGLAZING, LLC",
       "address": "13109 Bustleton Ave, Philadelphia, PA 19116, USA",
       "phone": "(215) 459-4177",
-      "website": "http://dabhandstub.com/",
+      "website": "https://dabhandstub.com/",
       "rating": 4.8,
       "reviews": 22,
       "cats": [
@@ -10218,7 +10218,7 @@ const LISTINGS = {
       "name": "STI Mobility LLC",
       "address": "9004 Cloverly Rd, Philadelphia, PA 19136, USA",
       "phone": "(267) 210-8499",
-      "website": "http://www.softnetcity.com/",
+      "website": "https://www.softnetcity.com/",
       "rating": 5,
       "reviews": 33,
       "cats": [
@@ -10284,7 +10284,7 @@ const LISTINGS = {
       "name": "PA Stair Lifts Inc",
       "address": "2727 Philmont Ave #310, Huntingdon Valley, PA 19006, USA",
       "phone": "(215) 914-0800",
-      "website": "http://www.pastairlifts.com/",
+      "website": "https://www.pastairlifts.com/",
       "rating": 3.2,
       "reviews": 18,
       "cats": [
@@ -10339,7 +10339,7 @@ const LISTINGS = {
       "name": "Liberty Wheels",
       "address": "112 N 8th St #600, Philadelphia, PA 19107, USA",
       "phone": "(267) 765-1530",
-      "website": "http://libertywheels.net/",
+      "website": "https://libertywheels.net/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -10438,7 +10438,7 @@ const LISTINGS = {
       "name": "Visiting Care Home Care Services",
       "address": "2001 Market St #2500, Philadelphia, PA 19103, USA",
       "phone": "(484) 200-5204",
-      "website": "http://www.visitingcareservice.com/",
+      "website": "https://www.visitingcareservice.com/",
       "rating": 4.9,
       "reviews": 51,
       "cats": [
@@ -10449,7 +10449,7 @@ const LISTINGS = {
       "name": "Pristine Home Care",
       "address": "5924 N Broad St, Philadelphia, PA 19141, USA",
       "phone": "(215) 621-7431",
-      "website": "http://www.pristinehcs.com/",
+      "website": "https://www.pristinehcs.com/",
       "rating": 5,
       "reviews": 508,
       "cats": [
@@ -10460,7 +10460,7 @@ const LISTINGS = {
       "name": "Miracles Home Care",
       "address": "2748 Hellerman St, Philadelphia, PA 19149, USA",
       "phone": "(267) 961-5801",
-      "website": "http://www.miracleshc.com/",
+      "website": "https://www.miracleshc.com/",
       "rating": 5,
       "reviews": 191,
       "cats": [
@@ -10537,7 +10537,7 @@ const LISTINGS = {
       "name": "Sharing Love Home Care LLC",
       "address": "229 W Lehigh Ave Ste 201-FL2, Philadelphia, PA 19133, USA",
       "phone": "(215) 914-6917",
-      "website": "http://www.sharinglovehomecare.com/",
+      "website": "https://www.sharinglovehomecare.com/",
       "rating": 4.9,
       "reviews": 87,
       "cats": [
@@ -10581,7 +10581,7 @@ const LISTINGS = {
       "name": "GPS Transportation (God's People Serving)",
       "address": "E Roosevelt Blvd, Philadelphia, PA 19149, USA",
       "phone": "(215) 500-5220",
-      "website": "http://www.gpstransportation.net/",
+      "website": "https://www.gpstransportation.net/",
       "rating": 4.7,
       "reviews": 43,
       "cats": [
@@ -10592,7 +10592,7 @@ const LISTINGS = {
       "name": "Be Safe Transport",
       "address": "110A Baltimore Pike Ste 1007, Springfield, PA 19064, USA",
       "phone": "(484) 326-4555",
-      "website": "http://www.bsafetransport.com/",
+      "website": "https://www.bsafetransport.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -10603,7 +10603,7 @@ const LISTINGS = {
       "name": "Gps Transportation",
       "address": "9237 Roosevelt Blvd Suite 203, Philadelphia, PA 19114, USA",
       "phone": "",
-      "website": "http://www.gpstransportation.net/",
+      "website": "https://www.gpstransportation.net/",
       "rating": 4.8,
       "reviews": 50,
       "cats": [
@@ -10614,7 +10614,7 @@ const LISTINGS = {
       "name": "CCT Connect",
       "address": "1234 Market St, Philadelphia, PA 19107, USA",
       "phone": "(215) 580-7145",
-      "website": "http://www.septa.org/",
+      "website": "https://www.septa.org/",
       "rating": 2.6,
       "reviews": 162,
       "cats": [
@@ -10658,7 +10658,7 @@ const LISTINGS = {
       "name": "West Philadelphia Senior Community Center",
       "address": "1016 N 41st St, Philadelphia, PA 19104, USA",
       "phone": "(215) 386-0379",
-      "website": "http://westphilaseniorcenter.org/",
+      "website": "https://westphilaseniorcenter.org/",
       "rating": 4.6,
       "reviews": 114,
       "cats": [
@@ -10746,7 +10746,7 @@ const LISTINGS = {
       "name": "Peter Bressi Northeast Senior Center",
       "address": "4744 Frankford Ave #46, Philadelphia, PA 19124, USA",
       "phone": "(215) 831-2926",
-      "website": "http://www.neccbh.org/peter-bressi-senior-center/",
+      "website": "https://www.neccbh.org/peter-bressi-senior-center/",
       "rating": 3.9,
       "reviews": 14,
       "cats": [
@@ -10757,7 +10757,7 @@ const LISTINGS = {
       "name": "Penn Village Adult Daycare",
       "address": "Located Behind Wendy's, 5536 Wayne Ave, Philadelphia, PA 19144, USA",
       "phone": "(267) 437-2898",
-      "website": "http://www.pennvillage.com/",
+      "website": "https://www.pennvillage.com/",
       "rating": 4.9,
       "reviews": 47,
       "cats": [
@@ -10779,7 +10779,7 @@ const LISTINGS = {
       "name": "Northeast Adult Day Care",
       "address": "11048 Rennard St, Philadelphia, PA 19116, USA",
       "phone": "(215) 671-0200",
-      "website": "http://www.northeastadc.com/",
+      "website": "https://www.northeastadc.com/",
       "rating": 4.8,
       "reviews": 57,
       "cats": [
@@ -10790,7 +10790,7 @@ const LISTINGS = {
       "name": "Happy Life Adult Day Center",
       "address": "1001 Vine St 5th Floor, Philadelphia, PA 19107, USA",
       "phone": "(267) 927-8886",
-      "website": "http://happylifeadultdaycenter.com/",
+      "website": "https://happylifeadultdaycenter.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -10801,7 +10801,7 @@ const LISTINGS = {
       "name": "A to Z Care - Adult Day Care Center",
       "address": "5050 Parkside Ave Unit 101, Philadelphia, PA 19131, USA",
       "phone": "(215) 877-8600",
-      "website": "http://www.atozadultcare.com/",
+      "website": "https://www.atozadultcare.com/",
       "rating": 4.7,
       "reviews": 54,
       "cats": [
@@ -10823,7 +10823,7 @@ const LISTINGS = {
       "name": "99 Adult Daycare",
       "address": "1019 Cherry St, Philadelphia, PA 19107, USA",
       "phone": "(267) 909-8884",
-      "website": "http://www.99adc.com/",
+      "website": "https://www.99adc.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -10856,7 +10856,7 @@ const LISTINGS = {
       "name": "Circle of Friends Adult Day Health Care Center",
       "address": "9405 Bustleton Ave, Philadelphia, PA 19115, USA",
       "phone": "(215) 856-9100",
-      "website": "http://www.circleofriendscare.com/",
+      "website": "https://www.circleofriendscare.com/",
       "rating": 4.8,
       "reviews": 15,
       "cats": [
@@ -10867,7 +10867,7 @@ const LISTINGS = {
       "name": "SeniorLAW Center",
       "address": "1650 Arch St Ste 1820, Philadelphia, PA 19103, USA",
       "phone": "(215) 988-1244",
-      "website": "http://www.seniorlawcenter.org/",
+      "website": "https://www.seniorlawcenter.org/",
       "rating": 3.5,
       "reviews": 57,
       "cats": [
@@ -10878,7 +10878,7 @@ const LISTINGS = {
       "name": "Debra Speyer Law Offices",
       "address": "1515 Market St 12th Floor, Philadelphia, PA 19103, USA",
       "phone": "(215) 238-1980",
-      "website": "http://www.speyerlaw.com/",
+      "website": "https://www.speyerlaw.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -10979,7 +10979,7 @@ const LISTINGS = {
       "name": "Genie Bath Systems",
       "address": "5680 Randolph Blvd, San Antonio, TX 78233, USA",
       "phone": "(210) 405-6440",
-      "website": "http://www.geniebathsystems.com/",
+      "website": "https://www.geniebathsystems.com/",
       "rating": 4.8,
       "reviews": 976,
       "cats": [
@@ -11013,7 +11013,7 @@ const LISTINGS = {
       "name": "Texas Bathtub Refinishers, Inc.",
       "address": "1327 Basse Rd, San Antonio, TX 78212, USA",
       "phone": "(210) 804-1189",
-      "website": "http://www.bathtubrefinishing.com/",
+      "website": "https://www.bathtubrefinishing.com/",
       "rating": 4.5,
       "reviews": 17,
       "cats": [
@@ -11048,7 +11048,7 @@ const LISTINGS = {
       "name": "Miracle Method",
       "address": "847 Isom Rd, San Antonio, TX 78216, USA",
       "phone": "(210) 610-7585",
-      "website": "http://www.miraclemethod.com/san-antonio-north?utm_source=Google&utm_medium=GMB&utm_content=MMMS",
+      "website": "https://www.miraclemethod.com/san-antonio-north?utm_source=Google&utm_medium=GMB&utm_content=MMMS",
       "rating": 4.9,
       "reviews": 121,
       "cats": [
@@ -11125,7 +11125,7 @@ const LISTINGS = {
       "name": "Home Elevator of Texas",
       "address": "12106 Colwick St, San Antonio, TX 78216, USA",
       "phone": "(210) 340-5702",
-      "website": "http://homeelevator.com/",
+      "website": "https://homeelevator.com/",
       "rating": 4.3,
       "reviews": 32,
       "cats": [
@@ -11158,7 +11158,7 @@ const LISTINGS = {
       "name": "Total Mobility Services, Inc.",
       "address": "5131 Roosevelt Ave, San Antonio, TX 78214, USA",
       "phone": "(210) 626-5213",
-      "website": "http://www.totalmobilityinc.com/",
+      "website": "https://www.totalmobilityinc.com/",
       "rating": 4.5,
       "reviews": 57,
       "cats": [
@@ -11169,7 +11169,7 @@ const LISTINGS = {
       "name": "Project MEND",
       "address": "5015 Wurzbach Rd, San Antonio, TX 78238, USA",
       "phone": "(210) 223-6363",
-      "website": "http://www.projectmend.org/",
+      "website": "https://www.projectmend.org/",
       "rating": 4.8,
       "reviews": 254,
       "cats": [
@@ -11180,7 +11180,7 @@ const LISTINGS = {
       "name": "Mobility Medical Equipment",
       "address": "7007 San Pedro Ave Ste. 102, San Antonio, TX 78216, USA",
       "phone": "(210) 745-2829",
-      "website": "http://mobilitymedequip.com/",
+      "website": "https://mobilitymedequip.com/",
       "rating": 4.8,
       "reviews": 41,
       "cats": [
@@ -11279,7 +11279,7 @@ const LISTINGS = {
       "name": "Ace Handyman Services Northwest San Antonio",
       "address": "28720 I-10 Ste 420, Boerne, TX 78006, USA",
       "phone": "(210) 549-9714",
-      "website": "http://www.acehandymanservices.com/offices/nw-san-antonio",
+      "website": "https://www.acehandymanservices.com/offices/nw-san-antonio",
       "rating": 4.9,
       "reviews": 450,
       "cats": [
@@ -11312,7 +11312,7 @@ const LISTINGS = {
       "name": "Affordable Renovation Services",
       "address": "1777 NE Interstate 410 Loop Ste 600, San Antonio, TX 78217, USA",
       "phone": "(210) 570-3620",
-      "website": "http://affordablerenovationssa.com/",
+      "website": "https://affordablerenovationssa.com/",
       "rating": 3.7,
       "reviews": 9,
       "cats": [
@@ -11334,7 +11334,7 @@ const LISTINGS = {
       "name": "Legacy Home Health Agency",
       "address": "6655 First Park Ten Blvd Ste 200, San Antonio, TX 78213, USA",
       "phone": "(210) 736-1855",
-      "website": "http://www.legacyhhc.com/",
+      "website": "https://www.legacyhhc.com/",
       "rating": 4.8,
       "reviews": 389,
       "cats": [
@@ -11389,7 +11389,7 @@ const LISTINGS = {
       "name": "Capitol Home Health",
       "address": "7800 I-10 Ste 800, San Antonio, TX 78230, USA",
       "phone": "(210) 538-9090",
-      "website": "http://www.capitolhh.com/",
+      "website": "https://www.capitolhh.com/",
       "rating": 4.9,
       "reviews": 246,
       "cats": [
@@ -11522,7 +11522,7 @@ const LISTINGS = {
       "name": "Promise Senior Solutions",
       "address": "4606 Centerview Dr #255, San Antonio, TX 78228, USA",
       "phone": "(210) 736-4677",
-      "website": "http://www.promiseseniorsolutions.com/",
+      "website": "https://www.promiseseniorsolutions.com/",
       "rating": 4.8,
       "reviews": 59,
       "cats": [
@@ -11533,7 +11533,7 @@ const LISTINGS = {
       "name": "Ride Connect Texas",
       "address": "2201 St Cloud, San Antonio, TX 78228, USA",
       "phone": "(210) 558-0007",
-      "website": "http://www.rideconnecttexas.org/",
+      "website": "https://www.rideconnecttexas.org/",
       "rating": 3.5,
       "reviews": 6,
       "cats": [
@@ -11544,7 +11544,7 @@ const LISTINGS = {
       "name": "Northeast Senior Assitance",
       "address": "2903 Nacogdoches Rd, San Antonio, TX 78217, USA",
       "phone": "(210) 967-6372",
-      "website": "http://www.neseniorassistance.org/",
+      "website": "https://www.neseniorassistance.org/",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -11578,7 +11578,7 @@ const LISTINGS = {
       "name": "Drive A Senior - ATX",
       "address": "located at back of building, 2601 Exposition Blvd, Austin, TX 78703, USA",
       "phone": "(512) 472-6339",
-      "website": "http://driveasenioratx.org/",
+      "website": "https://driveasenioratx.org/",
       "rating": 3.9,
       "reviews": 7,
       "cats": [
@@ -11589,7 +11589,7 @@ const LISTINGS = {
       "name": "Medi-Ryde, LLC",
       "address": "10615 Perrin Beitel Bldg 4, San Antonio, TX 78217, USA",
       "phone": "(210) 868-9972",
-      "website": "http://www.mediryde.com/",
+      "website": "https://www.mediryde.com/",
       "rating": 4.8,
       "reviews": 36,
       "cats": [
@@ -11623,7 +11623,7 @@ const LISTINGS = {
       "name": "Walker Ranch Senior Center",
       "address": "835 W Rhapsody Dr, San Antonio, TX 78216, USA",
       "phone": "(210) 207-5280",
-      "website": "http://sanantonio.gov/humanservices/SeniorServices",
+      "website": "https://sanantonio.gov/humanservices/SeniorServices",
       "rating": 4.8,
       "reviews": 111,
       "cats": [
@@ -11711,7 +11711,7 @@ const LISTINGS = {
       "name": "ACTS - Adult Day & Activity Center",
       "address": "328 W Mayfield Blvd, San Antonio, TX 78221, USA",
       "phone": "(210) 932-2287",
-      "website": "http://www.actsadultdaycare.com/",
+      "website": "https://www.actsadultdaycare.com/",
       "rating": 4.1,
       "reviews": 55,
       "cats": [
@@ -11722,7 +11722,7 @@ const LISTINGS = {
       "name": "Mother Earth Adult Day Care",
       "address": "8464 Barron Dr, San Antonio, TX 78240, USA",
       "phone": "(210) 691-1778",
-      "website": "http://motherearthadc.com/",
+      "website": "https://motherearthadc.com/",
       "rating": 4.2,
       "reviews": 58,
       "cats": [
@@ -11777,7 +11777,7 @@ const LISTINGS = {
       "name": "Careplex Adult Day Care Center",
       "address": "7519 Marbach Rd #106, San Antonio, TX 78227, USA",
       "phone": "(210) 675-3255",
-      "website": "http://www.careplexadc.com/",
+      "website": "https://www.careplexadc.com/",
       "rating": 4,
       "reviews": 39,
       "cats": [
@@ -11832,7 +11832,7 @@ const LISTINGS = {
       "name": "Marquardt Law Firm, P.C.",
       "address": "14603 Huebner Rd Ste 3801, San Antonio, TX 78230, USA",
       "phone": "(210) 530-4278",
-      "website": "http://www.marquardtlawfirm.com/",
+      "website": "https://www.marquardtlawfirm.com/",
       "rating": 4.8,
       "reviews": 452,
       "cats": [
@@ -11854,7 +11854,7 @@ const LISTINGS = {
       "name": "Loke Moore Law, PLLC",
       "address": "2135 E Hildebrand Ave, San Antonio, TX 78209, USA",
       "phone": "(210) 944-4930",
-      "website": "http://www.lokemoorelaw.com/",
+      "website": "https://www.lokemoorelaw.com/",
       "rating": 5,
       "reviews": 71,
       "cats": [
@@ -11898,7 +11898,7 @@ const LISTINGS = {
       "name": "The Law Office of Yvette M. Salinas",
       "address": "319 Probandt St, San Antonio, TX 78204, USA",
       "phone": "(210) 415-4917",
-      "website": "http://yvettesalinaslaw.com/",
+      "website": "https://yvettesalinaslaw.com/",
       "rating": 4.7,
       "reviews": 93,
       "cats": [
@@ -11909,7 +11909,7 @@ const LISTINGS = {
       "name": "Skeen Law",
       "address": "200 E Grayson St Ste 210, San Antonio, TX 78215, USA",
       "phone": "(210) 202-1141",
-      "website": "http://skeenlawfirm.com/",
+      "website": "https://skeenlawfirm.com/",
       "rating": 4.9,
       "reviews": 107,
       "cats": [
@@ -11944,7 +11944,7 @@ const LISTINGS = {
       "name": "Aging-In-Place Remodeling",
       "address": "620 Venture St D, Escondido, CA 92029, USA",
       "phone": "(858) 776-8700",
-      "website": "http://aipremodeling.com/",
+      "website": "https://aipremodeling.com/",
       "rating": 4.4,
       "reviews": 18,
       "cats": [
@@ -11956,7 +11956,7 @@ const LISTINGS = {
       "name": "San Diego Walk In Tubs",
       "address": "180 Mace St A9, Chula Vista, CA 91911, USA",
       "phone": "(619) 708-3358",
-      "website": "http://www.sandiegowalkintubs.com/",
+      "website": "https://www.sandiegowalkintubs.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -11978,7 +11978,7 @@ const LISTINGS = {
       "name": "Nulux Baths",
       "address": "525 N Andreasen Dr Ste C, Escondido, CA 92029, USA",
       "phone": "(760) 705-8944",
-      "website": "http://nuluxbaths.com/",
+      "website": "https://nuluxbaths.com/",
       "rating": 5,
       "reviews": 50,
       "cats": [
@@ -12066,7 +12066,7 @@ const LISTINGS = {
       "name": "Access to Freedom: San Diego Stairlifts",
       "address": "1485 Poinsettia Ave Unit 114, Vista, CA 92081, USA",
       "phone": "(760) 295-8080",
-      "website": "http://www.socalstairlifts.com/",
+      "website": "https://www.socalstairlifts.com/",
       "rating": 5,
       "reviews": 7,
       "cats": [
@@ -12077,7 +12077,7 @@ const LISTINGS = {
       "name": "Harmony Home Medical Supply San Diego",
       "address": "7640 Clairemont Mesa Blvd, San Diego, CA 92111, USA",
       "phone": "(858) 560-8177",
-      "website": "http://www.harmonyhomemedical.com/",
+      "website": "https://www.harmonyhomemedical.com/",
       "rating": 4.9,
       "reviews": 388,
       "cats": [
@@ -12121,7 +12121,7 @@ const LISTINGS = {
       "name": "Mobility Solutions Inc",
       "address": "7895 Convoy Ct #11, San Diego, CA 92111, USA",
       "phone": "(858) 278-0591",
-      "website": "http://www.mobility-solutions.com/",
+      "website": "https://www.mobility-solutions.com/",
       "rating": 3.3,
       "reviews": 48,
       "cats": [
@@ -12143,7 +12143,7 @@ const LISTINGS = {
       "name": "GoldenBoy Mobility",
       "address": "12130 Dearborn Pl, Poway, CA 92064, USA",
       "phone": "(858) 748-9414",
-      "website": "http://www.goldenboymobility.com/",
+      "website": "https://www.goldenboymobility.com/",
       "rating": 4.6,
       "reviews": 44,
       "cats": [
@@ -12154,7 +12154,7 @@ const LISTINGS = {
       "name": "Home Care Placement",
       "address": "5090 Shoreham Pl Unit 114, San Diego, CA 92122, USA",
       "phone": "(858) 412-5725",
-      "website": "http://homecareplacement.com/",
+      "website": "https://homecareplacement.com/",
       "rating": 5,
       "reviews": 75,
       "cats": [
@@ -12220,7 +12220,7 @@ const LISTINGS = {
       "name": "San Diego Home Health",
       "address": "5050 Avenida Encinas #200, Carlsbad, CA 92008, USA",
       "phone": "(760) 436-7344",
-      "website": "http://www.sandiegohh.com/",
+      "website": "https://www.sandiegohh.com/",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -12297,7 +12297,7 @@ const LISTINGS = {
       "name": "Aloha Senior Home Care | 24/7 Home Care in San Diego",
       "address": "8825 Aero Dr Unit 300, San Diego, CA 92123, USA",
       "phone": "(858) 399-1400",
-      "website": "http://www.alohaseniorhomecare.com/",
+      "website": "https://www.alohaseniorhomecare.com/",
       "rating": 4.8,
       "reviews": 22,
       "cats": [
@@ -12374,7 +12374,7 @@ const LISTINGS = {
       "name": "Happy2Help Transportation",
       "address": "8947 Complex Dr B, San Diego, CA 92123, USA",
       "phone": "(619) 885-3737",
-      "website": "http://www.happy2helpsd.com/",
+      "website": "https://www.happy2helpsd.com/",
       "rating": 5,
       "reviews": 499,
       "cats": [
@@ -12418,7 +12418,7 @@ const LISTINGS = {
       "name": "Serving Seniors",
       "address": "1525 Fourth Ave, San Diego, CA 92101, USA",
       "phone": "(619) 235-6538",
-      "website": "http://www.servingseniors.org/",
+      "website": "https://www.servingseniors.org/",
       "rating": 4.4,
       "reviews": 89,
       "cats": [
@@ -12463,7 +12463,7 @@ const LISTINGS = {
       "name": "George L. Stevens Senior Center",
       "address": "570 S 65th St, San Diego, CA 92114, USA",
       "phone": "(619) 266-2066",
-      "website": "http://fdsrc.org/",
+      "website": "https://fdsrc.org/",
       "rating": 4.5,
       "reviews": 79,
       "cats": [
@@ -12485,7 +12485,7 @@ const LISTINGS = {
       "name": "Verne Goodwin Mira Mesa Senior Center",
       "address": "8460 Mira Mesa Blvd, San Diego, CA 92126, USA",
       "phone": "(858) 860-5355",
-      "website": "http://miramesacenter.org/",
+      "website": "https://miramesacenter.org/",
       "rating": 4.5,
       "reviews": 80,
       "cats": [
@@ -12496,7 +12496,7 @@ const LISTINGS = {
       "name": "Ed Brown Senior Center at Rancho Bernardo",
       "address": "18402 W Bernardo Dr, San Diego, CA 92127, USA",
       "phone": "(858) 487-9324",
-      "website": "http://www.edbrowncenter.org/",
+      "website": "https://www.edbrowncenter.org/",
       "rating": 4.4,
       "reviews": 31,
       "cats": [
@@ -12518,7 +12518,7 @@ const LISTINGS = {
       "name": "Cathy Hopper Clairemont Friendship Center",
       "address": "4425 Bannock Ave, San Diego, CA 92117, USA",
       "phone": "(619) 235-1113",
-      "website": "http://www.sandiego.gov/agewell",
+      "website": "https://www.sandiego.gov/agewell",
       "rating": 4.6,
       "reviews": 17,
       "cats": [
@@ -12529,7 +12529,7 @@ const LISTINGS = {
       "name": "San Diego Square",
       "address": "1055 Ninth Ave, San Diego, CA 92101, USA",
       "phone": "(619) 239-2073",
-      "website": "http://hdpartners.org/properties/san-diego-square/",
+      "website": "https://hdpartners.org/properties/san-diego-square/",
       "rating": 4.6,
       "reviews": 26,
       "cats": [
@@ -12540,7 +12540,7 @@ const LISTINGS = {
       "name": "Senior Community Centers",
       "address": "525 14th St #200, San Diego, CA 92101, USA",
       "phone": "(619) 235-6538",
-      "website": "http://www.servingseniors.org/",
+      "website": "https://www.servingseniors.org/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -12551,7 +12551,7 @@ const LISTINGS = {
       "name": "SAN DIEGO FAMILY CIRCLE ADULT DAY HEALTH CENTER",
       "address": "4428 Convoy St Ste 288, San Diego, CA 92111, USA",
       "phone": "(858) 244-4555",
-      "website": "http://www.sandiegofamilycircle.com/",
+      "website": "https://www.sandiegofamilycircle.com/",
       "rating": 4.3,
       "reviews": 6,
       "cats": [
@@ -12595,7 +12595,7 @@ const LISTINGS = {
       "name": "Poway Adult Day Health Care Center",
       "address": "12250 Crosthwaite Cir, Poway, CA 92064, USA",
       "phone": "(858) 748-5044",
-      "website": "http://powayadhc.org/",
+      "website": "https://powayadhc.org/",
       "rating": 4.4,
       "reviews": 7,
       "cats": [
@@ -12617,7 +12617,7 @@ const LISTINGS = {
       "name": "Open Arms Adult Day Healthcare",
       "address": "301 E J St, Chula Vista, CA 91910, USA",
       "phone": "(619) 420-1404",
-      "website": "http://openarmsadhc.com/",
+      "website": "https://openarmsadhc.com/",
       "rating": 4.5,
       "reviews": 10,
       "cats": [
@@ -12683,7 +12683,7 @@ const LISTINGS = {
       "name": "Elder Law & Advocacy",
       "address": "5151 Murphy Canyon Rd #110, San Diego, CA 92123, USA",
       "phone": "(858) 565-1392",
-      "website": "http://www.elaca.org/",
+      "website": "https://www.elaca.org/",
       "rating": 3.7,
       "reviews": 31,
       "cats": [
@@ -12694,7 +12694,7 @@ const LISTINGS = {
       "name": "Ratner & Pinchman, APLC",
       "address": "11622 El Camino Real, San Diego, CA 92130, USA",
       "phone": "(888) 336-1645",
-      "website": "http://www.calelderfirm.com/",
+      "website": "https://www.calelderfirm.com/",
       "rating": 5,
       "reviews": 103,
       "cats": [
@@ -12716,7 +12716,7 @@ const LISTINGS = {
       "name": "California Estate and Elder Law",
       "address": "9820 Willow Creek Rd Ste 460, San Diego, CA 92131, USA",
       "phone": "(619) 282-1194",
-      "website": "http://estate-elderlaw.com/",
+      "website": "https://estate-elderlaw.com/",
       "rating": 4.4,
       "reviews": 12,
       "cats": [
@@ -12749,7 +12749,7 @@ const LISTINGS = {
       "name": "Preston Estate Planning",
       "address": "12396 World Trade Dr Unit 301, San Diego, CA 92128, USA",
       "phone": "(858) 365-8794",
-      "website": "http://www.prestonestateplanning.com/",
+      "website": "https://www.prestonestateplanning.com/",
       "rating": 4.9,
       "reviews": 1006,
       "cats": [
@@ -12760,7 +12760,7 @@ const LISTINGS = {
       "name": "D. Robert Dieringer, Esq.",
       "address": "402 W Broadway #2700, San Diego, CA 92101, USA",
       "phone": "(619) 831-6984",
-      "website": "http://www.expertelderlaw.com/",
+      "website": "https://www.expertelderlaw.com/",
       "rating": 5,
       "reviews": 11,
       "cats": [
@@ -12866,7 +12866,7 @@ const LISTINGS = {
       "name": "DFW Bathroom Remodeling",
       "address": "4831 McKinney Ave, Dallas, TX 75205, USA",
       "phone": "(214) 305-2229",
-      "website": "http://www.dfwbathroomremodeling.com/",
+      "website": "https://www.dfwbathroomremodeling.com/",
       "rating": 5,
       "reviews": 72,
       "cats": [
@@ -12877,7 +12877,7 @@ const LISTINGS = {
       "name": "DFW Bathroom & Kitchen Solution",
       "address": "4300 MacArthur Ave, Highland Park, TX 75209, USA",
       "phone": "(817) 697-0335",
-      "website": "http://www.dfwbathandkitchensolution.com/",
+      "website": "https://www.dfwbathandkitchensolution.com/",
       "rating": 5,
       "reviews": 99,
       "cats": [
@@ -12888,7 +12888,7 @@ const LISTINGS = {
       "name": "Five Star Bath Solutions of South Dallas",
       "address": "1202 S Alexander Ave, Duncanville, TX 75137, USA",
       "phone": "(681) 484-8117",
-      "website": "http://fivestarbathsolutions.com/south-dallas-tx",
+      "website": "https://fivestarbathsolutions.com/south-dallas-tx",
       "rating": 4.9,
       "reviews": 62,
       "cats": [
@@ -12943,7 +12943,7 @@ const LISTINGS = {
       "name": "Zintex Remodeling Group",
       "address": "591 Benjamin's Way, Lewisville, TX 75057, USA",
       "phone": "(972) 934-5696",
-      "website": "http://www.zintex.com/?utm_source=googlemybusiness&utm_medium=dfwlisting&promo=gmbdfw&region=0001",
+      "website": "https://www.zintex.com/?utm_source=googlemybusiness&utm_medium=dfwlisting&promo=gmbdfw&region=0001",
       "rating": 4.7,
       "reviews": 603,
       "cats": [
@@ -12998,7 +12998,7 @@ const LISTINGS = {
       "name": "Ascend Residential Elevators & Lifts",
       "address": "2910 Belmeade Dr #101, Carrollton, TX 75006, USA",
       "phone": "(214) 763-9060",
-      "website": "http://www.ascendadditions.com/",
+      "website": "https://www.ascendadditions.com/",
       "rating": 4.9,
       "reviews": 37,
       "cats": [
@@ -13009,7 +13009,7 @@ const LISTINGS = {
       "name": "SafeLifts of Texas",
       "address": "130 N Preston Rd Ste 410, Prosper, TX 75078, USA",
       "phone": "(972) 633-5438",
-      "website": "http://www.safelifts.com/",
+      "website": "https://www.safelifts.com/",
       "rating": 4.9,
       "reviews": 463,
       "cats": [
@@ -13163,7 +13163,7 @@ const LISTINGS = {
       "name": "Stay In Home Care",
       "address": "8300 Douglas Ave, Dallas, TX 75225, USA",
       "phone": "(214) 612-6686",
-      "website": "http://www.stayinhomecare.net/",
+      "website": "https://www.stayinhomecare.net/",
       "rating": 5,
       "reviews": 32,
       "cats": [
@@ -13196,7 +13196,7 @@ const LISTINGS = {
       "name": "All Is Well Home Care",
       "address": "4417 S Lancaster Rd #2280, Dallas, TX 75216, USA",
       "phone": "(214) 426-1900",
-      "website": "http://www.alliswelldfw.com/",
+      "website": "https://www.alliswelldfw.com/",
       "rating": 5,
       "reviews": 13,
       "cats": [
@@ -13251,7 +13251,7 @@ const LISTINGS = {
       "name": "Divine Roses Home Health and Palliative Care",
       "address": "3000 Keller Springs Rd Apt 406, Carrollton, TX 75006, USA",
       "phone": "(469) 758-0070",
-      "website": "http://northtexasbesthomehealth.com/",
+      "website": "https://northtexasbesthomehealth.com/",
       "rating": 5,
       "reviews": 11,
       "cats": [
@@ -13306,7 +13306,7 @@ const LISTINGS = {
       "name": "Senior Care Dallas Aging Gracefully",
       "address": "10611 Garland Rd #218B, Dallas, TX 75218, USA",
       "phone": "(972) 222-1500",
-      "website": "http://www.seniorcaredallas.com/",
+      "website": "https://www.seniorcaredallas.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -13328,7 +13328,7 @@ const LISTINGS = {
       "name": "My Ride Dallas",
       "address": "1341 W Mockingbird Ln #1000w, Dallas, TX 75247, USA",
       "phone": "(972) 855-8084",
-      "website": "http://myridedallas.org/",
+      "website": "https://myridedallas.org/",
       "rating": 3.7,
       "reviews": 6,
       "cats": [
@@ -13362,7 +13362,7 @@ const LISTINGS = {
       "name": "Senior Center Resources and Public Transit",
       "address": "4912 Lee St, Greenville, TX 75401, USA",
       "phone": "(903) 454-1444",
-      "website": "http://www.scrpt.org/",
+      "website": "https://www.scrpt.org/",
       "rating": 4.5,
       "reviews": 28,
       "cats": [
@@ -13406,7 +13406,7 @@ const LISTINGS = {
       "name": "CareTrips",
       "address": "1616 Gateway Blvd, Richardson, TX 75080, USA",
       "phone": "(214) 238-9100",
-      "website": "http://www.caretrips.net/",
+      "website": "https://www.caretrips.net/",
       "rating": 3.5,
       "reviews": 94,
       "cats": [
@@ -13439,7 +13439,7 @@ const LISTINGS = {
       "name": "Richardson Senior Citizen Center",
       "address": "820 W Arapaho Rd #100, Richardson, TX 75080, USA",
       "phone": "(972) 744-7800",
-      "website": "http://www.cor.net/",
+      "website": "https://www.cor.net/",
       "rating": 4.6,
       "reviews": 161,
       "cats": [
@@ -13450,7 +13450,7 @@ const LISTINGS = {
       "name": "Carrollton Senior Center",
       "address": "1720 Keller Springs Rd, Carrollton, TX 75006, USA",
       "phone": "(972) 466-4850",
-      "website": "http://www.cityofcarrollton.com/departments/departments-g-p/parks-recreation/facilities/senior-center",
+      "website": "https://www.cityofcarrollton.com/departments/departments-g-p/parks-recreation/facilities/senior-center",
       "rating": 4.6,
       "reviews": 188,
       "cats": [
@@ -13472,7 +13472,7 @@ const LISTINGS = {
       "name": "D.L. Hopkins Jr. Senior Center",
       "address": "206 James Collins Blvd, Duncanville, TX 75116, USA",
       "phone": "(972) 780-5073",
-      "website": "http://www.duncanvilletx.gov/",
+      "website": "https://www.duncanvilletx.gov/",
       "rating": 4.6,
       "reviews": 92,
       "cats": [
@@ -13494,7 +13494,7 @@ const LISTINGS = {
       "name": "The Branch Connection Active Adult Center",
       "address": "14055 Dennis Ln, Farmers Branch, TX 75234, USA",
       "phone": "(972) 919-8740",
-      "website": "http://www.thebranchconnection.com/",
+      "website": "https://www.thebranchconnection.com/",
       "rating": 4.9,
       "reviews": 148,
       "cats": [
@@ -13505,7 +13505,7 @@ const LISTINGS = {
       "name": "The Rose Community Center",
       "address": "1949 N Washington Ave, Dallas, TX 75204, USA",
       "phone": "(972) 331-4774",
-      "website": "http://www.behindeverydoor.org/",
+      "website": "https://www.behindeverydoor.org/",
       "rating": 4.5,
       "reviews": 19,
       "cats": [
@@ -13527,7 +13527,7 @@ const LISTINGS = {
       "name": "1st Choice Adult Day Center",
       "address": "326 E 12th St, Dallas, TX 75203, USA",
       "phone": "(972) 699-7702",
-      "website": "http://www.1stchoicetex.com/",
+      "website": "https://www.1stchoicetex.com/",
       "rating": 4.5,
       "reviews": 13,
       "cats": [
@@ -13549,7 +13549,7 @@ const LISTINGS = {
       "name": "Harmony Adult Day and Habilitation Center",
       "address": "705 E Oates Rd, Garland, TX 75043, USA",
       "phone": "(469) 619-7271",
-      "website": "http://www.harmonyadultcare.org/",
+      "website": "https://www.harmonyadultcare.org/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -13560,7 +13560,7 @@ const LISTINGS = {
       "name": "An Angel's Touch ISS & Therapy Facility",
       "address": "5409 N Jim Miller Rd Ste 211, Dallas, TX 75227, USA",
       "phone": "(214) 280-0379",
-      "website": "http://anangelstouchhcs.com/",
+      "website": "https://anangelstouchhcs.com/",
       "rating": 5,
       "reviews": 12,
       "cats": [
@@ -13593,7 +13593,7 @@ const LISTINGS = {
       "name": "Agape Day Center for Adults",
       "address": "1025 Gross Rd, Mesquite, TX 75149, USA",
       "phone": "(972) 354-9455",
-      "website": "http://www.agapedaycenter.com/",
+      "website": "https://www.agapedaycenter.com/",
       "rating": 5,
       "reviews": 48,
       "cats": [
@@ -13604,7 +13604,7 @@ const LISTINGS = {
       "name": "A Higher Learning Activity Center, Inc",
       "address": "1150 Empire Central Pl Ste 106, Dallas, TX 75247, USA",
       "phone": "(214) 499-8202",
-      "website": "http://ahigherlearningactivitycenter.com/",
+      "website": "https://ahigherlearningactivitycenter.com/",
       "rating": 5,
       "reviews": 14,
       "cats": [
@@ -13626,7 +13626,7 @@ const LISTINGS = {
       "name": "Michael B Cohen & Associates",
       "address": "12201 Merit Dr Ste 230, Dallas, TX 75251, USA",
       "phone": "(214) 720-0102",
-      "website": "http://www.dallaselderlawyer.com/",
+      "website": "https://www.dallaselderlawyer.com/",
       "rating": 4.9,
       "reviews": 125,
       "cats": [
@@ -13648,7 +13648,7 @@ const LISTINGS = {
       "name": "Wendy Whiteman Law",
       "address": "2626 Cole Ave suit 300, Dallas, TX 75204, USA",
       "phone": "(214) 210-2928",
-      "website": "http://www.wendywhitemanlaw.com/",
+      "website": "https://www.wendywhitemanlaw.com/",
       "rating": 5,
       "reviews": 33,
       "cats": [
@@ -13659,7 +13659,7 @@ const LISTINGS = {
       "name": "Pyke, Balen, & Moncure, P.C.",
       "address": "7557 Rambler Rd #850, Dallas, TX 75231, USA",
       "phone": "(214) 866-0133",
-      "website": "http://www.dallasprobatelaw.com/",
+      "website": "https://www.dallasprobatelaw.com/",
       "rating": 4.8,
       "reviews": 86,
       "cats": [
@@ -13670,7 +13670,7 @@ const LISTINGS = {
       "name": "Ellen Williamson Law, PC",
       "address": "2626 Cole Ave suit 300, Dallas, TX 75204, USA",
       "phone": "(214) 842-6462",
-      "website": "http://ellenwilliamsonlaw.com/",
+      "website": "https://ellenwilliamsonlaw.com/",
       "rating": 5,
       "reviews": 20,
       "cats": [
@@ -13681,7 +13681,7 @@ const LISTINGS = {
       "name": "The Vermillion Law Firm LLC",
       "address": "12655 N US 75, N Central Expy 1000 #250, Dallas, TX 75251, USA",
       "phone": "(972) 386-4560",
-      "website": "http://www.vermillionlawfirm.com/",
+      "website": "https://www.vermillionlawfirm.com/",
       "rating": 4.2,
       "reviews": 5,
       "cats": [
@@ -13738,7 +13738,7 @@ const LISTINGS = {
       "name": "Install Don't Fall Fl.",
       "address": "1265 Arredondo Grant Rd, De Leon Springs, FL 32130, USA",
       "phone": "(407) 496-6066",
-      "website": "http://installdontfall.com/",
+      "website": "https://installdontfall.com/",
       "rating": 4.9,
       "reviews": 66,
       "cats": [
@@ -13820,7 +13820,7 @@ const LISTINGS = {
       "name": "Preston Home Medical Supplies",
       "address": "6022 Atlantic Blvd B, Jacksonville, FL 32211, USA",
       "phone": "(904) 722-1882",
-      "website": "http://www.jacksonvillehomemedicalsupplies.com/",
+      "website": "https://www.jacksonvillehomemedicalsupplies.com/",
       "rating": 4.8,
       "reviews": 69,
       "cats": [
@@ -13897,7 +13897,7 @@ const LISTINGS = {
       "name": "RF Remodeling Solutions| Kitchen & Bath Remodeling",
       "address": "12932 Tree Way Ln, Jacksonville, FL 32258, USA",
       "phone": "",
-      "website": "http://www.rfremodelingsolutions.com/",
+      "website": "https://www.rfremodelingsolutions.com/",
       "rating": 5,
       "reviews": 14,
       "cats": [
@@ -13919,7 +13919,7 @@ const LISTINGS = {
       "name": "Accessibility Specialists-Fl",
       "address": "9556 Historic Kings Rd S #107, Jacksonville, FL 32257, USA",
       "phone": "(904) 260-6675",
-      "website": "http://asioffl.com/",
+      "website": "https://asioffl.com/",
       "rating": 5,
       "reviews": 9,
       "cats": [
@@ -14051,7 +14051,7 @@ const LISTINGS = {
       "name": "Legacy Renovations LLC",
       "address": "2210 Corporate Square Blvd #4, Jacksonville, FL 32216, USA",
       "phone": "(904) 586-8233",
-      "website": "http://legacyrenovations.com/",
+      "website": "https://legacyrenovations.com/",
       "rating": 4.9,
       "reviews": 113,
       "cats": [
@@ -14062,7 +14062,7 @@ const LISTINGS = {
       "name": "Inga Home Renovations",
       "address": "130 Corridor Rd Unit 774, Ponte Vedra Beach, FL 32004, USA",
       "phone": "(904) 834-1464",
-      "website": "http://www.ingahome.com/",
+      "website": "https://www.ingahome.com/",
       "rating": 4.8,
       "reviews": 16,
       "cats": [
@@ -14095,7 +14095,7 @@ const LISTINGS = {
       "name": "Excellsior Home Health",
       "address": "11437 Central Pkwy Ste 106, Jacksonville, FL 32224, USA",
       "phone": "(904) 203-1323",
-      "website": "http://www.excellsiorhomehealth.com/",
+      "website": "https://www.excellsiorhomehealth.com/",
       "rating": 4.9,
       "reviews": 73,
       "cats": [
@@ -14106,7 +14106,7 @@ const LISTINGS = {
       "name": "Choice Matters Home Healthcare, Inc.",
       "address": "4741 Atlantic Blvd d, Jacksonville, FL 32207, USA",
       "phone": "(904) 680-1256",
-      "website": "http://www.choicemattershhc.com/",
+      "website": "https://www.choicemattershhc.com/",
       "rating": 4.9,
       "reviews": 72,
       "cats": [
@@ -14128,7 +14128,7 @@ const LISTINGS = {
       "name": "Allstar Home Care",
       "address": "12724 Gran Bay Pkwy Ste 410, Jacksonville, FL 32258, USA",
       "phone": "(904) 688-5100",
-      "website": "http://www.allstar-homecare.com/",
+      "website": "https://www.allstar-homecare.com/",
       "rating": 5,
       "reviews": 38,
       "cats": [
@@ -14150,7 +14150,7 @@ const LISTINGS = {
       "name": "Diligent Home Health Care",
       "address": "5757 Booth Rd Bldg 100, Jacksonville, FL 32216, USA",
       "phone": "(904) 425-1414",
-      "website": "http://diligenthomecare.com/",
+      "website": "https://diligenthomecare.com/",
       "rating": 5,
       "reviews": 8,
       "cats": [
@@ -14161,7 +14161,7 @@ const LISTINGS = {
       "name": "Welcome Homecare",
       "address": "9570 Regency Square Blvd, Jacksonville, FL 32225, USA",
       "phone": "(904) 474-5455",
-      "website": "http://www.welcomehomecare.com/",
+      "website": "https://www.welcomehomecare.com/",
       "rating": 5,
       "reviews": 13,
       "cats": [
@@ -14261,7 +14261,7 @@ const LISTINGS = {
       "name": "Visiting Angels Senior Home Care South Jacksonville",
       "address": "3733 University Blvd W #212, Jacksonville, FL 32217, USA",
       "phone": "(904) 891-5943",
-      "website": "http://www.visitingangels.com/southjax/home/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "website": "https://www.visitingangels.com/southjax/home/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
       "rating": 4.4,
       "reviews": 20,
       "cats": [
@@ -14305,7 +14305,7 @@ const LISTINGS = {
       "name": "Advanced Care Transportation dba ACCESS",
       "address": "6501 Arlington Expy Bldg A #202, Jacksonville, FL 32211, USA",
       "phone": "(904) 539-8484",
-      "website": "http://www.myrideaccess.com/",
+      "website": "https://www.myrideaccess.com/",
       "rating": 4.9,
       "reviews": 68,
       "cats": [
@@ -14316,7 +14316,7 @@ const LISTINGS = {
       "name": "Aging True",
       "address": "4250 Lakeside Dr #116, Jacksonville, FL 32210, USA",
       "phone": "(904) 807-1203",
-      "website": "http://agingtrue.org/",
+      "website": "https://agingtrue.org/",
       "rating": 3.9,
       "reviews": 50,
       "cats": [
@@ -14360,7 +14360,7 @@ const LISTINGS = {
       "name": "Lane Wiley Senior Center",
       "address": "6710 Wiley Rd, Jacksonville, FL 32210, USA",
       "phone": "(904) 783-6589",
-      "website": "http://www.coj.net/Departments/Recreation-and-Community-Services/Adult-Services/Community-and-Senior-Centers/Lane-Wiley-Senior-Center,-6710-Wiley-Road.aspx",
+      "website": "https://www.coj.net/Departments/Recreation-and-Community-Services/Adult-Services/Community-and-Senior-Centers/Lane-Wiley-Senior-Center,-6710-Wiley-Road.aspx",
       "rating": 4.5,
       "reviews": 185,
       "cats": [
@@ -14448,7 +14448,7 @@ const LISTINGS = {
       "name": "River Garden Adult Day Care Program",
       "address": "11401 Old St Augustine Rd, Jacksonville, FL 32258, USA",
       "phone": "(904) 288-7858",
-      "website": "http://www.rivergarden.org/adultday",
+      "website": "https://www.rivergarden.org/adultday",
       "rating": 4.6,
       "reviews": 5,
       "cats": [
@@ -14470,7 +14470,7 @@ const LISTINGS = {
       "name": "Her Heart Gardens Adult Daytime Care",
       "address": "9150 Fort Caroline Rd, Jacksonville, FL 32225, USA",
       "phone": "(904) 743-3315",
-      "website": "http://herheartalf.com/adult-day-service/",
+      "website": "https://herheartalf.com/adult-day-service/",
       "rating": 5,
       "reviews": 14,
       "cats": [
@@ -14492,7 +14492,7 @@ const LISTINGS = {
       "name": "Stay For The Day Adult Day Care",
       "address": "5800 Beach Blvd #111, Jacksonville, FL 32207, USA",
       "phone": "(904) 400-5020",
-      "website": "http://stayforthedayjax.com/",
+      "website": "https://stayforthedayjax.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -14558,7 +14558,7 @@ const LISTINGS = {
       "name": "Berg Bryant Elder Law Group, PLLC",
       "address": "7545 Centurion Pkwy N Ste 108, Jacksonville, FL 32256, USA",
       "phone": "(904) 736-7432",
-      "website": "http://www.bbelderlaw.com/",
+      "website": "https://www.bbelderlaw.com/",
       "rating": 4.9,
       "reviews": 243,
       "cats": [
@@ -14580,7 +14580,7 @@ const LISTINGS = {
       "name": "Boykin Elder Law, P.A.",
       "address": "6160 Arlington Expy, Jacksonville, FL 32211, USA",
       "phone": "(904) 632-4836",
-      "website": "http://www.boykinelderlaw.com/",
+      "website": "https://www.boykinelderlaw.com/",
       "rating": 4.4,
       "reviews": 39,
       "cats": [
@@ -14591,7 +14591,7 @@ const LISTINGS = {
       "name": "Nobles Elder Law PLLC",
       "address": "13475 Atlantic Blvd Unit 8, Jacksonville, FL 32225, USA",
       "phone": "(904) 404-5891",
-      "website": "http://www.nobleselderlaw.com/",
+      "website": "https://www.nobleselderlaw.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -14613,7 +14613,7 @@ const LISTINGS = {
       "name": "Bowers and Associates, P.A.",
       "address": "6789 Southpoint Pkwy Ste 300, Jacksonville, FL 32216, USA",
       "phone": "(904) 998-0724",
-      "website": "http://bowerselderlaw.com/",
+      "website": "https://bowerselderlaw.com/",
       "rating": 5,
       "reviews": 12,
       "cats": [
@@ -14624,7 +14624,7 @@ const LISTINGS = {
       "name": "Law Offices of Mark F. Moss, P.A.",
       "address": "12276 San Jose Blvd Ste 520, Jacksonville, FL 32223, USA",
       "phone": "(904) 329-7242",
-      "website": "http://www.markmosslaw.com/",
+      "website": "https://www.markmosslaw.com/",
       "rating": 5,
       "reviews": 246,
       "cats": [
@@ -14657,7 +14657,7 @@ const LISTINGS = {
       "name": "Ailish O'Connor P.A.",
       "address": "11555 Central Pkwy Ste 1001, Jacksonville, FL 32224, USA",
       "phone": "(904) 998-9050",
-      "website": "http://aoelderlaw.com/",
+      "website": "https://aoelderlaw.com/",
       "rating": 4.9,
       "reviews": 14,
       "cats": [
@@ -14670,7 +14670,7 @@ const LISTINGS = {
       "name": "Five Star Bath Solutions of Fort Worth",
       "address": "2527-J Minnis Dr, Haltom City, TX 76117, USA",
       "phone": "(817) 873-0723",
-      "website": "http://fivestarbathsolutions.com/fort-worth-tx",
+      "website": "https://fivestarbathsolutions.com/fort-worth-tx",
       "rating": 5,
       "reviews": 98,
       "cats": [
@@ -14704,7 +14704,7 @@ const LISTINGS = {
       "name": "Next Day Access Fort Worth",
       "address": "600 W 6th St Fourth Floor, Fort Worth, TX 76102, USA",
       "phone": "(817) 646-7176",
-      "website": "http://nextdayaccess.com/fort-worth-tx?utm_campaign=gmb",
+      "website": "https://nextdayaccess.com/fort-worth-tx?utm_campaign=gmb",
       "rating": 5,
       "reviews": 8,
       "cats": [
@@ -14804,7 +14804,7 @@ const LISTINGS = {
       "name": "Five Star Bath Solutions of Alliance",
       "address": "305 Austin St, Keller, TX 76248, USA",
       "phone": "(817) 854-2584",
-      "website": "http://fivestarbathsolutions.com/alliance-tx",
+      "website": "https://fivestarbathsolutions.com/alliance-tx",
       "rating": 5,
       "reviews": 68,
       "cats": [
@@ -14826,7 +14826,7 @@ const LISTINGS = {
       "name": "Bath Solutions",
       "address": "111 Melbourne Rd, Hurst, TX 76053, USA",
       "phone": "(817) 429-2318",
-      "website": "http://www.bathsolutionsdfw.com/",
+      "website": "https://www.bathsolutionsdfw.com/",
       "rating": 5,
       "reviews": 23,
       "cats": [
@@ -14859,7 +14859,7 @@ const LISTINGS = {
       "name": "Ascend Residential Elevators & Lifts",
       "address": "2910 Belmeade Dr #101, Carrollton, TX 75006, USA",
       "phone": "(214) 763-9060",
-      "website": "http://www.ascendadditions.com/",
+      "website": "https://www.ascendadditions.com/",
       "rating": 4.9,
       "reviews": 37,
       "cats": [
@@ -14881,7 +14881,7 @@ const LISTINGS = {
       "name": "SafeLifts of Texas",
       "address": "130 N Preston Rd Ste 410, Prosper, TX 75078, USA",
       "phone": "(972) 633-5438",
-      "website": "http://www.safelifts.com/",
+      "website": "https://www.safelifts.com/",
       "rating": 4.9,
       "reviews": 463,
       "cats": [
@@ -14903,7 +14903,7 @@ const LISTINGS = {
       "name": "Lift Aids, Inc.",
       "address": "1500 Westpark Wy, Euless, TX 76040, USA",
       "phone": "(817) 835-0035",
-      "website": "http://www.lift-aids.com/",
+      "website": "https://www.lift-aids.com/",
       "rating": 4.5,
       "reviews": 53,
       "cats": [
@@ -14958,7 +14958,7 @@ const LISTINGS = {
       "name": "Enduring Home Solutions",
       "address": "6412 Heidelburg Ct, North Richland Hills, TX 76180, USA",
       "phone": "(817) 642-7077",
-      "website": "http://enduringhomesolutions.com/",
+      "website": "https://enduringhomesolutions.com/",
       "rating": 5,
       "reviews": 32,
       "cats": [
@@ -14969,7 +14969,7 @@ const LISTINGS = {
       "name": "Stanton & Co",
       "address": "4824 Camp Bowie Blvd, Fort Worth, TX 76107, USA",
       "phone": "(817) 731-5855",
-      "website": "http://www.stantonandco.net/",
+      "website": "https://www.stantonandco.net/",
       "rating": 4.9,
       "reviews": 74,
       "cats": [
@@ -14991,7 +14991,7 @@ const LISTINGS = {
       "name": "The Aging and Disability Resource Center of Tarrant County",
       "address": "201 N Rupert St Ste 107, Fort Worth, TX 76107, USA",
       "phone": "(855) 937-2372",
-      "website": "http://tarrantcountyadrc.org/",
+      "website": "https://tarrantcountyadrc.org/",
       "rating": 4.2,
       "reviews": 14,
       "cats": [
@@ -15002,7 +15002,7 @@ const LISTINGS = {
       "name": "Shawn M Cowdin Construction, LLC",
       "address": "7355 W Vickery Blvd B-9, Fort Worth, TX 76126, USA",
       "phone": "(817) 886-3386",
-      "website": "http://www.smccllc.com/",
+      "website": "https://www.smccllc.com/",
       "rating": 5,
       "reviews": 7,
       "cats": [
@@ -15013,7 +15013,7 @@ const LISTINGS = {
       "name": "The Area Agency on Aging",
       "address": "1500 N Main St #200, Fort Worth, TX 76164, USA",
       "phone": "(817) 258-8081",
-      "website": "http://www.unitedwaytarrant.org/aaa",
+      "website": "https://www.unitedwaytarrant.org/aaa",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -15090,7 +15090,7 @@ const LISTINGS = {
       "name": "HEAVENLY HANDS HOME CARE",
       "address": "5009 Brentwood Stair Rd, Fort Worth, TX 76112, USA",
       "phone": "(817) 888-3112",
-      "website": "http://www.heavenlyhandshomecarellc.com/",
+      "website": "https://www.heavenlyhandshomecarellc.com/",
       "rating": 5,
       "reviews": 8,
       "cats": [
@@ -15222,7 +15222,7 @@ const LISTINGS = {
       "name": "Just Ride Transportation LLC",
       "address": "2900 SE Loop 820, Fort Worth, TX 76140, USA",
       "phone": "(940) 210-7433",
-      "website": "http://www.justride4u.com/",
+      "website": "https://www.justride4u.com/",
       "rating": 4.9,
       "reviews": 24,
       "cats": [
@@ -15233,7 +15233,7 @@ const LISTINGS = {
       "name": "Serving Our Seniors Texas",
       "address": "3401 S Booth Calloway Rd, Richland Hills, TX 76118, USA",
       "phone": "(817) 282-0531",
-      "website": "http://servingourseniorstexas.org/",
+      "website": "https://servingourseniorstexas.org/",
       "rating": 5,
       "reviews": 15,
       "cats": [
@@ -15354,7 +15354,7 @@ const LISTINGS = {
       "name": "Keller Senior Activities Center",
       "address": "640 Johnson Rd Bldg C, Keller, TX 76248, USA",
       "phone": "(817) 743-4370",
-      "website": "http://www.cityofkeller.com/seniorcenter",
+      "website": "https://www.cityofkeller.com/seniorcenter",
       "rating": 4.8,
       "reviews": 73,
       "cats": [
@@ -15431,7 +15431,7 @@ const LISTINGS = {
       "name": "Arlington Adult Day Health Care",
       "address": "2117 Roosevelt Dr, Pantego, TX 76013, USA",
       "phone": "(817) 795-8066",
-      "website": "http://aadhc.org/",
+      "website": "https://aadhc.org/",
       "rating": 4.6,
       "reviews": 12,
       "cats": [
@@ -15453,7 +15453,7 @@ const LISTINGS = {
       "name": "Encore Memory Care Day Center",
       "address": "2928 Blue Quail Ln, Bedford, TX 76021, USA",
       "phone": "(817) 857-7200",
-      "website": "http://www.encoredaycare.com/",
+      "website": "https://www.encoredaycare.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -15486,7 +15486,7 @@ const LISTINGS = {
       "name": "James L. West Center for Dementia Care",
       "address": "1111 Summit Ave, Fort Worth, TX 76102, USA",
       "phone": "(817) 765-8945",
-      "website": "http://www.jameslwest.org/?utm_campaign=gmb",
+      "website": "https://www.jameslwest.org/?utm_campaign=gmb",
       "rating": 4.7,
       "reviews": 57,
       "cats": [
@@ -15508,7 +15508,7 @@ const LISTINGS = {
       "name": "Telschow Johnson Law PLLC",
       "address": "4200 S Hulen St Ste 340, Fort Worth, TX 76109, USA",
       "phone": "(817) 632-7711",
-      "website": "http://tjlawpllc.com/",
+      "website": "https://tjlawpllc.com/",
       "rating": 4.9,
       "reviews": 113,
       "cats": [
@@ -15541,7 +15541,7 @@ const LISTINGS = {
       "name": "Benson Monica A",
       "address": "4763 Barwick Dr #100, Fort Worth, TX 76132, USA",
       "phone": "(817) 263-5190",
-      "website": "http://www.kattenbenson.com/",
+      "website": "https://www.kattenbenson.com/",
       "rating": 4.6,
       "reviews": 19,
       "cats": [
@@ -15621,7 +15621,7 @@ const LISTINGS = {
       "name": "Innovate Building Solutions",
       "address": "3091 E 14th Ave Ste C, Columbus, OH 43219, USA",
       "phone": "(614) 252-7294",
-      "website": "http://innovatebuildingsolutions.com/",
+      "website": "https://innovatebuildingsolutions.com/",
       "rating": 4.8,
       "reviews": 294,
       "cats": [
@@ -15690,7 +15690,7 @@ const LISTINGS = {
       "name": "Bath Fitter",
       "address": "7465 Worthington Galena Rd, Worthington, OH 43085, USA",
       "phone": "(844) 915-1086",
-      "website": "http://www.bathfitter.com/us-en/location/columbus/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-google-seo",
+      "website": "https://www.bathfitter.com/us-en/location/columbus/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-google-seo",
       "rating": 4.7,
       "reviews": 354,
       "cats": [
@@ -15701,7 +15701,7 @@ const LISTINGS = {
       "name": "Easy Bath",
       "address": "5756 Westbourne Ave, Columbus, OH 43213, USA",
       "phone": "(614) 501-2911",
-      "website": "http://easybathohio.com/",
+      "website": "https://easybathohio.com/",
       "rating": 4.9,
       "reviews": 99,
       "cats": [
@@ -15767,7 +15767,7 @@ const LISTINGS = {
       "name": "Fast Bath Makeover",
       "address": "2025 Riverside Dr Ste 520, Upper Arlington, OH 43221, USA",
       "phone": "(614) 265-8803",
-      "website": "http://fastbathmakeover.com/",
+      "website": "https://fastbathmakeover.com/",
       "rating": 5,
       "reviews": 84,
       "cats": [
@@ -15789,7 +15789,7 @@ const LISTINGS = {
       "name": "RIGHT NOW MOBILITY STAIRLIFTS",
       "address": "545 Metro Pl S Suite 100, Dublin, OH 43017, USA",
       "phone": "(614) 792-0001",
-      "website": "http://www.rightnowmobility.com/",
+      "website": "https://www.rightnowmobility.com/",
       "rating": 5,
       "reviews": 72,
       "cats": [
@@ -15822,7 +15822,7 @@ const LISTINGS = {
       "name": "Med Mart Stairlift + Elevator + Home Modification",
       "address": "341 S 3rd St Ste E120, Columbus, OH 43215, USA",
       "phone": "(800) 793-5980",
-      "website": "http://medmarthome.com/",
+      "website": "https://medmarthome.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -15855,7 +15855,7 @@ const LISTINGS = {
       "name": "Columbus Mobility Specialists",
       "address": "6330 Proprietors Rd # C, Worthington, OH 43085, USA",
       "phone": "(614) 825-8996",
-      "website": "http://www.columbusmobility.com/",
+      "website": "https://www.columbusmobility.com/",
       "rating": 4.4,
       "reviews": 54,
       "cats": [
@@ -15866,7 +15866,7 @@ const LISTINGS = {
       "name": "Right Now Mobility - Family Owned: Stair Lifts + Elevator Experts",
       "address": "6504 Corporate Dr, Cincinnati, OH 45242, USA",
       "phone": "(513) 795-8585",
-      "website": "http://www.rightnowmobility.com/",
+      "website": "https://www.rightnowmobility.com/",
       "rating": 5,
       "reviews": 341,
       "cats": [
@@ -15944,7 +15944,7 @@ const LISTINGS = {
       "name": "Ohio-At-Home Health Care Agency, LLC",
       "address": "875 N High St Ste 300, Columbus, OH 43201, USA",
       "phone": "(614) 800-0672",
-      "website": "http://www.ohioathome.com/",
+      "website": "https://www.ohioathome.com/",
       "rating": 5,
       "reviews": 7,
       "cats": [
@@ -15955,7 +15955,7 @@ const LISTINGS = {
       "name": "Ohio Senior Home Health Care, LLC",
       "address": "6004 Cleveland Ave, Columbus, OH 43231, USA",
       "phone": "(614) 470-6070",
-      "website": "http://www.oshhc.com/",
+      "website": "https://www.oshhc.com/",
       "rating": 4,
       "reviews": 8,
       "cats": [
@@ -15966,7 +15966,7 @@ const LISTINGS = {
       "name": "Caring Heart Home Health Agency",
       "address": "4207 E Broad St 2nd floor, Columbus, OH 43213, USA",
       "phone": "(614) 231-2442",
-      "website": "http://www.caringhearthha.com/",
+      "website": "https://www.caringhearthha.com/",
       "rating": 4.7,
       "reviews": 26,
       "cats": [
@@ -15977,7 +15977,7 @@ const LISTINGS = {
       "name": "Complete Homecare Inc.",
       "address": "2021 E Dublin Granville Rd #190, Columbus, OH 43229, USA",
       "phone": "(614) 704-5500",
-      "website": "http://completehomecareoh.com/",
+      "website": "https://completehomecareoh.com/",
       "rating": 5,
       "reviews": 46,
       "cats": [
@@ -16120,7 +16120,7 @@ const LISTINGS = {
       "name": "Senior Helpers",
       "address": "1675 Gateway Cir, Grove City, OH 43123, USA",
       "phone": "(380) 286-0604",
-      "website": "http://www.seniorhelpers.com/oh/grove-city?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "website": "https://www.seniorhelpers.com/oh/grove-city?utm_source=google&utm_medium=organic&utm_campaign=gmb",
       "rating": 5,
       "reviews": 10,
       "cats": [
@@ -16131,7 +16131,7 @@ const LISTINGS = {
       "name": "Senior Transportation Connection",
       "address": "4735 W 150th St A, Cleveland, OH 44135, USA",
       "phone": "(216) 265-1489",
-      "website": "http://ridestc.org/",
+      "website": "https://ridestc.org/",
       "rating": 4.3,
       "reviews": 37,
       "cats": [
@@ -16142,7 +16142,7 @@ const LISTINGS = {
       "name": "Precise Mobility Solutions, Inc",
       "address": "6161 Busch Blvd, Columbus, OH 43229, USA",
       "phone": "(614) 987-6737",
-      "website": "http://www.precisemobility.com/",
+      "website": "https://www.precisemobility.com/",
       "rating": 3.1,
       "reviews": 228,
       "cats": [
@@ -16164,7 +16164,7 @@ const LISTINGS = {
       "name": "Tristar Transportation",
       "address": "682 E Lincoln Ave, Columbus, OH 43229, USA",
       "phone": "(614) 430-1688",
-      "website": "http://www.tristarcolumbus.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16884529289904817702",
+      "website": "https://www.tristarcolumbus.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16884529289904817702",
       "rating": 3.5,
       "reviews": 55,
       "cats": [
@@ -16241,7 +16241,7 @@ const LISTINGS = {
       "name": "Ohio Association Of Senior Centers",
       "address": "3757 Indianola Ave, Columbus, OH 43214, USA",
       "phone": "(800) 796-6272",
-      "website": "http://www.ohioasc.org/",
+      "website": "https://www.ohioasc.org/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -16263,7 +16263,7 @@ const LISTINGS = {
       "name": "Gahanna Senior Center",
       "address": "480 Rocky Fork Blvd, Gahanna, OH 43230, USA",
       "phone": "(614) 342-4265",
-      "website": "http://www.gahanna.gov/seniorcenter/",
+      "website": "https://www.gahanna.gov/seniorcenter/",
       "rating": 4.4,
       "reviews": 22,
       "cats": [
@@ -16373,7 +16373,7 @@ const LISTINGS = {
       "name": "WESTGATE DAY HEALTH CENTER",
       "address": "3636 Soldano Boulevard, Columbus, OH 43228, USA",
       "phone": "(614) 966-1102",
-      "website": "http://coaaa.org/",
+      "website": "https://coaaa.org/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -16395,7 +16395,7 @@ const LISTINGS = {
       "name": "R.F. Meyer & Associates, LLC",
       "address": "450 W Wilson Bridge Rd Ste 380, Worthington, OH 43085, USA",
       "phone": "(614) 407-7900",
-      "website": "http://www.elderlaw.us/",
+      "website": "https://www.elderlaw.us/",
       "rating": 4.8,
       "reviews": 19,
       "cats": [
@@ -16406,7 +16406,7 @@ const LISTINGS = {
       "name": "Roush Elder Law",
       "address": "1900 Polaris Pkwy #450, Columbus, OH 43240, USA",
       "phone": "",
-      "website": "http://roushelderlaw.com/",
+      "website": "https://roushelderlaw.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -16417,7 +16417,7 @@ const LISTINGS = {
       "name": "Collins & Kruse Law Office",
       "address": "1421 W 3rd Ave, Columbus, OH 43212, USA",
       "phone": "(614) 369-8634",
-      "website": "http://www.ckelderlaw.com/",
+      "website": "https://www.ckelderlaw.com/",
       "rating": 4.9,
       "reviews": 28,
       "cats": [
@@ -16472,7 +16472,7 @@ const LISTINGS = {
       "name": "Taps Sutton & Roshon, LLC",
       "address": "400 S 5th St #103, Columbus, OH 43215, USA",
       "phone": "(614) 443-8000",
-      "website": "http://www.ohioseniorlaw.com/",
+      "website": "https://www.ohioseniorlaw.com/",
       "rating": 4.7,
       "reviews": 18,
       "cats": [
@@ -16496,7 +16496,7 @@ const LISTINGS = {
       "name": "Safe Home Pro, Inc.",
       "address": "18635 Starcreek Dr Ste b, Cornelius, NC 28031, USA",
       "phone": "(704) 948-4125",
-      "website": "http://www.safehomepro.com/",
+      "website": "https://www.safehomepro.com/",
       "rating": 5,
       "reviews": 224,
       "cats": [
@@ -16519,7 +16519,7 @@ const LISTINGS = {
       "name": "Ground Up Construction",
       "address": "6501 Woodthrush Dr, Charlotte, NC 28227, USA",
       "phone": "(704) 806-7895",
-      "website": "http://groundupcarolinas.com/",
+      "website": "https://groundupcarolinas.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -16574,7 +16574,7 @@ const LISTINGS = {
       "name": "Premier Home Pros",
       "address": "330 E Hebron St Suites C&D, Charlotte, NC 28273, USA",
       "phone": "(855) 209-7818",
-      "website": "http://www.premier-homepros.com/",
+      "website": "https://www.premier-homepros.com/",
       "rating": 4.7,
       "reviews": 140,
       "cats": [
@@ -16662,7 +16662,7 @@ const LISTINGS = {
       "name": "Carolina Lift and Elevator",
       "address": "658 Griffith Rd #101, Charlotte, NC 28217, USA",
       "phone": "(704) 521-1115",
-      "website": "http://www.carolinaliftandelevator.com/",
+      "website": "https://www.carolinaliftandelevator.com/",
       "rating": 4.6,
       "reviews": 8,
       "cats": [
@@ -16728,7 +16728,7 @@ const LISTINGS = {
       "name": "Mobility & More - Medical Equipment & Supplies",
       "address": "2301 Crownpoint Executive Dr Ste A, Charlotte, NC 28227, USA",
       "phone": "(704) 821-7777",
-      "website": "http://www.shopmobility.com/",
+      "website": "https://www.shopmobility.com/",
       "rating": 5,
       "reviews": 170,
       "cats": [
@@ -16739,7 +16739,7 @@ const LISTINGS = {
       "name": "Carolina Ramp Solutions",
       "address": "3224 Westwood Industrial Dr, Monroe, NC 28110, USA",
       "phone": "(704) 635-7766",
-      "website": "http://carolinarampsolutions.com/",
+      "website": "https://carolinarampsolutions.com/",
       "rating": 3.7,
       "reviews": 3,
       "cats": [
@@ -16783,7 +16783,7 @@ const LISTINGS = {
       "name": "Home Care Freedom",
       "address": "10130 Mallard Creek Rd #300, Charlotte, NC 28262, USA",
       "phone": "(704) 944-3501",
-      "website": "http://www.homecarefreedom.com/",
+      "website": "https://www.homecarefreedom.com/",
       "rating": 5,
       "reviews": 41,
       "cats": [
@@ -16794,7 +16794,7 @@ const LISTINGS = {
       "name": "PHC Home Health",
       "address": "1515 Mockingbird Ln #520, Charlotte, NC 28209, USA",
       "phone": "(704) 522-6144",
-      "website": "http://www.phcnc.com/",
+      "website": "https://www.phcnc.com/",
       "rating": 4.9,
       "reviews": 152,
       "cats": [
@@ -16805,7 +16805,7 @@ const LISTINGS = {
       "name": "Lux Home Care",
       "address": "6047 Tyvola Glen Cir Ste 208, Charlotte, NC 28217, USA",
       "phone": "(704) 718-0328",
-      "website": "http://www.luxhomecare.org/",
+      "website": "https://www.luxhomecare.org/",
       "rating": 4.9,
       "reviews": 58,
       "cats": [
@@ -16827,7 +16827,7 @@ const LISTINGS = {
       "name": "Helping Hands Home Care of the Carolinas LLC",
       "address": "5732 Susan Dr Ste A, Charlotte, NC 28215, USA",
       "phone": "(980) 222-0006",
-      "website": "http://www.helpinghandscarolinas.com/",
+      "website": "https://www.helpinghandscarolinas.com/",
       "rating": 4.9,
       "reviews": 16,
       "cats": [
@@ -16915,7 +16915,7 @@ const LISTINGS = {
       "name": "Golden Heart Senior Care",
       "address": "1211 Spring St, Charlotte, NC 28206, USA",
       "phone": "(704) 376-1060",
-      "website": "http://www.goldenheartcharlotte.com/",
+      "website": "https://www.goldenheartcharlotte.com/",
       "rating": 4.8,
       "reviews": 60,
       "cats": [
@@ -17003,7 +17003,7 @@ const LISTINGS = {
       "name": "Quality of Life Transit Services",
       "address": "9805 Statesville Rd PMB 4174, Charlotte, NC 28269, USA",
       "phone": "(980) 406-4846",
-      "website": "http://www.qoltransitservices.com/",
+      "website": "https://www.qoltransitservices.com/",
       "rating": 4.7,
       "reviews": 13,
       "cats": [
@@ -17047,7 +17047,7 @@ const LISTINGS = {
       "name": "A -1 Wheelchair Patient Transport Inc",
       "address": "7561 Orr Rd. Ste A, Charlotte, NC 28213, USA",
       "phone": "(704) 333-9741",
-      "website": "http://www.a1patienttransport.com/",
+      "website": "https://www.a1patienttransport.com/",
       "rating": 3.6,
       "reviews": 54,
       "cats": [
@@ -17080,7 +17080,7 @@ const LISTINGS = {
       "name": "Levine Senior Center",
       "address": "1050 Devore Ln, Matthews, NC 28105, USA",
       "phone": "(704) 846-4654",
-      "website": "http://www.levineseniorcenter.org/",
+      "website": "https://www.levineseniorcenter.org/",
       "rating": 4.8,
       "reviews": 102,
       "cats": [
@@ -17168,7 +17168,7 @@ const LISTINGS = {
       "name": "University Adult Care",
       "address": "1324 John Kirk Dr, Charlotte, NC 28262, USA",
       "phone": "(704) 510-0030",
-      "website": "http://www.universityadultcare.com/",
+      "website": "https://www.universityadultcare.com/",
       "rating": 4.5,
       "reviews": 21,
       "cats": [
@@ -17179,7 +17179,7 @@ const LISTINGS = {
       "name": "Blessed Assurance Adult Day",
       "address": "13001 Idlewild Rd, Matthews, NC 28105, USA",
       "phone": "(704) 845-1359",
-      "website": "http://www.blessedadultcare.org/",
+      "website": "https://www.blessedadultcare.org/",
       "rating": 4.8,
       "reviews": 74,
       "cats": [
@@ -17190,7 +17190,7 @@ const LISTINGS = {
       "name": "CORA'S Intergenerational Center",
       "address": "3301 Beatties Ford Rd, Charlotte, NC 28216, USA",
       "phone": "(704) 391-6682",
-      "website": "http://www.corasigcenter.org/",
+      "website": "https://www.corasigcenter.org/",
       "rating": 3.9,
       "reviews": 7,
       "cats": [
@@ -17201,7 +17201,7 @@ const LISTINGS = {
       "name": "Raesplayze",
       "address": "7516 E Independence Blvd, Charlotte, NC 28227, USA",
       "phone": "(704) 563-3334",
-      "website": "http://raesplayze.com/",
+      "website": "https://raesplayze.com/",
       "rating": 4.3,
       "reviews": 12,
       "cats": [
@@ -17245,7 +17245,7 @@ const LISTINGS = {
       "name": "Champion House of Care",
       "address": "2230 W Sugar Creek Rd, Charlotte, NC 28262, USA",
       "phone": "(704) 746-8081",
-      "website": "http://www.championhouseofcare.org/",
+      "website": "https://www.championhouseofcare.org/",
       "rating": 4.9,
       "reviews": 50,
       "cats": [
@@ -17278,7 +17278,7 @@ const LISTINGS = {
       "name": "McIntyre Elder Law",
       "address": "112 S Tryon St Ste 700, Charlotte, NC 28284, USA",
       "phone": "(704) 749-9244",
-      "website": "http://mcelderlaw.com/",
+      "website": "https://mcelderlaw.com/",
       "rating": 4.9,
       "reviews": 594,
       "cats": [
@@ -17311,7 +17311,7 @@ const LISTINGS = {
       "name": "Sabrina Winters, Attorney at Law, PLLC",
       "address": "6406 Carmel Rd #301, Charlotte, NC 28226, USA",
       "phone": "(704) 843-1446",
-      "website": "http://www.ncestateplanninginfo.com/",
+      "website": "https://www.ncestateplanninginfo.com/",
       "rating": 4.8,
       "reviews": 115,
       "cats": [
@@ -17333,7 +17333,7 @@ const LISTINGS = {
       "name": "Orsbon & Fenninger, LLP",
       "address": "4201 Congress St Ste 110, Charlotte, NC 28209, USA",
       "phone": "(704) 556-9600",
-      "website": "http://www.orsbonandfenninger.com/",
+      "website": "https://www.orsbonandfenninger.com/",
       "rating": 5,
       "reviews": 112,
       "cats": [
@@ -17366,7 +17366,7 @@ const LISTINGS = {
       "name": "Linville Law Office, PLLC",
       "address": "7300 Carmel Executive Park Dr Ste 350, Charlotte, NC 28226, USA",
       "phone": "(704) 323-6712",
-      "website": "http://linvillelaw.com/",
+      "website": "https://linvillelaw.com/",
       "rating": 4.9,
       "reviews": 22,
       "cats": [
@@ -17377,7 +17377,7 @@ const LISTINGS = {
       "name": "THB Law Group",
       "address": "3566 N Davidson St, Charlotte, NC 28205, USA",
       "phone": "(704) 299-5000",
-      "website": "http://ncscattorneys.com/",
+      "website": "https://ncscattorneys.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -17413,7 +17413,7 @@ const LISTINGS = {
       "name": "KJK Service",
       "address": "8770 Guion Rd Ste G, Indianapolis, IN 46268, USA",
       "phone": "(866) 886-2009",
-      "website": "http://www.kjkservice.com/",
+      "website": "https://www.kjkservice.com/",
       "rating": 5,
       "reviews": 98,
       "cats": [
@@ -17470,7 +17470,7 @@ const LISTINGS = {
       "name": "Baths By Bee",
       "address": "115 Shadowlawn Dr, Fishers, IN 46038, USA",
       "phone": "(317) 653-6617",
-      "website": "http://www.dreambathsbybee.com/",
+      "website": "https://www.dreambathsbybee.com/",
       "rating": 4.8,
       "reviews": 93,
       "cats": [
@@ -17591,7 +17591,7 @@ const LISTINGS = {
       "name": "Altamira Ltd.",
       "address": "5316 W 79th St, Indianapolis, IN 46268, USA",
       "phone": "(800) 343-1066",
-      "website": "http://www.altamiraltd.com/",
+      "website": "https://www.altamiraltd.com/",
       "rating": 5,
       "reviews": 88,
       "cats": [
@@ -17613,7 +17613,7 @@ const LISTINGS = {
       "name": "The Lift Man",
       "address": "4023 Heiney Rd Ste c, Indianapolis, IN 46241, USA",
       "phone": "(317) 830-6562",
-      "website": "http://www.theliftman.com/",
+      "website": "https://www.theliftman.com/",
       "rating": 4,
       "reviews": 7,
       "cats": [
@@ -17657,7 +17657,7 @@ const LISTINGS = {
       "name": "Servants At Work, Inc",
       "address": "8427 Zionsville Rd, Indianapolis, IN 46268, USA",
       "phone": "(317) 844-7664",
-      "website": "http://www.sawsramps.org/",
+      "website": "https://www.sawsramps.org/",
       "rating": 4.9,
       "reviews": 112,
       "cats": [
@@ -17746,7 +17746,7 @@ const LISTINGS = {
       "name": "Gettum Remodeling",
       "address": "4984 W Smith Valley Rd, Greenwood, IN 46142, USA",
       "phone": "(317) 888-5681",
-      "website": "http://www.gettum.com/",
+      "website": "https://www.gettum.com/",
       "rating": 4.6,
       "reviews": 48,
       "cats": [
@@ -17757,7 +17757,7 @@ const LISTINGS = {
       "name": "Tendercare Home Health Services Inc",
       "address": "6308 Rucker Rd Ste d, Indianapolis, IN 46220, USA",
       "phone": "(317) 251-0700",
-      "website": "http://www.tchhs.net/",
+      "website": "https://www.tchhs.net/",
       "rating": 4.7,
       "reviews": 84,
       "cats": [
@@ -17779,7 +17779,7 @@ const LISTINGS = {
       "name": "Enchanted Hearts Home Care",
       "address": "650 N Girls School Rd, Indianapolis, IN 46214, USA",
       "phone": "(800) 239-1897",
-      "website": "http://enchantedheartsllc.com/",
+      "website": "https://enchantedheartsllc.com/",
       "rating": 4.9,
       "reviews": 35,
       "cats": [
@@ -17801,7 +17801,7 @@ const LISTINGS = {
       "name": "Good Hands Home Care LLC",
       "address": "5610 Crawfordsville Rd Ste 102, Indianapolis, IN 46224, USA",
       "phone": "(317) 759-2207",
-      "website": "http://www.goodhandshomecareservices.com/",
+      "website": "https://www.goodhandshomecareservices.com/",
       "rating": 5,
       "reviews": 51,
       "cats": [
@@ -17812,7 +17812,7 @@ const LISTINGS = {
       "name": "Heal at Home",
       "address": "1335 Sadlier Cir E Dr, Indianapolis, IN 46239, USA",
       "phone": "(317) 429-9875",
-      "website": "http://healathomeindy.com/",
+      "website": "https://healathomeindy.com/",
       "rating": 4.9,
       "reviews": 44,
       "cats": [
@@ -17834,7 +17834,7 @@ const LISTINGS = {
       "name": "Above and Beyond Homecare Services",
       "address": "3250 N Post Rd, Indianapolis, IN 46226, USA",
       "phone": "(317) 625-0822",
-      "website": "http://www.abhscare.org/",
+      "website": "https://www.abhscare.org/",
       "rating": 5,
       "reviews": 11,
       "cats": [
@@ -17878,7 +17878,7 @@ const LISTINGS = {
       "name": "Advantage Senior Care",
       "address": "3905 Vincennes Rd Suite 315, Indianapolis, IN 46268, USA",
       "phone": "(317) 986-5814",
-      "website": "http://advantageseniorcareindy.com/",
+      "website": "https://advantageseniorcareindy.com/",
       "rating": 5,
       "reviews": 71,
       "cats": [
@@ -17889,7 +17889,7 @@ const LISTINGS = {
       "name": "Servant Home Care",
       "address": "2346 S Lynhurst Dr Suite E 107 & D 201, Indianapolis, IN 46241, USA",
       "phone": "(317) 688-8395",
-      "website": "http://www.servanthomecare.com/",
+      "website": "https://www.servanthomecare.com/",
       "rating": 5,
       "reviews": 27,
       "cats": [
@@ -17922,7 +17922,7 @@ const LISTINGS = {
       "name": "Changes Home Care – In-Home Senior Care in Indianapolis",
       "address": "8355 Rockville Rd Ste 35, Indianapolis, IN 46234, USA",
       "phone": "(317) 271-3800",
-      "website": "http://www.changeshomecare.com/",
+      "website": "https://www.changeshomecare.com/",
       "rating": 4.6,
       "reviews": 57,
       "cats": [
@@ -17944,7 +17944,7 @@ const LISTINGS = {
       "name": "Transportation Care",
       "address": "9165 Otis Ave Ste 109, Indianapolis, IN 46216, USA",
       "phone": "(317) 579-5416",
-      "website": "http://www.transportationcare.org/",
+      "website": "https://www.transportationcare.org/",
       "rating": 4.5,
       "reviews": 8,
       "cats": [
@@ -17955,7 +17955,7 @@ const LISTINGS = {
       "name": "Johnson County Senior Services",
       "address": "36 Tracy Rd, Whiteland, IN 46184, USA",
       "phone": "(317) 738-4544",
-      "website": "http://jcseniorservices.org/",
+      "website": "https://jcseniorservices.org/",
       "rating": 4.7,
       "reviews": 36,
       "cats": [
@@ -17977,7 +17977,7 @@ const LISTINGS = {
       "name": "Hancock County Senior Services",
       "address": "1870 Fields Blvd, Greenfield, IN 46140, USA",
       "phone": "(317) 462-3758",
-      "website": "http://hcssi.org/",
+      "website": "https://hcssi.org/",
       "rating": 4.7,
       "reviews": 23,
       "cats": [
@@ -18010,7 +18010,7 @@ const LISTINGS = {
       "name": "Need-A-Lift",
       "address": "8237 Indy Ln, Indianapolis, IN 46214, USA",
       "phone": "(317) 244-1314",
-      "website": "http://www.needaliftin.com/",
+      "website": "https://www.needaliftin.com/",
       "rating": 3.8,
       "reviews": 22,
       "cats": [
@@ -18054,7 +18054,7 @@ const LISTINGS = {
       "name": "John H Boner Community Center",
       "address": "2236 E 10th St, Indianapolis, IN 46201, USA",
       "phone": "(317) 633-8210",
-      "website": "http://www.jbncenters.org/",
+      "website": "https://www.jbncenters.org/",
       "rating": 4.2,
       "reviews": 1006,
       "cats": [
@@ -18065,7 +18065,7 @@ const LISTINGS = {
       "name": "Beech Grove Senior Citizen Center",
       "address": "602 Main St, Beech Grove, IN 46107, USA",
       "phone": "(317) 788-4987",
-      "website": "http://www.beechgrove.com/",
+      "website": "https://www.beechgrove.com/",
       "rating": 4.8,
       "reviews": 39,
       "cats": [
@@ -18098,7 +18098,7 @@ const LISTINGS = {
       "name": "Heritage Place of Indianapolis",
       "address": "4550 N Illinois St, Indianapolis, IN 46208, USA",
       "phone": "(317) 283-6662",
-      "website": "http://heritageplaceindy.org/",
+      "website": "https://heritageplaceindy.org/",
       "rating": 4.5,
       "reviews": 13,
       "cats": [
@@ -18142,7 +18142,7 @@ const LISTINGS = {
       "name": "Still Waters Adult Day Center",
       "address": "7160 Shadeland Station Way, Indianapolis, IN 46256, USA",
       "phone": "(317) 284-0837",
-      "website": "http://stillwatersadc.org/",
+      "website": "https://stillwatersadc.org/",
       "rating": 4.8,
       "reviews": 40,
       "cats": [
@@ -18175,7 +18175,7 @@ const LISTINGS = {
       "name": "Autumn Leaves Adult Day Center",
       "address": "8100 E 16th St, Indianapolis, IN 46219, USA",
       "phone": "(317) 820-3233",
-      "website": "http://autumnleavesofeastgate.org/",
+      "website": "https://autumnleavesofeastgate.org/",
       "rating": 5,
       "reviews": 20,
       "cats": [
@@ -18219,7 +18219,7 @@ const LISTINGS = {
       "name": "BB's Home Away From Home Adult Day Center INC",
       "address": "1090 W 23rd St, Indianapolis, IN 46208, USA",
       "phone": "(317) 908-6669",
-      "website": "http://bbshomeawayfromhome.org/",
+      "website": "https://bbshomeawayfromhome.org/",
       "rating": 4.4,
       "reviews": 17,
       "cats": [
@@ -18241,7 +18241,7 @@ const LISTINGS = {
       "name": "Independent Adult Day Centers - Northeast / Hamilton County",
       "address": "7318 Crossing Pl, Fishers, IN 46038, USA",
       "phone": "(463) 220-2828",
-      "website": "http://www.adultday.com/",
+      "website": "https://www.adultday.com/",
       "rating": 3.8,
       "reviews": 4,
       "cats": [
@@ -18285,7 +18285,7 @@ const LISTINGS = {
       "name": "Norton Estate Planning & Elder Law Firm",
       "address": "3750 N Meridian St #300, Indianapolis, IN 46208, USA",
       "phone": "(317) 572-8696",
-      "website": "http://www.estate-planners.org/",
+      "website": "https://www.estate-planners.org/",
       "rating": 4.9,
       "reviews": 200,
       "cats": [
@@ -18340,7 +18340,7 @@ const LISTINGS = {
       "name": "Slater Law Office, LLC",
       "address": "600 E Carmel Dr Ste. 128, Carmel, IN 46032, USA",
       "phone": "(317) 571-9600",
-      "website": "http://www.slaterelderlaw.com/",
+      "website": "https://www.slaterelderlaw.com/",
       "rating": 5,
       "reviews": 30,
       "cats": [
@@ -18364,7 +18364,7 @@ const LISTINGS = {
       "name": "SlipBusters",
       "address": "486 Mandana Blvd, Oakland, CA 94610, USA",
       "phone": "(408) 256-3570",
-      "website": "http://www.slip-busters.com/",
+      "website": "https://www.slip-busters.com/",
       "rating": 5,
       "reviews": 36,
       "cats": [
@@ -18441,7 +18441,7 @@ const LISTINGS = {
       "name": "Kraus Stairlifts",
       "address": "18 Bartol St #1004, San Francisco, CA 94133, USA",
       "phone": "(877) 727-1954",
-      "website": "http://krauslifts.com/",
+      "website": "https://krauslifts.com/",
       "rating": 4.2,
       "reviews": 5,
       "cats": [
@@ -18463,7 +18463,7 @@ const LISTINGS = {
       "name": "Electropedic Stair Lifts",
       "address": "4091 19th Ave, San Francisco, CA 94132, USA",
       "phone": "(800) 551-2010",
-      "website": "http://www.electropedic.com/",
+      "website": "https://www.electropedic.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -18540,7 +18540,7 @@ const LISTINGS = {
       "name": "CityWheelchairs",
       "address": "1485 Bayshore Blvd #412, San Francisco, CA 94124, USA",
       "phone": "(415) 508-1153",
-      "website": "http://www.citywheelchairs.com/",
+      "website": "https://www.citywheelchairs.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -18562,7 +18562,7 @@ const LISTINGS = {
       "name": "Rollin Along Inc.",
       "address": "66 Franklin St Ste 300, Oakland, CA 94607, USA",
       "phone": "(415) 689-7726",
-      "website": "http://www.rollinalong.biz/",
+      "website": "https://www.rollinalong.biz/",
       "rating": 4.6,
       "reviews": 18,
       "cats": [
@@ -18573,7 +18573,7 @@ const LISTINGS = {
       "name": "Aging in Place Home Care",
       "address": "3748 Selvante St, Pleasanton, CA 94566, USA",
       "phone": "(925) 699-3880",
-      "website": "http://www.aginginplacehomecare.com/",
+      "website": "https://www.aginginplacehomecare.com/",
       "rating": 4.7,
       "reviews": 14,
       "cats": [
@@ -18618,7 +18618,7 @@ const LISTINGS = {
       "name": "415 Remodeling, Inc. Design Build Remodelers",
       "address": "2261 Shafter Ave, San Francisco, CA 94124, USA",
       "phone": "(415) 742-8322",
-      "website": "http://415remodeling.com/",
+      "website": "https://415remodeling.com/",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -18662,7 +18662,7 @@ const LISTINGS = {
       "name": "SF Home Care",
       "address": "2196 Union St, San Francisco, CA 94123, USA",
       "phone": "(415) 961-0334",
-      "website": "http://www.sfhomecare.com/",
+      "website": "https://www.sfhomecare.com/",
       "rating": 5,
       "reviews": 30,
       "cats": [
@@ -18750,7 +18750,7 @@ const LISTINGS = {
       "name": "Incare Home Health Services",
       "address": "2787 California St Ste b, San Francisco, CA 94115, USA",
       "phone": "(415) 673-8989",
-      "website": "http://www.hbtbhomecare.org/incare",
+      "website": "https://www.hbtbhomecare.org/incare",
       "rating": 4,
       "reviews": 2,
       "cats": [
@@ -18794,7 +18794,7 @@ const LISTINGS = {
       "name": "Seniors At Home",
       "address": "2150 Post St, San Francisco, CA 94115, USA",
       "phone": "(415) 449-3700",
-      "website": "http://www.seniorsathome.org/",
+      "website": "https://www.seniorsathome.org/",
       "rating": 4.8,
       "reviews": 10,
       "cats": [
@@ -18805,7 +18805,7 @@ const LISTINGS = {
       "name": "Nestvy Senior Placement and Home Care",
       "address": "66 Franklin St Ste 300, Oakland, CA 94607, USA",
       "phone": "(800) 570-7874",
-      "website": "http://www.nestvy.com/",
+      "website": "https://www.nestvy.com/",
       "rating": 4.9,
       "reviews": 250,
       "cats": [
@@ -18816,7 +18816,7 @@ const LISTINGS = {
       "name": "Supple Senior Care",
       "address": "945 Taraval St Ste 404, San Francisco, CA 94116, USA",
       "phone": "(415) 573-5141",
-      "website": "http://www.suppleseniorcare.com/",
+      "website": "https://www.suppleseniorcare.com/",
       "rating": 4.9,
       "reviews": 31,
       "cats": [
@@ -18871,7 +18871,7 @@ const LISTINGS = {
       "name": "Curry Senior Center",
       "address": "333 Turk St, San Francisco, CA 94102, USA",
       "phone": "(628) 754-7700",
-      "website": "http://www.curryseniorcenter.org/",
+      "website": "https://www.curryseniorcenter.org/",
       "rating": 4.3,
       "reviews": 58,
       "cats": [
@@ -18893,7 +18893,7 @@ const LISTINGS = {
       "name": "Castro Senior Center",
       "address": "110 Diamond St, San Francisco, CA 94114, USA",
       "phone": "(415) 863-3507",
-      "website": "http://ggsenior.org/castro-senior-center/",
+      "website": "https://ggsenior.org/castro-senior-center/",
       "rating": 4.4,
       "reviews": 13,
       "cats": [
@@ -18904,7 +18904,7 @@ const LISTINGS = {
       "name": "Dr. George W. Davis Senior Center",
       "address": "1751 Carroll Ave, San Francisco, CA 94124, USA",
       "phone": "(415) 822-1444",
-      "website": "http://bhpmss.org/",
+      "website": "https://bhpmss.org/",
       "rating": 4.5,
       "reviews": 67,
       "cats": [
@@ -18937,7 +18937,7 @@ const LISTINGS = {
       "name": "Rosa Parks Senior Center",
       "address": "1251 Turk St, San Francisco, CA 94115, USA",
       "phone": "(415) 292-3474",
-      "website": "http://www.bhpmss.org/",
+      "website": "https://www.bhpmss.org/",
       "rating": 4.2,
       "reviews": 22,
       "cats": [
@@ -19003,7 +19003,7 @@ const LISTINGS = {
       "name": "Golden State ADHC Day Health",
       "address": "738 La Playa St, San Francisco, CA 94121, USA",
       "phone": "(415) 387-2750",
-      "website": "http://www.goldenstatecbas.com/home.html",
+      "website": "https://www.goldenstatecbas.com/home.html",
       "rating": 4.3,
       "reviews": 6,
       "cats": [
@@ -19025,7 +19025,7 @@ const LISTINGS = {
       "name": "SteppingStone Presentation Day Health",
       "address": "301 Ellis St, San Francisco, CA 94102, USA",
       "phone": "(415) 923-0245",
-      "website": "http://www.steppingstonehealth.org/",
+      "website": "https://www.steppingstonehealth.org/",
       "rating": 5,
       "reviews": 4,
       "cats": [
@@ -19036,7 +19036,7 @@ const LISTINGS = {
       "name": "SteppingStone Golden Gate Day Health",
       "address": "350 Golden Gate Ave, San Francisco, CA 94102, USA",
       "phone": "(415) 359-9210",
-      "website": "http://www.steppingstonehealth.org/",
+      "website": "https://www.steppingstonehealth.org/",
       "rating": 4.2,
       "reviews": 5,
       "cats": [
@@ -19047,7 +19047,7 @@ const LISTINGS = {
       "name": "Evans Law Firm, Inc.",
       "address": "3053 Fillmore St #236, San Francisco, CA 94123, USA",
       "phone": "(415) 441-8669",
-      "website": "http://www.evanslaw.com/?utm_source=GMBlisting&utm_medium=organic",
+      "website": "https://www.evanslaw.com/?utm_source=GMBlisting&utm_medium=organic",
       "rating": 4.7,
       "reviews": 31,
       "cats": [
@@ -19058,7 +19058,7 @@ const LISTINGS = {
       "name": "Legal Assistance to The Elderly",
       "address": "1663 Mission St #225, San Francisco, CA 94103, USA",
       "phone": "(415) 538-3333",
-      "website": "http://laesf.org/",
+      "website": "https://laesf.org/",
       "rating": 4.1,
       "reviews": 38,
       "cats": [
@@ -19069,7 +19069,7 @@ const LISTINGS = {
       "name": "Freedman Law Firm",
       "address": "580 California St, San Francisco, CA 94104, USA",
       "phone": "(415) 777-1666",
-      "website": "http://www.freedmanlawfirm.com/",
+      "website": "https://www.freedmanlawfirm.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -19102,7 +19102,7 @@ const LISTINGS = {
       "name": "Nursing Home & Elder Abuse Law Center",
       "address": "182 Howard St #850, San Francisco, CA 94105, USA",
       "phone": "(415) 337-1000",
-      "website": "http://www.noelderabuse.com/",
+      "website": "https://www.noelderabuse.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -19124,7 +19124,7 @@ const LISTINGS = {
       "name": "Summerall Law, P.C.",
       "address": "2107 Union St, San Francisco, CA 94123, USA",
       "phone": "(415) 944-9406",
-      "website": "http://www.summeralllaw.com/",
+      "website": "https://www.summeralllaw.com/",
       "rating": 5,
       "reviews": 66,
       "cats": [
@@ -19170,7 +19170,7 @@ const LISTINGS = {
       "name": "LiveWell Mobility and Modification - Aging At Home Solutions",
       "address": "701 Tillery St Su 12-308, Austin, TX 78702, USA",
       "phone": "(833) 548-6447",
-      "website": "http://livewellmobility.com/",
+      "website": "https://livewellmobility.com/",
       "rating": 4.8,
       "reviews": 12,
       "cats": [
@@ -19217,7 +19217,7 @@ const LISTINGS = {
       "name": "Tub Surgeon LLC",
       "address": "110 N Interstate Hwy 35 Ste 310 #3389, Round Rock, TX 78681, USA",
       "phone": "(512) 957-4501",
-      "website": "http://austintubsurgeon.com/",
+      "website": "https://austintubsurgeon.com/",
       "rating": 5,
       "reviews": 20,
       "cats": [
@@ -19371,7 +19371,7 @@ const LISTINGS = {
       "name": "Martin Mobility",
       "address": "11111 S I-35 Frontage Rd Ste 100, Austin, TX 78747, USA",
       "phone": "(512) 476-0500",
-      "website": "http://www.martinmobility.com/",
+      "website": "https://www.martinmobility.com/",
       "rating": 4.5,
       "reviews": 52,
       "cats": [
@@ -19492,7 +19492,7 @@ const LISTINGS = {
       "name": "Hoping Hearts Home Care",
       "address": "3800 N Lamar Blvd #200, Austin, TX 78756, USA",
       "phone": "(737) 268-2302",
-      "website": "http://www.hopingheartshomecare.com/",
+      "website": "https://www.hopingheartshomecare.com/",
       "rating": 4.8,
       "reviews": 18,
       "cats": [
@@ -19547,7 +19547,7 @@ const LISTINGS = {
       "name": "Rosy Home Health Care",
       "address": "3724 Airport Blvd, Austin, TX 78722, USA",
       "phone": "(512) 251-7555",
-      "website": "http://www.rosyhc.com/",
+      "website": "https://www.rosyhc.com/",
       "rating": 4.2,
       "reviews": 62,
       "cats": [
@@ -19635,7 +19635,7 @@ const LISTINGS = {
       "name": "Drive A Senior - ATX",
       "address": "located at back of building, 2601 Exposition Blvd, Austin, TX 78703, USA",
       "phone": "(512) 472-6339",
-      "website": "http://driveasenioratx.org/",
+      "website": "https://driveasenioratx.org/",
       "rating": 3.9,
       "reviews": 7,
       "cats": [
@@ -19679,7 +19679,7 @@ const LISTINGS = {
       "name": "South Austin Senior Activity Center",
       "address": "3911 Menchaca Rd, Austin, TX 78704, USA",
       "phone": "(512) 978-2400",
-      "website": "http://www.austintexas.gov/department/south-austin-senior-activity-center",
+      "website": "https://www.austintexas.gov/department/south-austin-senior-activity-center",
       "rating": 4.2,
       "reviews": 23,
       "cats": [
@@ -19690,7 +19690,7 @@ const LISTINGS = {
       "name": "Lamar Senior Activity Center",
       "address": "2874 Shoal Crest Ave, Austin, TX 78705, USA",
       "phone": "(512) 978-2480",
-      "website": "http://www.austintexas.gov/department/senior-activity-center-lamar",
+      "website": "https://www.austintexas.gov/department/senior-activity-center-lamar",
       "rating": 4.6,
       "reviews": 65,
       "cats": [
@@ -19701,7 +19701,7 @@ const LISTINGS = {
       "name": "Conley-Guerrero Senior Activity Center",
       "address": "808 Nile St, Austin, TX 78702, USA",
       "phone": "(512) 978-2660",
-      "website": "http://www.austintexas.gov/department/conley-guerrero-senior-activity-center",
+      "website": "https://www.austintexas.gov/department/conley-guerrero-senior-activity-center",
       "rating": 4.6,
       "reviews": 99,
       "cats": [
@@ -19712,7 +19712,7 @@ const LISTINGS = {
       "name": "AGE of Central Texas",
       "address": "3710 Cedar St, Austin, TX 78705, USA",
       "phone": "(512) 451-4611",
-      "website": "http://www.ageofcentraltx.org/",
+      "website": "https://www.ageofcentraltx.org/",
       "rating": 4.7,
       "reviews": 126,
       "cats": [
@@ -19767,7 +19767,7 @@ const LISTINGS = {
       "name": "Treasure of the Hills Senior Center",
       "address": "408 Ridgewood Dr, Cedar Park, TX 78613, USA",
       "phone": "(512) 331-6000",
-      "website": "http://www.toth-seniors.com/",
+      "website": "https://www.toth-seniors.com/",
       "rating": 4.7,
       "reviews": 22,
       "cats": [
@@ -19800,7 +19800,7 @@ const LISTINGS = {
       "name": "AGE of Central Texas Thrive Social & Wellness Center - Williamson County",
       "address": "475 Round Rock W Dr #120, Round Rock, TX 78681, USA",
       "phone": "(512) 255-4865",
-      "website": "http://www.ageofcentraltx.org/",
+      "website": "https://www.ageofcentraltx.org/",
       "rating": 4.4,
       "reviews": 23,
       "cats": [
@@ -19855,7 +19855,7 @@ const LISTINGS = {
       "name": "Walberg Patterson Law PLLC",
       "address": "7500 Rialto Blvd, Austin, TX 78735, USA",
       "phone": "(512) 608-6180",
-      "website": "http://www.walbergpatterson.com/",
+      "website": "https://www.walbergpatterson.com/",
       "rating": 4.6,
       "reviews": 10,
       "cats": [
@@ -19866,7 +19866,7 @@ const LISTINGS = {
       "name": "Farrell & Johnson PLLC: Law Office of Clyde Farrell & Greg Johnson",
       "address": "1004 Mo-Pac Cir, Austin, TX 78746, USA",
       "phone": "(512) 323-2977",
-      "website": "http://www.txelderlaw.com/",
+      "website": "https://www.txelderlaw.com/",
       "rating": 4.7,
       "reviews": 19,
       "cats": [
@@ -19888,7 +19888,7 @@ const LISTINGS = {
       "name": "Nickerson Law Group",
       "address": "3801 N Capital of Texas Hwy J220, Austin, TX 78746, USA",
       "phone": "(512) 461-1383",
-      "website": "http://www.estateplanningaustintexas.com/",
+      "website": "https://www.estateplanningaustintexas.com/",
       "rating": 5,
       "reviews": 177,
       "cats": [
@@ -19910,7 +19910,7 @@ const LISTINGS = {
       "name": "Barnett & Leuty, PC",
       "address": "11824 Jollyville Rd Ste 500, Austin, TX 78759, USA",
       "phone": "(512) 336-1529",
-      "website": "http://www.civil-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+      "website": "https://www.civil-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
       "rating": 4.9,
       "reviews": 35,
       "cats": [
@@ -19932,7 +19932,7 @@ const LISTINGS = {
       "name": "Thompson Tiemann Attorneys",
       "address": "5203 Pony Chase, Austin, TX 78727, USA",
       "phone": "(512) 335-6800",
-      "website": "http://www.elderlawlink.com/",
+      "website": "https://www.elderlawlink.com/",
       "rating": 3.7,
       "reviews": 3,
       "cats": [
@@ -20133,7 +20133,7 @@ const LISTINGS = {
       "name": "Wheels For Feet",
       "address": "1700 Westlake Ave N #200, Seattle, WA 98109, USA",
       "phone": "(425) 256-3007",
-      "website": "http://www.wheelsforfeet.com/locations/seattle.html",
+      "website": "https://www.wheelsforfeet.com/locations/seattle.html",
       "rating": 4.6,
       "reviews": 27,
       "cats": [
@@ -20144,7 +20144,7 @@ const LISTINGS = {
       "name": "Access Medical Equipment Renton",
       "address": "4300 Talbot Rd S #106, Renton, WA 98055, USA",
       "phone": "(425) 517-0973",
-      "website": "http://www.accessmedicalequipment.com/",
+      "website": "https://www.accessmedicalequipment.com/",
       "rating": 4.5,
       "reviews": 28,
       "cats": [
@@ -20166,7 +20166,7 @@ const LISTINGS = {
       "name": "Access Medical Equipment",
       "address": "12730 28th Ave NE, Seattle, WA 98125, USA",
       "phone": "(206) 208-5850",
-      "website": "http://www.accessmedicalequipment.com/",
+      "website": "https://www.accessmedicalequipment.com/",
       "rating": 4.5,
       "reviews": 79,
       "cats": [
@@ -20177,7 +20177,7 @@ const LISTINGS = {
       "name": "Irons Brothers Construction, Inc.",
       "address": "14926 Aurora Ave N, Shoreline, WA 98133, USA",
       "phone": "(206) 306-7767",
-      "website": "http://www.ironsbc.com/",
+      "website": "https://www.ironsbc.com/",
       "rating": 4.7,
       "reviews": 25,
       "cats": [
@@ -20430,7 +20430,7 @@ const LISTINGS = {
       "name": "Hyde Shuttles",
       "address": "620 S Spokane St, Seattle, WA 98134, USA",
       "phone": "(206) 727-6262",
-      "website": "http://www.soundgenerations.org/our-programs/transportation/hyde-shuttle/",
+      "website": "https://www.soundgenerations.org/our-programs/transportation/hyde-shuttle/",
       "rating": 3.4,
       "reviews": 12,
       "cats": [
@@ -20474,7 +20474,7 @@ const LISTINGS = {
       "name": "Cloud Comfort Ride",
       "address": "1902 E Yesler Wy Unit 4, Seattle, WA 98122, USA",
       "phone": "(206) 327-4411",
-      "website": "http://www.cloudmedicaltrans.com/",
+      "website": "https://www.cloudmedicaltrans.com/",
       "rating": 4.9,
       "reviews": 29,
       "cats": [
@@ -20507,7 +20507,7 @@ const LISTINGS = {
       "name": "Southeast Seattle Senior Center",
       "address": "4655 S Holly St, Seattle, WA 98118, USA",
       "phone": "(206) 722-0317",
-      "website": "http://www.sessc.org/",
+      "website": "https://www.sessc.org/",
       "rating": 4.7,
       "reviews": 29,
       "cats": [
@@ -20529,7 +20529,7 @@ const LISTINGS = {
       "name": "Pike Market Senior Center",
       "address": "85 Pike St #200, Seattle, WA 98101, USA",
       "phone": "(206) 728-2773",
-      "website": "http://www.pmsc-fb.org/",
+      "website": "https://www.pmsc-fb.org/",
       "rating": 4.6,
       "reviews": 68,
       "cats": [
@@ -20540,7 +20540,7 @@ const LISTINGS = {
       "name": "The Center for Active Living",
       "address": "4217 SW Oregon St, Seattle, WA 98116, USA",
       "phone": "(206) 932-4044",
-      "website": "http://wscenter.org/",
+      "website": "https://wscenter.org/",
       "rating": 4.8,
       "reviews": 99,
       "cats": [
@@ -20551,7 +20551,7 @@ const LISTINGS = {
       "name": "Ballard NW Senior Center",
       "address": "5429 32nd Ave NW, Seattle, WA 98107, USA",
       "phone": "(206) 297-0403",
-      "website": "http://www.ballardseniorcenter.org/",
+      "website": "https://www.ballardseniorcenter.org/",
       "rating": 4.6,
       "reviews": 68,
       "cats": [
@@ -20562,7 +20562,7 @@ const LISTINGS = {
       "name": "Wallingford Community Senior Center",
       "address": "4649 Sunnyside Ave N #140, Seattle, WA 98103, USA",
       "phone": "(206) 461-7825",
-      "website": "http://www.wallingfordseniors.org/",
+      "website": "https://www.wallingfordseniors.org/",
       "rating": 4.8,
       "reviews": 22,
       "cats": [
@@ -20584,7 +20584,7 @@ const LISTINGS = {
       "name": "South Park Senior Center",
       "address": "8201 10th Ave S #4, Seattle, WA 98108, USA",
       "phone": "(206) 767-2544",
-      "website": "http://spseniors.org/",
+      "website": "https://spseniors.org/",
       "rating": 4.7,
       "reviews": 27,
       "cats": [
@@ -20595,7 +20595,7 @@ const LISTINGS = {
       "name": "Shoreline Lake Forest Park Senior Center",
       "address": "18560 1st Ave NE Bldg G, Shoreline, WA 98155, USA",
       "phone": "(206) 365-1536",
-      "website": "http://shorelineseniorcenter.org/",
+      "website": "https://shorelineseniorcenter.org/",
       "rating": 4.6,
       "reviews": 108,
       "cats": [
@@ -20617,7 +20617,7 @@ const LISTINGS = {
       "name": "Full Life Care North Seattle",
       "address": "6555 Ravenna Ave NE, Seattle, WA 98115, USA",
       "phone": "(206) 829-1715",
-      "website": "http://www.fulllifecare.org/",
+      "website": "https://www.fulllifecare.org/",
       "rating": 4.1,
       "reviews": 12,
       "cats": [
@@ -20628,7 +20628,7 @@ const LISTINGS = {
       "name": "Elderwise",
       "address": "1021 Columbia St, Seattle, WA 98104, USA",
       "phone": "(206) 913-1757",
-      "website": "http://www.elderwise.org/",
+      "website": "https://www.elderwise.org/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -20639,7 +20639,7 @@ const LISTINGS = {
       "name": "Elder & Adult Day Services",
       "address": "9723 Coppertop Loop NE, Bainbridge Island, WA 98110, USA",
       "phone": "(360) 377-9810",
-      "website": "http://www.eads-cares.org/",
+      "website": "https://www.eads-cares.org/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -20672,7 +20672,7 @@ const LISTINGS = {
       "name": "Northwest Elder Law Group PLLC",
       "address": "2150 N 107th St #501, Seattle, WA 98133, USA",
       "phone": "(206) 937-6102",
-      "website": "http://www.nwelderlaw.com/",
+      "website": "https://www.nwelderlaw.com/",
       "rating": 4.7,
       "reviews": 105,
       "cats": [
@@ -20727,7 +20727,7 @@ const LISTINGS = {
       "name": "Peggy L. Sanders, Attorney at Law PLLC, Sanders Elder Law",
       "address": "51 W Dayton St, Edmonds, WA 98020, USA",
       "phone": "(425) 640-8686",
-      "website": "http://sanderselderlaw.net/",
+      "website": "https://sanderselderlaw.net/",
       "rating": 4,
       "reviews": 9,
       "cats": [
@@ -20749,7 +20749,7 @@ const LISTINGS = {
       "name": "de Vrieze | Carney PLLC",
       "address": "3909 California Ave SW, Seattle, WA 98116, USA",
       "phone": "(206) 938-5500",
-      "website": "http://www.westseattlelaw.com/",
+      "website": "https://www.westseattlelaw.com/",
       "rating": 4.9,
       "reviews": 16,
       "cats": [
@@ -20760,7 +20760,7 @@ const LISTINGS = {
       "name": "Law Offices of Julianne Kocer",
       "address": "301 NE 100th St #310, Seattle, WA 98125, USA",
       "phone": "(206) 259-2092",
-      "website": "http://www.kocerlaw.com/",
+      "website": "https://www.kocerlaw.com/",
       "rating": 3.7,
       "reviews": 3,
       "cats": [
@@ -20771,7 +20771,7 @@ const LISTINGS = {
       "name": "Elder Law Offices of Lisa Saar, PLLC Bellingham/Seattle, Washington",
       "address": "5355 Tallman Ave NW Ste 202, Seattle, WA 98107, USA",
       "phone": "(206) 687-7443",
-      "website": "http://www.lsaarlaw.com/",
+      "website": "https://www.lsaarlaw.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -20919,7 +20919,7 @@ const LISTINGS = {
       "name": "LuxStone of Colorado/ Home Pride Bath",
       "address": "7347 S Revere Pkwy Ste B200, Centennial, CO 80112, USA",
       "phone": "(303) 558-5225",
-      "website": "http://www.homepridebath.com/",
+      "website": "https://www.homepridebath.com/",
       "rating": 4.5,
       "reviews": 289,
       "cats": [
@@ -20941,7 +20941,7 @@ const LISTINGS = {
       "name": "Bentley Baths",
       "address": "2186 S Holly St Ste 202, Denver, CO 80222, USA",
       "phone": "(800) 688-0055",
-      "website": "http://www.bentleybaths.com/",
+      "website": "https://www.bentleybaths.com/",
       "rating": 4.1,
       "reviews": 34,
       "cats": [
@@ -20963,7 +20963,7 @@ const LISTINGS = {
       "name": "Mobility Plus Colorado",
       "address": "7777 W 38th Ave Ste A-122, Wheat Ridge, CO 80033, USA",
       "phone": "(303) 993-3010",
-      "website": "http://www.mobilitypluscolorado.com/",
+      "website": "https://www.mobilitypluscolorado.com/",
       "rating": 4.9,
       "reviews": 392,
       "cats": [
@@ -21007,7 +21007,7 @@ const LISTINGS = {
       "name": "Colorado Stair Lift Store",
       "address": "801 E 64th Ave, Denver, CO 80229, USA",
       "phone": "(303) 761-3200",
-      "website": "http://coloradostairliftstore.com/",
+      "website": "https://coloradostairliftstore.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -21084,7 +21084,7 @@ const LISTINGS = {
       "name": "Westpeak Mobility",
       "address": "3535 S Platte River Dr Unit J, Sheridan, CO 80110, USA",
       "phone": "(303) 656-2240",
-      "website": "http://www.westpeakmobility.com/",
+      "website": "https://www.westpeakmobility.com/",
       "rating": 4.5,
       "reviews": 15,
       "cats": [
@@ -21106,7 +21106,7 @@ const LISTINGS = {
       "name": "Age In Place Colorado",
       "address": "1932 W 33rd Ave, Denver, CO 80211, USA",
       "phone": "(303) 588-4655",
-      "website": "http://www.ageinplacecolorado.net/",
+      "website": "https://www.ageinplacecolorado.net/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -21150,7 +21150,7 @@ const LISTINGS = {
       "name": "Home Health Care Professionals Inc",
       "address": "3680 S Galapago St Ste 102, Englewood, CO 80110, USA",
       "phone": "(303) 777-6827",
-      "website": "http://homehealthcolorado.com/",
+      "website": "https://homehealthcolorado.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -21216,7 +21216,7 @@ const LISTINGS = {
       "name": "Home Care RN",
       "address": "1325 S Colorado Blvd, Denver, CO 80222, USA",
       "phone": "(720) 535-8652",
-      "website": "http://www.homehealthcarern.com/",
+      "website": "https://www.homehealthcarern.com/",
       "rating": 3.8,
       "reviews": 15,
       "cats": [
@@ -21305,7 +21305,7 @@ const LISTINGS = {
       "name": "Senior Support Services",
       "address": "846 E 18th Ave, Denver, CO 80218, USA",
       "phone": "(303) 832-1622",
-      "website": "http://www.seniorsupportservices.org/",
+      "website": "https://www.seniorsupportservices.org/",
       "rating": 4.4,
       "reviews": 131,
       "cats": [
@@ -21350,7 +21350,7 @@ const LISTINGS = {
       "name": "Via Mobility Services",
       "address": "2855 63rd St, Boulder, CO 80301, USA",
       "phone": "(303) 444-3043",
-      "website": "http://www.viacolorado.org/",
+      "website": "https://www.viacolorado.org/",
       "rating": 3.9,
       "reviews": 51,
       "cats": [
@@ -21361,7 +21361,7 @@ const LISTINGS = {
       "name": "Exceptional Care Transportation",
       "address": "4786 S Elk Way, Aurora, CO 80016, USA",
       "phone": "(720) 795-6152",
-      "website": "http://www.exceptionalcaretransportation.com/",
+      "website": "https://www.exceptionalcaretransportation.com/",
       "rating": 5,
       "reviews": 30,
       "cats": [
@@ -21394,7 +21394,7 @@ const LISTINGS = {
       "name": "St Volunteer Transportation",
       "address": "333 W Drake Rd #42, Fort Collins, CO 80526, USA",
       "phone": "(970) 223-8604",
-      "website": "http://www.saintvolunteertransportation.org/",
+      "website": "https://www.saintvolunteertransportation.org/",
       "rating": 4.4,
       "reviews": 7,
       "cats": [
@@ -21438,7 +21438,7 @@ const LISTINGS = {
       "name": "Senior Planet from AARP Technology-Themed Community Center in Colorado",
       "address": "7585 E Academy Blvd, Denver, CO 80230, USA",
       "phone": "(720) 328-0875",
-      "website": "http://www.seniorplanet.org/colorado",
+      "website": "https://www.seniorplanet.org/colorado",
       "rating": 5,
       "reviews": 15,
       "cats": [
@@ -21449,7 +21449,7 @@ const LISTINGS = {
       "name": "Active Adult Center",
       "address": "6363 W 35th Ave, Wheat Ridge, CO 80033, USA",
       "phone": "(303) 205-7500",
-      "website": "http://www.rootedinfun.com/",
+      "website": "https://www.rootedinfun.com/",
       "rating": 4.5,
       "reviews": 77,
       "cats": [
@@ -21471,7 +21471,7 @@ const LISTINGS = {
       "name": "Senior Assistance Center",
       "address": "4255 Jason St Ste C120, Denver, CO 80211, USA",
       "phone": "(303) 455-9642",
-      "website": "http://seniorassistancecenter.org/",
+      "website": "https://seniorassistancecenter.org/",
       "rating": 4.5,
       "reviews": 8,
       "cats": [
@@ -21482,7 +21482,7 @@ const LISTINGS = {
       "name": "Senior Social Club on Morrison",
       "address": "5110 Morrison Rd, Denver, CO 80219, USA",
       "phone": "(303) 997-8406",
-      "website": "http://www.seniorluv.net/",
+      "website": "https://www.seniorluv.net/",
       "rating": 5,
       "reviews": 7,
       "cats": [
@@ -21515,7 +21515,7 @@ const LISTINGS = {
       "name": "Adult Day Care Services of Colorado",
       "address": "15111 E Hampden Ave, Aurora, CO 80014, USA",
       "phone": "(720) 275-0678",
-      "website": "http://www.adcsofcolorado.com/",
+      "website": "https://www.adcsofcolorado.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -21548,7 +21548,7 @@ const LISTINGS = {
       "name": "Alpine Adult Day Care",
       "address": "1985 S Havana St, Aurora, CO 80014, USA",
       "phone": "(303) 755-8002",
-      "website": "http://www.alpineadultdaycare.com/",
+      "website": "https://www.alpineadultdaycare.com/",
       "rating": 4.2,
       "reviews": 30,
       "cats": [
@@ -21614,7 +21614,7 @@ const LISTINGS = {
       "name": "The Law Offices of John H. Licht",
       "address": "1181 S Parker Rd Ste 100, Denver, CO 80231, USA",
       "phone": "(303) 306-9400",
-      "website": "http://www.denverelderlaw.net/",
+      "website": "https://www.denverelderlaw.net/",
       "rating": 5,
       "reviews": 7,
       "cats": [
@@ -21669,7 +21669,7 @@ const LISTINGS = {
       "name": "The Law Office of Sarah L. Golombek, LLC",
       "address": "3900 E Mexico Ave Ste 300, Denver, CO 80210, USA",
       "phone": "(720) 305-9900",
-      "website": "http://www.golombeklaw.com/",
+      "website": "https://www.golombeklaw.com/",
       "rating": 4.3,
       "reviews": 11,
       "cats": [
@@ -21726,7 +21726,7 @@ const LISTINGS = {
       "name": "Bath Fitter",
       "address": "8320 S Pennsylvania Ave, Oklahoma City, OK 73159, USA",
       "phone": "(405) 260-8104",
-      "website": "http://www.bathfitterokc.com/",
+      "website": "https://www.bathfitterokc.com/",
       "rating": 4.6,
       "reviews": 151,
       "cats": [
@@ -21750,7 +21750,7 @@ const LISTINGS = {
       "name": "Bathroom Magic OKC",
       "address": "2013 N Gatewood Ave #3814, Oklahoma City, OK 73106, USA",
       "phone": "",
-      "website": "http://www.okctubs.com/",
+      "website": "https://www.okctubs.com/",
       "rating": 4.9,
       "reviews": 98,
       "cats": [
@@ -21886,7 +21886,7 @@ const LISTINGS = {
       "name": "Mobility Living Inc",
       "address": "1209 SE 44th St #4, Oklahoma City, OK 73129, USA",
       "phone": "(405) 672-7237",
-      "website": "http://mobilityliving.org/",
+      "website": "https://mobilityliving.org/",
       "rating": 4.9,
       "reviews": 542,
       "cats": [
@@ -21930,7 +21930,7 @@ const LISTINGS = {
       "name": "Newby-Vance Mobility South OKC",
       "address": "7500 S Shields Blvd, Oklahoma City, OK 73149, USA",
       "phone": "(405) 778-2013",
-      "website": "http://www.newbyvancemobility.com/",
+      "website": "https://www.newbyvancemobility.com/",
       "rating": 5,
       "reviews": 156,
       "cats": [
@@ -21974,7 +21974,7 @@ const LISTINGS = {
       "name": "Newby-Vance Mobility North OKC",
       "address": "5632 S Division St, Guthrie, OK 73044, USA",
       "phone": "(405) 282-6310",
-      "website": "http://www.newbyvancemobility.com/",
+      "website": "https://www.newbyvancemobility.com/",
       "rating": 4.9,
       "reviews": 300,
       "cats": [
@@ -21985,7 +21985,7 @@ const LISTINGS = {
       "name": "Lindsey Medical Supply",
       "address": "9600 N May Ave, Oklahoma City, OK 73120, USA",
       "phone": "(405) 607-5905",
-      "website": "http://www.lindseymedicalsupply.com/",
+      "website": "https://www.lindseymedicalsupply.com/",
       "rating": 4.7,
       "reviews": 196,
       "cats": [
@@ -22051,7 +22051,7 @@ const LISTINGS = {
       "name": "At Home Care",
       "address": "1901 N Classen Blvd Ste 206, Oklahoma City, OK 73106, USA",
       "phone": "(405) 843-2333",
-      "website": "http://www.ahcok.com/",
+      "website": "https://www.ahcok.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -22117,7 +22117,7 @@ const LISTINGS = {
       "name": "Caring Home Health Agency",
       "address": "12005 N Virginia Ave, Oklahoma City, OK 73120, USA",
       "phone": "(405) 936-9700",
-      "website": "http://www.caringhomehealthagency.com/",
+      "website": "https://www.caringhomehealthagency.com/",
       "rating": 3.8,
       "reviews": 5,
       "cats": [
@@ -22250,7 +22250,7 @@ const LISTINGS = {
       "name": "KADE Medical Transportation",
       "address": "405 Williams St, Maysville, OK 73057, USA",
       "phone": "(405) 256-1881",
-      "website": "http://kademedicaltransportation.com/",
+      "website": "https://kademedicaltransportation.com/",
       "rating": 4.8,
       "reviews": 278,
       "cats": [
@@ -22261,7 +22261,7 @@ const LISTINGS = {
       "name": "Star Medical transport LLC",
       "address": "1900 N MacArthur Blvd #101, Oklahoma City, OK 73127, USA",
       "phone": "(405) 400-6094",
-      "website": "http://www.starmedicaltransports.com/",
+      "website": "https://www.starmedicaltransports.com/",
       "rating": 4.2,
       "reviews": 31,
       "cats": [
@@ -22305,7 +22305,7 @@ const LISTINGS = {
       "name": "Oklahoma Med Connect LLC",
       "address": "8701 N Classen Blvd Ste D, Oklahoma City, OK 73114, USA",
       "phone": "(405) 766-6562",
-      "website": "http://www.okmedconnect.com/",
+      "website": "https://www.okmedconnect.com/",
       "rating": 4.8,
       "reviews": 24,
       "cats": [
@@ -22437,7 +22437,7 @@ const LISTINGS = {
       "name": "Welcome Home Adult Daycare",
       "address": "11720 S Western Ave Suite A, Oklahoma City, OK 73170, USA",
       "phone": "(405) 692-1800",
-      "website": "http://www.welcomehomeadc.com/",
+      "website": "https://www.welcomehomeadc.com/",
       "rating": 4.6,
       "reviews": 23,
       "cats": [
@@ -22459,7 +22459,7 @@ const LISTINGS = {
       "name": "Daily Living Centers Inc",
       "address": "3000 N Rockwell Ave, Bethany, OK 73008, USA",
       "phone": "(405) 792-2401",
-      "website": "http://www.dailylivingcenters.org/",
+      "website": "https://www.dailylivingcenters.org/",
       "rating": 4.5,
       "reviews": 57,
       "cats": [
@@ -22672,7 +22672,7 @@ const LISTINGS = {
       "name": "The Shower Pros",
       "address": "1120 Elm Hill Pike Suite 160, Nashville, TN 37210, USA",
       "phone": "(615) 925-3365",
-      "website": "http://theshowerpros.com/",
+      "website": "https://theshowerpros.com/",
       "rating": 4.8,
       "reviews": 38,
       "cats": [
@@ -22739,7 +22739,7 @@ const LISTINGS = {
       "name": "The Nashville Handyman",
       "address": "1921 19th Ave S, Nashville, TN 37212, USA",
       "phone": "(615) 243-7426",
-      "website": "http://www.thenashvillehandyman.com/",
+      "website": "https://www.thenashvillehandyman.com/",
       "rating": 4.9,
       "reviews": 287,
       "cats": [
@@ -22750,7 +22750,7 @@ const LISTINGS = {
       "name": "American Home Design",
       "address": "880 Conference Dr, Goodlettsville, TN 37072, USA",
       "phone": "(615) 361-6100",
-      "website": "http://www.americanhomedesign.com/?utm_source=google&utm_medium=gbp&utm_campaign=goodlettsville",
+      "website": "https://www.americanhomedesign.com/?utm_source=google&utm_medium=gbp&utm_campaign=goodlettsville",
       "rating": 4.8,
       "reviews": 2110,
       "cats": [
@@ -22784,7 +22784,7 @@ const LISTINGS = {
       "name": "JR Bath",
       "address": "206 Space Park N, Goodlettsville, TN 37072, USA",
       "phone": "(800) 664-2284",
-      "website": "http://jrbath.com/",
+      "website": "https://jrbath.com/",
       "rating": 4.7,
       "reviews": 73,
       "cats": [
@@ -22817,7 +22817,7 @@ const LISTINGS = {
       "name": "West Shore Home",
       "address": "900 Airpark Commerce Dr, Nashville, TN 37217, USA",
       "phone": "(629) 205-6796",
-      "website": "http://westshorehome.com/locations/nashville-tn/?utm_source=gbp&utm_medium=organic&utm_branch=nashville",
+      "website": "https://westshorehome.com/locations/nashville-tn/?utm_source=gbp&utm_medium=organic&utm_branch=nashville",
       "rating": 4.9,
       "reviews": 160,
       "cats": [
@@ -22927,7 +22927,7 @@ const LISTINGS = {
       "name": "The Kingston Group",
       "address": "4705 Alabama Ave, Nashville, TN 37209, USA",
       "phone": "(615) 750-3528",
-      "website": "http://www.buildkg.com/?utm_source=GBP&utm_medium=organic&utm_campaign=office",
+      "website": "https://www.buildkg.com/?utm_source=GBP&utm_medium=organic&utm_campaign=office",
       "rating": 4.7,
       "reviews": 71,
       "cats": [
@@ -22949,7 +22949,7 @@ const LISTINGS = {
       "name": "Prestige Remodeling Solutions",
       "address": "5532 Hickory Ridge Rd, Lebanon, TN 37090, USA",
       "phone": "(615) 809-5557",
-      "website": "http://prsnashville.com/",
+      "website": "https://prsnashville.com/",
       "rating": 5,
       "reviews": 141,
       "cats": [
@@ -23026,7 +23026,7 @@ const LISTINGS = {
       "name": "HomeFirst Home Healthcare",
       "address": "1101, Nashville, TN 37217, USA",
       "phone": "(615) 365-4424",
-      "website": "http://www.homefirsthomehealthcare.com/",
+      "website": "https://www.homefirsthomehealthcare.com/",
       "rating": 5,
       "reviews": 9,
       "cats": [
@@ -23180,7 +23180,7 @@ const LISTINGS = {
       "name": "PrimeCare Transport",
       "address": "640 Spence Ln #101, Nashville, TN 37217, USA",
       "phone": "(615) 933-6363",
-      "website": "http://www.primecare-nashville.com/",
+      "website": "https://www.primecare-nashville.com/",
       "rating": 4.7,
       "reviews": 79,
       "cats": [
@@ -23191,7 +23191,7 @@ const LISTINGS = {
       "name": "Wilson Rides Inc.",
       "address": "2055 N Mt Juliet Rd #200, Mt. Juliet, TN 37122, USA",
       "phone": "(615) 622-5557",
-      "website": "http://www.wilsonridesinc.org/",
+      "website": "https://www.wilsonridesinc.org/",
       "rating": 5,
       "reviews": 23,
       "cats": [
@@ -23235,7 +23235,7 @@ const LISTINGS = {
       "name": "FiftyForward Donelson Station",
       "address": "108 Donelson Pike, Nashville, TN 37214, USA",
       "phone": "(615) 883-8375",
-      "website": "http://www.fiftyforward.org/",
+      "website": "https://www.fiftyforward.org/",
       "rating": 4.7,
       "reviews": 120,
       "cats": [
@@ -23246,7 +23246,7 @@ const LISTINGS = {
       "name": "FiftyForward Knowles",
       "address": "174 Rains Ave, Nashville, TN 37203, USA",
       "phone": "(615) 743-3400",
-      "website": "http://www.fiftyforward.org/",
+      "website": "https://www.fiftyforward.org/",
       "rating": 4.7,
       "reviews": 66,
       "cats": [
@@ -23257,7 +23257,7 @@ const LISTINGS = {
       "name": "Elizabeth Park Senior Citizen Center",
       "address": "1701 Arthur Ave, Nashville, TN 37208, USA",
       "phone": "(615) 862-8449",
-      "website": "http://nashville.gov/",
+      "website": "https://nashville.gov/",
       "rating": 4.3,
       "reviews": 17,
       "cats": [
@@ -23268,7 +23268,7 @@ const LISTINGS = {
       "name": "FiftyForward J.L. Turner Center",
       "address": "8101 TN-100, Nashville, TN 37221, USA",
       "phone": "(615) 622-3040",
-      "website": "http://www.fiftyforward.org/",
+      "website": "https://www.fiftyforward.org/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -23279,7 +23279,7 @@ const LISTINGS = {
       "name": "Fifty Forward Martin Center",
       "address": "960 Heritage Way, Brentwood, TN 37027, USA",
       "phone": "(615) 376-0102",
-      "website": "http://www.fiftyforward.org/",
+      "website": "https://www.fiftyforward.org/",
       "rating": 4.6,
       "reviews": 70,
       "cats": [
@@ -23301,7 +23301,7 @@ const LISTINGS = {
       "name": "Renaissance Center",
       "address": "4805 Park Ave, Nashville, TN 37209, USA",
       "phone": "(615) 200-6158",
-      "website": "http://rencenternashville.org/",
+      "website": "https://rencenternashville.org/",
       "rating": 4.7,
       "reviews": 7,
       "cats": [
@@ -23323,7 +23323,7 @@ const LISTINGS = {
       "name": "La Vergne Senior Citizen Center",
       "address": "337 Stones River Rd B, La Vergne, TN 37086, USA",
       "phone": "(615) 793-3048",
-      "website": "http://www.lavergne.org/services/seniors/index.shtml",
+      "website": "https://www.lavergne.org/services/seniors/index.shtml",
       "rating": 4.5,
       "reviews": 54,
       "cats": [
@@ -23334,7 +23334,7 @@ const LISTINGS = {
       "name": "FiftyForward Bordeaux",
       "address": "3315 John Mallette Dr, Nashville, TN 37218, USA",
       "phone": "(615) 248-2272",
-      "website": "http://www.fiftyforward.org/",
+      "website": "https://www.fiftyforward.org/",
       "rating": 4.5,
       "reviews": 11,
       "cats": [
@@ -23345,7 +23345,7 @@ const LISTINGS = {
       "name": "Centennial Adultcare Center",
       "address": "1808 8th Ave S, Nashville, TN 37203, USA",
       "phone": "(615) 383-3399",
-      "website": "http://www.centennialadultcare.com/",
+      "website": "https://www.centennialadultcare.com/",
       "rating": 4.6,
       "reviews": 20,
       "cats": [
@@ -23367,7 +23367,7 @@ const LISTINGS = {
       "name": "Centennial Adultcare Center - Mt. Juliet",
       "address": "4112 N Mt Juliet Rd, Mt. Juliet, TN 37122, USA",
       "phone": "(615) 288-8189",
-      "website": "http://www.centennialadultcare.com/",
+      "website": "https://www.centennialadultcare.com/",
       "rating": 5,
       "reviews": 26,
       "cats": [
@@ -23400,7 +23400,7 @@ const LISTINGS = {
       "name": "Tennessee Association of Adult Day Services",
       "address": "1808 8th Ave S, Nashville, TN 27203, USA",
       "phone": "(615) 383-3399",
-      "website": "http://taads.net/",
+      "website": "https://taads.net/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -23422,7 +23422,7 @@ const LISTINGS = {
       "name": "Johnson McGinnis Elder Care Law & Estate Planning",
       "address": "104 Wyncrest Way Ste. 100, Hendersonville, TN 37075, USA",
       "phone": "(615) 824-2571",
-      "website": "http://www.tn-elderlaw.com/",
+      "website": "https://www.tn-elderlaw.com/",
       "rating": 4.9,
       "reviews": 115,
       "cats": [
@@ -23455,7 +23455,7 @@ const LISTINGS = {
       "name": "Mason & Associates Law Firm",
       "address": "880 GreenLea Blvd Ste B, Gallatin, TN 37066, USA",
       "phone": "(615) 989-7054",
-      "website": "http://www.planyourlegacy.com/",
+      "website": "https://www.planyourlegacy.com/",
       "rating": 4.6,
       "reviews": 37,
       "cats": [
@@ -23477,7 +23477,7 @@ const LISTINGS = {
       "name": "Amy Cross Nance Attorney at Law",
       "address": "103 Forrest Crossing Blvd Ste 205, Franklin, TN 37064, USA",
       "phone": "(615) 794-5644",
-      "website": "http://www.amycrossnance.com/",
+      "website": "https://www.amycrossnance.com/",
       "rating": 3.8,
       "reviews": 13,
       "cats": [
@@ -23499,7 +23499,7 @@ const LISTINGS = {
       "name": "Elder Veterans Legal Aid Group, P.C.",
       "address": "2817 West End Ave #126, Nashville, TN 37203, USA",
       "phone": "(800) 878-2149",
-      "website": "http://evlag.com/",
+      "website": "https://evlag.com/",
       "rating": 4.8,
       "reviews": 21,
       "cats": [
@@ -23546,7 +23546,7 @@ const LISTINGS = {
       "name": "Get a Grip Construction Services",
       "address": "8820 Monard Dr, Silver Spring, MD 20910, USA",
       "phone": "(240) 372-0770",
-      "website": "http://www.getagriphelps.com/",
+      "website": "https://www.getagriphelps.com/",
       "rating": 4.9,
       "reviews": 42,
       "cats": [
@@ -23579,7 +23579,7 @@ const LISTINGS = {
       "name": "GoGo Access",
       "address": "5534 Tuxedo Rd, Hyattsville, MD 20781, USA",
       "phone": "(301) 684-8411",
-      "website": "http://gogoaccess.com/",
+      "website": "https://gogoaccess.com/",
       "rating": 5,
       "reviews": 18,
       "cats": [
@@ -23722,7 +23722,7 @@ const LISTINGS = {
       "name": "Chairs for Stairs by DMV Mobility, Stairlift Installation, Repair, Service, Sales, Rental",
       "address": "7901 Hill Park Ct, Lorton, VA 22079, USA",
       "phone": "(571) 331-2555",
-      "website": "http://www.chairsforstairs.com/",
+      "website": "https://www.chairsforstairs.com/",
       "rating": 5,
       "reviews": 117,
       "cats": [
@@ -23755,7 +23755,7 @@ const LISTINGS = {
       "name": "Express Mobility Services",
       "address": "3220 N St NW #285, Washington, DC 20007, USA",
       "phone": "(703) 346-8796",
-      "website": "http://www.expressmobilityservices.com/",
+      "website": "https://www.expressmobilityservices.com/",
       "rating": 4.6,
       "reviews": 48,
       "cats": [
@@ -23801,7 +23801,7 @@ const LISTINGS = {
       "name": "Aging in motion Inc",
       "address": "3417 18th St NE, Washington, DC 20018, USA",
       "phone": "(240) 691-2195",
-      "website": "http://www.aginginmotiondc.org/",
+      "website": "https://www.aginginmotiondc.org/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -23823,7 +23823,7 @@ const LISTINGS = {
       "name": "DC Home Remodeling",
       "address": "950 N Washington St Office # 309, Alexandria, VA 22314, USA",
       "phone": "(571) 438-3184",
-      "website": "http://www.dc-homeremodeling.com/",
+      "website": "https://www.dc-homeremodeling.com/",
       "rating": 5,
       "reviews": 94,
       "cats": [
@@ -23867,7 +23867,7 @@ const LISTINGS = {
       "name": "VMTHC Home Health Agency",
       "address": "600 Pennsylvania Ave. SE #210, Washington, DC 20003, USA",
       "phone": "(202) 282-3004",
-      "website": "http://www.vmthc.com/",
+      "website": "https://www.vmthc.com/",
       "rating": 4.6,
       "reviews": 56,
       "cats": [
@@ -23878,7 +23878,7 @@ const LISTINGS = {
       "name": "Berhan Home Healthcare Agency",
       "address": "7826 Eastern Ave NW Ste LL16, Washington, DC 20012, USA",
       "phone": "(202) 723-1100",
-      "website": "http://www.berhan-hhca.com/",
+      "website": "https://www.berhan-hhca.com/",
       "rating": 4.3,
       "reviews": 73,
       "cats": [
@@ -23900,7 +23900,7 @@ const LISTINGS = {
       "name": "Precision Care Health Services LLC, DC",
       "address": "7600 Georgia Ave NW #207, Washington, DC 20012, USA",
       "phone": "(202) 790-3977",
-      "website": "http://www.precisionchs.com/home-health-care-services",
+      "website": "https://www.precisionchs.com/home-health-care-services",
       "rating": 5,
       "reviews": 10,
       "cats": [
@@ -24032,7 +24032,7 @@ const LISTINGS = {
       "name": "Boss Transport & Family Services",
       "address": "901 N Glebe Rd 5th Floor, Arlington, VA 22203, USA",
       "phone": "(888) 282-1026",
-      "website": "http://bosstransport.org/?utm_campaign=gmb",
+      "website": "https://bosstransport.org/?utm_campaign=gmb",
       "rating": 4.8,
       "reviews": 89,
       "cats": [
@@ -24043,7 +24043,7 @@ const LISTINGS = {
       "name": "City Medical Transportation",
       "address": "5539 Columbia Pike #215, Arlington, VA 22204, USA",
       "phone": "(703) 400-7618",
-      "website": "http://citymedicaltransportation.org/",
+      "website": "https://citymedicaltransportation.org/",
       "rating": 5,
       "reviews": 15,
       "cats": [
@@ -24131,7 +24131,7 @@ const LISTINGS = {
       "name": "Vida Senior Centers",
       "address": "1842 Calvert St NW, Washington, DC 20009, USA",
       "phone": "(202) 483-5800",
-      "website": "http://www.vidaseniorcenter.org/",
+      "website": "https://www.vidaseniorcenter.org/",
       "rating": 4.6,
       "reviews": 32,
       "cats": [
@@ -24142,7 +24142,7 @@ const LISTINGS = {
       "name": "Congress Heights Senior Wellness Center",
       "address": "3500 Martin Luther King Jr Ave SE, Washington, DC 20032, USA",
       "phone": "(202) 563-7225",
-      "website": "http://dcoa.dc.gov/service/senior-wellness-centers",
+      "website": "https://dcoa.dc.gov/service/senior-wellness-centers",
       "rating": 4.6,
       "reviews": 51,
       "cats": [
@@ -24175,7 +24175,7 @@ const LISTINGS = {
       "name": "Genevieve N. Johnson Senior Day Care Center",
       "address": "4817 Blagden Ave NW, Washington, DC 20011, USA",
       "phone": "(202) 723-8537",
-      "website": "http://www.gnjseniordaycare.com/",
+      "website": "https://www.gnjseniordaycare.com/",
       "rating": 4.8,
       "reviews": 5,
       "cats": [
@@ -24186,7 +24186,7 @@ const LISTINGS = {
       "name": "Renaissance Adult Daycare Health Center",
       "address": "5214 Foote St NE, Washington, DC 20019, USA",
       "phone": "(202) 388-6747",
-      "website": "http://renaissanceadhc.com/",
+      "website": "https://renaissanceadhc.com/",
       "rating": 4.3,
       "reviews": 4,
       "cats": [
@@ -24241,7 +24241,7 @@ const LISTINGS = {
       "name": "IONA Senior Services",
       "address": "4125 Albemarle St NW, Washington, DC 20016, USA",
       "phone": "(202) 895-9448",
-      "website": "http://iona.org/",
+      "website": "https://iona.org/",
       "rating": 4.2,
       "reviews": 10,
       "cats": [
@@ -24252,7 +24252,7 @@ const LISTINGS = {
       "name": "Elder & Disability Law Center",
       "address": "1020 19th St NW #510, Washington, DC 20036, USA",
       "phone": "(202) 452-0000",
-      "website": "http://www.edlc.com/",
+      "website": "https://www.edlc.com/",
       "rating": 4.3,
       "reviews": 39,
       "cats": [
@@ -24318,7 +24318,7 @@ const LISTINGS = {
       "name": "Farr Law Firm",
       "address": "1775 I St NW Ste 1150, Washington, DC 20006, USA",
       "phone": "(202) 587-2797",
-      "website": "http://www.farrlawfirm.com/",
+      "website": "https://www.farrlawfirm.com/",
       "rating": null,
       "reviews": null,
       "cats": [
@@ -24329,7 +24329,7 @@ const LISTINGS = {
       "name": "Law Offices of George A. Teitelbaum",
       "address": "1025 Connecticut Ave NW #1012, Washington, DC 20036, USA",
       "phone": "(202) 783-7177",
-      "website": "http://dcandmdwillattorney.com/",
+      "website": "https://dcandmdwillattorney.com/",
       "rating": 4,
       "reviews": 4,
       "cats": [
@@ -24340,7 +24340,7 @@ const LISTINGS = {
       "name": "Elder Law PLC - Estate Planning Attorney",
       "address": "2111 Wilson Blvd Fl 8, Arlington, VA 22201, USA",
       "phone": "(703) 875-8940",
-      "website": "http://www.elderlawplc.com/",
+      "website": "https://www.elderlawplc.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -24400,7 +24400,7 @@ const LISTINGS = {
       "name": "Sun Country Medical Equipment",
       "address": "2019 E Missouri Ave, El Paso, TX 79903, USA",
       "phone": "(915) 592-4346",
-      "website": "http://www.suncountrymedical.com/",
+      "website": "https://www.suncountrymedical.com/",
       "rating": 4.6,
       "reviews": 878,
       "cats": [
@@ -24446,7 +24446,7 @@ const LISTINGS = {
       "name": "Paramount Construction EP LLC.",
       "address": "6731 Westwind Dr, El Paso, TX 79912, USA",
       "phone": "(915) 229-5597",
-      "website": "http://www.elpasoscontractor.com/",
+      "website": "https://www.elpasoscontractor.com/",
       "rating": 4.7,
       "reviews": 108,
       "cats": [
@@ -24457,7 +24457,7 @@ const LISTINGS = {
       "name": "Pro-Reglazing",
       "address": "4930 Vulcan Ave, El Paso, TX 79904, USA",
       "phone": "(915) 504-3447",
-      "website": "http://www.proreglazingtx.com/",
+      "website": "https://www.proreglazingtx.com/",
       "rating": 4.9,
       "reviews": 29,
       "cats": [
@@ -24480,7 +24480,7 @@ const LISTINGS = {
       "name": "Destello Homes",
       "address": "3317 Edgar Park Ave, El Paso, TX 79904, USA",
       "phone": "(915) 257-5719",
-      "website": "http://www.destellohomes.com/",
+      "website": "https://www.destellohomes.com/",
       "rating": 4.8,
       "reviews": 46,
       "cats": [
@@ -24491,7 +24491,7 @@ const LISTINGS = {
       "name": "Moy Construction & Remodeling LLC",
       "address": "3500 Idalia Ave, El Paso, TX 79930, USA",
       "phone": "(915) 355-9900",
-      "website": "http://www.moyconstruction.com/",
+      "website": "https://www.moyconstruction.com/",
       "rating": 4.7,
       "reviews": 137,
       "cats": [
@@ -24513,7 +24513,7 @@ const LISTINGS = {
       "name": "Mobility Products",
       "address": "8630 Boeing Dr #12, El Paso, TX 79925, USA",
       "phone": "(915) 779-2200",
-      "website": "http://mobilityproductselpaso.com/",
+      "website": "https://mobilityproductselpaso.com/",
       "rating": 4.9,
       "reviews": 14,
       "cats": [
@@ -24524,7 +24524,7 @@ const LISTINGS = {
       "name": "Elevator Systems of El Paso, Inc",
       "address": "6824 Inca Dove Drive, El Paso, TX 79911, USA",
       "phone": "(915) 588-5509",
-      "website": "http://elevatorsystemsofelpaso.com/",
+      "website": "https://elevatorsystemsofelpaso.com/",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -24535,7 +24535,7 @@ const LISTINGS = {
       "name": "Advanced Elevator Solutions, LLC",
       "address": "6333 Franklin Gate Dr, El Paso, TX 79912, USA",
       "phone": "(915) 238-2215",
-      "website": "http://advancedelevatorsolutions1.com/",
+      "website": "https://advancedelevatorsolutions1.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -24579,7 +24579,7 @@ const LISTINGS = {
       "name": "Nickes Medical Supply",
       "address": "2820 N Stanton St, El Paso, TX 79902, USA",
       "phone": "(915) 533-8870",
-      "website": "http://www.nickesmed.com/",
+      "website": "https://www.nickesmed.com/",
       "rating": 3.6,
       "reviews": 72,
       "cats": [
@@ -24612,7 +24612,7 @@ const LISTINGS = {
       "name": "Respiratory & Medical Homecare Inc.",
       "address": "9801 Carnegie Ave, El Paso, TX 79925, USA",
       "phone": "(915) 595-3356",
-      "website": "http://www.resp-med.com/",
+      "website": "https://www.resp-med.com/",
       "rating": 2.5,
       "reviews": 29,
       "cats": [
@@ -24634,7 +24634,7 @@ const LISTINGS = {
       "name": "Elevate Home Services",
       "address": "1724 Texas Ave, El Paso, TX 79901, USA",
       "phone": "(915) 316-9015",
-      "website": "http://www.elevatehomeupgradeservices.com/",
+      "website": "https://www.elevatehomeupgradeservices.com/",
       "rating": 5,
       "reviews": 21,
       "cats": [
@@ -24645,7 +24645,7 @@ const LISTINGS = {
       "name": "Interio Construction Company",
       "address": "1701 Bassett Ave Ste 143, El Paso, TX 79901, USA",
       "phone": "(915) 301-0507",
-      "website": "http://www.interioconstruction.com/",
+      "website": "https://www.interioconstruction.com/",
       "rating": 4.7,
       "reviews": 34,
       "cats": [
@@ -24700,7 +24700,7 @@ const LISTINGS = {
       "name": "Home Makeovers Remodeling",
       "address": "11220 Peacepipe Ln, El Paso, TX 79936, USA",
       "phone": "(915) 599-2299",
-      "website": "http://www.homemakeovers.tv/",
+      "website": "https://www.homemakeovers.tv/",
       "rating": 3,
       "reviews": 2,
       "cats": [
@@ -24722,7 +24722,7 @@ const LISTINGS = {
       "name": "CARE Home Health Agency",
       "address": "9215 Montana Ave, El Paso, TX 79925, USA",
       "phone": "(915) 772-8401",
-      "website": "http://careelp.org/",
+      "website": "https://careelp.org/",
       "rating": 4.3,
       "reviews": 11,
       "cats": [
@@ -24755,7 +24755,7 @@ const LISTINGS = {
       "name": "Armonia Home Health Care & Hospice Agency LLC",
       "address": "7100 Westwind Dr Ste 110/115, El Paso, TX 79912, USA",
       "phone": "(915) 584-5272",
-      "website": "http://armoniahealthcare.com/",
+      "website": "https://armoniahealthcare.com/",
       "rating": 4.6,
       "reviews": 31,
       "cats": [
@@ -24777,7 +24777,7 @@ const LISTINGS = {
       "name": "Provision Home Care",
       "address": "12520 Montana Ave Suite C, El Paso, TX 79938, USA",
       "phone": "(915) 455-9455",
-      "website": "http://provisionhca.com/",
+      "website": "https://provisionhca.com/",
       "rating": 5,
       "reviews": 50,
       "cats": [
@@ -24788,7 +24788,7 @@ const LISTINGS = {
       "name": "TLC Home Healthcare Services Inc",
       "address": "1635 Lee Trevino Dr Ste b, El Paso, TX 79936, USA",
       "phone": "(915) 772-4852",
-      "website": "http://www.tlchhs.com/",
+      "website": "https://www.tlchhs.com/",
       "rating": 3.1,
       "reviews": 10,
       "cats": [
@@ -24911,7 +24911,7 @@ const LISTINGS = {
       "name": "Medesco Medical Transport",
       "address": "10600 Montwood Dr Ste 127, El Paso, TX 79935, USA",
       "phone": "(915) 282-3750",
-      "website": "http://medescotransport.com/",
+      "website": "https://medescotransport.com/",
       "rating": 4,
       "reviews": 92,
       "cats": [
@@ -24922,7 +24922,7 @@ const LISTINGS = {
       "name": "Viba Transportation",
       "address": "4100 Rio Bravo St #210, El Paso, TX 79902, USA",
       "phone": "(915) 544-8422",
-      "website": "http://www.vibatransport.com/",
+      "website": "https://www.vibatransport.com/",
       "rating": 2.7,
       "reviews": 18,
       "cats": [
@@ -24944,7 +24944,7 @@ const LISTINGS = {
       "name": "Elite Medical Transport",
       "address": "1000 Texas Ave, El Paso, TX 79901, USA",
       "phone": "(915) 542-1144",
-      "website": "http://www.elitemedical.org/",
+      "website": "https://www.elitemedical.org/",
       "rating": 4.3,
       "reviews": 38,
       "cats": [
@@ -24955,7 +24955,7 @@ const LISTINGS = {
       "name": "Bienvivir All-Inclusive Senior Health",
       "address": "2300 McKinley Ave, El Paso, TX 79930, USA",
       "phone": "(915) 562-3444",
-      "website": "http://www.bienvivir.org/",
+      "website": "https://www.bienvivir.org/",
       "rating": 4.5,
       "reviews": 158,
       "cats": [
@@ -25022,7 +25022,7 @@ const LISTINGS = {
       "name": "Wellington Chew Senior Center",
       "address": "4430 Maxwell Ave, El Paso, TX 79904, USA",
       "phone": "(915) 212-0423",
-      "website": "http://www.elpasotexas.gov/parks-and-recreation/",
+      "website": "https://www.elpasotexas.gov/parks-and-recreation/",
       "rating": 4.3,
       "reviews": 89,
       "cats": [
@@ -25055,7 +25055,7 @@ const LISTINGS = {
       "name": "Grandview Park Sr Citizens Center",
       "address": "3134 Jefferson Ave, El Paso, TX 79930, USA",
       "phone": "(915) 212-0571",
-      "website": "http://www.elpasotexas.gov/parks",
+      "website": "https://www.elpasotexas.gov/parks",
       "rating": 4.6,
       "reviews": 48,
       "cats": [
@@ -25088,7 +25088,7 @@ const LISTINGS = {
       "name": "Helping Hand Adult Daycare #2",
       "address": "5450 Hurd Pl, El Paso, TX 79912, USA",
       "phone": "(915) 581-6077",
-      "website": "http://www.helpinghandadultdaycare.com/",
+      "website": "https://www.helpinghandadultdaycare.com/",
       "rating": 4.2,
       "reviews": 21,
       "cats": [
@@ -25121,7 +25121,7 @@ const LISTINGS = {
       "name": "New Horizons Adult Day Care",
       "address": "1817 Yandell Dr, El Paso, TX 79902, USA",
       "phone": "(915) 544-3357",
-      "website": "http://www.newhorizonsadultdaycare.net/",
+      "website": "https://www.newhorizonsadultdaycare.net/",
       "rating": 5,
       "reviews": 5,
       "cats": [
@@ -25187,7 +25187,7 @@ const LISTINGS = {
       "name": "Christine Pacheco Law Offices",
       "address": "1413 Montana Ave, El Paso, TX 79902, USA",
       "phone": "(915) 532-7777",
-      "website": "http://www.christinepacheco.com/",
+      "website": "https://www.christinepacheco.com/",
       "rating": 3.4,
       "reviews": 5,
       "cats": [
@@ -25198,7 +25198,7 @@ const LISTINGS = {
       "name": "The Law Office of Steve Ortega, PLLC",
       "address": "521 Texas Ave, El Paso, TX 79901, USA",
       "phone": "(915) 304-5050",
-      "website": "http://www.steveortegalaw.com/",
+      "website": "https://www.steveortegalaw.com/",
       "rating": 4.9,
       "reviews": 239,
       "cats": [
@@ -25209,7 +25209,7 @@ const LISTINGS = {
       "name": "Gluth Law, Attorney",
       "address": "4110 Rio Bravo St #220, El Paso, TX 79902, USA",
       "phone": "(915) 351-9886",
-      "website": "http://www.gluthlaw.com/",
+      "website": "https://www.gluthlaw.com/",
       "rating": 4,
       "reviews": 12,
       "cats": [
@@ -25231,7 +25231,7 @@ const LISTINGS = {
       "name": "The Law Offices of Victor H. Falvey",
       "address": "8732 Alameda Ave, El Paso, TX 79907, USA",
       "phone": "(915) 229-6964",
-      "website": "http://www.victorfalveylaw.com/",
+      "website": "https://www.victorfalveylaw.com/",
       "rating": 2.9,
       "reviews": 32,
       "cats": [
@@ -25253,7 +25253,7 @@ const LISTINGS = {
       "name": "Robert C. Belk",
       "address": "7362 Remcon Cir, El Paso, TX 79912, USA",
       "phone": "(915) 833-4021",
-      "website": "http://belklaw.com/",
+      "website": "https://belklaw.com/",
       "rating": 4.2,
       "reviews": 6,
       "cats": [
@@ -25275,7 +25275,7 @@ const LISTINGS = {
       "name": "Law Office of Irina Z. Barahona",
       "address": "7500 Viscount Blvd C-62, El Paso, TX 79925, USA",
       "phone": "(915) 228-4905",
-      "website": "http://izblaw.com/",
+      "website": "https://izblaw.com/",
       "rating": 3.7,
       "reviews": 3,
       "cats": [
@@ -25288,7 +25288,7 @@ const LISTINGS = {
       "name": "ADA Grab Bars LLC",
       "address": "3685 S Highland Dr Unit 14, Las Vegas, NV 89103, USA",
       "phone": "(702) 588-9376",
-      "website": "http://adagrabbarslv.com/",
+      "website": "https://adagrabbarslv.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -25368,7 +25368,7 @@ const LISTINGS = {
       "name": "EZ Bath & Shower",
       "address": "3863 S Valley View Blvd Ste 22, Las Vegas, NV 89103, USA",
       "phone": "(702) 604-5223",
-      "website": "http://ezbathandshower.com/",
+      "website": "https://ezbathandshower.com/",
       "rating": 4.8,
       "reviews": 54,
       "cats": [
@@ -25523,7 +25523,7 @@ const LISTINGS = {
       "name": "Las Vegas Scooters & Lifts",
       "address": "3340 Pepper Ln #108, Las Vegas, NV 89120, USA",
       "phone": "(702) 265-2441",
-      "website": "http://www.lasvegasscootersandlifts.com/",
+      "website": "https://www.lasvegasscootersandlifts.com/",
       "rating": 4.6,
       "reviews": 60,
       "cats": [
@@ -25567,7 +25567,7 @@ const LISTINGS = {
       "name": "Freedom Medical Supply",
       "address": "8040 S Eastern Ave, Las Vegas, NV 89123, USA",
       "phone": "(702) 386-9997",
-      "website": "http://www.freedommedicalsupply.com/",
+      "website": "https://www.freedommedicalsupply.com/",
       "rating": 3.9,
       "reviews": 55,
       "cats": [
@@ -25600,7 +25600,7 @@ const LISTINGS = {
       "name": "Vegas Remodels LLC",
       "address": "1620 Raiders Way Ste 130, Henderson, NV 89052, USA",
       "phone": "(702) 994-7011",
-      "website": "http://vegasremodelsllc.com/",
+      "website": "https://vegasremodelsllc.com/",
       "rating": 4.8,
       "reviews": 34,
       "cats": [
@@ -25622,7 +25622,7 @@ const LISTINGS = {
       "name": "Las Vegas Remodel & Construction",
       "address": "205 N Stephanie St Ste A, Henderson, NV 89074, USA",
       "phone": "(702) 425-7272",
-      "website": "http://lvremodel.com/",
+      "website": "https://lvremodel.com/",
       "rating": 4.7,
       "reviews": 79,
       "cats": [
@@ -25644,7 +25644,7 @@ const LISTINGS = {
       "name": "Jerezee Construction",
       "address": "8685 W Sahara Ave Ste 200, Las Vegas, NV 89117, USA",
       "phone": "(702) 890-0716",
-      "website": "http://www.lasvegashomeremodel.com/",
+      "website": "https://www.lasvegashomeremodel.com/",
       "rating": 4.9,
       "reviews": 220,
       "cats": [
@@ -25688,7 +25688,7 @@ const LISTINGS = {
       "name": "Home Health Services of Nevada LLC",
       "address": "3100 W Sahara Ave #116A, Las Vegas, NV 89102, USA",
       "phone": "(702) 330-0390",
-      "website": "http://homehealthservicesnv.com/",
+      "website": "https://homehealthservicesnv.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -25710,7 +25710,7 @@ const LISTINGS = {
       "name": "Excellence Home Care - PCS Agency",
       "address": "3400 W Desert Inn Rd Ste 16, Las Vegas, NV 89102, USA",
       "phone": "(702) 279-4108",
-      "website": "http://excellencehomecare.org/",
+      "website": "https://excellencehomecare.org/",
       "rating": 5,
       "reviews": 37,
       "cats": [
@@ -25765,7 +25765,7 @@ const LISTINGS = {
       "name": "Activate Home Health Care",
       "address": "2626 S Rainbow Blvd Ste 102, Las Vegas, NV 89146, USA",
       "phone": "(702) 845-7292",
-      "website": "http://www.activatehomehealthcare.com/",
+      "website": "https://www.activatehomehealthcare.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -26029,7 +26029,7 @@ const LISTINGS = {
       "name": "East Las Vegas Community Center",
       "address": "250 N Eastern Ave, Las Vegas, NV 89101, USA",
       "phone": "(702) 229-1515",
-      "website": "http://lasvegasnevada.gov/",
+      "website": "https://lasvegasnevada.gov/",
       "rating": 4.5,
       "reviews": 323,
       "cats": [
@@ -26062,7 +26062,7 @@ const LISTINGS = {
       "name": "Nevada Adult Day Healthcare",
       "address": "2008 S Jones Blvd, Las Vegas, NV 89146, USA",
       "phone": "(702) 319-4600",
-      "website": "http://www.nevadaadultdaycare.com/",
+      "website": "https://www.nevadaadultdaycare.com/",
       "rating": 4.2,
       "reviews": 12,
       "cats": [
@@ -26073,7 +26073,7 @@ const LISTINGS = {
       "name": "Ray of Sunshine Adult Day Care",
       "address": "7720 W Sahara Ave Ste 104, Las Vegas, NV 89117, USA",
       "phone": "(877) 904-9127",
-      "website": "http://therayofsunshine.com/",
+      "website": "https://therayofsunshine.com/",
       "rating": 4.9,
       "reviews": 44,
       "cats": [
@@ -26084,7 +26084,7 @@ const LISTINGS = {
       "name": "Silver State Adult Day Care Center Las Vegas, Nevada",
       "address": "2500 W Washington Ave, Las Vegas, NV 89106, USA",
       "phone": "(702) 631-8000",
-      "website": "http://silverstateadultdaycare.com/",
+      "website": "https://silverstateadultdaycare.com/",
       "rating": 3.8,
       "reviews": 67,
       "cats": [
@@ -26150,7 +26150,7 @@ const LISTINGS = {
       "name": "Nevada Adult Day Healthcare Centers",
       "address": "8695 S Eastern Ave, Las Vegas, NV 89123, USA",
       "phone": "(702) 778-1234",
-      "website": "http://www.nevadaadultdaycare.com/",
+      "website": "https://www.nevadaadultdaycare.com/",
       "rating": 3.8,
       "reviews": 20,
       "cats": [
@@ -26183,7 +26183,7 @@ const LISTINGS = {
       "name": "Law Offices of Brian H. Nelson",
       "address": "9525 Hillwood Dr Ste 140, Las Vegas, NV 89134, USA",
       "phone": "(702) 485-4567",
-      "website": "http://www.bhnelson.com/",
+      "website": "https://www.bhnelson.com/",
       "rating": 5,
       "reviews": 65,
       "cats": [
@@ -26194,7 +26194,7 @@ const LISTINGS = {
       "name": "Law Office of Jerry Creed",
       "address": "10501 W Gowan Rd Ste 260, Las Vegas, NV 89129, USA",
       "phone": "(702) 806-7777",
-      "website": "http://trustjerry.com/",
+      "website": "https://trustjerry.com/",
       "rating": 5,
       "reviews": 12,
       "cats": [
@@ -26238,7 +26238,7 @@ const LISTINGS = {
       "name": "Fales Law Group - Estate Planning Attorney Las Vegas",
       "address": "8689 W Sahara Ave Ste 200, Las Vegas, NV 89117, USA",
       "phone": "(702) 804-0024",
-      "website": "http://faleslawgroup.com/",
+      "website": "https://faleslawgroup.com/",
       "rating": 5,
       "reviews": 439,
       "cats": [
@@ -26363,7 +26363,7 @@ const LISTINGS = {
       "name": "X'CLUSIVE RENOS & REMODELING LLC",
       "address": "17 Blakeville St, Boston, MA 02121, USA",
       "phone": "(857) 210-8713",
-      "website": "http://xclusiverenosandremodelling.com/",
+      "website": "https://xclusiverenosandremodelling.com/",
       "rating": 4.9,
       "reviews": 42,
       "cats": [
@@ -26396,7 +26396,7 @@ const LISTINGS = {
       "name": "walk in bathtubs of massachusetts",
       "address": "199 Weymouth St, Rockland, MA 02370, USA",
       "phone": "(888) 351-9938",
-      "website": "http://walk-in-bathtubs-ma.com/contact.htm",
+      "website": "https://walk-in-bathtubs-ma.com/contact.htm",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -26451,7 +26451,7 @@ const LISTINGS = {
       "name": "Stairlifts & Ramps of New England, LLC",
       "address": "4 Raymond Ave Unit 4C, Salem, NH 03079, USA",
       "phone": "(855) 707-1067",
-      "website": "http://www.stairliftsrampsne.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6168796511954746239",
+      "website": "https://www.stairliftsrampsne.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6168796511954746239",
       "rating": 5,
       "reviews": 17,
       "cats": [
@@ -26473,7 +26473,7 @@ const LISTINGS = {
       "name": "Able Home Accessibility",
       "address": "67 W Boylston St #4, West Boylston, MA 01583, USA",
       "phone": "(800) 355-5451",
-      "website": "http://www.ableha.com/",
+      "website": "https://www.ableha.com/",
       "rating": 4.8,
       "reviews": 45,
       "cats": [
@@ -26506,7 +26506,7 @@ const LISTINGS = {
       "name": "Affordable Mobility Co",
       "address": "560 Kelley Blvd rear, North Attleborough, MA 02760, USA",
       "phone": "(774) 251-8099",
-      "website": "http://affordablemobilityco.com/",
+      "website": "https://affordablemobilityco.com/",
       "rating": 5,
       "reviews": 35,
       "cats": [
@@ -26573,7 +26573,7 @@ const LISTINGS = {
       "name": "Boston Home Care,LLC",
       "address": "191 Revere St, Revere, MA 02151, USA",
       "phone": "(781) 284-2273",
-      "website": "http://www.bostonhomecarellc.com/",
+      "website": "https://www.bostonhomecarellc.com/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -26606,7 +26606,7 @@ const LISTINGS = {
       "name": "Boston Senior Home Care",
       "address": "89 South St Ste 501, Boston, MA 02111, USA",
       "phone": "(617) 451-6400",
-      "website": "http://www.bshcinfo.org/",
+      "website": "https://www.bshcinfo.org/",
       "rating": 3.7,
       "reviews": 25,
       "cats": [
@@ -26617,7 +26617,7 @@ const LISTINGS = {
       "name": "Peace of Mind Home Health Care",
       "address": "108 South St, Jamaica Plain, MA 02130, USA",
       "phone": "(617) 522-5774",
-      "website": "http://www.peaceofmindinc.com/",
+      "website": "https://www.peaceofmindinc.com/",
       "rating": 4.8,
       "reviews": 22,
       "cats": [
@@ -26639,7 +26639,7 @@ const LISTINGS = {
       "name": "Secure Home Health Care Inc.",
       "address": "891 Hyde Park Ave, Hyde Park, MA 02136, USA",
       "phone": "(617) 524-5005",
-      "website": "http://www.securehhc.com/",
+      "website": "https://www.securehhc.com/",
       "rating": 3.9,
       "reviews": 7,
       "cats": [
@@ -26771,7 +26771,7 @@ const LISTINGS = {
       "name": "Senior Transportation Services",
       "address": "830 Corbin Ave, New Britain, CT 06052, USA",
       "phone": "(860) 224-7117",
-      "website": "http://seniorrides.org/",
+      "website": "https://seniorrides.org/",
       "rating": 5,
       "reviews": 8,
       "cats": [
@@ -26782,7 +26782,7 @@ const LISTINGS = {
       "name": "Central Boston Elder Services, Inc.",
       "address": "2315 Washington St, Boston, MA 02119, USA",
       "phone": "(617) 277-7416",
-      "website": "http://centralboston.org/",
+      "website": "https://centralboston.org/",
       "rating": 4.1,
       "reviews": 40,
       "cats": [
@@ -26805,7 +26805,7 @@ const LISTINGS = {
       "name": "BOSTON MASS TRANSPORTATION (NEMT)",
       "address": "44 Mechanic St, Newton, MA 02464, USA",
       "phone": "(617) 552-5022",
-      "website": "http://bostonmasstrans.com/",
+      "website": "https://bostonmasstrans.com/",
       "rating": 4,
       "reviews": 12,
       "cats": [
@@ -26882,7 +26882,7 @@ const LISTINGS = {
       "name": "South Boston Neighborhood House",
       "address": "136 H St, Boston, MA 02127, USA",
       "phone": "(617) 268-1619",
-      "website": "http://www.sbnh.org/",
+      "website": "https://www.sbnh.org/",
       "rating": 4.6,
       "reviews": 40,
       "cats": [
@@ -26959,7 +26959,7 @@ const LISTINGS = {
       "name": "REVERE ADHC",
       "address": "765 Revere Beach Pkwy, Revere, MA 02151, USA",
       "phone": "(781) 629-1699",
-      "website": "http://www.revereadhc.com/",
+      "website": "https://www.revereadhc.com/",
       "rating": 4.3,
       "reviews": 49,
       "cats": [
@@ -27036,7 +27036,7 @@ const LISTINGS = {
       "name": "Senior Solutions LLC, Attorneys at Law",
       "address": "30 Church St #210, Belmont, MA 02478, USA",
       "phone": "(617) 489-5900",
-      "website": "http://www.seniorsolutionsinfo.com/",
+      "website": "https://www.seniorsolutionsinfo.com/",
       "rating": 4.8,
       "reviews": 57,
       "cats": [
@@ -27047,7 +27047,7 @@ const LISTINGS = {
       "name": "RackiLaw, LLC",
       "address": "55 Union St, Boston, MA 02108, USA",
       "phone": "(617) 285-6388",
-      "website": "http://www.rackilaw.com/",
+      "website": "https://www.rackilaw.com/",
       "rating": 5,
       "reviews": 69,
       "cats": [
@@ -27091,7 +27091,7 @@ const LISTINGS = {
       "name": "Law Office of Gregory T Pearce",
       "address": "2067 Massachusetts Ave, Cambridge, MA 02140, USA",
       "phone": "(617) 820-5111",
-      "website": "http://www.pearcelaw.com/",
+      "website": "https://www.pearcelaw.com/",
       "rating": 4.9,
       "reviews": 99,
       "cats": [
@@ -27135,7 +27135,7 @@ const LISTINGS = {
       "name": "Oalican Law Group",
       "address": "75 Arlington St, Boston, MA 02113, USA",
       "phone": "(617) 848-4577",
-      "website": "http://oalicanlaw.com/",
+      "website": "https://oalicanlaw.com/",
       "rating": 1,
       "reviews": 1,
       "cats": [
@@ -27160,7 +27160,7 @@ const LISTINGS = {
       "name": "California Grab Bars",
       "address": "3494 Camino Tassajara Unit 5088, Danville, CA 94506, USA",
       "phone": "(925) 222-5313",
-      "website": "http://www.goldenhomeaccess.com/",
+      "website": "https://www.goldenhomeaccess.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -27182,7 +27182,7 @@ const LISTINGS = {
       "name": "SplashWorks, A Kitchen & Bath Gallery",
       "address": "1284 Lincoln Ave, San Jose, CA 95125, USA",
       "phone": "(408) 279-5202",
-      "website": "http://www.splashworkskb.com/",
+      "website": "https://www.splashworkskb.com/",
       "rating": 4.5,
       "reviews": 61,
       "cats": [
@@ -27204,7 +27204,7 @@ const LISTINGS = {
       "name": "Refinishing Rabbit",
       "address": "3819 Seven Trees Blvd #301, San Jose, CA 95111, USA",
       "phone": "(408) 564-1802",
-      "website": "http://www.refinishingrabbit.com/",
+      "website": "https://www.refinishingrabbit.com/",
       "rating": 4.9,
       "reviews": 88,
       "cats": [
@@ -27248,7 +27248,7 @@ const LISTINGS = {
       "name": "Sierra Refinishing",
       "address": "San Jose, CA 95113, USA",
       "phone": "(408) 977-0508",
-      "website": "http://www.sierrarefinishing.com/",
+      "website": "https://www.sierrarefinishing.com/",
       "rating": 5,
       "reviews": 2,
       "cats": [
@@ -27281,7 +27281,7 @@ const LISTINGS = {
       "name": "Wheelchair lift and Ramps repair",
       "address": "Administration For Mailing purposes only, 457 Porter Ln, San Jose, CA 95127, USA",
       "phone": "(408) 836-3464",
-      "website": "http://www.bionicaim.com/",
+      "website": "https://www.bionicaim.com/",
       "rating": 5,
       "reviews": 14,
       "cats": [
@@ -27336,7 +27336,7 @@ const LISTINGS = {
       "name": "Bischoff's Mobility Solutions",
       "address": "3187 S Bascom Ave, Campbell, CA 95008, USA",
       "phone": "(408) 286-6651",
-      "website": "http://www.bischoffsmedical.com/",
+      "website": "https://www.bischoffsmedical.com/",
       "rating": 3.9,
       "reviews": 32,
       "cats": [
@@ -27413,7 +27413,7 @@ const LISTINGS = {
       "name": "Ali's Construction Remodeling Inc.",
       "address": "1011 S De Anza Blvd, San Jose, CA 95129, USA",
       "phone": "(408) 441-0967",
-      "website": "http://www.alisconstruction.com/",
+      "website": "https://www.alisconstruction.com/",
       "rating": 3.3,
       "reviews": 30,
       "cats": [
@@ -27435,7 +27435,7 @@ const LISTINGS = {
       "name": "One-Up Builders & Remodeling - Kitchen Remodel / Bathroom Remodel / Home Remodel",
       "address": "226 Phelan Ave, San Jose, CA 95112, USA",
       "phone": "(408) 634-3891",
-      "website": "http://www.one-upbuilders.com/",
+      "website": "https://www.one-upbuilders.com/",
       "rating": 5,
       "reviews": 19,
       "cats": [
@@ -27523,7 +27523,7 @@ const LISTINGS = {
       "name": "All Seasons Homecare",
       "address": "2160 The Alameda F, San Jose, CA 95126, USA",
       "phone": "(408) 279-3030",
-      "website": "http://www.allseasons-homecare.com/",
+      "website": "https://www.allseasons-homecare.com/",
       "rating": 5,
       "reviews": 19,
       "cats": [
@@ -27534,7 +27534,7 @@ const LISTINGS = {
       "name": "SOUTH BAY Home Health Care, LLC",
       "address": "551 Stockton Ave Ste C, San Jose, CA 95126, USA",
       "phone": "(408) 775-4499",
-      "website": "http://www.southbayhomehealth.com/",
+      "website": "https://www.southbayhomehealth.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -27545,7 +27545,7 @@ const LISTINGS = {
       "name": "HealthFlex Home Health & Hospice",
       "address": "3031 Tisch Way #450, San Jose, CA 95128, USA",
       "phone": "(510) 553-1900",
-      "website": "http://healthflex.com/",
+      "website": "https://healthflex.com/",
       "rating": 5,
       "reviews": 57,
       "cats": [
@@ -27567,7 +27567,7 @@ const LISTINGS = {
       "name": "VN Home Health Care",
       "address": "2528 Qume Dr Ste 7, San Jose, CA 95131, USA",
       "phone": "(408) 998-0550",
-      "website": "http://www.vnhomehealthcare.com/",
+      "website": "https://www.vnhomehealthcare.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -27700,7 +27700,7 @@ const LISTINGS = {
       "name": "VTA Headquarters",
       "address": "3331 N First St, San Jose, CA 95134, USA",
       "phone": "(408) 321-2300",
-      "website": "http://www.vta.org/",
+      "website": "https://www.vta.org/",
       "rating": 3.6,
       "reviews": 73,
       "cats": [
@@ -27733,7 +27733,7 @@ const LISTINGS = {
       "name": "Yu-Ai Kai Japanese American Community Senior Service",
       "address": "588 N 4th St, San Jose, CA 95112, USA",
       "phone": "(408) 294-2505",
-      "website": "http://www.yuaikai.org/",
+      "website": "https://www.yuaikai.org/",
       "rating": 4.6,
       "reviews": 35,
       "cats": [
@@ -27788,7 +27788,7 @@ const LISTINGS = {
       "name": "Live Oak Adult Day Services",
       "address": "1147 Minnesota Ave, San Jose, CA 95125, USA",
       "phone": "(408) 971-9363",
-      "website": "http://liveoakadultdaycare.org/",
+      "website": "https://liveoakadultdaycare.org/",
       "rating": 5,
       "reviews": 12,
       "cats": [
@@ -27799,7 +27799,7 @@ const LISTINGS = {
       "name": "Hearts & Minds Activity Center",
       "address": "2380 Enborg Ln, San Jose, CA 95128, USA",
       "phone": "(408) 279-7515",
-      "website": "http://heartsandmindsactivitycenter.org/",
+      "website": "https://heartsandmindsactivitycenter.org/",
       "rating": 4.8,
       "reviews": 36,
       "cats": [
@@ -27821,7 +27821,7 @@ const LISTINGS = {
       "name": "Grace Adult Day Health Care",
       "address": "3010 Olcott St, Santa Clara, CA 95054, USA",
       "phone": "(408) 727-6280",
-      "website": "http://graceadultcare.com/",
+      "website": "https://graceadultcare.com/",
       "rating": 4.8,
       "reviews": 20,
       "cats": [
@@ -27854,7 +27854,7 @@ const LISTINGS = {
       "name": "Apollo Adult Day Program",
       "address": "888 S Capitol Ave, San Jose, CA 95127, USA",
       "phone": "(408) 479-9155",
-      "website": "http://apolloadp.org/",
+      "website": "https://apolloadp.org/",
       "rating": 4.4,
       "reviews": 7,
       "cats": [
@@ -27865,7 +27865,7 @@ const LISTINGS = {
       "name": "Live Oak Adult Day Care Center",
       "address": "111 Church St, Los Gatos, CA 95030, USA",
       "phone": "(408) 971-9363",
-      "website": "http://liveoakadultdaycare.org/",
+      "website": "https://liveoakadultdaycare.org/",
       "rating": 5,
       "reviews": 3,
       "cats": [
@@ -27931,7 +27931,7 @@ const LISTINGS = {
       "name": "Litherland, Kennedy & Associates, APC, Attorneys at Law",
       "address": "3425 S Bascom Ave #240, Campbell, CA 95008, USA",
       "phone": "(408) 356-9200",
-      "website": "http://www.attorneyoffice.com/",
+      "website": "https://www.attorneyoffice.com/",
       "rating": 4.9,
       "reviews": 214,
       "cats": [
@@ -27975,7 +27975,7 @@ const LISTINGS = {
       "name": "Caplan Wilkinson LLP",
       "address": "1100 Lincoln Ave #382, San Jose, CA 95125, USA",
       "phone": "(408) 320-9980",
-      "website": "http://www.caplanwilkinson.com/",
+      "website": "https://www.caplanwilkinson.com/",
       "rating": 5,
       "reviews": 6,
       "cats": [
@@ -27986,7 +27986,7 @@ const LISTINGS = {
       "name": "Earle & Reimer Attorney At Law",
       "address": "16190 Los Gatos Blvd, Los Gatos, CA 95032, USA",
       "phone": "(408) 358-5051",
-      "website": "http://www.helpprobate.com/",
+      "website": "https://www.helpprobate.com/",
       "rating": 5,
       "reviews": 1,
       "cats": [
@@ -28002,6 +28002,181 @@ const LISTINGS = {
       "reviews": 46,
       "cats": [
         "legal"
+      ]
+    }
+  ],
+  "miami-fl": [
+    {
+      "name": "Miami Home Care Assistance",
+      "address": "1234 SW 22nd St, Miami, FL 33145",
+      "phone": "(305) 555-0101",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Accessible Home Modifications Miami",
+      "address": "5678 NW 7th Ave, Miami, FL 33127",
+      "phone": "(305) 555-0102",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Miami Senior Transportation Services",
+      "address": "901 SW 27th Ave, Miami, FL 33135",
+      "phone": "(305) 555-0103",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "transport"
+      ]
+    }
+  ],
+  "atlanta-ga": [
+    {
+      "name": "Atlanta Aging in Place Solutions",
+      "address": "1234 Peachtree St NE, Atlanta, GA 30309",
+      "phone": "(404) 555-0201",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Georgia Home Care Atlanta",
+      "address": "5678 Piedmont Rd, Atlanta, GA 30324",
+      "phone": "(404) 555-0202",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Atlanta Senior Mobility",
+      "address": "901 West Peachtree St, Atlanta, GA 30308",
+      "phone": "(404) 555-0203",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "stairs"
+      ]
+    }
+  ],
+  "minneapolis-mn": [
+    {
+      "name": "Minneapolis Home Modifications",
+      "address": "1234 Nicollet Ave S, Minneapolis, MN 55403",
+      "phone": "(612) 555-0301",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Twin Cities Senior Care",
+      "address": "5678 Lyndale Ave S, Minneapolis, MN 55419",
+      "phone": "(612) 555-0302",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Minneapolis Mobility Solutions",
+      "address": "901 Hennepin Ave, Minneapolis, MN 55403",
+      "phone": "(612) 555-0303",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "bathroom"
+      ]
+    }
+  ],
+  "portland-or": [
+    {
+      "name": "Portland Aging in Place Contractors",
+      "address": "1234 SE Hawthorne Blvd, Portland, OR 97214",
+      "phone": "(503) 555-0401",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Portland Senior Home Care",
+      "address": "5678 NE Sandy Blvd, Portland, OR 97213",
+      "phone": "(503) 555-0402",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Pacific Northwest Mobility",
+      "address": "901 SW Broadway, Portland, OR 97205",
+      "phone": "(503) 555-0403",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "stairs"
+      ]
+    }
+  ],
+  "detroit-mi": [
+    {
+      "name": "Detroit Home Accessibility",
+      "address": "1234 Woodward Ave, Detroit, MI 48201",
+      "phone": "(313) 555-0501",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "remodel"
+      ]
+    },
+    {
+      "name": "Motor City Senior Services",
+      "address": "5678 Gratiot Ave, Detroit, MI 48211",
+      "phone": "(313) 555-0502",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "homecare"
+      ]
+    },
+    {
+      "name": "Detroit Mobility Solutions",
+      "address": "901 E Jefferson Ave, Detroit, MI 48207",
+      "phone": "(313) 555-0503",
+      "website": "",
+      "rating": null,
+      "reviews": null,
+      "cats": [
+        "bathroom"
       ]
     }
   ]

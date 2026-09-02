@@ -8,7 +8,9 @@ const CAT_LABELS = {
   homecare: "Home Care & Daily Living Help",
   transport: "Senior & Medical Transportation",
   social: "Senior Centers & Day Programs",
-  legal: "Elder Law & Financial Help"
+  legal: "Elder Law & Financial Help",
+  medicalequipment: "Medical Equipment",
+  seniorliving: "Senior Living"
 };
 
 function escapeHtml(value) {
@@ -35,44 +37,55 @@ function safeWebsiteUrl(value) {
   }
 }
 
-/* Render listings on a city page. Expects:
-   - <body data-city="anna-tx" data-cityname="Anna" data-state="TX">
-   - a #listings container
-   - optional category filter buttons with data-cat attributes */
+/* Render listings on a city page. Supports both attribute styles:
+   - Old: <body data-city="anna-tx" data-cityname="Anna" data-state="TX">
+   - New: <body data-city-slug="miami" data-state-slug="fl" data-city-display-name="Miami" data-state-display-name="Florida">
+   Both use the same object-based LISTINGS["city-slug"] format. */
 function renderListings(filterCat) {
   const body = document.body;
-  const slug = body.dataset.city;
+  const slug = body.dataset.city || (body.dataset.citySlug && body.dataset.stateSlug
+    ? body.dataset.citySlug + "-" + body.dataset.stateSlug
+    : null);
   if (!slug || typeof LISTINGS === "undefined") return;
-
-  const container = document.getElementById("listings");
-  if (!container) return;
 
   let items = LISTINGS[slug] || [];
   if (filterCat && filterCat !== "all") {
     items = items.filter(l => (l.cats || []).includes(filterCat));
   }
 
-  injectItemListSchema(items);
+  const cityDisplayName = body.dataset.cityname || body.dataset.cityDisplayName || "";
+  injectItemListSchema(items, cityDisplayName, slug);
+
+  const container = document.getElementById("listings");
+  if (!container) return;
 
   if (!items.length) {
     container.innerHTML =
       '<div class="empty-note"><strong>Listings coming soon for ' +
-      escapeHtml(body.dataset.cityname) +
+      escapeHtml(cityDisplayName) +
       '.</strong><br>Local providers: use the “Add Your Business” button above to request a free basic listing.</div>';
     return;
   }
 
   container.innerHTML = items.map(l => {
-    // Public payloads omit third-party ratings until their source, retrieval date,
-    // attribution, and refresh cadence can be verified.
     const websiteUrl = safeWebsiteUrl(l.website);
-    const site = websiteUrl ? ' · <a href="' + escapeHtml(websiteUrl) + '" rel="nofollow noopener" target="_blank">Website</a>' : '';
+    const isSponsored = l.is_sponsored || false;
+    let relAttributes = "nofollow noopener";
+    let sponsoredLabel = '';
+
+    if (isSponsored) {
+      relAttributes += " sponsored";
+      sponsoredLabel = '<span class="sponsored-label">Sponsored</span>';
+    }
+
+    const site = websiteUrl ? ' · <a href="' + escapeHtml(websiteUrl) + '" rel="' + relAttributes + '" target="_blank">Website</a>' : '';
     const phoneText = escapeHtml(l.phone || "");
     const phoneHref = String(l.phone || "").replace(/[^0-9+]/g, '');
     const tel = phoneHref ? '<a class="call" href="tel:' + phoneHref + '">' + phoneText + '</a>' : '';
     const cats = (l.cats || []).map(c => CAT_LABELS[c] || c).join(' · ');
+
     return '<article class="listing">' +
-      '<h3>' + escapeHtml(l.name) + '</h3>' +
+      '<h3>' + escapeHtml(l.name) + (isSponsored ? ' ' + sponsoredLabel : '') + '</h3>' +
       '<div class="meta">' + escapeHtml(l.address || '') + '</div>' +
       '<div class="meta">' + tel + site + '</div>' +
       (cats ? '<div class="cats">' + escapeHtml(cats) + '</div>' : '') +
@@ -82,7 +95,7 @@ function renderListings(filterCat) {
 
 /* JSON-LD ItemList of directory organizations. Ratings are intentionally omitted:
    directory pages are not first-party review pages for the listed organizations. */
-function injectItemListSchema(items) {
+function injectItemListSchema(items, cityName, slug) {
   const old = document.getElementById("itemlist-schema");
   if (old) old.remove();
   if (!items.length) return;
@@ -134,8 +147,10 @@ function closeSubmit() {
 function sendSubmit() {
   const g = id => (document.getElementById(id) || {}).value || "";
   const city = document.body.dataset.cityname
-    ? document.body.dataset.cityname + ", " + document.body.dataset.state
-    : g("sb-city");
+    ? document.body.dataset.cityname + ", " + (document.body.dataset.state || "")
+    : (document.body.dataset.cityDisplayName && document.body.dataset.stateDisplayName
+      ? document.body.dataset.cityDisplayName + ", " + document.body.dataset.stateDisplayName
+      : g("sb-city"));
   const subject = encodeURIComponent("Directory Listing Request — " + g("sb-name"));
   const bodyTxt = encodeURIComponent(
     "Business name: " + g("sb-name") +
@@ -158,15 +173,18 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-/* ---- Lead capture form (homeowner quote requests) ----
-   To collect leads by web form instead of email, create a free form at
-   https://formspree.io and paste its endpoint below (e.g.
-   "https://formspree.io/f/abcdwxyz"). Until then, submissions open the
-   visitor's email app addressed to you, so no lead is ever lost. */
+/* ---- Lead capture form (homeowner quote requests) ---- */
 var LEAD_ENDPOINT = "https://formspree.io/f/xykrakar";
 
-/* Add an opaque, non-personal reference so a submission and any retry can be
-   reconciled in the form inbox without putting visitor details in analytics. */
+function trackLeadFormSubmission() {
+  if (typeof gtag === 'function') {
+    gtag('event', 'lead_form_submission', {
+      'event_category': 'engagement',
+      'event_label': 'homeowner_quote_request'
+    });
+  }
+}
+
 function ensureLeadReference(form) {
   var input = form.querySelector('input[name="lead_reference"]');
   if (!input) {
@@ -185,11 +203,12 @@ document.addEventListener("DOMContentLoaded", function () {
   var form = document.querySelector(".lead-form");
   if (!form) return;
   var card = form.closest(".lead-form-card");
+  if (!card) return;
   var success = card.querySelector(".lead-success");
   var errorMsg = card.querySelector(".lead-error");
   form.addEventListener("submit", function (e) {
     e.preventDefault();
-    errorMsg.hidden = true;
+    if (errorMsg) errorMsg.hidden = true;
     ensureLeadReference(form);
     var data = new FormData(form);
     if (!LEAD_ENDPOINT) {
@@ -198,13 +217,14 @@ document.addEventListener("DOMContentLoaded", function () {
       data.forEach(function (v, k) { if (v) lines.push(k + ": " + v); });
       window.location.href = "mailto:entempsllc@gmail.com?subject=" +
         encodeURIComponent(subject) + "&body=" + encodeURIComponent(lines.join("\n"));
-      form.hidden = true; success.hidden = false; return;
+      trackLeadFormSubmission();
+      form.hidden = true; if (success) success.hidden = false; return;
     }
     var btn = form.querySelector(".lead-submit");
     btn.disabled = true; btn.textContent = "Sending...";
     fetch(LEAD_ENDPOINT, { method: "POST", body: data, headers: { "Accept": "application/json" } })
-      .then(function (r) { if (!r.ok) throw 0; form.hidden = true; success.hidden = false; })
-      .catch(function () { errorMsg.hidden = false; btn.disabled = false; btn.textContent = "Request my free quotes"; });
+      .then(function (r) { if (!r.ok) throw 0; form.hidden = true; if (success) success.hidden = false; trackLeadFormSubmission(); })
+      .catch(function () { if (errorMsg) errorMsg.hidden = false; btn.disabled = false; btn.textContent = "Request my free quotes"; });
   });
 });
 
