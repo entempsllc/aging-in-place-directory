@@ -191,6 +191,8 @@ details.faq p { margin-top: 10px; }
   color: #7A877F; font-size: .85rem; letter-spacing: .06em; text-transform: uppercase;
   margin: 34px 0;
 }
+.ad-unit { min-height: 120px; overflow: hidden; }
+.ad-unit .adsbygoogle { display: block; margin: 0 auto; }
 
 /* Modal */
 .modal-backdrop {
