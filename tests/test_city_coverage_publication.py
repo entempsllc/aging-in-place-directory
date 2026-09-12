@@ -45,8 +45,10 @@ class CityCoveragePublicationTests(unittest.TestCase):
             text = page.read_text(encoding="utf-8")
             self.assertIn(f'data-city="{key}"', text)
             self.assertIn(f'../data/{key}.js', text)
-            self.assertIn('<meta name="robots" content="noindex,follow">', text)
-            self.assertNotIn(f"https://www.agingracefully.care/{rel}", sitemap)
+            self.assertNotIn('<meta name="robots" content="noindex,follow">', text)
+            canonical = f'https://www.agingracefully.care/{rel}'
+            self.assertIn(f'<link rel="canonical" href="{canonical}">', text)
+            self.assertEqual(sitemap.count(f'<loc>{canonical}</loc>'), 1)
             self.assertNotIn('href="#faq"', text)
 
     def test_new_city_records_exclude_stale_or_misclassified_entries(self):
