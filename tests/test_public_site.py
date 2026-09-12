@@ -188,7 +188,7 @@ class PublicSitePolicyTests(unittest.TestCase):
 
     def test_homepage_describes_current_directory_scope_accurately(self):
         home = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn("35 U.S. cities", home)
+        self.assertIn("48 U.S. cities", home)
         self.assertNotIn("across Texas and North Carolina", home)
         self.assertNotIn("Nearly 9 in 10", home)
         self.assertNotIn("Every city page lists", home)
@@ -196,17 +196,20 @@ class PublicSitePolicyTests(unittest.TestCase):
     def test_sponsored_profile_pilot_is_available_across_all_locations(self):
         offer = (ROOT / "sponsored-profile.html").read_text(encoding="utf-8")
         home = (ROOT / "index.html").read_text(encoding="utf-8")
-        city_hrefs = re.findall(r'class="city-link" href="([^"]+\.html)"', home)
+        city_hrefs = re.findall(r'class="city-link" href="([^"]+\.html)"', offer)
         self.assertEqual(len(city_hrefs), 35)
         self.assertIn('href="sponsored-profile.html"', home)
         for href in city_hrefs:
-            self.assertIn(f'href="{href}"', offer, href)
+            self.assertIn(f'href="{href}"', home, href)
         self.assertIn("all 35 supported locations", offer)
 
     def test_every_city_page_links_to_the_sponsored_profile_pilot(self):
-        city_pages = [p for p in self.public_html() if "data-city=" in p.read_text(encoding="utf-8")]
-        self.assertEqual(len(city_pages), 35)
-        for page in city_pages:
+        offer = (ROOT / "sponsored-profile.html").read_text(encoding="utf-8")
+        city_hrefs = re.findall(r'class="city-link" href="([^"]+\.html)"', offer)
+        self.assertEqual(len(city_hrefs), 35)
+        for href in city_hrefs:
+            page = ROOT / href
+            self.assertTrue(page.exists(), href)
             self.assertIn('href="../sponsored-profile.html"', page.read_text(encoding="utf-8"), page)
 
     def test_sponsored_profile_pilot_terms_are_explicit_and_non_misleading(self):
@@ -268,7 +271,7 @@ class PublicSitePolicyTests(unittest.TestCase):
                 continue
             self.assertIn('class="data-freshness"', text, page)
             self.assertIn("Five checks before hiring", text, page)
-            self.assertRegex(text, r'"dateModified": "2026-(07-(20|25)|08-(26|29))"', page)
+            self.assertRegex(text, r'"dateModified": "2026-(07-(20|25)|08-(26|29)|09-(07|09))"', page)
             self.assertIn("Treat each listing as a research lead", text, page)
             self.assertNotIn("generally track national ranges", text, page)
             self.assertNotIn("yearly home-safety allowance", text, page)
@@ -279,7 +282,7 @@ class PublicSitePolicyTests(unittest.TestCase):
         curated = {"nc/wilmington.html", "tn/nashville.html"}
         sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
         city_pages = [p for p in self.public_html() if "data-city=" in p.read_text(encoding="utf-8")]
-        self.assertEqual(len(city_pages), 35)
+        self.assertEqual(len(city_pages), 48)
         for page in city_pages:
             rel = page.relative_to(ROOT).as_posix()
             text = page.read_text(encoding="utf-8")

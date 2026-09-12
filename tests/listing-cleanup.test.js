@@ -29,7 +29,7 @@ assert.strictEqual(qualityAudit.active_before, 2606);
 assert.strictEqual(qualityAudit.active_after, 2528);
 assert.strictEqual(qualityAudit.removed_count, 78);
 assert.strictEqual(qualityAudit.reclassified_count, 10);
-assert.strictEqual(Object.values(listings).reduce((sum, items) => sum + items.length, 0), 2543);
+assert.strictEqual(Object.values(listings).reduce((sum, items) => sum + items.length, 0), 2591);
 
 for (const removal of audit.removals) {
   const remains = listings[removal.city_slug].some(item =>
