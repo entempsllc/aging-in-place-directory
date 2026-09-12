@@ -249,3 +249,5 @@ details.faq p { margin-top: 10px; }
 .lead-privacy{font-size:15px;color:#5c6a62;margin-top:12px;line-height:1.5;}
 .lead-error{color:#A33A2A;font-weight:700;margin-bottom:12px;}
 .lead-success{font-size:19px;padding:20px;background:var(--mist);border:2px solid var(--pine);border-radius:10px;}
+
+.product-cta .btn:hover { background: #B7791F !important; border-color: #B7791F !important; }
