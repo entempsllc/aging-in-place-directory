@@ -24,9 +24,9 @@ The older checksum `091e02b751b627c64302e764df9f3f312743279bfc2bf05997155be61aa0
 | Production requirements are known | PASS | Deploy Worker + D1 + private KV, configure test Payment Link/webhook/success URL, Resend sender/secrets, then repeat in live mode only after test acceptance. |
 | Lead inbox delivery verified | OWNER ACTION REQUIRED | In Formspree form `xykrakar`, search submissions and the configured notification inbox for `ag-qa-20261005T013024Z`. Confirm spam status, destination, timestamp, city/state, `source_page`, and notification delivery. The locally authorized `cleaning-ops` mailbox returned no match and is not proven to be the destination. |
 | Manual lead routing documented | PASS | `docs/lead-routing-runbook.md`. |
-| Desktop/mobile visual verification | BLOCKED | Browser automation backend was unavailable; isolated Brave headless capture timed out. No visual pass is claimed. |
+| Desktop/mobile visual verification | PASS | Playwright 1.62.1 tested 10 routes at 1440×900 and 390×844: 20 page checks, 8 screenshots, no branch-caused console/page errors, broken images, overlap, or overflow after the provider CTA mobile-width fix. |
 | Expanded $9 promotion | BLOCKED | No deployed/tested fulfillment path. Preserve current checkout and do not add promotion. |
-| Safe UI/targeting publication | OWNER ACTION REQUIRED | Technically separable from $9 fulfillment, but Phase 1 increases quote-form prominence. Require Formspree destination confirmation and desktop/mobile visual pass before publishing the whole branch. |
+| Safe UI/targeting publication | OWNER ACTION REQUIRED | Visual checks pass. Require only Formspree destination and notification confirmation before publishing the whole branch. |
 
 ## Test-mode owner setup required
 

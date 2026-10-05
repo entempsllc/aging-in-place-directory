@@ -61,6 +61,7 @@ class MonetizationHardeningTests(unittest.TestCase):
                 self.assertNotIn(NMAC_URL, text, rel)
                 self.assertIn("provider-business-cta", text, rel)
                 self.assertIn("Learn about business listings and sponsored profiles", text, rel)
+                self.assertIn("max-width:100%;box-sizing:border-box;text-align:center;white-space:normal", text, rel)
         city_template = (ROOT / "templates" / "city_page_template.html").read_text(encoding="utf-8")
         self.assertNotIn(NMAC_URL, city_template)
         self.assertIn("provider-business-cta", city_template)
