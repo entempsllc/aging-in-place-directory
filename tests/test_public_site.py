@@ -138,7 +138,10 @@ class PublicSitePolicyTests(unittest.TestCase):
             'name="source_page" value="https://www.agingracefully.care/tn/nashville.html"',
             nashville,
         )
-        self.assertIn("We will review the request", nashville)
+        self.assertIn(
+            "Submission does not guarantee provider availability, contact, or a response.",
+            nashville,
+        )
         self.assertNotIn("a local provider will reach out shortly", nashville)
         self.assertNotIn("usually within one business day", nashville)
 
@@ -154,7 +157,10 @@ class PublicSitePolicyTests(unittest.TestCase):
             wilmington,
         )
         self.assertIn("https://portal.nclbgc.org/Public/Search", wilmington)
-        self.assertIn("We will review the request", wilmington)
+        self.assertIn(
+            "Submission does not guarantee provider availability, contact, or a response.",
+            wilmington,
+        )
         self.assertNotIn("a local provider will reach out shortly", wilmington)
         self.assertNotIn("usually within one business day", wilmington)
 
@@ -175,7 +181,10 @@ class PublicSitePolicyTests(unittest.TestCase):
             'name="source_page" value="https://www.agingracefully.care/nv/las-vegas.html"',
             las_vegas,
         )
-        self.assertIn("We will review the request", las_vegas)
+        self.assertIn(
+            "Submission does not guarantee provider availability, contact, or a response.",
+            las_vegas,
+        )
         self.assertNotIn("a local provider will reach out shortly", las_vegas)
         self.assertNotIn("usually within one business day", las_vegas)
 
