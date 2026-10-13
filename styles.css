@@ -230,3 +230,5 @@ details.faq p { margin-top: 10px; }
   .nav a { margin-left: 12px; font-size: .92rem; }
   .hero { padding: 52px 0 44px; }
 }
+
+.product-cta .btn:hover { background: #B7791F !important; border-color: #B7791F !important; }

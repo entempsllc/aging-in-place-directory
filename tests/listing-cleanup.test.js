@@ -29,7 +29,58 @@ assert.strictEqual(qualityAudit.active_before, 2606);
 assert.strictEqual(qualityAudit.active_after, 2528);
 assert.strictEqual(qualityAudit.removed_count, 78);
 assert.strictEqual(qualityAudit.reclassified_count, 10);
-assert.strictEqual(Object.values(listings).reduce((sum, items) => sum + items.length, 0), 2528);
+assert.strictEqual(Object.values(listings).reduce((sum, items) => sum + items.length, 0), 2521);
+
+const expectedVirginiaGrowth = [
+  ['richmond-va', 'TheKey - Richmond Home Care Assistance'],
+  ['richmond-va', 'SYNERGY HomeCare of Richmond'],
+  ['richmond-va', 'Life’s at Home Care (Richmond)'],
+  ['richmond-va', 'JFS Richmond'],
+  ['richmond-va', 'Leo Lantz Construction'],
+  ['alexandria-va', 'Mobility City of Fairfax County'],
+  ['alexandria-va', 'Access Home Care'],
+  ['alexandria-va', 'Always Best Care of Alexandria'],
+  ['roanoke-va', 'Ombi Home Care Services, LLC'],
+  ['suffolk-va', 'Sentara Home Care Services - Suffolk'],
+  ['richmond-va', 'BrightStar Care of Richmond'],
+  ['richmond-va', 'Interim HealthCare of Richmond'],
+  ['richmond-va', 'Coastal Contracting'],
+  ['richmond-va', 'MobilityWorks @home - Richmond VA'],
+  ['alexandria-va', 'SYNERGY HomeCare of Arlington/Alexandria'],
+  ['alexandria-va', 'Sun Design - McLean'],
+  ['alexandria-va', 'Hancomm Remodeling Services'],
+  ['roanoke-va', 'Care Advantage - Roanoke, VA Office'],
+  ['roanoke-va', 'Building Specialists, Inc.'],
+  ['roanoke-va', 'ADL - Advances for Daily Living'],
+  ['richmond-va', 'Amada Senior Care Richmond'],
+  ['richmond-va', 'Always Best Care of Midlothian and Richmond'],
+  ['richmond-va', 'National Seating & Mobility (Richmond)'],
+  ['alexandria-va', 'Assisting Hands Home Care Reston'],
+  ['alexandria-va', 'Lifeway Mobility Northern Virginia'],
+  ['alexandria-va', 'Main Street Home Improvement'],
+  ['alexandria-va', 'Custom Home Elements'],
+  ['roanoke-va', 'Interim HealthCare of Salem (Roanoke)'],
+  ['roanoke-va', 'Amedisys Home Health Care (1731)'],
+  ['roanoke-va', 'Potter Construction'],
+  ['richmond-va', 'Commonwise Home Care - Richmond'],
+  ['richmond-va', 'BAYADA Personal and Companion Care - Henrico County'],
+  ['richmond-va', 'Care Advantage, Inc. Corporate Office'],
+  ['richmond-va', 'HomeKeepers, LLC'],
+  ['alexandria-va', 'Capital City Nurses - Alexandria, VA Office'],
+  ['alexandria-va', 'Home Helpers Home Care of East Alexandria, VA'],
+  ['alexandria-va', 'Griswold Home Care for Northern Virginia East'],
+  ['roanoke-va', 'TheKey Home Care - Roanoke'],
+  ['roanoke-va', 'Maxim Healthcare - Roanoke, VA Regional Office'],
+  ['roanoke-va', 'Enhabit Home Health - Roanoke, VA']
+];
+
+for (const [citySlug, name] of expectedVirginiaGrowth) {
+  const occurrences = Object.values(listings)
+    .flat()
+    .filter(item => item.name === name);
+  assert.strictEqual(occurrences.length, 1, `${name} must appear exactly once across canonical listings`);
+  assert(listings[citySlug].some(item => item.name === name), `${name} must exist in ${citySlug}`);
+}
 
 for (const removal of audit.removals) {
   const remains = listings[removal.city_slug].some(item =>

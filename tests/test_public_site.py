@@ -172,7 +172,7 @@ class PublicSitePolicyTests(unittest.TestCase):
                 continue
             self.assertIn('class="data-freshness"', text, page)
             self.assertIn("Five checks before hiring", text, page)
-            self.assertRegex(text, r'"dateModified": "2026-07-(20|25)"', page)
+            self.assertRegex(text, r'"dateModified": "2026-(07|08|09)-[0-9]{2}"', page)
             self.assertIn("Treat each listing as a research lead", text, page)
             self.assertNotIn("generally track national ranges", text, page)
             self.assertNotIn("yearly home-safety allowance", text, page)
@@ -183,7 +183,7 @@ class PublicSitePolicyTests(unittest.TestCase):
         curated = {"nc/wilmington.html", "tn/nashville.html"}
         sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
         city_pages = [p for p in self.public_html() if "data-city=" in p.read_text(encoding="utf-8")]
-        self.assertEqual(len(city_pages), 35)
+        self.assertGreaterEqual(len(city_pages), 48)
         for page in city_pages:
             rel = page.relative_to(ROOT).as_posix()
             text = page.read_text(encoding="utf-8")

@@ -9117,924 +9117,6 @@ const LISTINGS = {
       ]
     }
   ],
-  "phoenix-az": [
-    {
-      "name": "Arizona Grab Bar",
-      "address": "11536 W Bighorn Ct, Surprise, AZ 85378, USA",
-      "phone": "(602) 456-9411",
-      "website": "https://www.arizonagrabbar.com/",
-      "rating": 5,
-      "reviews": 339,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Mr. Handyman of Scottsdale",
-      "address": "7678 E Greenway Rd Ste 101, Scottsdale, AZ 85260, USA",
-      "phone": "(602) 632-0877",
-      "website": "https://www.mrhandyman.com/scottsdale/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
-      "rating": 4.9,
-      "reviews": 490,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Jacuzzi Bath Remodel of Arizona",
-      "address": "1510 E Riverview Dr, Phoenix, AZ 85034, USA",
-      "phone": "(928) 460-8115",
-      "website": "https://azbaths.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_phoenix",
-      "rating": 4.6,
-      "reviews": 1616,
-      "cats": [
-        "bathroom",
-        "tubs",
-        "remodel"
-      ]
-    },
-    {
-      "name": "West Shore Home",
-      "address": "3333 S 7th St, Phoenix, AZ 85040, USA",
-      "phone": "(602) 610-5610",
-      "website": "https://westshorehome.com/locations/phoenix-az/?utm_source=gbp&utm_medium=organic&utm_branch=phoenix",
-      "rating": 4.9,
-      "reviews": 1060,
-      "cats": [
-        "bathroom",
-        "tubs"
-      ]
-    },
-    {
-      "name": "MEASURAbilities Home Safety- Fall Prevention Specialists / MEASURAbilities",
-      "address": "8147 E Evans Rd #8, Scottsdale, AZ 85260, USA",
-      "phone": "(480) 214-9725",
-      "website": "https://measurabilities.com/",
-      "rating": 4.9,
-      "reviews": 33,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Aqua Therapy Walk In Tubs & Showers Phoenix",
-      "address": "310 W Hatcher Rd, Phoenix, AZ 85021, USA",
-      "phone": "(602) 607-0404",
-      "website": "https://aquatherapytubs.com/",
-      "rating": 5,
-      "reviews": 161,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "USA Showers",
-      "address": "1215 S Park Ln #4, Tempe, AZ 85281, USA",
-      "phone": "(866) 706-7789",
-      "website": "https://usashowers.com/service-areas/arizona/?utm_campaign=gmb_AZ&utm_medium=organic&utm_source=google",
-      "rating": 4.9,
-      "reviews": 943,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Renuity",
-      "address": "2215 W Lone Cactus Dr Ste 21, Phoenix, AZ 85027, USA",
-      "phone": "(928) 437-6982",
-      "website": "https://renuityhome.com/arizona/bathroom-remodeling-in-phoenix-az/?utm_source=gmb&utm_medium=Yext&y_source=1_NjY1MDE5MDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "rating": 4.7,
-      "reviews": 321,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Paradise Walk In Tubs",
-      "address": "7402 W Detroit St Ste 100, Chandler, AZ 85226, USA",
-      "phone": "(866) 229-5659",
-      "website": "",
-      "rating": 4.7,
-      "reviews": 13,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "AZ BathMasters",
-      "address": "18206 N 19th Ave #2b, Phoenix, AZ 85023, USA",
-      "phone": "(480) 709-6442",
-      "website": "https://azbathmasters.com/",
-      "rating": 4.3,
-      "reviews": 21,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "AZ Tub Guy",
-      "address": "5237 W Montebello Ave C5, Glendale, AZ 85301, USA",
-      "phone": "(480) 561-1188",
-      "website": "https://aztubguy.com/",
-      "rating": 4,
-      "reviews": 4,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Independent Home",
-      "address": "1838 W Parkside Ln Ste 115, Phoenix, AZ 85027, USA",
-      "phone": "(888) 239-1058",
-      "website": "http://www.independenthome.com/",
-      "rating": 4.9,
-      "reviews": 702,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Re-Bath",
-      "address": "16879 N 75th Ave #101, Peoria, AZ 85382, USA",
-      "phone": "(480) 400-9025",
-      "website": "https://www.rebath.com/location/peoria/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-      "rating": 4.9,
-      "reviews": 1524,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "101 Mobility of Phoenix",
-      "address": "9830 S 51st St # B105, Phoenix, AZ 85044, USA",
-      "phone": "(480) 531-7292",
-      "website": "https://www.101mobility.com/phoenix/?utm_source=GBP_Phoenix&utm_medium=organic&y_source=1_MTAzMzU5Njk2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "rating": 4.9,
-      "reviews": 182,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Lifeway Mobility",
-      "address": "3707 E Southern Ave, Mesa, AZ 85206, USA",
-      "phone": "(480) 939-5359",
-      "website": "https://www.lifewaymobility.com/phoenix/?utm_source=GMB&utm_medium=organic&utm_campaign=Lifeway_Phoenix",
-      "rating": 4.8,
-      "reviews": 33,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Leaf Home Stair Lift",
-      "address": "3616 W Thomas Rd Ste 7-8, Phoenix, AZ 85017, USA",
-      "phone": "(623) 473-7832",
-      "website": "https://www.leafhome.com/stair-lift?utm_source=41DG&utm_medium=yext&utm_campaign=listings&y_source=1_Nzg4NzYxNTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "CoachLift",
-      "address": "1815 W 1st Ave #134, Mesa, AZ 85202, USA",
-      "phone": "(877) 595-8204",
-      "website": "https://www.coachlift.com/",
-      "rating": 4.9,
-      "reviews": 22,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Power Mobility & Lifts",
-      "address": "3225 N Arizona Ave Ste 5, Chandler, AZ 85225, USA",
-      "phone": "(480) 471-8592",
-      "website": "https://powerandmobility.com/",
-      "rating": 4.7,
-      "reviews": 61,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Serene Mobility & Lifts",
-      "address": "16671 N 84th Ave #150, Peoria, AZ 85382, USA",
-      "phone": "(623) 580-8500",
-      "website": "http://serenemobility.com/",
-      "rating": 4.4,
-      "reviews": 17,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "StairBuddy - Residential Elev. Serv. - Stairlifts | Home Elevators",
-      "address": "No Showroom - We come to you, 1615 E Georgia Ave Unit 238, Phoenix, AZ 85016, USA",
-      "phone": "(602) 653-1378",
-      "website": "http://www.stairbuddy.com/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Celtic Elevator, LLC",
-      "address": "23025 N 15th Ave Ste 102, Phoenix, AZ 85027, USA",
-      "phone": "(602) 369-2573",
-      "website": "https://celticelevator.com/?utm_source=googlebusinessprofile&utm_medium=search&utm_content=phoenix&utm_campaign=celocalsearch",
-      "rating": 5,
-      "reviews": 91,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "AAA Mobility Specialist LLC",
-      "address": "23015 N 15th Ave Ste 103, Phoenix, AZ 85027, USA",
-      "phone": "(602) 618-5158",
-      "website": "https://aaamobilityspecialist.com/",
-      "rating": 4.4,
-      "reviews": 91,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Mobility City",
-      "address": "885 E Warner Rd #103, Gilbert, AZ 85296, USA",
-      "phone": "(480) 428-1889",
-      "website": "https://mobilitycity.com/phoenix-az/?utm_campaign=gmb",
-      "rating": 4.7,
-      "reviews": 141,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "United Access",
-      "address": "23606 N 19th Ave Ste 16, Phoenix, AZ 85085, USA",
-      "phone": "(623) 879-0800",
-      "website": "https://www.unitedaccess.com/us/en/locations/phoenix-az.html",
-      "rating": 4.7,
-      "reviews": 93,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Vantage Mobility",
-      "address": "5202 S 28th Pl, Phoenix, AZ 85040, USA",
-      "phone": "(855) 864-8267",
-      "website": "https://www.vantagemobility.com/",
-      "rating": 3.2,
-      "reviews": 58,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "EZmobility Direct",
-      "address": "1070 E Lone Cactus Dr, Phoenix, AZ 85024, USA",
-      "phone": "(866) 719-1666",
-      "website": "https://ezmobilitydirect.com/",
-      "rating": 4.4,
-      "reviews": 103,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Access Medical Wheelchairs",
-      "address": "513 W Thomas Rd, Phoenix, AZ 85013, USA",
-      "phone": "(800) 921-4508",
-      "website": "https://www.accessmedicalrehab.com/",
-      "rating": 5,
-      "reviews": 2,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Phoenix Home Remodeling",
-      "address": "6700 W Chicago St #1, Chandler, AZ 85226, USA",
-      "phone": "(623) 243-8583",
-      "website": "https://phxhomeremodeling.com/?utm_source=google&utm_medium=organic&utm_content=gmb-map&utm_campaign=gmb-map",
-      "rating": 5,
-      "reviews": 132,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Area Agency on Aging, Region One",
-      "address": "1366 E Thomas Rd #108, Phoenix, AZ 85014, USA",
-      "phone": "(602) 264-4357",
-      "website": "http://www.aaaphx.org/",
-      "rating": 3.5,
-      "reviews": 52,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "East Valley Remodeling Inc",
-      "address": "3617 W Morelos St, Chandler, AZ 85226, USA",
-      "phone": "(480) 313-6655",
-      "website": "http://www.remodeleastvalley.com/",
-      "rating": 5,
-      "reviews": 12,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Ace Handyman Services Scottsdale PV",
-      "address": "10210 N 32nd St Ste B4, Phoenix, AZ 85028, USA",
-      "phone": "(602) 607-3623",
-      "website": "https://www.acehandymanservices.com/offices/scottsdale-pv",
-      "rating": 4.9,
-      "reviews": 943,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Valley Remodeling",
-      "address": "2550 N Thunderbird Cir #115, Mesa, AZ 85215, USA",
-      "phone": "(602) 316-9187",
-      "website": "https://www.valleyremodelingaz.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=28ab1742-078d-499e-9205-cee52c060cce",
-      "rating": 4.9,
-      "reviews": 258,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Handled Home Care - Phoenix",
-      "address": "3101 N Central Ave Ste 183 #4461, Phoenix, AZ 85012, USA",
-      "phone": "(602) 456-5998",
-      "website": "https://www.handledcare.com/phoenix-home-care",
-      "rating": 5,
-      "reviews": 40,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Phoenician Home Care",
-      "address": "20860 N Tatum Blvd #300, Phoenix, AZ 85050, USA",
-      "phone": "(480) 714-9883",
-      "website": "https://phoenicianhomecare.com/",
-      "rating": 5,
-      "reviews": 55,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Arizona Home Care and Infusion",
-      "address": "1626 S Edward Dr, Tempe, AZ 85281, USA",
-      "phone": "(602) 252-5000",
-      "website": "https://www.azhomecare.com/",
-      "rating": 4.8,
-      "reviews": 396,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "United Home Health Care Agency",
-      "address": "2828 N Central Ave Ste 806, Phoenix, AZ 85004, USA",
-      "phone": "(480) 300-5655",
-      "website": "",
-      "rating": 4.6,
-      "reviews": 5,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Caring Hearts Home Care Services",
-      "address": "9305 W Thomas Rd #555, Phoenix, AZ 85037, USA",
-      "phone": "(623) 440-4047",
-      "website": "https://www.caringheartsservices.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2952944694774188552",
-      "rating": 5,
-      "reviews": 58,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Sun Valley Home Healthcare",
-      "address": "19820 N 7th St #230, Phoenix, AZ 85024, USA",
-      "phone": "(602) 584-6150",
-      "website": "http://www.sunvalleyhhc.com/",
-      "rating": 5,
-      "reviews": 14,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Firstat Home Health Services",
-      "address": "7330 N 16th St #C117, Phoenix, AZ 85020, USA",
-      "phone": "(602) 279-0000",
-      "website": "http://www.firstat.com/",
-      "rating": 4.8,
-      "reviews": 45,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "FreedomCare ALTCS - Paid Family Care",
-      "address": "300 W Clarendon Ave Ste 317, Phoenix, AZ 85013, USA",
-      "phone": "(480) 741-2048",
-      "website": "https://www.freedomcare.com/",
-      "rating": 4.9,
-      "reviews": 258,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Care Resources",
-      "address": "7600 N 16th St #200, Phoenix, AZ 85020, USA",
-      "phone": "(602) 443-4700",
-      "website": "https://homecareresources.net/",
-      "rating": 4.8,
-      "reviews": 19,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "BrightStar Care",
-      "address": "4515 S McClintock Dr #203, Tempe, AZ 85282, USA",
-      "phone": "(480) 897-1166",
-      "website": "https://www.brightstarcare.com/locations/phoenix-tempe/",
-      "rating": 4.9,
-      "reviews": 151,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Instead, Home Care Services of Phoenix",
-      "address": "1430 E Missouri Ave Ste 200, Phoenix, AZ 85014, USA",
-      "phone": "(602) 858-1703",
-      "website": "https://www.homeinstead.com/home-care/usa/az/phoenix/808/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
-      "rating": 4.8,
-      "reviews": 25,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Instead, Home Care Services of Scottsdale",
-      "address": "6991 E Camelback Rd suite d 300, Scottsdale, AZ 85251, USA",
-      "phone": "(480) 896-6864",
-      "website": "https://www.homeinstead.com/home-care/usa/az/scottsdale/816/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
-      "rating": 5,
-      "reviews": 69,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Granny NANNIES Home Care",
-      "address": "4041 S McClintock Dr Ste 304, Tempe, AZ 85282, USA",
-      "phone": "(602) 438-2273",
-      "website": "https://grannynannies.com/phoenix",
-      "rating": 4.9,
-      "reviews": 30,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Visiting Angels Senior Home Care South Phoenix",
-      "address": "16815 S Desert Foothills Pkwy Ste 123, Phoenix, AZ 85048, USA",
-      "phone": "(480) 886-1165",
-      "website": "https://www.visitingangels.com/southphoenix/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
-      "rating": 5,
-      "reviews": 13,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Caregiving Services",
-      "address": "10000 N 31st Ave C312, Phoenix, AZ 85051, USA",
-      "phone": "(602) 920-9433",
-      "website": "http://www.bestcgservices.com/",
-      "rating": 5,
-      "reviews": 26,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Visiting Angels Senior Home Care",
-      "address": "3509 E Shea Blvd #117j, Phoenix, AZ 85028, USA",
-      "phone": "(602) 726-2189",
-      "website": "https://www.visitingangels.com/northeastphoenix/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
-      "rating": 5,
-      "reviews": 9,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Instead",
-      "address": "14231 N 7th St Ste 7B, Phoenix, AZ 85022, USA",
-      "phone": "(602) 900-9824",
-      "website": "https://www.homeinstead.com/home-care/usa/az/phoenix/837/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
-      "rating": 4.8,
-      "reviews": 89,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Quality Transport Services of Arizona",
-      "address": "2730 W Agua Fria Fwy Ste 102, Phoenix, AZ 85027, USA",
-      "phone": "(602) 371-1000",
-      "website": "http://www.qtsaz.com/",
-      "rating": 3.9,
-      "reviews": 67,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "RideSenior Phoenix",
-      "address": "4539 N 22nd St Ste. N, Phoenix, AZ 85016, USA",
-      "phone": "(825) 343-8998",
-      "website": "https://ridesenior.com/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Seniors Only Services",
-      "address": "44233 W Wade Dr, Maricopa, AZ 85138, USA",
-      "phone": "",
-      "website": "http://seniorsonlyservices.org/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Wanda.Care",
-      "address": "3401 E Elwood St, Phoenix, AZ 85040, USA",
-      "phone": "(855) 735-1222",
-      "website": "http://wanda.care/",
-      "rating": 3.5,
-      "reviews": 11,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Devonshire Senior Center",
-      "address": "2802 E Devonshire Ave, Phoenix, AZ 85016, USA",
-      "phone": "(602) 256-3130",
-      "website": "https://www.phoenix.gov/parks/recreation-and-community-centers/centers-d/devonshire",
-      "rating": 4.5,
-      "reviews": 179,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Mc Dowell Place Senior Center",
-      "address": "1845 E McDowell Rd, Phoenix, AZ 85006, USA",
-      "phone": "(602) 262-1842",
-      "website": "https://www.phoenix.gov/humanservices/programs/older/senior-centers",
-      "rating": 4.5,
-      "reviews": 38,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Phoenix Sunnyslope Senior Center",
-      "address": "802 E Vogel Ave, Phoenix, AZ 85020, USA",
-      "phone": "(602) 262-7572",
-      "website": "https://www.phoenix.gov/parks/recreation-and-community-centers/centers-s/sunnyslope",
-      "rating": 4.6,
-      "reviews": 58,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Shadow Mountain Senior Center",
-      "address": "3546 E Sweetwater Ave, Phoenix, AZ 85032, USA",
-      "phone": "(602) 534-2303",
-      "website": "",
-      "rating": 4.5,
-      "reviews": 86,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Phoenix Deer Valley Senior Center",
-      "address": "2001 W Wahalla Ln, Phoenix, AZ 85027, USA",
-      "phone": "(602) 495-3714",
-      "website": "https://www.phoenix.gov/humanservices/programs/older/senior-centers",
-      "rating": 4.5,
-      "reviews": 42,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Phoenix Desert West Senior Center",
-      "address": "6501 W Virginia Ave, Phoenix, AZ 85035, USA",
-      "phone": "(602) 495-3711",
-      "website": "",
-      "rating": 3.9,
-      "reviews": 19,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Helen Drake Senior Center",
-      "address": "7600 N 27th Ave, Phoenix, AZ 85051, USA",
-      "phone": "(602) 262-4949",
-      "website": "http://helen-center-phoenix.keeq.io/",
-      "rating": 4.5,
-      "reviews": 105,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Adam Diaz Senior Center",
-      "address": "4115 W Thomas Rd, Phoenix, AZ 85019, USA",
-      "phone": "(602) 262-1609",
-      "website": "https://www.phoenix.gov/humanservices/programs/older/senior-centers",
-      "rating": 4.4,
-      "reviews": 60,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Phoenix Paradise Valley Senior",
-      "address": "17402 N 40th St, Phoenix, AZ 85032, USA",
-      "phone": "(602) 495-3785",
-      "website": "http://phoenix.gov/",
-      "rating": 4.6,
-      "reviews": 42,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "South Mountain Senior Center",
-      "address": "212 E Alta Vista Rd, Phoenix, AZ 85042, USA",
-      "phone": "(602) 262-4093",
-      "website": "http://www.phoenix.gov/humanservicessite/Documents/smnwsltr.pdf",
-      "rating": 3.8,
-      "reviews": 6,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Vintage Silver Center",
-      "address": "3909 N 16th St, Phoenix, AZ 85016, USA",
-      "phone": "(602) 492-2170",
-      "website": "https://vintagesilvercenter.org/",
-      "rating": 5,
-      "reviews": 11,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "HonorHealth Desert Mission",
-      "address": "303 E Eva St, Phoenix, AZ 85020, USA",
-      "phone": "(602) 870-6374",
-      "website": "http://www.desertmission.com/programs/adult-day-health-care",
-      "rating": 4.3,
-      "reviews": 6,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "careLOFT (Careloft Day Program)",
-      "address": "21031 N Cave Creek Rd Ste F3, Phoenix, AZ 85024, USA",
-      "phone": "(480) 261-9182",
-      "website": "https://careloft.com/",
-      "rating": 5,
-      "reviews": 2,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "One Special Place",
-      "address": "14602 N Cave Creek Rd C, Phoenix, AZ 85022, USA",
-      "phone": "(602) 992-2533",
-      "website": "",
-      "rating": 4.8,
-      "reviews": 11,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Accel Adult Services",
-      "address": "3310 W Cheryl Dr, Phoenix, AZ 85051, USA",
-      "phone": "(602) 997-2331",
-      "website": "https://www.accel.org/programs/",
-      "rating": 4.7,
-      "reviews": 17,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Foundation For Senior Living",
-      "address": "3620 N 4th Ave, Phoenix, AZ 85013, USA",
-      "phone": "(602) 297-1840",
-      "website": "http://www.fsl.org/",
-      "rating": 4.3,
-      "reviews": 10,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "ArizonAbility Adult Day Program at UCP of Central Arizona",
-      "address": "1802 W Parkside Ln Bldg C, Phoenix, AZ 85027, USA",
-      "phone": "(602) 313-8884",
-      "website": "https://ucpofcentralaz.org/arizonability-adult-day-programs/?utm_source=google&utm_medium=organic&utm_campaign=gbp-arizonability&utm_content=website-button",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Peoria Adult Day Program",
-      "address": "8133 W Cactus Rd, Peoria, AZ 85381, USA",
-      "phone": "(623) 979-7126",
-      "website": "",
-      "rating": 4,
-      "reviews": 2,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Diane And Bruce Halle Adult Day Health Services",
-      "address": "16143 N 67th Ave, Glendale, AZ 85306, USA",
-      "phone": "(602) 532-2983",
-      "website": "",
-      "rating": 5,
-      "reviews": 2,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Mary's Place Memory Care",
-      "address": "14601 N Del Webb Blvd, Sun City, AZ 85351, USA",
-      "phone": "(623) 815-1031",
-      "website": "http://www.benevilla.org/marys-place/",
-      "rating": 4.4,
-      "reviews": 17,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Elder Law of Arizona - Charlotte C. Johnson",
-      "address": "2020 S McClintock Dr #107, Tempe, AZ 85282, USA",
-      "phone": "(602) 358-8606",
-      "website": "http://www.elderlawofaz.com/",
-      "rating": 5,
-      "reviews": 23,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Emily R. Taylor, Attorney PLLC",
-      "address": "1747 E Morten Ave Ste 105, Phoenix, AZ 85020, USA",
-      "phone": "(480) 699-3145",
-      "website": "https://emilytaylorlaw.com/",
-      "rating": 5,
-      "reviews": 150,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Bivens & Associates, PLLC",
-      "address": "8283 Hayden Rd #195, Scottsdale, AZ 85258, USA",
-      "phone": "(480) 922-1010",
-      "website": "http://www.bivenslaw.com/",
-      "rating": 4.8,
-      "reviews": 64,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Law Offices of Paula Hannah, PLC",
-      "address": "4742 N 24th St Suite 300, Phoenix, AZ 85016, USA",
-      "phone": "(602) 922-4010",
-      "website": "https://www.paulahannahlaw.com/?utm_source=Google+My+Business&utm_medium=GMB+profile&utm_campaign=GMB-Website",
-      "rating": 5,
-      "reviews": 144,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Marsha Goodman",
-      "address": "3411 N 5th Ave #307, Phoenix, AZ 85013, USA",
-      "phone": "(602) 710-2209",
-      "website": "https://www.specificlawfirm.com/",
-      "rating": 4.1,
-      "reviews": 18,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Berk Law Group, PC",
-      "address": "14220 N Northsight Blvd #135, Scottsdale, AZ 85260, USA",
-      "phone": "(480) 907-0078",
-      "website": "http://berklawgroup.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "rating": 4.9,
-      "reviews": 88,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Dayes Law Firm",
-      "address": "3101 N Central Ave #1300, Phoenix, AZ 85012, USA",
-      "phone": "(602) 786-5356",
-      "website": "https://dayeslawfirm.com/?utm_source=GBP&utm_medium=GBP&utm_campaign=GBP_Phoenix&utm_id=GBP_Phoenix",
-      "rating": 4.5,
-      "reviews": 219,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Lincoln & Lauer, PLLC",
-      "address": "3514 E Indian School Rd, Phoenix, AZ 85018, USA",
-      "phone": "(602) 955-9555",
-      "website": "http://www.lincolnandlauer.com/",
-      "rating": 4.9,
-      "reviews": 10,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "The Law Office of Jared Russell Causey",
-      "address": "11811 N Tatum Blvd Unit 3031, Phoenix, AZ 85028, USA",
-      "phone": "(602) 529-8049",
-      "website": "",
-      "rating": 5,
-      "reviews": 1,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "JDR LAW PLLC",
-      "address": "13951 N Scottsdale Rd #131, Scottsdale, AZ 85254, USA",
-      "phone": "(602) 877-8780",
-      "website": "https://www.jdrlawaz.com/",
-      "rating": 4.6,
-      "reviews": 10,
-      "cats": [
-        "legal"
-      ]
-    }
-  ],
   "philadelphia-pa": [
     {
       "name": "YR Kitchen & Bath",
@@ -19941,845 +19023,6 @@ const LISTINGS = {
       ]
     }
   ],
-  "seattle-wa": [
-    {
-      "name": "Seattle Bathroom Bathroom Remodeling Experts",
-      "address": "11 Vine St, Seattle, WA 98121, USA",
-      "phone": "(206) 801-8059",
-      "website": "",
-      "rating": 5,
-      "reviews": 6,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Handyman Rescue Team",
-      "address": "600 1st Ave, Seattle, WA 98104, USA",
-      "phone": "(206) 736-3060",
-      "website": "https://handymanrescue.team/",
-      "rating": 4.7,
-      "reviews": 43,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Seattle Bathtub Guy",
-      "address": "4742 42nd Ave SW, Seattle, WA 98116, USA",
-      "phone": "(206) 498-6147",
-      "website": "https://seattlebathtubguy.com/",
-      "rating": 4.9,
-      "reviews": 53,
-      "cats": [
-        "bathroom",
-        "tubs"
-      ]
-    },
-    {
-      "name": "UP:GRADE LLC",
-      "address": "3315 151st St SW, Lynnwood, WA 98087, USA",
-      "phone": "(253) 365-5141",
-      "website": "https://upgrade-enterprise.com/",
-      "rating": 5,
-      "reviews": 15,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "3 Guys Handyman",
-      "address": "1043 S Jackson St Ste 888, Seattle, WA 98104, USA",
-      "phone": "(206) 717-8484",
-      "website": "https://www.cleanpeacela.com/contact",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "bathroom"
-      ]
-    },
-    {
-      "name": "Jacuzzi Bath Remodel of Seattle",
-      "address": "8330 S 259th St, Kent, WA 98030, USA",
-      "phone": "(206) 231-6534",
-      "website": "https://seattlebaths.com/",
-      "rating": 4.6,
-      "reviews": 788,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Fox Bath",
-      "address": "2120 1st Ave N B-5, Seattle, WA 98109, USA",
-      "phone": "(206) 462-0989",
-      "website": "https://fox-bath.com/",
-      "rating": 5,
-      "reviews": 17,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Five Star Bath Solutions Northwest",
-      "address": "Door E, 15300 Woodinville Redmond Rd NE Unit I6, Woodinville, WA 98072, USA",
-      "phone": "(253) 528-4496",
-      "website": "https://fivestarbathsolutionsnorthwest.com/",
-      "rating": 4.9,
-      "reviews": 309,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Seattle Baths",
-      "address": "4172 148th Ave NE, Redmond, WA 98052, USA",
-      "phone": "(425) 345-5194",
-      "website": "https://www.seattlebathremodels.com/",
-      "rating": 4.9,
-      "reviews": 35,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Cardinal Baths",
-      "address": "641 Strander Blvd, Tukwila, WA 98188, USA",
-      "phone": "(253) 321-5757",
-      "website": "https://cardinalbaths.com/",
-      "rating": 5,
-      "reviews": 94,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Seattle Walk In Tubs",
-      "address": "8519 12th Ave NW, Seattle, WA 98117, USA",
-      "phone": "(206) 895-7713",
-      "website": "https://seattlewalkintub.com/",
-      "rating": 1,
-      "reviews": 1,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Renuity Bath of Seattle",
-      "address": "7859 S 180th St, Kent, WA 98032, USA",
-      "phone": "(425) 845-5171",
-      "website": "https://renuityhome.com/washington/bathroom-remodeling-in-seattle-wa/?utm_source=gmb&utm_medium=Yext&y_source=1_NjY1MDE5MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "rating": 4.7,
-      "reviews": 512,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Re-Bath",
-      "address": "11615 NE 116th St Ste 4, Kirkland, WA 98033, USA",
-      "phone": "(425) 842-1552",
-      "website": "https://www.rebath.com/location/seattle/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-      "rating": 4.9,
-      "reviews": 156,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Oasis Bath Solutions",
-      "address": "16301 NE 8th St Ste 240, Bellevue, WA 98008, USA",
-      "phone": "(206) 972-1479",
-      "website": "https://www.oasisbathsolutions.com/service-area/bellevue-bathroom-remodeling",
-      "rating": 4.9,
-      "reviews": 76,
-      "cats": [
-        "tubs"
-      ]
-    },
-    {
-      "name": "Kraus Stair Lifts Group",
-      "address": "2367 Tacoma Ave S Ste 109, Tacoma, WA 98402, USA",
-      "phone": "(253) 400-3348",
-      "website": "https://www.krausstairlifts.com/",
-      "rating": 3.7,
-      "reviews": 6,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "United Access",
-      "address": "12312 134th Ct NE, Redmond, WA 98052, USA",
-      "phone": "(425) 406-8484",
-      "website": "https://www.unitedaccess.com/us/en/locations/redmond-wa.html",
-      "rating": 4.7,
-      "reviews": 43,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "MobilityWorks",
-      "address": "21704 87th Ave SE, Woodinville, WA 98072, USA",
-      "phone": "(425) 880-5063",
-      "website": "https://www.mobilityworks.com/locations/wheelchair-vans-for-sale-in-woodinville-washington/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=woodinville",
-      "rating": 4.4,
-      "reviews": 65,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Wheels For Feet",
-      "address": "1700 Westlake Ave N #200, Seattle, WA 98109, USA",
-      "phone": "(425) 256-3007",
-      "website": "http://www.wheelsforfeet.com/locations/seattle.html",
-      "rating": 4.6,
-      "reviews": 27,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Access Medical Equipment Renton",
-      "address": "4300 Talbot Rd S #106, Renton, WA 98055, USA",
-      "phone": "(425) 517-0973",
-      "website": "http://www.accessmedicalequipment.com/",
-      "rating": 4.5,
-      "reviews": 28,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Numotion",
-      "address": "11620 Airport Rd, Everett, WA 98204, USA",
-      "phone": "(206) 204-3330",
-      "website": "https://www.numotion.com/locations/seattle-wa",
-      "rating": 4.5,
-      "reviews": 540,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Access Medical Equipment",
-      "address": "12730 28th Ave NE, Seattle, WA 98125, USA",
-      "phone": "(206) 208-5850",
-      "website": "http://www.accessmedicalequipment.com/",
-      "rating": 4.5,
-      "reviews": 79,
-      "cats": [
-        "stairs"
-      ]
-    },
-    {
-      "name": "Irons Brothers Construction, Inc.",
-      "address": "14926 Aurora Ave N, Shoreline, WA 98133, USA",
-      "phone": "(206) 306-7767",
-      "website": "http://www.ironsbc.com/",
-      "rating": 4.7,
-      "reviews": 25,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Oleg & Sons Bellevue Home Remodeling",
-      "address": "14205 SE 36th St Suite 100, Bellevue, WA 98006, USA",
-      "phone": "(425) 275-7945",
-      "website": "https://www.olegsonsremodeling.com/",
-      "rating": 5,
-      "reviews": 46,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Topaz Remodeling Inc",
-      "address": "1205 N 10th Pl Apt 2314, Renton, WA 98057, USA",
-      "phone": "(206) 476-5993",
-      "website": "https://topaz-remodeling.com/",
-      "rating": 5,
-      "reviews": 103,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Puzzle Remodeling - Bathroom, Living, Kitchen",
-      "address": "228 Dexter Ave N, Seattle, WA 98109, USA",
-      "phone": "(206) 701-6581",
-      "website": "https://puzzleremodeling.com/",
-      "rating": 4.8,
-      "reviews": 39,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Only Kitchens and Baths",
-      "address": "9406 17th Ave NE, Seattle, WA 98115, USA",
-      "phone": "(360) 361-8666",
-      "website": "https://www.onlykitchensandbath.com/",
-      "rating": 5,
-      "reviews": 12,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "IDA Design & Build Contractor",
-      "address": "20140 84th Pl NE, Bothell, WA 98011, USA",
-      "phone": "(425) 598-9820",
-      "website": "https://idabuilds.com/",
-      "rating": 5,
-      "reviews": 34,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Renewal Remodels & Additions - Mercer Island and Bellevue Remodeler",
-      "address": "3010 77th Ave SE Unit 207, Mercer Island, WA 98040, USA",
-      "phone": "(425) 503-2388",
-      "website": "https://remodelingbyrenewal.com/mercer-island/",
-      "rating": 5,
-      "reviews": 13,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "Puzzle Construction Group",
-      "address": "1511 3rd Ave, Seattle, WA 98101, USA",
-      "phone": "(206) 888-4880",
-      "website": "https://puzzleconstructiongroup.com/",
-      "rating": 4.9,
-      "reviews": 39,
-      "cats": [
-        "remodel"
-      ]
-    },
-    {
-      "name": "A Kind Heart Healthcare Services Seattle",
-      "address": "600 Stewart St Ste 400, Seattle, WA 98101, USA",
-      "phone": "(206) 466-3463",
-      "website": "https://akindheart.info/seattle-wa/",
-      "rating": 5,
-      "reviews": 18,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Instead of Seattle",
-      "address": "3221 Eastlake Ave E Ste 110, Seattle, WA 98102, USA",
-      "phone": "(206) 622-4663",
-      "website": "https://www.homeinstead.com/home-care/usa/wa/seattle/418/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
-      "rating": 4.9,
-      "reviews": 66,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Silver Pacific Home Care & Staffing",
-      "address": "600 Stewart St Ste 400, Seattle, WA 98101, USA",
-      "phone": "(866) 414-3416",
-      "website": "https://www.silverpacifichomecare.com/",
-      "rating": 5,
-      "reviews": 20,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Always Best Care Senior Services - Home Care Services in Seattle",
-      "address": "2915 E Madison St #304, Seattle, WA 98112, USA",
-      "phone": "(206) 922-3795",
-      "website": "https://alwaysbestcare.com/seattle/",
-      "rating": 5,
-      "reviews": 33,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Healthcare Seattle",
-      "address": "4055 Lake Washington Blvd NE #100, Kirkland, WA 98033, USA",
-      "phone": "(206) 312-1886",
-      "website": "https://homehealthcareseattle.com/?utm_campaign=gmb",
-      "rating": 5,
-      "reviews": 8,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Alleva Home Care",
-      "address": "2201 3rd Ave, Seattle, WA 98121, USA",
-      "phone": "(206) 456-2273",
-      "website": "https://www.allevahomecare.com/",
-      "rating": 5,
-      "reviews": 19,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Fedelta Home Care - Seattle",
-      "address": "9725 3rd Ave NE Ste 301, Seattle, WA 98115, USA",
-      "phone": "(206) 681-1464",
-      "website": "https://fedeltahomecare.com/?utm_source=google&utm_medium=organic&utm_campaign=northgate-gbp",
-      "rating": 4.7,
-      "reviews": 72,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "TheKey - Senior Home Care",
-      "address": "150 Nickerson St Ste 106, Seattle, WA 98109, USA",
-      "phone": "(206) 208-8849",
-      "website": "https://thekey.com/puget-sound?utm_source=gmb&utm_medium=Yext",
-      "rating": 4.8,
-      "reviews": 59,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Right at Home",
-      "address": "11222 Roosevelt Way NE, Seattle, WA 98125, USA",
-      "phone": "(206) 774-1100",
-      "website": "https://www.rightathome.net/seattle-eastside/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1070",
-      "rating": 4.5,
-      "reviews": 67,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "A Kind Heart Healthcare Services",
-      "address": "22617 76th Ave W Ste 206, Edmonds, WA 98026, USA",
-      "phone": "(206) 222-6561",
-      "website": "https://akindheart.info/edmonds-wa/",
-      "rating": 4.9,
-      "reviews": 101,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Visiting Angels Senior Home Care",
-      "address": "1455 NW Leary Wy Suite 400, Seattle, WA 98107, USA",
-      "phone": "(206) 258-3680",
-      "website": "https://www.visitingangels.com/seattlewa/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
-      "rating": 5,
-      "reviews": 1,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Visiting Angels Senior Home Care Seattle",
-      "address": "1420 5th Ave #2200A, Seattle, WA 98101, USA",
-      "phone": "(206) 439-2458",
-      "website": "https://www.visitingangels.com/seattle/home?utm_source=gmb&utm_medium=organic&utm_campaign=local",
-      "rating": 3.7,
-      "reviews": 3,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "HomeWell Senior Care",
-      "address": "14419 Greenwood Ave N, Seattle, WA 98133, USA",
-      "phone": "(425) 541-1085",
-      "website": "https://homewellcares.com/in-home-care-wa-seattle-wa118/",
-      "rating": 5,
-      "reviews": 14,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Home Instead",
-      "address": "10202 5th Ave NE, Seattle, WA 98125, USA",
-      "phone": "(206) 825-6956",
-      "website": "https://www.homeinstead.com/home-care/usa/wa/seattle/133/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
-      "rating": 5,
-      "reviews": 4,
-      "cats": [
-        "homecare"
-      ]
-    },
-    {
-      "name": "Volunteer Transportation Service (VTS) - Seattle",
-      "address": "620 S Spokane St, Seattle, WA 98134, USA",
-      "phone": "(206) 448-5740",
-      "website": "https://soundgenerations.org/our-programs/transportation/volunteer-transportation/",
-      "rating": 5,
-      "reviews": 4,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Hyde Shuttles",
-      "address": "620 S Spokane St, Seattle, WA 98134, USA",
-      "phone": "(206) 727-6262",
-      "website": "http://www.soundgenerations.org/our-programs/transportation/hyde-shuttle/",
-      "rating": 3.4,
-      "reviews": 12,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "New Transport Cabulance for Disabled",
-      "address": "16030 WA-527, Mill Creek, WA 98012, USA",
-      "phone": "(425) 741-7474",
-      "website": "https://www.newtransportcab.com/",
-      "rating": 4.9,
-      "reviews": 13,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Beyond Ride",
-      "address": "9030 35th Ave SW Ste 100, Seattle, WA 98126, USA",
-      "phone": "(360) 300-2424",
-      "website": "https://beyondride.com/",
-      "rating": 4.8,
-      "reviews": 17,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Sound Generations",
-      "address": "2208 2nd Ave Ste 100, Seattle, WA 98121, USA",
-      "phone": "(206) 448-3110",
-      "website": "https://www.soundgenerations.org/",
-      "rating": 3.9,
-      "reviews": 40,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Cloud Comfort Ride",
-      "address": "1902 E Yesler Wy Unit 4, Seattle, WA 98122, USA",
-      "phone": "(206) 327-4411",
-      "website": "http://www.cloudmedicaltrans.com/",
-      "rating": 4.9,
-      "reviews": 29,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Care Route Medical Transportation",
-      "address": "4055 Lake Washington Blvd NE #100, Kirkland, WA 98033, USA",
-      "phone": "(425) 250-9898",
-      "website": "https://careroute.net/",
-      "rating": 4.8,
-      "reviews": 40,
-      "cats": [
-        "transport"
-      ]
-    },
-    {
-      "name": "Central Area Senior Center",
-      "address": "500 30th Ave S, Seattle, WA 98144, USA",
-      "phone": "(206) 726-4926",
-      "website": "https://casrcenter.org/",
-      "rating": 4.7,
-      "reviews": 79,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Southeast Seattle Senior Center",
-      "address": "4655 S Holly St, Seattle, WA 98118, USA",
-      "phone": "(206) 722-0317",
-      "website": "http://www.sessc.org/",
-      "rating": 4.7,
-      "reviews": 29,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Greenwood Senior Center",
-      "address": "525 N 85th St, Seattle, WA 98103, USA",
-      "phone": "(206) 297-0875",
-      "website": "https://www.phinneycenter.org/gsc/",
-      "rating": 4.5,
-      "reviews": 104,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Pike Market Senior Center",
-      "address": "85 Pike St #200, Seattle, WA 98101, USA",
-      "phone": "(206) 728-2773",
-      "website": "http://www.pmsc-fb.org/",
-      "rating": 4.6,
-      "reviews": 68,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "The Center for Active Living",
-      "address": "4217 SW Oregon St, Seattle, WA 98116, USA",
-      "phone": "(206) 932-4044",
-      "website": "http://wscenter.org/",
-      "rating": 4.8,
-      "reviews": 99,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Ballard NW Senior Center",
-      "address": "5429 32nd Ave NW, Seattle, WA 98107, USA",
-      "phone": "(206) 297-0403",
-      "website": "http://www.ballardseniorcenter.org/",
-      "rating": 4.6,
-      "reviews": 68,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Wallingford Community Senior Center",
-      "address": "4649 Sunnyside Ave N #140, Seattle, WA 98103, USA",
-      "phone": "(206) 461-7825",
-      "website": "http://www.wallingfordseniors.org/",
-      "rating": 4.8,
-      "reviews": 22,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Lake City Seniors",
-      "address": "12509 27th Ave NE, Seattle, WA 98125, USA",
-      "phone": "(206) 268-6740",
-      "website": "https://lakecityseniors.org/",
-      "rating": 4.4,
-      "reviews": 7,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "South Park Senior Center",
-      "address": "8201 10th Ave S #4, Seattle, WA 98108, USA",
-      "phone": "(206) 767-2544",
-      "website": "http://spseniors.org/",
-      "rating": 4.7,
-      "reviews": 27,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Shoreline Lake Forest Park Senior Center",
-      "address": "18560 1st Ave NE Bldg G, Shoreline, WA 98155, USA",
-      "phone": "(206) 365-1536",
-      "website": "http://shorelineseniorcenter.org/",
-      "rating": 4.6,
-      "reviews": 108,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "SeaTac Adult Daycare Home",
-      "address": "14244 29th Ave S, SeaTac, WA 98168, USA",
-      "phone": "(206) 809-2880",
-      "website": "https://www.joyseatac.com/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Full Life Care North Seattle",
-      "address": "6555 Ravenna Ave NE, Seattle, WA 98115, USA",
-      "phone": "(206) 829-1715",
-      "website": "http://www.fulllifecare.org/",
-      "rating": 4.1,
-      "reviews": 12,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Elderwise",
-      "address": "1021 Columbia St, Seattle, WA 98104, USA",
-      "phone": "(206) 913-1757",
-      "website": "http://www.elderwise.org/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Elder & Adult Day Services",
-      "address": "9723 Coppertop Loop NE, Bainbridge Island, WA 98110, USA",
-      "phone": "(360) 377-9810",
-      "website": "http://www.eads-cares.org/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Northshore Health & Wellness Center",
-      "address": "10212 E Riverside Dr, Bothell, WA 98011, USA",
-      "phone": "(425) 488-4821",
-      "website": "https://www.northshoreseniorcenter.org/adult-day-health-health-wellness-center-monthly-message/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Adult Care Solutions",
-      "address": "934 6th St South Ste 201, Kirkland, WA 98033, USA",
-      "phone": "(425) 941-5163",
-      "website": "https://adultcaresolutions.net/",
-      "rating": 5,
-      "reviews": 35,
-      "cats": [
-        "social"
-      ]
-    },
-    {
-      "name": "Northwest Elder Law Group PLLC",
-      "address": "2150 N 107th St #501, Seattle, WA 98133, USA",
-      "phone": "(206) 937-6102",
-      "website": "http://www.nwelderlaw.com/",
-      "rating": 4.7,
-      "reviews": 105,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Salish Elder Law",
-      "address": "51 W Dayton St #204, Edmonds, WA 98020, USA",
-      "phone": "(425) 492-7212",
-      "website": "https://salishelderlaw.com/",
-      "rating": 5,
-      "reviews": 46,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Washington Elder Law, PLLC",
-      "address": "114 2nd Ave S #103, Edmonds, WA 98020, USA",
-      "phone": "(206) 448-1011",
-      "website": "https://washingtonelderlaw.net/",
-      "rating": 5,
-      "reviews": 3,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Brothers Henderson Durkin, P.S.",
-      "address": "936 N 34th St #200, Seattle, WA 98103, USA",
-      "phone": "(206) 324-4300",
-      "website": "https://www.bhdlaw.com/",
-      "rating": 4.5,
-      "reviews": 16,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "ELG Estate Planning",
-      "address": "9725 3rd Ave NE, Seattle, WA 98115, USA",
-      "phone": "(206) 222-6550",
-      "website": "https://elgwa.com/",
-      "rating": 5,
-      "reviews": 17,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Peggy L. Sanders, Attorney at Law PLLC, Sanders Elder Law",
-      "address": "51 W Dayton St, Edmonds, WA 98020, USA",
-      "phone": "(425) 640-8686",
-      "website": "http://sanderselderlaw.net/",
-      "rating": 4,
-      "reviews": 9,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Stacey Romberg, Attorney at Law",
-      "address": "10115 Greenwood Ave N PMB #275, Seattle, WA 98133, USA",
-      "phone": "(206) 784-5305",
-      "website": "https://staceyromberg.com/",
-      "rating": 4.8,
-      "reviews": 112,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "de Vrieze | Carney PLLC",
-      "address": "3909 California Ave SW, Seattle, WA 98116, USA",
-      "phone": "(206) 938-5500",
-      "website": "http://www.westseattlelaw.com/",
-      "rating": 4.9,
-      "reviews": 16,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Law Offices of Julianne Kocer",
-      "address": "301 NE 100th St #310, Seattle, WA 98125, USA",
-      "phone": "(206) 259-2092",
-      "website": "http://www.kocerlaw.com/",
-      "rating": 3.7,
-      "reviews": 3,
-      "cats": [
-        "legal"
-      ]
-    },
-    {
-      "name": "Elder Law Offices of Lisa Saar, PLLC Bellingham/Seattle, Washington",
-      "address": "5355 Tallman Ave NW Ste 202, Seattle, WA 98107, USA",
-      "phone": "(206) 687-7443",
-      "website": "http://www.lsaarlaw.com/",
-      "rating": null,
-      "reviews": null,
-      "cats": [
-        "legal"
-      ]
-    }
-  ],
   "denver-co": [
     {
       "name": "Bath Fitter",
@@ -28004,6 +26247,1404 @@ const LISTINGS = {
       "cats": [
         "legal"
       ]
+    }
+  ],
+  "detroit-mi": [
+    {
+      "name": "CAPS Remodeling",
+      "address": "33700 Lahser Rd Suite 200, Bloomfield Hills, MI 48301",
+      "phone": "(248) 246-1669",
+      "website": "https://www.capsremodeling.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "stairs", "bathroom", "tubs"]
+    },
+    {
+      "name": "Next Day Access (Detroit, MI)",
+      "address": "15456 Commerce Dr N #600, Dearborn, MI 48120",
+      "phone": "(313) 246-8800",
+      "website": "https://www.nextdayaccess.com/detroit-mi/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom", "tubs"]
+    },
+    {
+      "name": "Handyman Detroit",
+      "address": "32669 23 Mile Rd, New Baltimore, MI 48047",
+      "phone": "(313) 284-4422",
+      "website": "https://www.handymandetroit.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Allied Stairlifts",
+      "address": "Detroit, MI",
+      "phone": "(800) 581-2287",
+      "website": "https://alliedstairlifts.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    },
+    {
+      "name": "Happier At Home",
+      "address": "23600 Woodward Ave Ste 200, Pleasant Ridge, MI 48069",
+      "phone": "(248) 556-3200",
+      "website": "https://happierathome.com/locations/detroit-mi/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Visiting Angels (SW Detroit/Dearborn)",
+      "address": "18500 Outer Dr W Ste 3, Dearborn, MI 48128",
+      "phone": "(313) 272-1207",
+      "website": "https://www.visitingangels.com/dearborn/home",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Touching Angels",
+      "address": "14200 W 8 Mile Rd #47113, Detroit, MI 48237",
+      "phone": "(248) 205-0219",
+      "website": "http://touchingangels.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Bright Path Home Care",
+      "address": "33336 Grand River Ave, Farmington, MI 48336",
+      "phone": "(313) 209-6446",
+      "website": "https://brightpathhomecare.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Detroit Area Agency on Aging",
+      "address": "1333 Brewery Park Blvd #200, Detroit, MI 48207",
+      "phone": "(313) 446-4444",
+      "website": "https://www.detroitseniorsolution.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    }
+  ],
+  "miami-fl": [
+    {
+      "name": "HomePRO Mobility",
+      "address": "7064 SW 47th St, Miami, FL 33155",
+      "phone": "(305) 750-3211",
+      "website": "https://homepromobility.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "tubs", "bathroom"]
+    },
+    {
+      "name": "Nursing Styles",
+      "address": "1111 Brickell Ave Suite 1550, Miami, FL 33131",
+      "phone": "(305) 420-5696",
+      "website": "https://nursingstylesfl.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "stairs"]
+    },
+    {
+      "name": "Trebor General Contractors",
+      "address": "17205 SW 95th Ave, Miami, FL 33157",
+      "phone": "(305) 255-5334",
+      "website": "https://www.treborgeneralcontractors.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel"]
+    },
+    {
+      "name": "Home Instead Assisted Living (Miami)",
+      "address": "Miami, FL",
+      "phone": "(305) 596-4884",
+      "website": "https://homeinsteadassistedliving.com/locations/miami/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "homecare"]
+    },
+    {
+      "name": "Right at Home Miami",
+      "address": "14251 SW 120th St #104, Miami, FL 33186",
+      "phone": "(305) 271-0015",
+      "website": "https://www.rightathome.net/miami",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "SYNERGY HomeCare of Miami",
+      "address": "2332 SW 24th Terrace, Miami, FL 33145",
+      "phone": "(305) 854-1502",
+      "website": "https://synergyhomecare.com/fl-miami-33145/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Senior Helpers Miami",
+      "address": "8603 S Dixie Hwy Suite 207, Miami, FL 33143",
+      "phone": "(305) 662-7300",
+      "website": "https://www.seniorhelpers.com/fl/miami/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Preferred Care at Home of South Miami",
+      "address": "8550 W Flagler St Suite 107, Miami, FL 33144",
+      "phone": "(305) 504-8995",
+      "website": "https://stayathome.com/south-miami",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Alliance for Aging",
+      "address": "760 NW 107th Ave Suite 214, Miami, FL 33172",
+      "phone": "(305) 670-6500",
+      "website": "https://allianceforaging.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    }
+  ],
+  "chesapeake-va": [
+    {
+      "name": "Senior Services of Southeastern Virginia",
+      "address": "6350 Center Dr Bldg 5 #101, Norfolk, VA 23502",
+      "phone": "(757) 461-9481",
+      "website": "https://www.ssseva.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal", "homecare"]
+    },
+    {
+      "name": "Life\u2019s at Home Care",
+      "address": "814 Greenbrier Cir Suite A, Chesapeake, VA 23320",
+      "phone": "(757) 312-0050",
+      "website": "https://lifesathomecare.com/chesapeake-home-care/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare", "transport"]
+    },
+    {
+      "name": "SafeSteps Mobility",
+      "address": "Hampton Roads, VA",
+      "phone": "(757) 404-1644",
+      "website": "https://www.safestepsmobility.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom", "tubs", "stairs"]
+    },
+    {
+      "name": "BrightStar Care of Chesapeake/Virginia Beach",
+      "address": "Chesapeake, VA",
+      "phone": "(757) 227-4047",
+      "website": "https://www.brightstarcare.com/locations/chesapeake-virginia-beach/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Amada Senior Care Chesapeake",
+      "address": "Chesapeake, VA",
+      "phone": "(757) 317-6461",
+      "website": "https://www.amadaseniorcare.com/chesapeake-senior-care/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Visiting Angels Chesapeake",
+      "address": "1545 Crossways Blvd Suite 261, Chesapeake, VA 23320",
+      "phone": "(757) 406-8315",
+      "website": "https://www.visitingangels.com/chesapeake/home",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Hampton Roads Mobility",
+      "address": "2808 Build America Drive, Hampton, VA 23666",
+      "phone": "(757) 848-5884",
+      "website": "https://hamptonroadsmobility.com/pages/expert-stair-lift-chesapeake-va-hampton-roads-mobility",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    },
+    {
+      "name": "Stairlift Virginia",
+      "address": "2806 Build America Dr, Hampton, VA 23666",
+      "phone": "(757) 972-2571",
+      "website": "https://stairliftvirginia.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    }
+  ],
+  "virginia-beach-va": [
+    {
+      "name": "All American Mobility",
+      "address": "3345 Virginia Beach Blvd, Virginia Beach, VA 23452",
+      "phone": "(757) 306-1101",
+      "website": "https://www.allamericanmobility.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom", "remodel"]
+    },
+    {
+      "name": "Seniors Helping Seniors Virginia Beach",
+      "address": "Virginia Beach, VA",
+      "phone": "(757) 704-5310",
+      "website": "https://locations.seniorshelpingseniors.com/va/virginiabeach/92.html",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare", "transport"]
+    },
+    {
+      "name": "Mr. Handyman of Virginia Beach",
+      "address": "Virginia Beach, VA",
+      "phone": "(757) 932-3535",
+      "website": "https://www.mrhandyman.com/virginia-beach/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom"]
+    },
+    {
+      "name": "Home Instead Virginia Beach",
+      "address": "751 Independence Circle Suite 204, Virginia Beach, VA 23455",
+      "phone": "(757) 631-7744",
+      "website": "https://www.homeinstead.com/home-care/usa/va/virginia-beach/481/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Senior Helpers of Virginia Beach",
+      "address": "2933 Virginia Beach Blvd, Virginia Beach, VA 23452",
+      "phone": "(757) 578-9628",
+      "website": "https://www.seniorhelpers.com/va/virginia-beach/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Care Advantage Virginia Beach",
+      "address": "800 Newtown Road, Suite 106, Virginia Beach, VA 23462",
+      "phone": "(757) 436-1711",
+      "website": "https://careadvantageinc.com/in-home-care-chesapeake",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Comfort Keepers Virginia Beach",
+      "address": "1213 Laskin Rd Unit 207, Virginia Beach, VA 23451",
+      "phone": "(757) 689-8189",
+      "website": "https://www.comfortkeepers.com/offices/virginia/virginia-beach/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Marjos Complete Remodeling",
+      "address": "1045 Laskin Rd #C, Virginia Beach, VA 23451",
+      "phone": "(757) 425-2284",
+      "website": "https://www.marjos.com/aging-in-place",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "McDrake Remodeling",
+      "address": "5719 Arrowhead Dr, Virginia Beach, VA 23462",
+      "phone": "(757) 648-8868",
+      "website": "https://mcdrakeremodeling.com/virginia-beach-remodeling-contractor/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    }
+  ],
+  "norfolk-va": [
+    {
+      "name": "MobilityWorks Norfolk",
+      "address": "1055 Kempsville Rd, Norfolk, VA 23502",
+      "phone": "(757) 459-2500",
+      "website": "https://home.mobilityworks.com/locations/norfolk-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Reico Kitchen & Bath Norfolk",
+      "address": "1200 Azalea Garden Rd, Norfolk, VA 23502",
+      "phone": "(757) 853-4331",
+      "website": "https://www.reico.com/norfolk-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Visiting Angels Norfolk",
+      "address": "273 Granby St Suite 200, Norfolk, VA 23510",
+      "phone": "(757) 525-2525",
+      "website": "https://www.visitingangels.com/norfolk/home",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Always Best Care Senior Services - Norfolk",
+      "address": "5660 E Virginia Beach Blvd Suite 203, Norfolk, VA 23502",
+      "phone": "(757) 802-4080",
+      "website": "https://alwaysbestcare.com/norfolk/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    }
+  ],
+  "suffolk-va": [
+    {
+      "name": "Sentara Obici Hospital - Senior Services",
+      "address": "2800 Godwin Blvd, Suffolk, VA 23434",
+      "phone": "(757) 934-4000",
+      "website": "https://www.sentara.com/locations/obici-hospital",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "homecare"]
+    },
+    {
+      "name": "Right at Home Peninsula",
+      "address": "Suffolk, VA",
+      "phone": "(757) 325-9615",
+      "website": "https://www.rightathome.net/peninsula",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Home Instead Suffolk",
+      "address": "2000 Hillpoint Blvd N, Suffolk, VA 23434",
+      "phone": "(757) 774-5051",
+      "website": "https://www.homeinstead.com/home-care/usa/va/suffolk/712/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Sentara Home Care Services - Suffolk",
+      "address": "154 Burnetts Way, Suite 102, Suffolk, VA 23434",
+      "phone": "(757) 983-1900",
+      "website": "https://www.sentara.com/hospitalslocations/sentara-home-care-suffolk",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    }
+  ],
+  "richmond-va": [
+    {
+      "name": "Re-Bath Richmond",
+      "address": "2500 Gaskins Rd, Henrico, VA 23238",
+      "phone": "(804) 273-9003",
+      "website": "https://www.rebath.com/location/richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["tubs", "bathroom"]
+    },
+    {
+      "name": "Tyson Home Repairs",
+      "address": "Richmond, VA",
+      "phone": "(804) 432-1596",
+      "website": "https://tysonhomerepairs.com/services/handicap-accessibility-remodeling/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Project HOMES",
+      "address": "8841 Whitepine Rd, Richmond, VA 23237",
+      "phone": "(804) 233-2827",
+      "website": "https://www.projecthomes.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel"]
+    },
+    {
+      "name": "SeniorNavigator",
+      "address": "7501 Boulders View Dr Suite 201, Richmond, VA 23225",
+      "phone": "(804) 525-7728",
+      "website": "https://seniornavigator.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "legal"]
+    },
+    {
+      "name": "Visiting Angels Richmond",
+      "address": "7840 Forest Hill Ave, Suite F, Richmond, VA 23225",
+      "phone": "(804) 423-6500",
+      "website": "https://www.visitingangels.com/richmondva/home",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "101 Mobility of Richmond",
+      "address": "7605 Compton Rd, Suite B, Richmond, VA 23228",
+      "phone": "(804) 552-5671",
+      "website": "https://www.101mobility.com/richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Amramp Accessibility of Richmond",
+      "address": "401 Dabbs House Rd, Richmond, VA 23223",
+      "phone": "(804) 626-5038",
+      "website": "https://amramp.com/central-virginia/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Senior Connections, Capital Area Agency on Aging",
+      "address": "24 E Cary St, Richmond, VA 23219",
+      "phone": "(804) 343-3000",
+      "website": "https://seniorconnections-va.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "legal", "homecare"]
+    },
+    {
+      "name": "Home Helpers Home Care of Richmond & Henrico",
+      "address": "2565 Homeview Dr, Henrico, VA 23294",
+      "phone": "(804) 864-4258",
+      "website": "https://homehelpershomecare.com/richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Assisting Hands Home Care Richmond",
+      "address": "1606 Santa Rosa Rd, Suite 125, Henrico, VA 23229",
+      "phone": "(804) 500-9787",
+      "website": "https://assistinghandsrichmond.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Right at Home Richmond",
+      "address": "1100 Welborne Dr, Ste 203A, Richmond, VA 23229",
+      "phone": "(804) 696-6636",
+      "website": "https://www.rightathome.net/north-richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Always Best Care Senior Services (Glen Allen)",
+      "address": "4870 Sadler Rd, Suite 300, Glen Allen, VA 23060",
+      "phone": "(804) 368-3200",
+      "website": "https://alwaysbestcare.com/glen-allen/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Lifeway Mobility Richmond",
+      "address": "Midlothian, VA 23113",
+      "phone": "(804) 534-1585",
+      "website": "https://www.lifewaymobility.com/richmond-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Comfort Keepers Richmond",
+      "address": "10833 Ridgefield Pkwy, Henrico, VA 23238",
+      "phone": "(804) 750-1123",
+      "website": "https://www.comfortkeepers.com/offices/virginia/richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Next Day Access Richmond",
+      "address": "3903 Castlewood Rd, Richmond, VA 23234",
+      "phone": "(804) 597-6723",
+      "website": "https://www.nextdayaccess.com/richmond-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Senior Helpers of Richmond",
+      "address": "9165 Atlee Rd, Mechanicsville, VA 23116",
+      "phone": "(804) 277-2780",
+      "website": "https://www.seniorhelpers.com/va/richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Home Instead Richmond",
+      "address": "4900 Cox Rd Suite 245, Glen Allen, VA 23060",
+      "phone": "(804) 527-1100",
+      "website": "https://www.homeinstead.com/home-care/usa/va/richmond/189/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "TheKey - Richmond Home Care Assistance",
+      "address": "3900 Westerre Pkwy, Suite 300, Richmond, VA 23233",
+      "phone": "(804) 741-0009",
+      "website": "https://thekey.com/locations/virginia/richmond",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "SYNERGY HomeCare of Richmond",
+      "address": "11159 Air Park Rd, Suite 4, Ashland, VA 23005",
+      "phone": "(804) 299-3479",
+      "website": "https://synergyhomecare.com/va-richmond-23005/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Life’s at Home Care (Richmond)",
+      "address": "1806 Summit Ave, Suite 112, Richmond, VA 23230",
+      "phone": "(804) 396-6000",
+      "website": "https://lifesathomecare.com/richmond-home-care/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "JFS Richmond",
+      "address": "6718 Patterson Ave, Richmond, VA 23226",
+      "phone": "(804) 282-5644",
+      "website": "https://jfsrichmond.org/care/home-care/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Leo Lantz Construction",
+      "address": "11671 Greenwood Rd, Glen Allen, VA 23059",
+      "phone": "(804) 262-3360",
+      "website": "https://leolantz.com/services-old/aging-in-place-remodeling/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel"]
+    },
+    {
+      "name": "BrightStar Care of Richmond",
+      "address": "2221 Pump Road, Henrico, VA 23233",
+      "phone": "(804) 378-8686",
+      "website": "https://www.brightstarcare.com/locations/richmond/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Interim HealthCare of Richmond",
+      "address": "720 Moorefield Park Dr, Suite 301, Richmond, VA 23236",
+      "phone": "(804) 340-6455",
+      "website": "https://www.interimhealthcare.com/location/richmond-va",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Coastal Contracting",
+      "address": "4908 J Dominion Blvd, Glen Allen, VA 23060",
+      "phone": "(804) 885-2205",
+      "website": "https://coastalcontract.com/aging-in-place-ada-remodeling/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "tubs", "stairs"]
+    },
+    {
+      "name": "MobilityWorks @home - Richmond VA",
+      "address": "7450 Midlothian Turnpike, Richmond, VA 23225",
+      "phone": "(877) 275-4903",
+      "website": "https://home.mobilityworks.com/locations/richmond-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    },
+    {
+      "name": "Amada Senior Care Richmond",
+      "address": "6800 Paragon Place, Richmond, VA 23230",
+      "phone": "(804) 793-8255",
+      "website": "https://www.amadaseniorcare.com/richmond-senior-care/location-information/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Always Best Care of Midlothian and Richmond",
+      "address": "10810 Hasty Lane, Suite 103, Midlothian, VA 23112",
+      "phone": "(804) 912-5688",
+      "website": "https://alwaysbestcare.com/midlothian/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "National Seating & Mobility (Richmond)",
+      "address": "3941 Deep Rock Rd, Richmond, VA 23233",
+      "phone": "(844) 772-1170",
+      "website": "https://locations.nsm-seating.com/va/richmond/3941-deep-rock-rd",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    },
+    {
+      "name": "Commonwise Home Care - Richmond",
+      "address": "14321 Winter Breeze Dr #352, Midlothian, VA 23113",
+      "phone": "(804) 401-8326",
+      "website": "https://www.commonwisecare.com/richmond",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "BAYADA Personal and Companion Care - Henrico County",
+      "address": "5516 Falmouth Street, Suite 101, Richmond, VA 23230",
+      "phone": "(804) 793-9763",
+      "website": "https://www.bayada.com/office/va/richmond/personal-and-companion-care/henrico-county-32244",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Care Advantage, Inc. Corporate Office",
+      "address": "1051 E Cary Street, Suite 910, Richmond, VA 23219",
+      "phone": "(804) 323-9464",
+      "website": "https://www.careadvantageinc.com/locations/virginia/cai-corporate-office/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "HomeKeepers, LLC",
+      "address": "8501 Patterson Avenue, Richmond, VA 23229",
+      "phone": "(804) 750-1166",
+      "website": "https://hkrva.com/services/accessibility-modifications/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "stairs"]
+    }
+  ],
+  "alexandria-va": [
+    {
+      "name": "Senior Services of Alexandria",
+      "address": "206 N Washington St Suite 301, Alexandria, VA 22314",
+      "phone": "(703) 836-4414",
+      "website": "https://seniorservicesalex.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "homecare"]
+    },
+    {
+      "name": "DOT Paratransit (Alexandria)",
+      "address": "Alexandria, VA",
+      "phone": "(703) 746-4079",
+      "website": "https://www.alexandriava.gov/DOT",
+      "rating": null,
+      "reviews": null,
+      "cats": ["transport"]
+    },
+    {
+      "name": "Alexandria Division of Aging and Adult Services",
+      "address": "4850 Mark Center Dr, Alexandria, VA 22311",
+      "phone": "(703) 746-5999",
+      "website": "https://www.alexandriava.gov/Aging",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "legal", "homecare"]
+    },
+    {
+      "name": "Home Instead (Falls Church/Alexandria)",
+      "address": "103 W Broad St, Suite 300, Falls Church, VA 22046",
+      "phone": "(703) 533-7368",
+      "website": "https://www.homeinstead.com/home-care/usa/va/falls-church/512/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Schroeder Design/Build",
+      "address": "3918 Prosperity Ave, Suite 100, Fairfax, VA 22031",
+      "phone": "(703) 449-1700",
+      "website": "https://schroederdesignbuild.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Sage Construction",
+      "address": "2975 Prosperity Ave, Fairfax, VA 22031",
+      "phone": "(703) 208-4425",
+      "website": "https://www.sageconstruction.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "AAA Home Care",
+      "address": "7906 Andrus Rd, Suite 7, Alexandria, VA 22306",
+      "phone": "(703) 827-3757",
+      "website": "https://aaahomecarellc.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Foster Remodeling Solutions",
+      "address": "111 S Alfred St, Alexandria, VA 22314",
+      "phone": "(703) 972-1466",
+      "website": "https://fosterremodeling.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Northwood Construction",
+      "address": "506 Shaw Rd, #322, Sterling, VA 20166",
+      "phone": "(703) 481-3325",
+      "website": "https://northwoodconstruction.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "DNA Remodeling Services",
+      "address": "3060 Williams Dr, Suite 3054, Fairfax, VA 22031",
+      "phone": "(571) 609-5780",
+      "website": "https://dnaremodelingservices.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Pond Roofing & Exteriors",
+      "address": "2985 Prosperity Ave, Fairfax, VA 22031",
+      "phone": "(703) 573-8000",
+      "website": "https://www.pondroofing.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "G&A General Contractors",
+      "address": "6731 Whittier Ave, Suite B-233, McLean, VA 22101",
+      "phone": "(703) 637-3511",
+      "website": "https://gandageneralcontractors.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Senior Helpers of Arlington/Alexandria",
+      "address": "7910 Andrus Rd, Suite 16, Alexandria, VA 22306",
+      "phone": "(571) 457-4894",
+      "website": "https://www.seniorhelpers.com/va/arlington-alexandria/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Comfort Keepers Alexandria",
+      "address": "709 Pendleton St Suite 102, Alexandria, VA 22314",
+      "phone": "(855) 554-4400",
+      "website": "https://www.comfortkeepers.com/offices/virginia/alexandria/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Visiting Angels Alexandria",
+      "address": "Alexandria, VA",
+      "phone": "(703) 333-5086",
+      "website": "https://www.visitingangels.com/alexandria/home",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Mobility City of Fairfax County",
+      "address": "5586 General Washington Dr, Alexandria, VA 22312",
+      "phone": "(571) 536-2255",
+      "website": "https://mobilitycity.com/alexandria-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Access Home Care",
+      "address": "8850 Richmond Hwy, Suite 202, Alexandria, VA 22309",
+      "phone": "(703) 765-9350",
+      "website": "https://www.accesshomecareinc.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Always Best Care of Alexandria",
+      "address": "630 N Washington St, Suite B, Alexandria, VA 22314",
+      "phone": "(703) 424-9768",
+      "website": "https://alwaysbestcare.com/alexandria/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "SYNERGY HomeCare of Arlington/Alexandria",
+      "address": "3101 Wilson Blvd, Ste. 500, Arlington, VA 22201",
+      "phone": "(703) 558-3435",
+      "website": "https://synergyhomecare.com/va-arlington-22201/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Sun Design - McLean",
+      "address": "6862 Elm St, Ste 750, McLean, VA 22101",
+      "phone": "(703) 425-5588",
+      "website": "https://sundesigninc.com/portfolio/aging-in-place/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Hancomm Remodeling Services",
+      "address": "209 Madison St, Suite 320B, Alexandria, VA 22314",
+      "phone": "(703) 201-8917",
+      "website": "https://hancommremodeling.com/walk-in-tubs/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "tubs"]
+    },
+    {
+      "name": "Assisting Hands Home Care Reston",
+      "address": "11890 Sunrise Valley Drive, Suite 105, Reston, VA 20191",
+      "phone": "(703) 556-8983",
+      "website": "https://assistinghandsreston.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Lifeway Mobility Northern Virginia",
+      "address": "43923 Centergate Dr, Ashburn, VA 20148",
+      "phone": "(202) 800-8334",
+      "website": "https://www.lifewaymobility.com/northern-virginia/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    },
+    {
+      "name": "Main Street Home Improvement",
+      "address": "386 Maple Ave E, Suite 10-A, Vienna, VA 22180",
+      "phone": "(703) 587-7762",
+      "website": "https://mainstreet-home-improvement.com/aging-in-place-remodeling-northern-virginia/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Custom Home Elements",
+      "address": "11921 Freedom Dr, Reston, VA 20190",
+      "phone": "(703) 327-1100",
+      "website": "https://homeelement.com/aging-in-place-remodeling-northern-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "tubs", "stairs"]
+    },
+    {
+      "name": "Capital City Nurses - Alexandria, VA Office",
+      "address": "5568 General Washington Drive, Suite A-211, Alexandria, VA 22312",
+      "phone": "(703) 750-3170",
+      "website": "https://www.careadvantageinc.com/capital-city-nurses/areas-we-serve/virginia/alexandria/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Home Helpers Home Care of East Alexandria, VA",
+      "address": "5510 Cherokee Ave, Suite 300-N 20, Alexandria, VA 22312",
+      "phone": "(571) 497-4321",
+      "website": "https://homehelpershomecare.com/east-alexandria-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Griswold Home Care for Northern Virginia East",
+      "address": "105 Oronoco Street, Suite 100, Alexandria, VA 22314",
+      "phone": "(703) 739-2273",
+      "website": "https://www.griswoldcare.com/northern-virginia-east/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    }
+  ],
+  "roanoke-va": [
+    {
+      "name": "EZ Mobility Solutions Roanoke",
+      "address": "Roanoke, VA",
+      "phone": "(855) 357-7611",
+      "website": "https://ezmobilitysolutions.com/coverage-areas/virginia/roanoke/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "TruBlue of Roanoke",
+      "address": "Roanoke, VA",
+      "phone": "(540) 251-5100",
+      "website": "https://www.trublueally.com/roanoke/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Companion Home Care Inc",
+      "address": "210 E Main St, Salem, VA 24153",
+      "phone": "(540) 981-2255",
+      "website": "https://www.companionhomecareofva.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Visiting Angels Roanoke",
+      "address": "3959 Electric Rd, Suite 204, Roanoke, VA 24018",
+      "phone": "(540) 904-7104",
+      "website": "https://www.visitingangels.com/roanokeva/home",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Helpful Hands Homecare Services",
+      "address": "2302 Colonial Ave, Suite D, Roanoke, VA 24015",
+      "phone": "(540) 342-3434",
+      "website": "https://helpfulhands.net/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Local Office on Aging",
+      "address": "4932 Frontage Rd NW, Roanoke, VA 24019",
+      "phone": "(540) 345-0451",
+      "website": "https://www.loaa.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    },
+    {
+      "name": "National Seating & Mobility (Roanoke)",
+      "address": "1871 Dillard Dr, Salem, VA 24153",
+      "phone": "(540) 682-2430",
+      "website": "https://locations.nsm-seating.com/va/salem/1871-dillard-drive",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Senior Remodeling Experts",
+      "address": "1371 Southside Dr, Ste D, Salem, VA 24153",
+      "phone": "(540) 384-2064",
+      "website": "https://seniorremodelingexperts.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Home Instead Roanoke",
+      "address": "6349 Peters Creek Rd, Roanoke, VA 24019",
+      "phone": "(540) 966-3399",
+      "website": "https://www.homeinstead.com/home-care/usa/va/roanoke/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "BrightStar Care Roanoke",
+      "address": "Roanoke, VA",
+      "phone": "(540) 566-5888",
+      "website": "https://www.brightstarcare.com/locations/roanoke/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Cornerstone Caregiving Roanoke",
+      "address": "Roanoke, VA",
+      "phone": "(540) 240-9699",
+      "website": "https://cornerstonecaregiving.com/locations/roanoke-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "F&S Building Innovations",
+      "address": "2944 Orange Ave NE, Roanoke, VA 24012",
+      "phone": "(540) 985-9160",
+      "website": "https://fsfourseasons.com/accessibility-solutions-roanoke/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "stairs"]
+    },
+    {
+      "name": "No Place Like Home Remodeling",
+      "address": "815 Brandon Ave SW, Roanoke, VA 24015",
+      "phone": "(540) 529-7526",
+      "website": "https://www.noplacelikehomeroanoke.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "stairs"]
+    },
+    {
+      "name": "Ombi Home Care Services, LLC",
+      "address": "5312 Peters Creek Rd, Suite C, Roanoke, VA 24019",
+      "phone": "(540) 206-2543",
+      "website": "https://ombihomecareservices.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Care Advantage - Roanoke, VA Office",
+      "address": "212 E Main St, Salem, VA 24153",
+      "phone": "(540) 343-2273",
+      "website": "https://www.careadvantageinc.com/care-advantage/areas-we-serve/virginia/roanoke/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Building Specialists, Inc.",
+      "address": "114 Day Ave, Roanoke, VA 24016",
+      "phone": "(540) 982-8200",
+      "website": "https://bsiva.com/aging-in-place-and-doing-it-right/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "ADL - Advances for Daily Living",
+      "address": "5215 Starkey Rd, Roanoke, VA 24018",
+      "phone": "(540) 353-5869",
+      "website": "https://www.stairliftsadl.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs"]
+    },
+    {
+      "name": "Interim HealthCare of Salem (Roanoke)",
+      "address": "1013 E. Main St., Salem, VA 24153",
+      "phone": "(540) 774-8686",
+      "website": "https://www.interimhealthcare.com/location/salem-va",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Amedisys Home Health Care (1731)",
+      "address": "5221 Valley Park Drive, Suite 1A, Roanoke, VA 24019",
+      "phone": "(540) 265-5980",
+      "website": "https://locations.amedisys.com/va/roanoke/home-health-1731/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Potter Construction",
+      "address": "PO Box 8803, Roanoke, VA 24014",
+      "phone": "(540) 466-1321",
+      "website": "https://www.potterconstructionllc.com/potter-construction---home-page/resources/aging-in-place",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "tubs"]
+    },
+    {
+      "name": "TheKey Home Care - Roanoke",
+      "address": "1133 2nd St SW, Roanoke, VA 24016",
+      "phone": "(540) 776-3622",
+      "website": "https://thekey.com/locations/roanoke",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Maxim Healthcare - Roanoke, VA Regional Office",
+      "address": "1332 Plantation Road, Roanoke, VA 24012",
+      "phone": "(540) 725-1572",
+      "website": "https://www.maximhealthcare.com/maxim-healthcare-locations/roanoke-va-regional-office/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Enhabit Home Health - Roanoke, VA",
+      "address": "6701 Peters Creek Rd, Suite 100, Roanoke, VA 24019",
+      "phone": "(540) 774-4970",
+      "website": "https://www.enhabit.com/location/roa-roanoke-va/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    }
+  ],
+  "atlanta-ga": [
+    {
+      "name": "Atlanta Home Modifications, LLC",
+      "address": "Atlanta, GA",
+      "phone": "(770) 880-3405",
+      "website": "https://aginginplace-remodeling.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom", "remodel"]
+    },
+    {
+      "name": "House Doctors of North Fulton",
+      "address": "Alpharetta, GA",
+      "phone": "(770) 569-0010",
+      "website": "https://housedoctors.com/north-fulton/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom", "remodel"]
+    },
+    {
+      "name": "Helping Hands In Home Care",
+      "address": "2900 Chamblee Tucker Rd, Atlanta, GA 30341",
+      "phone": "(678) 546-5660",
+      "website": "https://www.helpinghands24hr.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Empowerline (Atlanta Regional Commission)",
+      "address": "229 Peachtree St NE Suite 100, Atlanta, GA 30303",
+      "phone": "(404) 463-3333",
+      "website": "https://empowerline.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    },
+    {
+      "name": "Synergy HomeCare of North Atlanta",
+      "address": "Atlanta, GA",
+      "phone": "(770) 777-4402",
+      "website": "https://synergyhomecare.com/ga-atlanta-30350/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    }
+  ],
+  "minneapolis-mn": [
+    {
+      "name": "Porchlight at Home",
+      "address": "Minneapolis, MN",
+      "phone": "(612) 360-2646",
+      "website": "https://porchlightathome.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom", "tubs", "stairs"]
+    },
+    {
+      "name": "Home Instead (Minneapolis)",
+      "address": "9445 Science Center Dr, New Hope, MN 55428",
+      "phone": "(763) 544-5988",
+      "website": "https://www.homeinstead.com/location/150/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Trellis (Senior LinkAge Line)",
+      "address": "1265 Grey Fox Rd, Arden Hills, MN 55112",
+      "phone": "(800) 333-2433",
+      "website": "https://trellisconnects.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "legal", "transport"]
+    }
+  ],
+  "saint-paul-mn": [
+    {
+      "name": "Lifeway Mobility Twin Cities",
+      "address": "3235 Neil Armstrong Blvd #100, Eagan, MN 55121",
+      "phone": "(651) 237-5674",
+      "website": "https://www.lifewaymobility.com/twin-cities/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
+    },
+    {
+      "name": "Metropolitan Area Agency on Aging",
+      "address": "1265 Grey Fox Rd, Arden Hills, MN 55112",
+      "phone": "(651) 641-8612",
+      "website": "https://metroaging.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    }
+  ],
+  "portland-or": [
+    {
+      "name": "Cooper Design Builders",
+      "address": "1447 NE Sandy Blvd, Portland, OR 97232",
+      "phone": "(503) 282-0545",
+      "website": "https://cooperdesignbuilders.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel"]
+    },
+    {
+      "name": "HomeSafe Living Solutions",
+      "address": "Portland, OR",
+      "phone": "(503) 455-8314",
+      "website": "https://homesafelivingsolutions.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom", "stairs"]
+    },
+    {
+      "name": "Home Helpers Home Care of Portland",
+      "address": "Portland, OR",
+      "phone": "(503) 483-8913",
+      "website": "https://www.homehelpershomecare.com/portland-or/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Multnomah County Aging, Disability & Veterans Services",
+      "address": "209 SW 4th Ave, Portland, OR 97204",
+      "phone": "(503) 988-3646",
+      "website": "https://multco.us/ads",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    },
+    {
+      "name": "Seniors Helping Seniors (Portland)",
+      "address": "Portland, OR",
+      "phone": "(503) 536-3908",
+      "website": "https://seniorshelpingseniors.com/portland/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare", "transport"]
+    }
+  ],
+  "phoenix-az": [
+    {
+      "name": "Arizona Grab Bar",
+      "address": "11536 W Bighorn Ct, Surprise, AZ 85378",
+      "phone": "(602) 456-9411",
+      "website": "https://www.arizonagrabbar.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom"]
+    },
+    {
+      "name": "Mr. Handyman of Scottsdale",
+      "address": "7678 E Greenway Rd Ste 101, Scottsdale, AZ 85260",
+      "phone": "(602) 632-0877",
+      "website": "https://www.mrhandyman.com/scottsdale/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["bathroom"]
+    },
+    {
+      "name": "Porchlight at Home (Phoenix)",
+      "address": "Phoenix, AZ",
+      "phone": "(602) 833-2827",
+      "website": "https://porchlightathome.com/locations/phoenix/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom", "stairs"]
+    },
+    {
+      "name": "Home Instead (Phoenix)",
+      "address": "Phoenix, AZ",
+      "phone": "(602) 264-4357",
+      "website": "https://www.homeinstead.com/location/150/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Area Agency on Aging, Region One",
+      "address": "1366 E Thomas Rd #108, Phoenix, AZ 85014",
+      "phone": "(602) 264-4357",
+      "website": "https://www.aaaphx.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal"]
+    }
+  ],
+  "seattle-wa": [
+    {
+      "name": "Better Builders",
+      "address": "4800 California Ave SW, Seattle, WA 98116",
+      "phone": "(206) 588-2075",
+      "website": "https://www.betterbuilders.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Pathway Design + Construction",
+      "address": "Seattle, WA",
+      "phone": "(206) 453-2943",
+      "website": "https://pathwaydc.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["remodel", "bathroom"]
+    },
+    {
+      "name": "Seattle/King County Aging and Disability Services",
+      "address": "700 5th Ave 58th Floor, Seattle, WA 98104",
+      "phone": "(206) 684-0660",
+      "website": "https://www.agingkingcounty.org/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["social", "transport", "legal", "homecare"]
+    },
+    {
+      "name": "Home Instead (Seattle)",
+      "address": "2505 3rd Ave Suite 300, Seattle, WA 98121",
+      "phone": "(206) 622-4663",
+      "website": "https://www.homeinstead.com/location/150/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["homecare"]
+    },
+    {
+      "name": "Northwest Access",
+      "address": "Seattle, WA",
+      "phone": "(425) 242-5353",
+      "website": "https://northwestaccess.com/",
+      "rating": null,
+      "reviews": null,
+      "cats": ["stairs", "bathroom"]
     }
   ]
 };
