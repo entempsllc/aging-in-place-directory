@@ -54,3 +54,10 @@ for (const file of walk(root)) {
 }
 
 console.log(`Wrote ${Object.keys(listings).length} city payloads; checked ${pagesChanged} public pages.`);
+
+// Bake listings into the static city pages so non-JS crawlers can see them.
+const prerenderScript = path.join(__dirname, 'prerender-listings.js');
+if (fs.existsSync(prerenderScript)) {
+  const { pages, total } = require(prerenderScript).prerenderAll();
+  console.log(`Prerendered ${total} listings into ${pages} city pages.`);
+}
