@@ -503,3 +503,11 @@ Monitor GSC for indexing of new/updated metros. Prepare next major metro (maybe 
 - The latest previously verified local state remains 2,521 canonical records; this run did not independently re-count it.
 - Next highest-value task: pause further listing accumulation until the 2,521-record local state is reconciled onto authoritative `origin/main`, then reserve enough runtime to complete exactly ten first-party-verified additions, portable evidence, deterministic shard generation, normalized duplicate checks, and all Node/Python suites atomically.
 
+
+### 2026-10-13 — Static listings prerender + city-page cleanup (Claude, via PR — not yet merged)
+
+- Added `scripts/prerender-listings.js`; `scripts/split-listings.js` now calls it, so every city page ships its listings (and an `itemlist-schema` JSON-LD block) in static HTML between `<!-- prerendered-listings:start/end -->` markers. `site.js` still re-renders client-side for filters with identical markup. Rerun `node scripts/split-listings.js` after any `listings-data.js` change or the static copy goes stale.
+- Removed the duplicated short "What aging-in-place work costs" section on 37 city pages (it said "two" quotes while the kept section and hiring list say "three"); its unique sentence about allowances/exclusions was merged into the kept section.
+- Homepage meta description updated from 35 to 48 U.S. cities; `test_homepage_describes_current_directory_scope_accurately` updated to match.
+- Tests: all Node suites pass incl. new `tests/prerender-listings.test.js`. Python suite: same 4 failures that already fail on `origin/main` before this change (policy links on featured-badge.html, guide datePublished, curated-noindex, CAPS-certified wording) — not addressed here.
+- Local Hermes checkout is behind `origin/main`; pull before regenerating to avoid conflicts in the 48 city pages.

@@ -132,7 +132,8 @@ class PublicSitePolicyTests(unittest.TestCase):
 
     def test_homepage_describes_current_directory_scope_accurately(self):
         home = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn("35 U.S. cities", home)
+        self.assertIn("48 U.S. cities", home)
+        self.assertNotIn("35 U.S. cities", home)
         self.assertNotIn("across Texas and North Carolina", home)
         self.assertNotIn("Nearly 9 in 10", home)
         self.assertNotIn("Every city page lists", home)
