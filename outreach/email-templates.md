@@ -1,5 +1,8 @@
 # Outreach Email Templates
 
+> **Updated 2026-11-06:** Do not describe listings as "verified" or "vetted", and do not ask for link exchanges. Listings are research leads, not endorsements (see PROJECT_BRIEF.md). Current agency template: offer the city page + a relevant guide as a free resource, ask to be included on their resource list, and offer to describe their program accurately on our city page. Sign as Jaspal Singh.
+
+
 Three short emails (under 120 words each) for different outreach types. Personalize the first line for each target using details from targets.csv. JP sends all emails.
 
 ---
